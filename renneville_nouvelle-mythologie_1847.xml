@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-11-13T19:54:16+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -23,7 +23,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/renneville_nouvelle-mythologie-jeune-age/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/renneville_nouvelle-mythologie_1847/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -51,12 +51,9 @@
     <body>
       <div>
         <head>Introduction.</head>
-        <p rend="image">&lt;insérer image renneville_nouvelle-mythologie-jeune-age_image-000&gt;</p>
-        <p rend="figure">
-          <graphic url="renneville_nouvelle-mythologie-jeune-age_1847-img/image1.png"/>
-          <head/>
-          <figDesc/>
-        </p>
+        <figure>
+          <graphic url="renneville_nouvelle-mythologie_1847-img/renneville_fig1.png"/>
+        </figure>
         <p>La Fable est l’histoire fabuleuse des divinités du paganisme. On lui donne le nom de <hi rend="i">Mythologie</hi>. Ce sont des récits inventés par les anciens en l’honneur des dieux et des héros qu’ils regardaient comme leurs premiers chefs. Une partie de ces récits n’est que la vérité de l’histoire, déguisée par l’amour-propre du merveilleux ; une autre partie est une allégorie des vérités morales des propriétés physiques ; il en est enfin qui ne sont que le jeu de l’imagination des poètes.</p>
         <p>On divinisait les héros, les princes, les grands capitaines qui s’étaient illustrés par des actions héroïques. C’est ainsi que <hi rend="i">Jupiter</hi>, roi de l’île de Crète, qu’on appelle à présent <hi rend="i">Candie</hi>, fut mis au rang des dieux à cause de sa valeur et de sa puissance, qui le faisaient respecter de ses voisins. Ses deux frères, <hi rend="i">Neptune</hi> et <hi rend="i">Pluton</hi>, reçurent les mêmes honneurs. Neptune commandait une armée navale : on l’appela dieu des mers. <hi rend="i">Pluton</hi> fut nommé le Dieu des enfers, parce qu’il avait inventé les funérailles. Ainsi, dans ces siècles d’ignorance, on regardait comme des hommes extraordinaires, divins, ceux qui inventaient des choses pour les commodités et les agrémens de la vie qui savaient la conserver ou la prolonger. C’est ainsi qu’Esculape, médecin célèbre, fut honoré comme un dieu.</p>
         <p>La cour des rois et des princes était regardée comme la demeure des dieux ; le prince bannissait du ciel celui qu’il exilait. Ceux qui s’enfuyaient, ou qui échappaient à de grands périls, on les croyait métamorphosés en oiseaux ; ceux qui se retiraient sur les montagnes ou qui demeuraient cachés dans les bois, on les disait métamorphosés en bêtes.</p>
@@ -113,7 +110,9 @@
           <l>De l’harmonie établit le pouvoir.</l>
           <l>Elle éteignit par ce sublime exorde,</l>
           <l>Le règne obscur de l’affreuse discorde.</l>
-          <bibl><author key="Rousseau"/></bibl>
+          <bibl>
+            <author key="Rousseau"/>
+          </bibl>
         </quote>
         <p>En style vulgaire : Tous les élémens étaient mêlés les uns avec les autres ; le soleil n’éclairait point ; la lune n’avait ni son croissant, ni son décours ; la terre n’était point suspendue au milieu des airs, et la mer était sans rivages. Le froid et le chaud, le sec et l’humide, les corps durs et les corps mous, les pesans et les légers s’entre-choquaient continuellement, lorsqu’un Dieu ou la nature elle-même, termina ces combats, en séparant le ciel d’avec la terre, la terre d’avec les eaux, et l’air le plus pur d’avec l’air le plus grossier. Le chaos ainsi débrouillé, Dieu établit chaque corps dans le lieu qu’il devait occuper : le feu, le plus léger des élémens, eut la région la plus élevée ; l’air fut mis au-dessous du feu ; la terre, toute pesante qu’elle est, trouva son équilibre au milieu de l’univers, et les eaux occupèrent les parties les plus basses. Dieu arrondit ensuite la surface de la terre, et répandit les eaux par-dessus. Il permit aux vents d’agiter les mers ; mais il prescrivit aux flots des bornes qu’ils ne purent passer. Il forma les fontaines, les étangs, les lacs et les fleuves, commanda aux campagnes de s’étendre ; aux arbres de se couvrir de feuilles, aux montagnes de s’élever, aux vallées de s’abaisser. La terre fut partagée en cinq <hi rend="i">zones</hi> ou parties, qui répondaient à celles qui partageaient le ciel. La <hi rend="i">zone</hi> du milieu était inhabitable par ses grandes chaleurs ; celles des deux extrémités, toujours couvertes de neiges et de frimas ; les deux autres tempérées par le mélange du chaud et du froid. Les brouillards, les nuages, les orages se formaient dans la région de l’air ; les vents y avaient leurs routes marquées, sans quoi ils eussent bientôt bouleversé tout l’univers. L’Eurus fit sa demeure dans les pays où se lève l’Aurore ; le Zéphyr, du côté où se couche le soleil, l’Aquilon ou Borée s’empara des climats glacés du septentrion, et l’Auster, ou vent du midi, qui amène les nuages, régna
           dans les parties opposées ; enfin, l’Ether ou l’air le plus subtil devint la matière dont se forma le ciel. Les astres brillèrent dans la voûte céleste sous des formes divines ; les poissons habitèrent les eaux ; les quadrupèdes eurent la terre pour demeure ; les oiseaux voltigeant dans l’air, y firent entendre leur chant harmonieux, il manquait à l’univers un être plus parfait. Prométhée forma l’homme avec un peu de terre qu’il détrempa dons l’eau ; et, au lieu que tous les autres animaux ont la tête penchée vers la terre, l’homme seul la lève vers le ciel. Aussitôt que l’univers fut créé, l’âge d’or commença.</p>
@@ -121,7 +120,6 @@
       <div>
         <head>
           <hi rend="sc">Saturne</hi>
-          <num>.</num>
         </head>
         <p>Le Ciel, le plus ancien des dieux, selon les poètes, eut deux fils : <hi rend="i">Titan</hi> et <hi rend="i">Saturne.</hi> Titan, par droit d’aînesse, devait hériter du royaume ; mais, touché par les représentations de Vesta, sa mère ; il céda ses prétentions à son frère, à condition que Saturne n’élèverait aucun enfant mâle, afin que dans la suite le royaume retourna à la postérité de Titan.</p>
         <p>En conséquence de cet arrangement, Saturne dévorait tous ses enfans mâles aussitôt après leur naissance. Cybèle était au désespoir d’une conduite aussi barbare. Elle mit au monde en même temps Jupiter et Junon ; mais, craignant pour son fils les suites funestes du traité, elle ne montra que Junon. Ayant caché Jupiter avec soin, elle donna, à sa place, au bon Saturne, une pierre emmaillotée qu’il dévora. A la naissance de Neptune et de Pluton, il fit encore deux repas semblables.</p>
@@ -134,8 +132,8 @@
           <l>Ensemença la terre, et la rendit fertile.</l>
           <l>Saturne en fut aimé : ce bonheur, à mon gré,</l>
           <l>Vaut bien, ô mes amis ! l’honneur d’être adoré.</l>
-        <bibl><author>Demoustier</author>.</bibl>
-</quote>
+          <bibl><author>Demoustier</author>.</bibl>
+        </quote>
         <p>C’est apparemment comme le père de l’agriculture, que Saturne est représenté sous la figure d’un vieillard tenant une faux de la main droite.</p>
         <p>Tout le temps que ce Dieu passa en Italie, les bonnes mœurs, la probité, l’innocence et les beaux-arts furent en honneur sur la terre, et il mérita le nom d’âge d’or.</p>
         <quote>
@@ -159,8 +157,8 @@
           <l>Et l’égalité naturelle,</l>
           <l>Mère de l’amitié fidèle,</l>
           <l>Sous ses lois nous unissait tous.</l>
-        <bibl><author>Lamotte</author>.</bibl>
-</quote>
+          <bibl><author>Lamotte</author>.</bibl>
+        </quote>
         <p>Janus, roi d’Italie, nommée alors le <hi rend="i">Latium</hi>, rendit toute sorte de bons offices à Saturne, et lui fit partager son trône. Par reconnaissance, le Dieu doua son bienfaiteur d’une rare prudence, et lui donna la connaissance du passé et de l’avenir ; c’est pourquoi on le représente avec deux visages.</p>
         <p>Janus était un prince qui gouvernait ses peuples avec sagesse, et qui savait régler sa conduite future sur les événemens passés, de sorte qu’il ne hasardait rien dont il pût se repentir : tel est le sens de cette fable.</p>
         <p>Numa Pompilius, successeur de Romulus, et second roi des Romains, fit bâtir en l’honneur de Janus un temple qu’on tenait ouvert pendant la guerre, et fermé pendant la paix ; mais les Romains voulaient se rendre maîtres du monde, et le temple de Janus ne fut fermé que deux fois dans l’espace de sept cents ans.</p>
@@ -171,7 +169,6 @@
       <div>
         <head>
           <hi rend="sc">Cybèle</hi>
-          <num>.</num>
         </head>
         <p>Cybèle, femme de Saturne et fille du Ciel et de la Terre, a plusieurs noms dans les poètes : elle est appelée Dindymène, Bérécynthe et Idée ; ces noms sont tirés de trois montagnes de Phrygie : Dindyme, Bérécynthe et Ida, où elle était aussi appelée la <hi rend="i">Grand’mère</hi>, parce qu’elle est la mère de la plupart des dieux et surtout des dieux du premier ordre. On la nommait aussi <hi rend="i">Ops</hi> et <hi rend="i">Tellus : Tellus</hi> veut dire <hi rend="i">la terre</hi> ; parce que, comme Saturne avait présidé au ciel, de même elle présidait à la terre, et procurait toutes sortes de secours aux mortels ; car <hi rend="i">Ops</hi> signifie <hi rend="i">secours, richesses</hi>.</p>
         <quote>
@@ -179,8 +176,8 @@
           <l>Cybèle, à pleines mains (<hi rend="i">nous</hi>) répand ses richesses,</l>
           <l>De ses bienfaits nouveaux nos arbres sont parés,</l>
           <l>D’une herbe verdoyante elle couvre nos prés.</l>
-        <bibl><author>Rousseau</author>.</bibl>
-</quote>
+          <bibl><author>Rousseau</author>.</bibl>
+        </quote>
         <p>Cybèle eut aussi le nom de <hi rend="i">Rhea</hi>, du mot grec <hi rend="i">rheo</hi>, qui signifie <hi rend="i">couler</hi>, parce que c’est de la terre que toutes choses proviennent. On représente ordinairement cette déesse assise, pour montrer la stabilité de la terre, portant un disque ou un tambour, symbole des vents qu’elle renferme : on lui donnait une couronne en forme de tour ; elle était entourée d’arbres et d’un nombre d’animaux de différentes espèces.</p>
         <p>On nommait les fêtes de Cybèle <hi rend="i">Megalesia</hi>, et ses prêtres <hi rend="i">Galli</hi>, à cause d’un certain fleuve de Phrygie de même nom. On prétend que dès qu’ils avaient bu de l’eau de ce fleuve, ils entraient en fureur jusqu’à se déchirer à coups de couteaux ; ils tournaient la tête en rond, en avançant les uns contre les autres, et se heurtaient comme des béliers. Le nom de <hi rend="i">Curètes</hi> vient, dit-on, de l’île de Crète, où ils avaient élevé Jupiter. On les nommait aussi <hi rend="i">Dactyles</hi>, parce que, pour empêcher que Saturne n’entendit les cris de Jupiter, que Cybèle leur avait confié, ils chantaient des vers de leur invention, dont les mesures inégales imitaient les temps du pied nommé par les latins <hi rend="i">dactyle</hi> ; ou, selon d’autres, du mot grec qui signifie un <hi rend="i">doigt</hi> ; parce qu’au commencement ils étaient dix. Ces prêtres célébraient les fêtes de Cybèle avec des cris confus, au bruit des tambours, des fifres, des flûtes et d’autres pareils instrumens. A Rome, les fêtes de Cybèle étaient célébrées par les dames romaines dans un temple qui était en un lieu retiré, qu’on appelait <hi rend="i">Opertum</hi>, c’est-à-dire, <hi rend="i">lieu caché</hi> ; il n’était pas permis aux hommes d’y entrer.</p>
         <p>On nommait aussi la déesse Cybèle <hi rend="i">Vesta</hi>. Cependant Vesta est le nom de la mère de Saturne, et non pas celui de sa femme ; c’est pourquoi quelques savans croient qu’il y a eu deux Vesta : l’une, femme du Ciel et mère de Saturne ; et l’autre, moins ancienne et fille de Saturne ; et que l’ancienne Vesta est la même que Cybèle et la Terre. Le culte de l’une et de l’autre est à peu près le même ; on les représente cependant d’une manière différente.</p>
@@ -206,8 +203,8 @@
           <l>        Zéphyre, du bout de ses ailes,</l>
           <l>Découvre, en souriant, une des deux mamelles</l>
           <l>        Qui nourrissent le genre humain.</l>
-        <bibl><author>Demoustier</author>.</bibl>
-</quote>
+          <bibl><author>Demoustier</author>.</bibl>
+        </quote>
         <p>Lorsque les Romains firent venir de Phrygie la <title>statue de Cybèle</title>, le vaisseau qui l’apportait s’arrêta à l’embouchure du Tibre, sans qu’on pût le faire avancer. Alors Claudia, celle des Vestales dont la réputation était la plus équivoque, saisit cette occasion de prouver sa vertu : elle fit sa prière tout haut à la déesse, et, ayant attaché sa ceinture au vaisseau, elle le fit avancer sans résistance.</p>
         <p>Comme l’ancienne Vesta présidait à la terre, la plus jeune présidait au feu. Numa Pompilius, second roi de Rome, quoiqu’il fût originaire du pays des Sabins, institua un grand nombre de cérémonies pour honorer la déesse Vesta. Pour mieux établir son culte, il consacra un autel où des vierges, nommées <hi rend="i">Vestales</hi>, devaient entretenir un feu perpétuel. On regardait comme un grand malheur si ce feu venait à s’éteindre, et on interrompait tous les exercices publics, jusqu’à ce qu’on eût expié cette faute. C’était l’usage de renouveler ce feu tous les ans aux calendes de mars ; on le rallumait aux rayons du soleil. Les Vestales qui manquaient au vœu de virginité, étaient enterrées toutes vives. Ces vierges romaines étaient dix ans à apprendre les fonctions de leur ministère, dix ans en exercice, et dix ans à instruire les novices ; ensuite elles étaient libres de se marier. On choisissait les Vestales dans les plus illustres maisons de Rome ; on les prenait dès l’âge de six à dix ans.</p>
       </div>
@@ -229,7 +226,6 @@
       <div>
         <head>
           <hi rend="sc">Le dieu Terme</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Terme</hi> était un des plus anciens des dieux chez les Romains. Il marquait les limites des champs ; c’est pourquoi on y mettait sa <title>statue</title>. Elle consistait d’abord en une pierre carrée, ou un tronc d’arbre ; dans la suite, on lui donna une forme humaine, c’est-à-dire, une tête d’homme placée sur une borne pyramidale, sans bras et sans pieds, afin disait-on, qu’il ne pût changer de lieu. On prétend que, lorsqu’on voulut bâtir un temple à Jupiter sur le mont Capitole, tous les dieux cédèrent la place, et qu’il n’y eut que le Dieu Terme qui tint bon contre tous les efforts que l’on fit pour l’enlever.</p>
         <p>Numa Pompilius, qui, dans l’intérêt du bien public, imagina <title>le dieu Terme, lui bâtit un temple sur le mont Tarpéien</title>, et fit de son culte un des principaux points de sa religion, pour mettre un frein plus puissant que les lois à la cupidité des hommes, qui, brillant du désir de s’agrandir, avaient besoin d’être contenus dans les bornes de leurs possessions par quelque chose de saint et de sacré, qu’ils n’osassent et ne pussent violer. Lorsque le Dieu Terme était placé, personne ne pouvait y toucher, ni le changer de place ; ceux qui avaient la hardiesse de contrevenir à cette loi étaient dévoués aux furies, et il était permis de les tuer.</p>
@@ -244,14 +240,15 @@
           <l>        Crie aussitôt comme un beau diable :</l>
           <l>Halte-là ! mon voisin, voisin insatiable ;</l>
           <l>        C’est-là ton champ, et c’est ici le mien.</l>
-          <bibl><author key="Ovide"/></bibl>
+          <bibl>
+            <author key="Ovide"/>
+          </bibl>
         </quote>
         <p>Avant qu’on eût inventé ce dieu, on invoquait Jupiter comme protecteur des limites ; c’est pourquoi on l’a surnommé <hi rend="i">Terminalis</hi> ; et alors il était représenté sous la figure d’une pierre.</p>
       </div>
       <div>
         <head>
           <hi rend="sc">Jupiter</hi>
-          <num>.</num>
         </head>
         <p>Jupiter était fils de Saturne et de Cybèle. Ayant chassé son père du ciel, il se rendit maître de l’empire du monde, qu’il partagea avec ses deux frères Neptune et Pluton. Le premier eut la mer ; les enfers échurent au second, et Jupiter se réserva le ciel.</p>
         <p>Dès le commencement de son règne, Jupiter se vit troublé dans sa domination. Titan, au désespoir de ce que le gouvernement du monde passait aux enfans de Saturne, son frère, suscita les Géans contre l’usurpateur. Ces enfans de la terre étaient des hommes d’une grandeur et d’une force prodigieuse. Ils entassèrent rocher sur rocher et escaladèrent le ciel ; mais Jupiter les terrassa à coups de foudre, et les précipita dans les abîmes où ils sont accablés sous de grosses montagnes. Les plus fameux étaient Encelade, qui lançait des rochers entiers ; Briarée, qui avait cent bras ; et Typhon, demi-homme et demi-serpent, qui, de sa tête atteignait le ciel. La vue de ce monstre épouvanta tellement les dieux qui étaient accourus au secours de Jupiter, qu’ils s’enfuirent en Egypte, où ils se transformèrent en arbres et en animaux. Ce fut peut-être ce qui donna lieu à l’idolâtrie des Egyptiens, qui adoraient les plantes et les bêtes. Ces dieux poltrons, pour ne pas être reconnus par leurs ennemis, se changèrent</p>
@@ -267,8 +264,8 @@
           <l>Nager incognito sous son onde tranquille,</l>
           <l>   Croître, fleurir au milieu des vergers,</l>
           <l>   Et, tous les ans, peupler son potager.</l>
-        <bibl><author>Demoustier</author>.</bibl>
-</quote>
+          <bibl><author>Demoustier</author>.</bibl>
+        </quote>
         <p>Quitte des combats, Jupiter eut d’autres soucis. <hi rend="i">Prométhée</hi>, fils de Japhet, l’un des Titans, ayant fait quelques statues d’hommes, déroba le feu du ciel pour les animer. Cette hardiesse irrita tellement Jupiter, qu’il le fit attacher par Vulcain sur le mont Caucase, où un vautour lui rongeait le foie, qui, en renaissant chaque jour, éternisait son supplice.</p>
         <p>Prométhée inventa l’art de faire des statues, et se livrait à l’étude de l’astronomie. On fait entendre par cette fable qu’il donnait, pour ainsi dire, une âme à ses statues, et qu’il contemplait les astres avec une application extraordinaire.</p>
         <p>Le supplice de Prométhée parut trop sévère aux autres dieux. Ils virent avec douleur que Jupiter voulait s’attribuer le droit de former les hommes ; c’est pourquoi, de concert entre eux, ils formèrent une femme. Pallas lui donna la sagesse ; Vénus, la beauté ; Apollon, la connaissance de la musique ; Mercure, l’éloquence : de là vint le nom de <hi rend="i">Pandore</hi>, qui signifie <hi rend="i">tout don</hi>. Cette entreprise des dieux déplut à Jupiter. Pour tromper leur espérance et en empêcher l’effet, il donna à Pandore une boîte, avec ordre de la porter à Prométhée ; mais Epiméthée, son frère, l’ayant ouverte imprudemment, tous les maux qui affligent et tourmentent les hommes, sortirent de la boîte fatale et se répandirent sur la terre. Il n’y resta que la seule espérance ; mais cette ressource n’est pas infaillible : car les hommes sont souvent trompés dans leurs désirs. Telle fut l’origine du siècle de fer.</p>
@@ -297,16 +294,16 @@
           <l>De ce revers l’histoire aventurée,</l>
           <l>N’en doutons point, la curiosité</l>
           <l>Fut le canal de notre adversité.</l>
-        <bibl><author>Rousseau</author>.</bibl>
-</quote>
+          <bibl><author>Rousseau</author>.</bibl>
+        </quote>
         <p>Jupiter se fit adorer par la douceur de son règne. Alors commença le siècle qui succéda au siècle d’or, c’est-à-dire, que la vertu régnait encore sur la terre, mais avec moins d’empire qu’au siècle précédent.</p>
         <quote>
           <l>De la vertu le second âge</l>
           <l>Fut appelé l’âge d’argent :</l>
           <l>Mais, dès cette époque, on prétend</l>
           <l>Qu’il s’y glissa de l’alliage.</l>
-        <bibl><author>Demoustier</author>.</bibl>
-</quote>
+          <bibl><author>Demoustier</author>.</bibl>
+        </quote>
         <p>En effet, le crime commençait à paraître, et Jupiter fut obligé de le punir d’une manière terrible dans la personne de <hi rend="i">Lycaon</hi>, roi d’Arcadie. Ce prince cruel faisait mourir tous ceux qui passaient par ses états. Jupiter alla loger chez lui. Lycaon affecta de ne le pas connaître ; et, bravant sa puissance, il lui fit servir les membres d’un de ses hôtes qu’il avait mis à mort. Jupiter, irrité, foudroya la maison de ce prince et le changea en loup. C’est sans doute à cette occasion que Jupiter fut adoré sous le nom de Jupiter hospitalier, comme ayant vengé l’hospitalité.</p>
         <p>On l’appelait aussi <hi rend="i">Dici Pater</hi>, le père du jour ; <hi rend="i">Stator</hi>, en mémoire de ce qu’il avait arrêté les premiers Romains fuyant devant les Sabins. Le titre qu’on lui donnait plus ordinairement était celui d’<hi rend="i">Olympien</hi>, parce qu’on croyait qu’il se plaisait beaucoup sur le mont Olympe. En Afrique, on l’honorait sous le nom de <hi rend="i">Jupiter Ammon</hi> ; voici pourquoi : Bacchus s’étant égaré dans les vastes déserts de la Lybie, et, mourant de soif, s’adressa à Jupiter, qui vint à son secours sous la forme d’un bélier, qui, en frappent la terre de son pied, lui découvrit une source. En reconnaissance, Bacchus lui consacra <title>un temple sous le nom de Jupiter Ammon</title>, mot grec qui signifie arène ou sable, à cause des sables qui sont dans cette contrée.</p>
         <p><author>Homère</author> dépeint Jupiter avec des sourcils noirs, le front couvert de nuages, la foudre à la main, et l’aigle à ses pieds. Le respect et l’équité siégent à ses côtés, et devant lui sont les deux coupes du bien et du mal, qu’il répand à son gré sur les hommes. Virgile décrit ainsi la foudre dans son <title>Enéide</title> : <quote>« Les Cyclopes étaient occupés à finir pour Jupiter une de ces foudres qu’il lance en grand nombre sur la terre. La foudre était composée de trois rayons de grêle, de trois rayons de pluie et de trois autres de feu, enfin de trois rayons de vents. On s’occupait alors à y mêler des éclairs, de la frayeur, du bruit et de la colère. »<bibl><author key="Virgile"/></bibl></quote> Quant à l’aigle de Jupiter, voici ce qu’on raconte : Périphas, roi d’Athènes, se fit tellement aimer de son peuple, qu’il en fut adoré comme Jupiter, ce qui irrita si fort le maître des dieux, qu’il voulut le foudroyer ; mais, par compassion, il se contenta de le changer en aigle : c’est lui qui servait de voiture à Jupiter quand il traversait les airs, et qui portait ses foudres.</p>
@@ -336,7 +333,9 @@
           <l>Qu’il est déjà temps de finir ;</l>
           <l>Et bientôt de son existence</l>
           <l>Il n’a plus que le souvenir.</l>
-          <bibl><author key="anonime"/></bibl>
+          <bibl>
+            <author key="anonime"/>
+          </bibl>
         </quote>
         <p>Milon, dans un âge avancé, se promenant dans une forêt, aperçut un arbre qui avait commencé à s’éclater. L’athlète se rappelle son ancienne vigueur ; il veut fendre l’arbre qui s’entrouvre à la première secousse, puis se referme ; le bras de Milon s’y trouva pris, et tons les efforts de cet homme autrefois si fameux ne purent le dégager, dans cet état, il devint la proie des loups. On admire dans les jardins de Versailles une <title>statue de cet athlète</title> par le célèbre <author>Pujet</author> ; l’artiste a trouvé plus noble de le faire dévorer par un lion.</p>
         <p>Polydamas, son rival et son ami, périt comme lui victime de sa témérité. Cet athlète, fils de Nicias, de Scotuse en Thessalie, avait une taille gigantesque et une force extraordinaire. Etant jeune, il attaqua sur le mont Olympe un lion énorme qui désolait le pays, et le tua. Une autre fois, il saisit un des plus fiers taureaux par les deux pieds de derrière ; il le serra si fort que l’animal ne put lui échapper. Il arrêtait d’une seule main un chariot attelé de plusieurs chevaux. Darius, fils d’Artaxercès, fut curieux d’être témoin de sa force ; il lui mit en tête trois des plus forts de ses gardes ; Polydamas les tua chacun d’un coup de poing. Un jour qu’il était à table dans une grotte, elle s’éboula en partie ; ses amis se sauvèrent, mais s’étant opiniâtré à soutenir à force de bras la voûte de cette grotte, il fut étouffé sous l’éboulement.</p>
@@ -345,7 +344,6 @@
       <div>
         <head>
           <hi rend="sc">Junon</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Junon</hi>, fille de Saturne et de Cybèle, était sœur de Jupiter et devint sa femme. Elle eut trois enfans : Hébé, Mars et Vulcain. Hébé, déesse de la jeunesse, versait le nectar à Jupiter, avant que, sous la forme de l’aigle, ce dieu n’eût enlevé Ganymède, fils de Tros, troisième roi de Troyes, pour en faire son échanson. Junon conçut Hébé après avoir mangé un plat de laitues sauvages ; Mars, par le simple attouchement d’une fleur, et Vulcain par la seule respiration de l’air. Mais Vulcain était si difforme, qu’au moment de sa naissance, Jupiter, d’un coup de pied, le précipita du ciel.</p>
         <p>Junon ayant pris parti contre son mari dans la guerre des Géans, Jupiter la suspendit en l’air par le moyen de deux pierres d’aimant, et lui fit attacher sous les deux pieds deux enclumes, après lui avoir lié les mains derrière le dos avec une chaîne d’or. Vulcain fut chargé de cette commission, qu’il exécuta avec plaisir, par vengeance de ce que Junon l’avait mis au monde tout contrefait. Les dieux ne purent dégager la déesse de ses entraves, il fallut avoir recours à celui qui les avait forgées.</p>
@@ -362,7 +360,6 @@
       <div>
         <head>
           <hi rend="sc">Vulcain</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Vulcain</hi>, fils de Junon, repoussé si impoliment du ciel à sa naissance, tomba dans la mer. Il en fut quitte pour une cuisse cassée. Les nymphes de l’Océan le reçurent. Malgré leurs soins, il resta boiteux de sa chute.</p>
         <p>Etant devenu grand, il se fit forgeron, et travailla pour le service des dieux. Lorsqu’il fut assez habile, Jupiter lui donna la commission de forger les foudres. Son laboratoire était dans les îles de Lemnos et de Lipare, qu’on nomma Vulcanies, puis Eolies, aussi bien que dans les cavernes du mont Etna. Il avait pour compagnons les Cyclopes, ainsi nommés, parce qu’ils n’avaient qu’un œil au milieu du front. Les Cyclopes, fils du Ciel et de la Terre, et, selon d’autres, de Neptune et d’Amphitrite, soulevaient sans cesse de lourds marteaux, et l’Etna retentissait de leurs coups redoublés.</p>
@@ -379,8 +376,8 @@
           <l>    Que mille dards en soient formés ;</l>
           <l>    Que, sous nos marteaux enflammés,</l>
           <l>    A grand bruit l’enclume résonne.</l>
-        <bibl><author>Rousseau</author>.</bibl>
-</quote>
+          <bibl><author>Rousseau</author>.</bibl>
+        </quote>
         <p>On institua des fêtes en l’honneur de Vulcain ; les Athéniens les célébraient avec beaucoup de pompe. Ils établirent des courses, appelées <hi rend="i">Lampadophories</hi> du mot <hi rend="i">Lampadophore</hi>, qui signifie porte-flambeau ; ces courses étaient une espèce de joute.</p>
         <p>On représente quelquefois Vulcain appuyé sur une enclume, et ayant à ses pieds l’aigle de Jupiter, prêt à porter la foudre. Dans les anciens monumens, il paraît barbu, les cheveux négligés, en habit court, tenant de la main droite un marteau, et de la gauche des tenailles.</p>
         <p><title>Le plus ancien des temples élevés en son honneur était à Memphis, et le plus célèbre sur le mont Etna</title>. Il fallait, pour approcher de celui-ci, être chaste et pur. La garde du sanctuaire était confiée à des chiens, qui, par un instinct miraculeux, caressaient les gens de bien et dévoraient les hypocrites.</p>
@@ -388,7 +385,6 @@
       <div>
         <head>
           <hi rend="sc">Mars</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Mars</hi>, dieu de la guerre, était fils de Junon seule. Cette déesse, jalouse de ce que Jupiter avait fait sortir Pallas de son cerveau, voulut aussi devenir mère par sa propre puissance : elle alla en chercher les moyens en Orient. Fatiguée de la route, la déesse se reposa près du temple de Flore, qui, instruite des motifs de son voyage, lui indiqua une fleur dont la seule respiration devait opérer le prodige qu’elle désirait. C’est ainsi que Mars vit le jour.</p>
         <p>Les inclinations guerrières de ce dieu le rendirent célèbre. Il se trouva à la guerre que l’Olympe eut à soutenir contre les Titans ; mais étant resté presque seul, les Géans Otus et Ephialte le surprirent, et l’enfermèrent dans un cachot d’airain. Il périssait d’ennui dans sa prison, lorsque Mercure, instruit de son sort par la belle Héribée, l’arracha des mains de ses persécuteurs.</p>
@@ -432,14 +428,12 @@
       <div>
         <head>
           <hi rend="sc">Bellone</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Bellone</hi>, fille de Phorcys et de Céto, était, selon quelques-uns, sœur de Mars, et, selon d’autres, sa femme. On la regardait comme la déesse de la guerre. C’était elle qui préparait à Mars son char et ses chevaux lorsqu’il allait à la guerre. On la représente, le casque en tête, tenant un fléau ou une verge teinte de sang : quelquefois elle tient une torche, et paraît, les cheveux épars, le feu dans les yeux, excitant les guerriers au carnage. Bellone avait un temple et elle était honorée à Comane.</p>
       </div>
       <div>
         <head>
           <hi rend="sc">Minerve ou Pallas</hi>
-          <num>.</num>
         </head>
         <p>Les uns distinguent <hi rend="i">Pallas</hi> de <hi rend="i">Minerve</hi>, les autres la confondent avec elle. Quoiqu’il en soit, les poètes rapportent que Jupiter éprouvant un grand mal de tête, eut recours à Vulcain, qui lui fendit le crâne d’un coup de hache, d’où Pallas sortit tout armée, le casque en tête et la lance à la main.</p>
         <p>L’idée de cette génération toute poétique semble être prise des <title>livres saints</title>, où la Sagesse dit qu’elle est sortie de la tête du Très-Haut avant toute créature.</p>
@@ -455,8 +449,8 @@
           <l>Au lieu que par l’homme conduite,</l>
           <l>Elle ne va plus qu’à sa suite,</l>
           <l>Elle se précipite après lui.</l>
-        <bibl><author>Rousseau</author>.</bibl>
-</quote>
+          <bibl><author>Rousseau</author>.</bibl>
+        </quote>
         <p>Minerve eut, dit-on, un différend avec Neptune, au sujet du nom qu’il fallait donner à la ville d’Athènes. Les douze grands dieux, devenus arbitres, décidèrent que celui des deux qui produirait la chose la plus utile à la ville, lui donnerait son nom. Neptune frappa la terre de son trident, et il en sortit un cheval ; Minerve lui fit produire un olivier. La déesse remporta les suffrages ; parce que la paix, dont l’olivier est le symbole, vaut mieux que la guerre, dont le cheval est l’emblème.</p>
         <p>Minerve, ainsi que Vesta, présidait à la virginité. On lui consacrait l’olivier, parce que les sciences et les arts animent la paix. On représente cette déesse ayant sur la tête un casque surmonté d’une chouette, tenant d’une main une pique, et l’égide de l’autre ; c’était un bouclier couvert de la peau d’un monstre nommé <hi rend="i">Égide</hi>, qui vomissait des tourbillons de flammes. Dans la suite, la déesse y fit graver la tête de Méduse.</p>
         <div>
@@ -471,7 +465,6 @@
       <div>
         <head>
           <hi rend="sc">Apollon</hi>
-          <num>.</num>
         </head>
         <p>Jupiter ayant rencontré Latone, fille de Cœus et de Phébé, en devint amoureux, et il en eut Apollon et Diane.</p>
         <p>Furieuse de cette nouvelle infidélité, Junon suscita contre sa rivale un serpent effroyable, nommé Python. Ce monstre s’était formé du limon resté sur la terre après le déluge, Junon fit plus, elle pria la terre de de ne point donner retraite à Latone ; la terre s’y engagea : l’infortunée fut contrainte de chercher un asile à <hi rend="i">Délos</hi>, dans l’Archipel. Cette île était alors flottante, et bien avant dans la mer, où elle paraissait abîmée ; Neptune, plein de compassion pour les malheurs de Latone, fit surnager l’île et la rendit stable.</p>
@@ -481,8 +474,8 @@
           <l>Ses deux enfans étaient entre ses bras,</l>
           <l>Ce doux fardeau ne la fatiguait pas :</l>
           <l>On devient forte alors qu’on devient mère.</l>
-        <bibl><author>Demoustier</author>.</bibl>
-</quote>
+          <bibl><author>Demoustier</author>.</bibl>
+        </quote>
         <div>
           <head>Les Lyciens changés en grenouilles.</head>
           <p>Pour se soustraire aux fureurs jalouses de Junon, Latone précipita sa marche. Arrivée en Lycie, et passant près d’un marais, elle pria des paysans qui travaillaient à la terre de lui donner un peu d’eau pour apaiser sa soif ; mais ces paysans, loin de lui rendre ce service, troublèrent l’eau pour l’empêcher d’en boire. Dans son dépit, Latone se plaignit à Jupiter, qui, pour punir ces Lyciens, les métamorphosa en grenouilles.</p>
@@ -490,7 +483,6 @@
         <div>
           <head>
             <hi rend="sc">Niobé</hi>
-            <num>.</num>
           </head>
           <p>Echappée à la colère de Junon, Latone élevait paisiblement Apollon et Diane. Fière de reconnaître en eux le sang du maître du tonnerre, elle préférait ses enfans à ceux des princes voisins. Niobé, fille de Tantale et femme d’Amphion, roi de Thèbes, avait pour sa famille la même faiblesse que Latone ; orgueilleuse du grand nombre de ses enfans, autant que de ses richesses, elle osa se préférer à Latone. Celle-ci, choquée de ses mépris, chargea Apollon et Diane d’en tirer vengeance. Partageant l’outrage fait à leur mère, ils pénétrèrent dans le palais de Niobé, et tuèrent sous ses yeux, à coups de flèches, ses fils, ses filles et son époux. Ils n’épargnèrent que la seule Cloris ; mais elle mourut de douleur en voyant la destruction de sa famille, victime, selon toute apparence, de la peste qui ravagea la ville de Thèbes. Niobé, succombant à son affliction, fut changée en marbre ; sur lequel on voit encore couler des larmes, c’est-à-dire, que l’excès des maux de cette reine la rendit insensible à tout, et qu’elle resta comme pétrifiée.</p>
           <p>Dès son enfance, Apollon fut reçu dans le ciel, où il devint le Dieu de la lumière, sous le nom de <hi rend="i">Phébus.</hi> Il est aussi le dieu des arts ; et c’est par cette raison que la fable nous le représente sous la figure d’un jeune homme sans barbe.</p>
@@ -499,8 +491,8 @@
             <l>Malgré le temps, a conservé les traits ;</l>
             <l>Les rois, les dieux, ont connu la vieillesse :</l>
             <l>Les talens seuls ne vieillissent jamais.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>Apollon banni du ciel.</head>
@@ -512,50 +504,51 @@
             <l>L’ingénieux pasteur, dans le sein de l’étude,</l>
             <l>Fit éclore les Arts : ces frères de l’Amour</l>
             <l>Sont enfans du Loisir et de la Solitude.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">Admète</hi>
-            <num>.</num>
           </head>
           <p>Apollon, satisfait des bons traitemens du roi <hi rend="i">Admète</hi>, obtint des Parques que ce prince pût s’exempter de la mort, en substituant un autre à sa place. <hi rend="i">Alceste</hi>, sa femme, s’offrit volontairement, et mourut pour lui ; mais Hercule la ramena des enfers. Cette fable qui nous présente un des plus grands exemples de l’amour conjugal, est racontée par quelques poètes d’une manière différente : Admète étant tombé dangereusement malade, Alceste, sa femme, alla consulter l’oracle, qui répondit que le roi mourrait, à moins que quelqu’un ne consentit à descendre pour lui au tombeau. Les amis du prince, ses proches, son père et sa mère, qui étaient très-vieux, ses sujets, personne enfin ne voulut se dévouer pour lui : Alceste seule eut le courage de s’offrir pour sauver les jours de son époux, et la mort dévora sa proie. Hercule arriva en Thessalie dans le temps même qu’Alceste venait de se sacrifier ; malgré sa vive douleur, Admète le reçut très-bien, et lui rendit tous les devoirs de l’hospitalité. Par reconnaissance, Hercule descendit aux enfers, d’où il ramena Alceste, qu’il rendit à son époux.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Daphné</hi>
-            <num>.</num>
           </head>
           <p>Pendant son exil, Apollon vit <hi rend="i">Daphné</hi>, fille du fleuve Pénée : il la trouva belle et le lui dit ; mais Daphné, sans vouloir l’entendre, se mit à fuir de toutes ses forces. Comme Apollon qui la poursuivait était près de l’atteindre, la nymphe tombant de lassitude, appela son père à son secours ; aussitôt elle fut métamorphosée en laurier. Le dieu n’embrassant plus qu’un arbre insensible, en détacha un rameau dont il se fit une couronne, qu’il porta toujours ; il voulut que le laurier lui fût consacré, qu’il servît de prix au talent, et devînt la récompense des poètes.</p>
           <quote>
             <l>Aux plus savans auteurs comme aux plus grands guerriers,</l>
             <l>Apollon ne promet qu’un nom et des lauriers.</l>
-            <bibl><author key="anonime"/></bibl></quote>
+            <bibl>
+              <author key="anonime"/>
+            </bibl>
+          </quote>
           <p>Cet arbre, qui ne perd jamais sa verdure, est le symbole de l’immortalité. <author>Pline</author> dit que le laurier seul avait le privilége de ne pas craindre la foudre, et de servir d’ornement et de sentinelle au palais des Césars. C’est par allusion à cette croyance qu’on lit dans Corneille.</p>
           <quote>
             <l>Tout couvert de lauriers, ne craignez pas la foudre.</l>
-            <bibl><author key="Corneille"/></bibl></quote>
+            <bibl>
+              <author key="Corneille"/>
+            </bibl>
+          </quote>
           <p>On assure que Tibère mettait sur sa tête une couronne de laurier quand il tonnait. Cette fable n’a d’autre fondement que le nom de <hi rend="i">Daphné</hi>, qui, en grec, signifie laurier.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Hyacinthe</hi>
-            <num>.</num>
           </head>
           <p>Apollon ne fut pas plus heureux dans son amitié pour <hi rend="i">Hyacinthe</hi> que dans son amour pour Daphné. Zéphyre, qui n’avait pas moins de tendresse que lui pour cet enfant, fut si piqué de le voir jouer au palais avec Apollon, qu’avec son haleine, il dirigea le disque de ce dieu sur la tête d’Hyacinthe, et le tua. Le sang qui sortit de sa blessure produisit la fleur qui porte son nom, et qui naît à la fin de l’hiver. Poursuivi par les parens d’Hyacinthe, Apollon se vit forcé, pour se soustraire à leur vengeance, de fuir jusque dans la Troade, où, de berger, il devint maçon.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Perséis</hi>
-            <num>.</num>
           </head>
           <p>Ne pouvant vivre sans aimer, bientôt Apollon soupira pour la nymphe <hi rend="i">Perséis</hi>. Elle était fille de l’Océan, c’est-à-dire, qu’on ne connaissait point son père. Les généalogistes de ce temps-là faisaient descendre de la mer ou des fleuves, les héros et les nymphes dont l’origine était inconnue. Perséis ne fut pas insensible à l’amour du jeune dieu, et elle devint mère de la célèbre Circé.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Cyparisse</hi>
-            <num>.</num>
           </head>
           <p>Dans le même temps, Apollon donna à <hi rend="i">Cyparisse</hi> la place qu’Hyacinthe occupait autrefois dans son cœur, et la mort le lui enleva. Cyparisse aimait tendrement un cerf qu’il avait élevé. Un jour, vers le soir, voulant écarter quelque bête sauvage, il prend son arc et ses flèches, le trait part, et va frapper le jeune cerf errant dans la campagne. Cyparisse, désespéré, voulait se laisser mourir ; mais Apollon, ému de pitié le changea en Cyprès. <hi rend="i">Cyparisse</hi>, mot grec, signifie cyprès. Dans la suite, on porta cet arbre dans les pompes funèbres ; il fut consacré aux morts, sans doute parce qu’il est sans feuilles, et qu’il ne présente que des idées, lugubres.</p>
         </div>
@@ -568,13 +561,14 @@
             <l>Arrosa d’une main qui gagna des batailles,</l>
             <l>Souviens-toi qu’Apollon a bâti des murailles,</l>
             <l>Et ne t’étonne pas de voir Mars jardinier.</l>
-            <bibl><author key="mademoiselle Scudéri"/></bibl>
+            <bibl>
+              <author key="mademoiselle Scudéri"/>
+            </bibl>
           </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">Hésione</hi>
-            <num>.</num>
           </head>
           <p>Laomédon cherchant à faire cesser d’aussi grands malheurs, consulta l’oracle : on lui répondit qu’il devait apaiser les dieux en exposant, chaque année, une fille troyenne sur une montagne, pour y être dévorée par des monstres marins. Une fois, le sort tomba sur <hi rend="i">Hésione</hi>, sa fille, et elle fut exposée. Hercule s’offrit de la sauver, à condition que Laomédon lui donnerait les deux plus beaux chevaux de son écurie : le roi y consentit ; mais, lorsque sa fille fut délivrée et les monstres détruits, il renvoya Hercule sans récompense, ajoutant encore l’ironie à cette action perfide. Outré de fureur, Hercule tua le roi, mit la ville à feu et à sang, et emmena prisonnier Priam, fils de Laomédon.</p>
         </div>
@@ -615,7 +609,6 @@
         <div>
           <head>
             <hi rend="sc">Orion</hi>
-            <num>.</num>
           </head>
           <p>Rien de réel dans l’histoire des métamorphoses : tout y est symbolique et merveilleux. Voici entre autres choses ce que la fable nous apprend d’<hi rend="i">Orion.</hi> Fils des dieux, il naquit sans mère. Jupiter, Neptune et Mercure étant en voyage, allèrent loger chez Œnopeus, homme fort pauvre, qui les reçut très-bien ; il tua le seul bœuf qu’il avait, et le leur donna à manger. Jupiter, charmé du bon cœur de cet homme, l’assura qu’il était prêt à lui accorder ce qu’il souhaiterait le plus. Œnopeus dit qu’il désirait ardemment être père sans prendre de femme. Il obtint cette faveur : les dieux firent naître Orion dans la peau du bœuf dont leur hôte les avait régalés. Cet Orion était célèbre par son amour pour la chasse et pour l’astronomie ; il apporta en Grèce la connaissance des astres et du mouvement des cieux ; il l’y enseigna. A sa mort, on prétendit, qu’ayant été blessé dans les bois par un serpent, Diane, dont il était le garde-chasse, l’avait placé au ciel et changé en serpent, pour reconnaître les services qu’il lui avait rendus en la suivant sur les montagnes et dans les forêts. Le signe d’Orion est l’avant-coureur de la pluie. Selon quelques poètes, ce chasseur était un très-bel homme ; il avait une taille si avantageuse qu’on en avait fait un géant.</p>
         </div>
@@ -626,19 +619,17 @@
         <div>
           <head>
             <hi rend="sc">Esculape</hi>
-            <num>.</num>
           </head>
           <p>Apollon eut plusieurs enfans. Les plus remarquables sont Esculape, l’Aurore que d’autres lui donnent pour sœur, Phaéton, Aétès, Pasiphaé, Circé.</p>
           <p><hi rend="i">Esculape</hi>, fils d’Apollon et de la nymphe Caronis, fut mis de bonne heure entre les mains du centaure Chiron qui lui donna la connaissance des simples. Esculape fit de si grands progrès dans cette science, que, dans la suite, il fut regardé et honoré comme le dieu de la médecine.</p>
           <p>Ayant rendu la vie au malheureux Hippolite par la force et la bonté de ses remèdes, Pluton irrité s’en plaignit à Jupiter qui le foudroya ; mais le maître des dieux voulant consoler Apollon de la perte de son fils qu’il regrettait vivement, reçut Esculape dans le ciel. Apollon en fit un astre nommé Ophieus ou Serpentaire.</p>
           <p>Esculape laissa deux fils, <hi rend="i">Mochaon</hi> et <hi rend="i">Podalire</hi>, qui suivirent les Grecs à la guerre de Troyes. Les plus habiles médecins de l’antiquité passaient aussi pour ses fils. <title>Esculape fut particulièrement honoré à Epidaure, ville du Péloponèse, lieu de sa naissance, ou on lui éleva un temple magnifique</title>. Il y était représenté assis sur un trône, tenant d’une main un bâton, et appuyant l’autre sur la tête d’un serpent, avec un chien couché à ses pieds.</p>
-          <p>L’an 462 de la fondation de Rome, cette ville fut affligée de la peste : Esculape d’Epidaure fit cesser ce fléau. Valère Maxime raconte ainsi de quelle manière ce dieu favorisa les Romains de sa présence : <quote>« La peste, dit-il, faisait à Rome des ravages affreux ; le sénat députa un ambassadeur vers Apollon à Delphes, pour le prier de faire cesser la contagion. Apollon renvoya à Esculape. Le sénat fit une seconde députation à Epidaure. Les ambassadeurs y exposèrent l’état misérable où la ville était réduite, et conclurent à ce que les Epidauriens eussent la charité de leur laisser emporter à Rome la <title>statue</title> de leur dieu, qui, infailliblement ferait cesser la maladie. Le conseil d’Epidaure fut si partagé sur cela, que le jour se passa sans qu’on eut rien arrêté. La nuit suivante, Esculape apparut en songe au chef de l’ambassade ; il avait dans la main gauche un bâton autour duquel était un serpent, et de la droite il arrangeait sa barbe ; il lui promit de quitter le lendemain son <title>temple d’Epidaure</title>, déguisé en serpent, et d’aller avec eux à Rome. Le lendemain, dès le grand matin, les ambassadeurs se mirent en prières pour savoir du dieu s’il désirait qu’on lui dressât à Epidaure un autel au nom de Rome, ou s’il voulait attendre qu’il fût arrivé dans cette ville. Pendant qu’ils priaient, ils aperçurent un serpent d’une grosseur énorme, qui siffla d’une manière si épouvantable que,<title>le temple</title> en fut ébranlé jusqu’aux fondemens. Le prêtre, qui reconnut la métamorphose d’Esculape rassura les Romains. Le dieu, suivi des ambassadeurs, traversa la ville aux yeux de tous les habitans ; il entra dans le vaisseau des Romains, puis aborda avec eux sur les bords du Tibre. Le sénat et les Vestales allèrent au-devant de lui en grande pompe. Le dieu remarqua une belle île sur le Tibre, où il montra qu’il souhaitait qu’on lui éleva un temple, et dans l’instant il reprit sa forme divine. La peste cessa
-            aussitôt. » <bibl><author key="Valère Maxime"/></bibl></quote>Les poètes font prendre à Esculape la figure du serpent, symbole de la prudence, pour faire entendre que cette vertu, si essentielle dans un médecin, peut faire des prodiges.</p>
+          <p>L’an 462 de la fondation de Rome, cette ville fut affligée de la peste : Esculape d’Epidaure fit cesser ce fléau. Valère Maxime raconte ainsi de quelle manière ce dieu favorisa les Romains de sa présence : <quote>« La peste, dit-il, faisait à Rome des ravages affreux ; le sénat députa un ambassadeur vers Apollon à Delphes, pour le prier de faire cesser la contagion. Apollon renvoya à Esculape. Le sénat fit une seconde députation à Epidaure. Les ambassadeurs y exposèrent l’état misérable où la ville était réduite, et conclurent à ce que les Epidauriens eussent la charité de leur laisser emporter à Rome la <title>statue</title> de leur dieu, qui, infailliblement ferait cesser la maladie. Le conseil d’Epidaure fut si partagé sur cela, que le jour se passa sans qu’on eut rien arrêté. La nuit suivante, Esculape apparut en songe au chef de l’ambassade ; il avait dans la main gauche un bâton autour duquel était un serpent, et de la droite il arrangeait sa barbe ; il lui promit de quitter le lendemain son <title>temple d’Epidaure</title>, déguisé en serpent, et d’aller avec eux à Rome. Le lendemain, dès le grand matin, les ambassadeurs se mirent en prières pour savoir du dieu s’il désirait qu’on lui dressât à Epidaure un autel au nom de Rome, ou s’il voulait attendre qu’il fût arrivé dans cette ville. Pendant qu’ils priaient, ils aperçurent un serpent d’une grosseur énorme, qui siffla d’une manière si épouvantable que,<title>le temple</title> en fut ébranlé jusqu’aux fondemens. Le prêtre, qui reconnut la métamorphose d’Esculape rassura les Romains. Le dieu, suivi des ambassadeurs, traversa la ville aux yeux de tous les habitans ; il entra dans le vaisseau des Romains, puis aborda avec eux sur les bords du Tibre. Le sénat et les Vestales allèrent au-devant de lui en grande pompe. Le dieu remarqua une belle île sur le Tibre, où il montra qu’il souhaitait qu’on lui éleva un temple, et dans l’instant il reprit sa forme divine. La peste cessa aussitôt. »
+            <bibl><author key="Valère Maxime"/></bibl></quote>Les poètes font prendre à Esculape la figure du serpent, symbole de la prudence, pour faire entendre que cette vertu, si essentielle dans un médecin, peut faire des prodiges.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Aurore</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Aurore</hi> était fille d’Apollon, ou, selon d’autres, d’Hypérion et de Théa : Titan et la Terre. Les anciens, qui ont prodigué les noms de dieux et de déesses au soleil, à la lune et aux autres constellations, ont dû avoir les mêmes égards pour l’Aurore, dont le retour réjouit toute la nature en bannissant les ténèbres. Les poètes disent que l’Aurore ouvre tous les matins les portes du ciel, et qu’elle précède le dieu du jour. On représente cette déesse sur un char brillant, traîné par deux chevaux. Elle sème des fleurs sur son passage, et embellit toute la nature par la douceur de sa lumière. Elle a sur la tête un grand voile, rejeté fort en arrière, pour marquer sans doute que sa présence dissipe l’obscurité de la nuit.</p>
           <p>L’Aurore, dit la fable, éprise d’amour pour <hi rend="i">Tithon</hi>, fils de Laomédon, roi de Troyes, et frère de Priam, l’enleva ; elle le conduisit dans l’île de Délos, où l’hymen les unit secrètement. L’Aurore obtint de Jupiter l’immortalité pour son époux ; mais elle oublia de demander pour lui le privilége d’être toujours jeune. Il devint si vieux, qu’il fallut l’emmailloter et le bercer comme un enfant Dans cet état, la vie lui étant insupportable, il souhaita de pouvoir mourir ; enfin, à sa prière, l’Aurore le changea en cigale, ce qui veut dire que ce prince mourut dans une extrême vieillesse.</p>
@@ -647,7 +638,6 @@
         <div>
           <head>
             <hi rend="sc">Phaéton</hi>
-            <num>.</num>
           </head>
           <p>De tous les enfans du Soleil, <hi rend="i">Phaéton</hi> fut le plus chéri, et celui qui lui causa des ennuis plus cuisans par sa téméraire présomption. Epaphus, fils de Jupiter et de la nymphe Io, lui ayant reproché qu’il n’était pas fils du Soleil, il alla se plaindre à sa mère, Clymène, puis à son père dans son palais ; il lui demanda pour preuve de sa naissance de lui permettre de conduire son char pendant un jour. Le Soleil résiste long-temps ; enfin il cède. Il appelle en soupirant les Heures matinales ; elles volent précédées de l’Aurore, et attèlent au char du Soleil le rapide Eoüs, l’ardent Phlégon, le fougueux Ethon et le léger Piroïs. Phaéton s’élance sur le char radieux, saisit avec assurance les rênes étincelantes, et reçoit à peine, en partant, les derniers avis de son père :</p>
           <quote>
@@ -657,8 +647,8 @@
             <l>« Il y va de tes jours à le bien observer :</l>
             <l>« On tombe pour trop s’élever,</l>
             <l>« Et l’on se perd pour trop descendre. »</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>Phaéton manquait de tête et d’habileté ; il s’égara dès le commencement de sa course. Les chevaux allaient plus vite que le vent. Ne reconnaissant pas la main novice qui les guidait, ils prirent l’écart, et embrasèrent le ciel et la terre. Jupiter craignant pour lui-même, foudroya l’imprudent jeune homme, et le précipita dans le Pô, fleuve d’Italie.</p>
           <quote>
             <l>Le sort de Phaéton se découvre à mes yeux ;</l>
@@ -669,42 +659,37 @@
             <l>     En vain le dieu qui nous éclaire,</l>
             <l>En pâlissant pour toi se déclare ton père ;</l>
             <l>     Il doit servir à terminer tes jours.</l>
-          <bibl><author>Quinault</author>.</bibl>
-</quote>
+            <bibl><author>Quinault</author>.</bibl>
+          </quote>
           <p>Cette fable, ainsi que celle d’Icare, fait connaître les funestes effets de l’ambition. Elle est fondée sur une chaleur extraordinaire, pendant laquelle il tomba des nues des globes de feu qui embrasèrent plusieurs pays.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Les Héliades</hi>
-            <num>.</num>
           </head>
           <p>Les <hi rend="i">Héliades</hi>, sœurs de Phaéton, furent tellement affligées du malheur de leur frère, qu’elles en moururent. Les dieux, touchés de compassion, les changèrent en peupliers ; et les larmes qu’elles n’avaient cessé de répandre furent converties en grains d’ambre.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Cygnus</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Cygnus</hi>, roi des Liguriens, voit du rivage tomber dans le fleuve Phaéton, son parent et son ami ; il ne peut le secourir, son cœur se brise ! II voudrait au moins l’embrasser pour la dernière fois ! Le ciel seconde ses vœux : soudain Cygnus est couvert de plumes blanches comme la neige ; il nage vers le corps de Phaéton, et le couvre de ses ailes ; sa douleur long-temps muette, s’exhale en un chant tendre et plaintif, dont l’écho répète et prolonge les accens mélodieux. Il est aisé de voir que cette fable n’est fondée que sur la ressemblance du nom. Une semblable métamorphose a eu lieu aussi à l’égard du fils d’Hirée, et d’un autre Cygnus, fils de Neptune, qu’Achille a tué.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Pasiphaé</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Pasiphaé</hi>, fille du Soleil et de la nymphe Perséis, était femme de Minos, roi de Crète. Les poètes disent qu’elle déshonora son nom et sa naissance par l’amour qu’elle prit pour un taureau, dont elle eut le Minautaure avec l’industrie et le secours de Dédale. La haine des Grecs contre Minos, qui leur avait imposé un tribut, donna lieu sans doute à l’invention de cette fable odieuse. Il est possible cependant qu’elle soit fondée sur l’équivoque du nom d’un seigneur crétois, nommé Taurus, que la reine aimait, et dont Dédale favorisa la passion.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Circé</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Circé</hi>, sœur de Pasiphaé, femme de Minos, passait pour être fille du Soleil et de Perséis. La grande connaissance qu’avait cette princesse de la médecine et des plantes, la faisait regarder comme une personne extraordinaire. Habile à composer des poisons, elle se servit de cet art dangereux pour se venger de ses ennemis en les faisant périr. On croit que Circé épousa un roi des Sarmates, et qu’elle l’empoisonna pour régner seule. Cette action barbare la rendit odieuse à ses sujets ; ils voulurent la tuer ; mais elle se sauva par adresse, et se retira dans un désert sur les côtes d’Italie, vers le promontoire d’une île qui est proche de la Toscane.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Les Muses</hi>
-            <num>.</num>
           </head>
           <p>Apollon, considéré comme l’inventeur de la poésie et de la musique, fut le maître des neuf Muses, qu’il instruisait sur le Mont-Parnasse. Les Muses, filles de Jupiter et de Mnémosyne, déesse de la mémoire, étaient vierges, et gardaient la chasteté la plus scrupuleuse. Le nom de Muse vient de <hi rend="i">Moïse</hi>, selon <author>M. Huet</author>, et, selon d’autres, d’un verbe grec qui signifie enseigner des choses élevées. Le nom de <hi rend="i">Piérides</hi> leur fut donné, à cause de la victoire qu’elles remportèrent sur les neuf filles de Piérus, roi de Macédoine. Ces filles, orgueilleuses de leur belle voix, osèrent défier les Muses de mieux chanter : pour les punir, Apollon les changea en pies. Voici le nom des Muses et leur emploi :</p>
           <p>Calliope présidait au poème héroïque ;</p>
@@ -736,7 +721,9 @@
             <l>De cent sujets divers fait résonner sa lyre ;</l>
             <l>Et la sage Uranie élève dans les cieux</l>
             <l>De ses pensers divers le vol audacieux.</l>
-            <bibl><author key="Perrault"/></bibl>
+            <bibl>
+              <author key="Perrault"/>
+            </bibl>
           </quote>
           <p>On donne des ailes aux Muses, sans doute parce que les <hi rend="i">Sirènes</hi>, à la sollicitation de Junon, s’étant vantées de mieux chanter qu’elles, les neuf Sœurs acceptèrent le défi, les vainquirent, et leur arrachèrent les ailes dont elles se firent des couronnes. D’autres rapportent qu’elles prirent des ailes pour échapper aux outrages de Pyrénée, tyran de Phocide, chez lequel une grosse pluie les avait obligées de se réfugier en allant au Parnasse. Ce prince, voulant les poursuivre monta sur une haute tour et s’élança après elles ; mais, comme il ne put se soutenir dans les airs, il tomba et se tua. On prétend que Pyrénée chassa tous les sages de son royaume, qu’il fit abattre les écoles publiques, et qu’il mourut misérable pour n’avoir pas suivi les bons conseils qu’on lui avait donnés.</p>
           <p>Apollon habite avec les neuf Sœurs les sommets du Pinde, du Parnasse et de l’Hélicon, les bords du Permesse, de la fontaine Castalie, ou d’Hippocrène, non loin de la délicieuse vallée de Tempé, en Thessalie.</p>
@@ -744,7 +731,6 @@
         <div>
           <head>
             <hi rend="sc">Midas</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Midas</hi>, était un roi de Phrygie, sot et vain, qui se croyait capable de décider les questions les plus difficiles. Un jour Apollon et Pan firent un défi dont Midas et le Mont Tmolus furent pris pour juges. Tmolus, pour mieux les entendre, écarta tous ses arbres. Pan joua le premier, ensuite Apollon : Tmolus prononça en faveur du dieu de la musique ; mais Midas, en riche ignorant et sans goût, préféra les sons rustiques de la flûte de Pan aux accords doux et harmonieux de la lyre d’Apollon. Ce dieu, pour se venger, lui allongea les oreilles. Le barbier de Midas s’aperçut de cette difformité ; mais Midas lui imposa silence. Suffoqué par ce secret, et ne pouvant parler de peur d’encourir la colère du roi, cet homme fit un trou dans la terre, et s’y enterra. Quelques temps après, il crût dans cet endroit des roseaux, qui, agités par le vent, faisaient entendre : Le roi Midas a des oreilles d’âne ! Ici ce roi n’avait manqué que de goût ; dans une autre occasion, il manqua de sagesse, comme on va le voir.</p>
           <p>Bacchus allant faire la conquête de l’Inde, passa par les états de Midas. Ce roi qui avait appris que Silène, père nourricier du dieu, aimait fort le vin, en remplit une fontaine, où le vieillard s’enivra de telle sorte, qu’il fut contraint d’y rester. On l’amena à Midas comme un espion ; mais ce roi lui fit le meilleur accueil qu’il pût attendre. Bacchus, à son retour, passa encore par la Phrygie ; il fut si content de Midas et du traitement qu’il avait fait à Silène, qu’il pressa ce roi de lui demander telle grâce qui lui plairait, avec promesse de la lui accorder. Midas demanda que tout ce qu’il toucherait devînt or. Ce don pensa lui devenir funeste, car les alimens se changeaient en or sitôt qu’il les touchait pour les porter à sa bouche, et il courait le risque de mourir de faim. Pour se défaire de cette pernicieuse faculté, Midas eut recours à Bacchus, qui l’envoya se baigner dans le Pactole, fleuve de Lydie, qui descendait du Mont Tmolus. Les eaux de ce fleuve attirèrent la vertu qu’avait Midas ; et depuis elles ont roulé avec elles un sable d’or.</p>
@@ -752,14 +738,12 @@
         <div>
           <head>
             <hi rend="sc">Marsyas</hi>
-            <num>.</num>
           </head>
           <p>La présomption est quelquefois sévèrement punie : <hi rend="i">Marsyas</hi> en est la preuve. Ce Satyre était un phrygien ; il trouva le fifre que Minerve avait jeté et accablé de malédictions, parce qu’il la rendait si difforme quand elle en jouait, qu’elle excitait la risée de toutes les autres déesses. Marsyas perfectionna cet instrument ; et, comme il était de la cour de Cybèle, on observa depuis de mêler toujours des fifres dans les sacrifices qu’on faisait à cette déesse. Ce satyre fut assez téméraire pour défier Apollon. Les conditions du cartel furent que le vaincu demeurerait à la discrétion du vainqueur. Le Satyre tira de son instrument des sons assez mélodieux pour charmer tout le monde, et même pour intimider Apollon, mais ce dieu qui joignait aux accords de sa lyre les accens de sa voix, emporta tous les suffrages. Il attacha le Satyre à un pin, et l’écorcha tout vif, pour le punir de sa témérité. Les Nymphes, les Satyres et les Faunes donnèrent tant de larmes à sa mort, qu’elles produisirent un fleuve qui porte son nom. On représente Marsyas avec des oreilles de Faune ou de Satyre.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Oracles</hi>
-            <num>.</num>
           </head>
           <p>Dans l’antiquité payenne, les Oracles avaient pour seul et unique but, le commerce immédiat avec les dieux, afin de se décider dans les affaires épineuses, et le plus souvent pour connaître l’avenir. Sitôt qu’ils furent établis, on alla les consulter ; leur réponse passait pour loi, et on la suivait religieusement. Les plus accrédités et les plus multipliés étaient les oracles d’Apollon, dans la persuasion où l’on était que Jupiter, premier moteur et première source de la divination, avait laissé à son fils le soin d’inspirer les prophètes. Pour consulter l’Oracle, tous les jours n’étaient pas propres ; il fallait attendre le temps où il plaisait aux dieux d’en rendre. La Pythie à Delphes ne donnait de réponse à ceux qui venaient la consulter, qu’au commencement du printemps ; dans la suite, ce fut un jour de chaque mois. Les Oracles se rendaient de diverses manières : tantôt c’était le dieu lui-même qui répondait, tantôt la prêtresse ; une autre fois le dieu s’expliquait dans le sommeil, ou par billet cacheté, ou bien en tirant au sort. Souvent il fallait beaucoup de préparations pour se rendre digne de l’Oracle ; d’autres fois, au contraire, on recevait sa réponse au moment même où l’on arrivait pour le consulter.</p>
           <p><hi rend="i">Delphes</hi>, ville ancienne de la Phocide, fut surtout célèbre par <title>le temple et l’Oracle d’Apollon</title>. Les Grecs, les étrangers, les particuliers et les princes même venaient à Delphes en personne, ou y envoyaient pour apprendre la volonté d’Apollon sur leurs affaires. Les présens magnifiques faits par les souverains au temple de Delphes, et les richesses immenses dont il était rempli, furent comparés aux trésors du roi de Perse.</p>
@@ -768,7 +752,6 @@
         <div>
           <head>
             <hi rend="sc">La Sybille de Cumes</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Cumane</hi> ou <hi rend="i">Cumée</hi>, et l’une des Sybilles, était fille de Glaucus. Elle naquit à Cumes dans l’Eolide, et fut prêtresse d’Apollon. Ce dieu la trouvant belle, n’épargna rien pour la rendre sensible ; il lui offrit même de lui accorder tout ce qu’elle souhaiterait. Cumane, comme la plupart des mortels, attachait du prix à la vie ; elle pria le dieu de lui accorder autant d’années qu’elle tenait alors de grains de sable dans la main ; mais elle oublia de demander la faveur de ne point vieillir. Apollon lui accorda ce qu’elle désirait : il offrit de plus de lui conserver la fraîcheur et les grâces de la jeunesse pendant tout le cours de sa longue vie, si elle voulait répondre à ses soupirs ; mais Cumane, par amour pour la chasteté qu’elle avait juré de conserver sans tache, refusa cette offre séduisante. Avec le temps ses brillantes années s’écoulèrent, et elle sentit le poids d’une languissante vieillesse. Lorsqu’Enée la consulta avant de descendre aux enfers, elle lui dit qu’elle avait sept cents ans ; que, pour remplir le nombre des grains de sable qui était la mesure de sa vie, elle avait encore trois ans à vivre dans la langueur ; qu’alors, son corps épuisé et consumé serait réduit à rien, et que la voix, que le destin lui laisserait éternellement, était ce qui devait la faire reconnaître. L’opinion où l’on était que les Sybilles devaient vivre long-temps, et qu’Apollon connaissait l’avenir, a sans doute donné lieu à cette fable.</p>
           <p>Cumane, inspirée par Apollon, rendait ses oracles dans le <title>temple</title> de ce dieu, au fond d’un antre d’où sortaient par cent portes autant de voix terribles qui répétaient les réponses de la prêtresse. Cumane fut aussi prêtresse d’Hécate, qui l’avait faite gardienne des bois de l’Averne.</p>
@@ -778,7 +761,6 @@
         <div>
           <head>
             <hi rend="sc">Laocoon</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Laocoon</hi>, fils de Priam et d’Hécube, était prêtre d’Apollon et de Neptune. Il s’opposa fortement à ce que les Troyens reçussent dans leur ville le fameux cheval de bois des Grecs ; et, soupçonnant une perfidie, il lança son javelot contre les flancs du colosse ; mais les Troyens, qui couraient à leur perte, loin de le croire, traitèrent son action d’impiété. Bientôt ils n’en doutent plus, et ce qu’ils voient les confirme dans leur opinion : deux serpens énormes, venant de l’île de Ténédos, s’avancent sur la surface des eaux ; ils vont droit à l’autel où sacrifiait Laocoon, s’élancent sur ses deux fils et les étouffent ; puis, saisissant Laocoon lui-même qui venait au secours de ses enfans, ils le font mourir dans les plus cruelles souffrances, comme si les dieux eussent voulu le punir de son peu de respect pour une offrande qui leur était consacrée. Les deux serpens s’allèrent réfugier au pied de la statue de Minerve et se cacher dans son bouclier, comme dans un asile respectable. Virgile, dans ses vers immortels, nous offre un effrayant tableau de la mort de Laocoon.</p>
           <quote>
@@ -822,14 +804,15 @@
             <l>S’éloigne, et de Pallas gagnant l’auguste asile,</l>
             <l>Aux pieds de la déesse, et sous son bouclier</l>
             <l>D’un air tranquille et fier va se réfugier.</l>
-            <bibl><author key="Virgile"/></bibl>
+            <bibl>
+              <author key="Virgile"/>
+            </bibl>
           </quote>
         </div>
       </div>
       <div>
         <head>
           <hi rend="sc">Diane</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Diane</hi>, déesse de la chasse, était fille de Jupiter et de Latone, et sœur d’Apollon. On la nommait <hi rend="i">Lune</hi> dans le ciel, <hi rend="i">Diane</hi> sur la terre, et <hi rend="i">Hécate</hi> ou Proserpine dans les enfers. Sous ces trois noms, elle n’était qu’une seule divinité ; c’est pourquoi les poètes l’appellent <hi rend="i">Déesse à trois formes</hi> et <hi rend="i">Triple Hécate</hi>.</p>
         <quote>
@@ -846,14 +829,13 @@
           <l>        Les mânes en tremblant écoutent votre voix :</l>
           <l>               Au redoutable nom d’Hécate</l>
           <l>        Le sévère Pluton rompt lui-même ses lois.</l>
-        <bibl><author>Fontenelle</author>.</bibl>
-</quote>
+          <bibl><author>Fontenelle</author>.</bibl>
+        </quote>
         <p>Voici, au rapport de la fable, ce qui donna occasion à Diane de se vouer à une éternelle virginité. Elle naquit un instant avant Apollon, et aussitôt elle aida Latone à le mettre au monde. Témoin des douleurs de l’enfantement, elle pria Jupiter de lui donner le don de chasteté.</p>
         <p>Diane, sur la terre, prenait plaisir à poursuivre les animaux des bois, suivie de soixante nymphes, filles de l’Océan, et de vingt autres vierges qui avaient soin de son équipage de chasse.</p>
         <div>
           <head>
             <hi rend="sc">Actéon</hi>
-            <num>.</num>
           </head>
           <p>L’amour de cette déesse pour la chasteté, l’engagea à punir sévèrement <hi rend="i">Actéon</hi> et <hi rend="i">Calisto</hi> : la vaine <hi rend="i">Chionée</hi> éprouva aussi son courroux. Un jour que Diane prenait le bain avec ses nymphes dans un lieu solitaire, le chasseur Actéon y fut conduit par hasard : la déesse irritée le métamorphosa en cerf, de sorte que ses chiens, ne le connaissant plus, se jetèrent sur lui et le déchirèrent.</p>
         </div>
@@ -865,14 +847,12 @@
         <div>
           <head>
             <hi rend="sc">Chionée</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Chionée</hi>, petite fille du matin, et plus belle que l’Aurore, osa comparer ses attraits à ceux de Diane. Cette témérité lui coûta cher : la déesse la perça d’une flèche. Deucalion, son père, outré de douleur, se précipita du haut d’un roc ; Apollon le changea en épervier.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Endymion</hi>
-            <num>.</num>
           </head>
           <p>Comme la divinité du ciel, Diane ne put défendre son cœur des charmes d’<hi rend="i">Endymion</hi>. Ce jeune homme devint suspect à Jupiter, qui le condamna à un sommeil perpétuel. La déesse touchée du malheur de son favori, et craignant encore les funestes effets de la colère du dieu, cacha le beau berger sur le sommet d’une montagne.</p>
           <p>Les mythologues disent qu’Endymion fut un roi d’Elyde, qui se retirait ordinairement dans une grotte à Latma, montagne de Carie, où était la ville d’Héraclée, et la Lune se rendait dans ce lieu.</p>
@@ -881,7 +861,6 @@
         <div>
           <head>
             <hi rend="sc">Comment Diane est représentée</hi>
-            <num>.</num>
           </head>
           <p>Diane est aisée à reconnaître dans nos tableaux, où on la représente chaussée d’un cothurne, en habit court de chasse, portant sur l’épaule un arc et un carquois, et ayant un croissant sur le front, ou bien couverte d’un grand voile parsemé d’étoiles. Quelquefois elle est dans un char traîné par des cerfs ; quelquefois on la voit courant à pied avec son chien.</p>
         </div>
@@ -890,14 +869,15 @@
             <title>Le temple d’Éphèse</title>
             <num>. — </num>
             <hi rend="sc">Erostrate</hi>
-            <num>.</num>
           </head>
           <p><title>Le plus célèbre de tous les temples qui furent érigés en l’honneur de Diane était à Ephèse</title>. On a cru long-temps que les Amazones avaient fait bâtir ce <title>temple</title> par l’architecte <author>Ctésiphon</author>. Il était d’une telle magnificence, qu’on le regardait comme une des sept merveilles du monde. Il avait quatre cent vingt-cinq pieds de longueur, sur deux cent trente-sept de largeur. On comptait dans l’enceinte du <title>temple</title>, cent vingt-sept colonnes dressées par autant de rois, qui avaient voulu renchérir à l’envi les uns sur les autres, et se surpasser par la dépense, la perfection de l’ouvrage, et leur zèle envers les dieux qu’ils adoraient. Ces colonnes avaient environ soixante pieds de hauteur ; trente-six entre autres étaient ornées de bas-reliefs admirables. Tous les peuples et tous les princes de l’Asie contribuèrent à la dépense de cet édifice merveilleux, qui ne fut pourtant achevé qu’au bout de deux cent vingt ans.</p>
           <p>Ce <title>temple</title> magnifique, décoré d’excellens tableaux et de belles <title>statues</title>, fut brûlé le jour même de la naissance d’Alexandre-le-Grand, roi de Macédoine, par un Ephésien, espèce de fanatique, nommé <hi rend="i">Erostrate</hi>, qui, n’ayant ni valeur ni talent pour acquérir de la réputation, voulut éterniser sa mémoire par le crime. Houdard de la Motte a dit avec raison :</p>
           <quote>
             <l>Les grands crimes immortalisent,</l>
             <l>Ainsi que les grandes vertus.</l>
-            <bibl><author key="Houdar de la Motte"/></bibl>
+            <bibl>
+              <author key="Houdar de la Motte"/>
+            </bibl>
           </quote>
           <p>Les Ephésiens, au désespoir de cette perte irréparable, défendirent, sous peine de la vie, de prononcer jamais le nom d’Erostrate : cette défense même servit à perpétuer sa mémoire, et se conserva avec l’histoire de l’incendie du <title>temple</title>.</p>
           <p>Diane avait encore un <title>temple fameux dans la Cherchonèse Taurique</title>, aujourd’hui la Crimée, proche le Pont Euxin. On immolait des victimes humaines ; c’étaient les étrangers qui faisaient naufrage sur ces côtes.</p>
@@ -906,28 +886,24 @@
       <div>
         <head>
           <hi rend="sc">Bacchus</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Bacchus</hi>, dieu du vin, était fils de Jupiter et de Sémélé. Les poètes racontent ainsi sa naissance :</p>
         <p>Jupiter, épris de Sémélé, fille de Cadmus, roi de Thèbes, quittait souvent l’Olympe pour la voir. Junon, toujours attentive à troubler les plaisirs de son infidèle mari, n’eut pas plutôt connu sa rivale, qu’elle jura sa perte. Elle prit la figure de Béroé, nourrice de la princesse, et, par des discours perfides, elle lui inspira des doutes sur l’honneur que lui faisait le dieu ; lui faisant entendre que Jupiter ne se déguiserait pas sous la forme d’un mortel, mais qu’il paraîtrait avec tout l’éclat qui l’environne quand il approche de Junon. Elle lui conseilla de prier Jupiter, s’il l’aimait véritablement, de se faire voir à elle dans toute sa gloire. L’ambitieuse Sémélé tomba dans le piége qu’on lui tendait ; elle fit cette demande indiscrète. Le maître des dieux, pour la satisfaire, vint la voir avec le magnifique appareil de sa puissance <hi rend="i">;</hi> mais, ne pouvant en soutenir l’éclat, elle fut frappée de la foudre, et son palais réduit en cendres. Jupiter sauva Bacchus dont Sémélé était enceinte, et l’enferma dans sa cuisse jusqu’à ce qu’il fût au terme de sa naissance. On dit que Bacchus vit le jour dans l’île de Naxe. La montagne sur laquelle il fut élevé, aux environs de Nysa, se nommait <hi rend="i">Méros</hi> ; qui, en grec, signifie <hi rend="i">cuisse</hi> : c’est sans doute ce qui a donné lieu à cette fable.</p>
         <div>
           <head>
             <hi rend="sc">Les Hyades</hi>
-            <num>.</num>
           </head>
           <p>Sitôt que Bacchus fut né, Mercure le porta aux nymphes de la montagne, qui prirent soin de son enfance. Dans la suite, Jupiter, pour les récompenser, les plaça dans le ciel : c’est ce qu’on appelle aujourd’hui la constellation des <hi rend="i">Hyades</hi>, nommées ainsi de Bacchus, surnommé <hi rend="i">Hyé</hi>. Les poètes, qui disent que les Hyades étaient filles d’Atlas et d’Ethra, au nombre de sept, on feint qu’ayant perdu leur frère Hyas, déchiré par un lion, elles ne cessèrent de pleurer sa mort, et que Jupiter, par compassion, les transporta au ciel. Les pluies abondantes qu’elles produisent sont regardées comme les larmes qu’elles versent encore : c’est de là qu’on a formé leur nom d’un mot grec qui signifie pleuvoir.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Silène</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Silène</hi> fut le père nourricier de Bacchus ; il n’avait qu’un âne pour monture. Lorsque le dieu passa dans les Indes pour en faire la conquête, Silène l’accompagna, monté sur son âne, qui, au milieu du combat, se mit à braire d’une façon si terrible, que les éléphans dont les Indiens se servaient, en furent épouvantés et prirent la fuite. Cet incident contribua au gain de la victoire. Pour perpétuer le souvenir de ce grand événement, on plaça l’âne parmi les étoiles voisines du signe de l’écrevisse. Silène, à son retour des Indes, s’établit dans l’Arcadie, où il s’enivrait tous les jours. Il fut jeté, dit un poète, sur le rocher d’Etna, où le cyclope Polyphème le fit son esclave, jusqu’à ce qu’Ulysse vint l’en tirer. Silène était alors accompagné de ses fils, les Silènes, et cherchait sur mer Bacchus qu’il avait perdu.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Noms de Bacchus</hi>
-            <num>.</num>
           </head>
           <p>On donnait à Bacchus différens noms. Il est appelé <hi rend="i">Dionysius</hi>, qui signifie <hi rend="i">Jupiter</hi>, par allusion au dieu de qui il tenait le jour, ou de la ville de Nisa, où il régna. <hi rend="i">Évan, Évohé</hi>, dans la guerre des géans, Bacchus fut le seul de tous les dieux de l’Olympe qui n’abandonna pas le ciel ; transformé en lion, il contribua par sa valeur à la victoire que Jupiter remporta sur les monstrueux enfans de la terre. Pendant le combat, le maître des dieux lui criait : <hi rend="i">Évohé</hi> ! c’est-à-dire, courage ! <hi rend="i">Liber</hi>, parce qu’il inventa le vin, qui inspire la licence et dissipe les soucis ; le nom de <hi rend="i">Bromius, Jacchus, Bacchus</hi>, vient du bruit et des cris que faisaient les Bacchantes, le mot grec <hi rend="i">Bacchein</hi>, signifie hurler.</p>
         </div>
@@ -938,14 +914,12 @@
         <div>
           <head>
             <hi rend="sc">Fêtes de Bacchus</hi>
-            <num>.</num>
           </head>
           <p>Les fêtes de Bacchus s’appelaient parmi les Grecs <hi rend="i">Dionysia</hi> ; les Latins les nommaient <hi rend="i">Liberalia</hi> ou <hi rend="i">Bacchanalia</hi>, pour exprimer des fêtes où l’on ne gardait nulle mesure. Les Athéniens célébraient ces fêtes avec beaucoup d’appareil. En Italie, on les célébra d’abord trois fois l’année ; ensuite tous les mois ; mais le désordre y devint si affreux, que le sénat les supprima l’an de Rome 568. On y voyait des hommes travestis en satyres, en silènes, etc. Ces fêtes étaient aussi appelées <hi rend="i">orgies</hi> à cause de la fureur des Bacchantes. Ce mot <hi rend="i">orgie</hi> est purement grec, et signifie impétuosité, fureur. On le disait d’abord de toutes sortes de fêtes, mais on l’a restreint aux fêtes de Bacchus.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Les Bacchantes</hi>
-            <num>.</num>
           </head>
           <p>Les <hi rend="i">Bacchantes</hi> étaient une troupe de femmes qui, aux fêtes de Bacchus, faisaient l’office des prêtres et des sacrificateurs. C’étaient des espèces de fanatiques que les fumées du vin rendaient comme furieuse. Les premières Bacchantes accompagnèrent Bacchus dans ses voyages ; elles le suivaient partout, chantant, criant, sautant, et faisant toutes sortes d’extravagance, sans respect pour la pudeur, et sans égards pour les bienséances. On leur donnait des noms convenables à leur caractère et à leurs actions. Elles furent appelées <hi rend="i">Ménades</hi>, d’un mot grec qui signifie être en fureur, tant à cause de leurs cris que des cérémonies étranges qu’elles faisaient pendant les fêtes de Bacchus, où, après avoir dansé, sauté, et fait mille contorsions, elles passaient à des actions violentes, et allaient jusqu’à tuer ceux qu’elles rencontraient. Ces prêtresses de Bacchus couraient partout comme des furies, vêtues de peaux de tigres et de panthère, et tout échevelées ; elles portaient dans leurs mains des flambeaux ou des thyrses, grimpaient sur les montagnes, répétaient confusément des mots barbares, qui exprimaient assez bien la fureur dont elles étaient transportées, en criant : <hi rend="i">Evohe ! Bacche</hi> ! pour dire : Courage, Bacchus ; bien vous soit !</p>
         </div>
@@ -966,16 +940,16 @@
             <l>         Ils me rendront un pur hommage.</l>
             <l>Je ne veux de mes droits que votre amour pour gage.</l>
             <l>Allez, soumettez-vous, et buvez au vainqueur.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>Persuadées de la sincérité du dieu, toutes les villes lui ouvrirent leurs portes. Lorsque Bacchus eut fait la conquête de l’Arcadie, de la Syrie et des autres provinces de l’Inde, il quitta ses nouveaux sujets en leur disant :</p>
           <quote>
             <l>Je confie à vos soins tout ce que j’ai soumis,</l>
             <l>D’autres vainqueurs feront garder leurs diadèmes :</l>
             <l>         Je n’ai conquis que des amis,</l>
             <l>         Et les cœurs se gardent d’eux-mêmes.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <quote>
             <l>Prends part à la juste louange</l>
             <l>De ce dieu si cher aux guerriers,</l>
@@ -984,13 +958,12 @@
             <l>A trouvé mille fois plus grand</l>
             <l>D’être le dieu de la vendange,</l>
             <l>Que de n’être qu’un conquérant.</l>
-          <bibl><author>Rousseau</author>.</bibl>
-</quote>
+            <bibl><author>Rousseau</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">Ariane</hi>
-            <num>.</num>
           </head>
           <p>En revenant des Indes, Bacchus rencontra dans l’île de Naxos l’infortunée <hi rend="i">Ariane</hi>, que Thésée avait abandonnée. Le dieu l’épousa, et lui donna une couronne d’or enrichie de pierreries : c’était le chef-d’œuvre de Vulcain, Après la mort de cette princesse, sa couronne fut mise au rang des signes célestes : ce sont huit étoiles dont trois entre autres brillent d’un grand éclat.</p>
         </div>
@@ -1001,7 +974,6 @@
         <div>
           <head>
             <hi rend="sc">Penthée</hi>
-            <num>.</num>
           </head>
           <p>Bacchus ne pouvait souffrir qu’on méprisât son culte. Penthée, Lycurgue et les Ménéides osèrent braver la puissance de ce dieu, et ils éprouvèrent les effets de son courroux.</p>
           <p><hi rend="i">Penthée</hi>, roi de Thèbes, était fils d’Echion et d’Agave ; il succéda à Cadmus, son grand-père. Voulant s’opposer à la licence qui s’était introduite dans le culte et les mystères de Bacchus, il alla sur le mont Cythéron où les Bacchantes célébraient les orgies. Ces femmes, dans un accès de fureur, couraient alors à travers les forêts et les montagnes, les cheveux épars, et poussant des cris effroyables. Comme elles connaissaient les desseins de Penthée, elles se jetèrent sur lui, et, pour satisfaire leur vengeance, elles le mirent en pièces. Les Thébains regardaient la mort cruelle de leur roi comme une punition de Bacchus.</p>
@@ -1009,14 +981,12 @@
         <div>
           <head>
             <hi rend="sc">Lycurgue</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Lycurgue</hi>, qu’il ne faut pas confondre avec le législateur de Lacédémone, voulut arracher les vignes qui étaient dans la Thrace où il régnait, et il se coupa lui-même les deux jambes. On regarda cet accident comme une vengeance de Bacchus.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Les Ménéides</hi>
-            <num>.</num>
           </head>
           <p>Les <hi rend="i">Ménéides</hi>, ou filles de Minée, refusaient à Bacchus le titre de fils de Jupiter. Elles affectèrent de travailler à des ouvrages de tapisserie, le jour destiné à ses fêtes ; ce dieu, pour les punir, les changea en chauve-souris, et leur ouvrage en lierre.</p>
         </div>
@@ -1024,7 +994,6 @@
       <div>
         <head>
           <hi rend="sc">Mercure</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Mercure</hi>. Ce nom vient de <hi rend="i">Mercatura</hi>, négoce ; parce que ce dieu y présidait. Si l’on en croit <author>Cicéron</author>, il y a eu cinq Mercure ; l’un sans doute était éloquent, l’autre médecin, l’autre adonné au commerce, etc. Dans la suite, toutes ces qualités sont attribuées au seul fils de Jupiter et de Maïa, fille d’Atlas, lequel vit le jour en Arcadie, sur le mont Cyllène.</p>
         <p>Celui qui a fourni aux poètes le plus de matériaux pour la fable, est <author>Mercure Trismégiste</author> ou trois fois grand, roi d’Egypte, qui vivait peu après Moïse. Il fut l’auteur des anciens livres qui concernaient la religion, et que les Egyptiens gardaient précieusement.</p>
@@ -1043,7 +1012,6 @@
         <div>
           <head>
             <hi rend="sc">Battus</hi>
-            <num>.</num>
           </head>
           <p>Mercure n’avait eu pour témoin de ce vol que le vieux berger <hi rend="i">Battus</hi>. Pour payer sa discrétion, il lui donna la plus belle vache du troupeau volé. Un moment après, le dieu reparaissant sous la figure d’Admète, demande à Battus des nouvelles de son troupeau ; il lui offre deux vaches pour récompense, s’il veut lui découvrir en quel lieu il est caché. Battus, calculant comme les négociateurs, vend son secret le double de son silence. Aussitôt Mercure irrité reprend sa première forme, et change l’indiscret en pierre de touche : c’est une pierre qui découvre de quelle nature est le métal qu’on lui fait toucher.</p>
         </div>
@@ -1054,7 +1022,6 @@
         <div>
           <head>
             <hi rend="sc">Aglaure</hi>
-            <num>.</num>
           </head>
           <p>Mercure étant devenu amoureux de Hersé, fille de Cécrops, roi d’Athènes, dans une fête qui se célébrait en l’honneur de Minerve, fit tous ses efforts pour mettre dans ses intérêts <hi rend="i">Aglaure</hi>, sœur d’Hersé. Elle lui promit de s’employer en sa faveur, moyennant qu’il lui donnerait une somme d’argent assez considérable. Minerve, irritée de ce trafic honteux, ordonna à l’Envie de rendre Aglaure jalouse de sa sœur. Mercure, ne pouvant supporter les obstacles qu’elle lui opposait, le changea en statue de pierre.</p>
         </div>
@@ -1104,7 +1071,9 @@
             <l>« Est un dépôt sacré qu’on ne peut se permettre</l>
             <l>    « D’aller divulguer, sans commettre</l>
             <l>    « Un sacrilége en amitié. »</l>
-            <bibl><author key="Demoustier"/></bibl>
+            <bibl>
+              <author key="Demoustier"/>
+            </bibl>
           </quote>
           <p>Les Heures enseignaient aussi à leur élève les devoirs de l’humanité ; elles lui disaient tour à tour :</p>
           <quote>
@@ -1123,16 +1092,16 @@
             <l>« De leur prouver par nos soins réunis,</l>
             <l>    « Qu’ils ne sont pas seuls dans le monde,</l>
             <l>« Et que les malheureux ont encor des amis ! »</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>Ce fut par de semblables conseils que ces sages institutrices formèrent le cœur et l’esprit de leur élève ; elles lui apprirent encore les belles manières et l’art de se rendre agréable, et elles lui disaient : Ma fille, si vous voulez plaire,</p>
           <quote>
             <l>« Que vos grâces soient naturelles ;</l>
             <l>« Ne les contrefaites jamais :</l>
             <l>« Dès que l’on veut courir après,</l>
             <l>« On commence à s’éloigner d’elles. ».</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>Après quelques années d’une telle éducation, l’élève des Heures se trouva si accomplie, que les dieux voulurent la voir, pour s’assurer eux-mêmes de tout ce que la renommée en publiait. Son maintien noble et décent, ses grâces naïves, son modeste embarras lui gagnèrent tous les cœurs : le maître des dieux lui donna la couronne de la beauté. Mars, Apollon, Bacchus voulaient l’épouser, mais Jupiter prononça en faveur de Vulcain, pour le récompenser des services qu’il lui avait rendus dans la guerre des Géans.</p>
           <p>On donne à Vénus les noms des lieux où elle était particulièrement adorée : <hi rend="i">Cypris</hi>, de l’île de Cypre ; <hi rend="i">Cythéré</hi>, de <title>Cythère, où elle avait un temple</title>. <hi rend="i">Paphos, Idalie, Amathonte</hi>, etc., lui dressèrent des autels. <hi rend="i">Suada</hi> ou Pitho est souvent regardée comme sa compagne. <hi rend="i">Pitho</hi> vient d’un mot grec qui signifie <hi rend="i">persuader</hi>.</p>
           <p>Vénus avait pour ornement particulier, une ceinture qu’on appelait <hi rend="i">ceste</hi> ; ce tissu mystérieux renfermait tout ce que les charmes ont de plus séduisant : la déesse eut soin de l’étaler lorsqu’elle voulut avoir le suffrage de Pâris. Les savans prétendent que la Vénus de la fable fut une reine de Phénicie, nommée Astarbe ; mais il est probable que toutes les histoires publiées sur les Vénus de plusieurs pays ont été mises ensuite sur le compte d’une seule à laquelle on a donné différens noms, comme Vénus marine, Vénus céleste, etc.</p>
@@ -1146,14 +1115,12 @@
         <div>
           <head>
             <hi rend="sc">Péristère</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Péristère</hi> était une nymphe de la suite de Vénus. Cette déesse, se trouvant avec son fils dans un endroit charmant, tapissé de fleurs, se vanta d’en cueillir plus que Cupidon qui accepta le défi. L’Amour voltigeait de fleur en fleur, et, avec le secours de ses ailes, il était prêt de remporter la victoire ; mais Péristère aida Vénus, et lui fit gagner la gageure. L’Amour, piqué d’être vaincu, changea la nymphe en colombe. Dès ce moment, ces oiseaux devinrent chers à Vénus, et elle les attela à son char. <hi rend="i">Péristère</hi>, nom grec, signifie une colombe ; tout le reste de la fable est de l’invention des poètes.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Adonis</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Myrrha</hi>, fille de Cyniras, roi de Cypre, ayant encouru le juste ressentiment de son père, se sauva en Arabie. Elle portait alors <hi rend="i">Adonis</hi> dans son sein. Lasse de l’exil, Myrrha pria les dieux de terminer ses peines ; ils la métamorphosèrent en l’arbre qui porte son nom. Le temps de ses couches étant arrivé, l’arbre s’ouvrit pour donner le jour à l’enfant, et les nymphes du voisinage le reçurent. Adonis, devenu grand, se rendit à la cour de Byblos en Phénicie, où Vénus éprise de sa beauté, le préféra aux dieux mêmes. Pour le voir sans cesse, elle parcourait les montagnes et les bois, et supportait sans se plaindre toutes les fatigues de la chasse. La déesse, s’oubliant elle-même, ne tremblait que pour Adonis : elle craignait qu’il ne s’exposât trop en poursuivant les bêtes sauvages.</p>
           <p>Mars, jaloux de la préférence que Vénus donnait à ce jeune prince, employa le secours de Diane pour faire périr son rival. Cette déesse suscita un sanglier énorme auquel elle lança son javelot : le sanglier s’en étant déféré, se jeta sur Adonis et le mit en pièces. Vénus vint trop tard au secours de son favori, il venait de rendre le dernier soupir : elle le changea en anémone.</p>
@@ -1162,14 +1129,12 @@
         <div>
           <head>
             <hi rend="sc">Le saut de Leucate</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Leucate</hi> ou <hi rend="i">Leucade</hi> était un lieu élevé près de <title>Nicopolis ; Apollon y avait un temple</title>. Tous les ans, du haut de ce promontoire, on précipitait un criminel à qui on avait attaché des plumes, et qui était reçu au bas du précipice, sur des barques rangées en cercles. On croyait que ceux qui faisaient ce saut sans se noyer, étaient guéris de leur amour. L’illustre Sapho chercha dans les ondes l’oubli d’un ingrat qui la dédaignait : elle se précipita dans la mer, et périt.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Cupidon ou l’Amour</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Cupidon</hi> était fils de Vénus et de Mars. A peine eut-il vu le jour, que Jupiter, lisant sur sa physionomie douce et perfide tout le mal qu’il ferait aux hommes, engagea sa mère à l’abandonner. Vénus, pour le soustraire aux desseins funestes du maître des dieux, prit son fils dans ses bras, et faible encore, elle se traîna avec ce doux fardeau dans les forêts de l’île de Cypre. Là, elle oublia les plaisirs brillans de la cour céleste, et s’enivra des délices de l’amour maternel.</p>
           <quote>
@@ -1194,13 +1159,12 @@
             <l>    « Il souffre ! S’il allait pleurer !</l>
             <l>    « Non, ses yeux s’ouvrent, il soupire,</l>
             <l>    « Et s’éveille pour me sourire. »</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">Psyché</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Psyché</hi>, dont le nom signifie <hi rend="i">cœur</hi> ou âme, était la déesse de la volupté. Vénus fut si jalouse de ce qu’elle avait charmé son fils, qu’elle la persécuta jusqu’à la faire mourir. Jupiter lui rendit la vie, et lui donna l’immortalité en faveur de l’Amour.</p>
         </div>
@@ -1208,7 +1172,6 @@
       <div>
         <head>
           <hi rend="sc">Neptune</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Neptune</hi>, fils de Saturne et de Rhée, frère de Jupiter et de Pluton, fut un des princes Titans qui, dans le partage que les trois frères firent de l’univers, eut pour son lot la mer, les îles et tous les lieux circonvoisins ; aussi est-il regardé comme dieu de la mer. Chassé du ciel avec Apollon pour avoir conspiré contre Jupiter, ces deux divinités fugitives s’unirent pour se consoler de leur disgrâce. Neptune se fit architecte. Laomédon le pria de rebâtir ses murailles. Les pierres, taillées par Neptune, s’élevaient et se plaçaient d’elles-mêmes au son de la lyre d’Apollon. Le prince troyen, charmé des talens de ses architectes, les combla d’éloges, mais il refusa de leur donner le prix dont ils étaient convenus. Pour le punir de sa mauvaise foi, Apollon infecta l’air d’une vapeur pestilentielle, et Neptune, par une inondation, suscita des monstres marins qui ravagèrent cette malheureuse contrée.</p>
         <div>
@@ -1218,7 +1181,6 @@
         <div>
           <head>
             <hi rend="sc">Les Fleuves</hi>
-            <num>.</num>
           </head>
           <p>Les dieux auxquels Neptune confiait une portion de son autorité, étaient <hi rend="i">les Fleuves</hi>, pour lesquels on avait presque autant de vénération que pour Neptune lui-même. On leur immolait des taureaux blancs, quelquefois même des chevaux, comme aux dieux de la mer.</p>
           <p>Les Fleuves étaient représentés nus, couronnés de roseaux, le sein couvert d’une barbe vénérable, et appuyés sur une urne qui versait leur onde blanchissante. Ils tenaient une ancre ou un gouvernail quand les vaisseaux pouvaient voguer entre leurs rivages.</p>
@@ -1231,8 +1193,8 @@
             <l>Un simple citoyen doit respecter l’histoire,</l>
             <l>Mais sitôt que j’aurai le malheur d’être roi,</l>
             <l>   Je fais serment de n’y pas croire.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>Le roi des mers, devenu confiant par faiblesse, ou par nécessité, prit les deux dauphins pour ses confidens, et se reposa sur eux du soin de son bonheur. Ils allèrent trouver Amphitrite, et n’épargnèrent rien pour lui procurer les avantages de l’union qu’on lui proposait. L’un d’eux grand improvisateur, lui dit : Madame,</p>
           <quote>
             <l>« Le roi qui vous adore est le maître de l’onde,</l>
@@ -1242,8 +1204,8 @@
             <l>       « Il renouvelle tous les ans</l>
             <l>« La couronne de Flore et celle du printemps,</l>
             <l>       « Et la ceinture de Cybèle. »</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>Pendant que le dauphin parlait, l’image sombre de Neptune se présenta au souvenir d’Amphitrite, et ternit à ses yeux tout l’éclat de sa cour. L’émissaire s’en aperçut ; mais feignant de croire la nymphe au-dessus de son sexe par la solidité de son esprit, il lui fit entendre qu’il n’attribuait sa résistance qu’à une timide réserve, et nullement à la figure grotesque de son futur époux, dont, à l’en croire, la mise négligée cachait de beaux traits et un air noble ; il ajouta :</p>
           <quote>
             <l>« Mais que sont la beauté, les trésors, la grandeur,</l>
@@ -1259,36 +1221,34 @@
             <l>« Il confie à vos mains le dépôt précieux</l>
             <l>    « Des trésors de sa bienfaisance,</l>
             <l>« Et vous commet le soin de faire des heureux. »</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>En cet endroit l’orateur s’arrêta ; ce n’est pas qu’il n’eût encore de fort belles choses à dire ; mais la vive émotion d’Amphitrite, au récit du bien qu’elle pouvait faire sur le trône, ne lui permit pas de refroidir le pathétique de ce tableau par des détails frivoles et rabattus. Il ajouta seulement pour la décider :</p>
           <quote>
             <l>« Que tardez-vous ? l’Amour, les plaisirs vous demandent,</l>
             <l>« Votre peuple s’empresse au-devant de vos pas ;</l>
             <l>« Le trône est préparé, l’Hymen vous tend les bras,</l>
             <l>    « Et les malheureux vous attendent. »</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>L’éloquent et adroit orateur réussit à persuader Amphitrite : il eut la gloire de la conduire lui-même à son époux. Ce service important mérita au dauphin une place parmi les astres, assez près du Capricorne. Neptune donna à tous les dauphins en général, la vitesse sur tous les autres poissons, et un certain penchant qui les porte à aimer les hommes.</p>
           <p>Cette fable d’un personnage qui n’a jamais existé est toute d’invention. Amphitrite n’a aucune analogie avec l’histoire ; son nom vient de ce que la mer environne les terres. Par Neptune, les anciens entendaient l’élément de l’eau : Amphitrite qu’ils lui donnaient pour femme, est l’eau même. L’entreprise du dauphin n’a été que pour marquer qu’il surpasse tous les autres poissons en industrie. Neptune, mis au rang des immortels, et regardé comme le dieu de la mer, était sans doute un prince, un héros ou un capitaine qui commandant une grande armée navale, s’était signalé par ses talens et ses actions héroïques dans quelque combat sur mer.</p>
           <p>L’origine de toutes les histoires que l’on met sur le compte de Neptune vient de ce que les poètes ont donné ce nom aux princes inconnus, ou qui venaient par mer s’établir dans quelque nouvelle contrée ; ils donnaient encore ce nom à ceux qui régnaient dans les îles, ou qui s’étaient rendus célèbres par l’établissement du commerce.</p>
         </div>
         <div>
           <head>Comment on représentait Neptune.</head>
-          <p>Au lieu de sceptre, Neptune porte un trident ; son char est une vaste coquille, ses coursiers des veaux marins, ou des chevaux qui avaient en bas la forme de poissons. Son cortége consistait en plusieurs tritons qui l’accompagnaient, sonnant de la trompette. On peut lire dans <author>Virgile</author> la belle description où ce dieu est représenté volant sur son char, dont les roues touchent à peine l’eau, accompagné de toutes les divinités de la mer, et devant qui le poète dit que les ondes s’applanissent par respect. M. de Fénelon a bien profité de cette idée dans la peinture qu’il fait, dans son <title>Télémaque</title>, du char d’Amphitrite : <quote>« Alors, dit-il, nous aperçûmes des dauphins couverts d’une écaille qui paraissait d’or et d’argent ; en se jouant, ils soulevaient les eaux… Après eux venaient des tritons qui sonnaient de la trompette avec leurs conques recourbées ; ils environnaient le char d’Amphitrite traîné par des chevaux marins plus blancs que la neige, et qui, fendant l’onde salée, laissaient loin derrière eux un vaste sillon dans la mer, leurs yeux étaient enflammés et leurs bouches fumantes ; le char de la déesse était une conque d’une merveilleuse figure ; elle était d’une blancheur plus éclatante que l’ivoire, et les roues étaient d’or. Le char semblait voler sur la surface des eaux paisibles ; une troupe de nymphes couronnées de fleurs nageaient en foule derrière le char ; leurs beaux cheveux-pendaient sur leurs épaules et flottaient au gré des vents ; la déesse tenait d’une main un sceptre d’or pour commander aux vagues ; de l’autre elle portait sur ses genoux le petit dieu Palémon son fils, pendant à sa mamelle ; elle avait un visage serein et une douce majesté qui faisait fuir les vents séditieux et toutes les noires tempêtes ; les tritons conduisaient les chevaux, et tenaient les rênes dorées : une grande voile de pourpre flottait dans l’air au-dessus du char ; elle était à demi enflée par le souffle
-            d’une multitude de petits zéphyrs qui s’efforçaient de la pousser par leurs haleines : on voyait au milieu des airs, Eole empressé, inquiet, ardent ; son visage ridé et chagrin, sa voix menaçante, ses sourcils épais et pendans ; ses yeux pleins d’un feu sombre et austère tenaient en silence les fiers aquilons, et repoussaient tous les nuages. Les immenses baleines et tous les monstres marins, faisant un flux et reflux de l’onde amère, sortaient à la hâte de leurs grottes profondes pour voir la déesse. »<bibl><author key="Fénelon"/></bibl></quote></p>
+          <p>Au lieu de sceptre, Neptune porte un trident ; son char est une vaste coquille, ses coursiers des veaux marins, ou des chevaux qui avaient en bas la forme de poissons. Son cortége consistait en plusieurs tritons qui l’accompagnaient, sonnant de la trompette. On peut lire dans <author>Virgile</author> la belle description où ce dieu est représenté volant sur son char, dont les roues touchent à peine l’eau, accompagné de toutes les divinités de la mer, et devant qui le poète dit que les ondes s’applanissent par respect. M. de Fénelon a bien profité de cette idée dans la peinture qu’il fait, dans son <title>Télémaque</title>, du char d’Amphitrite : <quote>« Alors, dit-il, nous aperçûmes des dauphins couverts d’une écaille qui paraissait d’or et d’argent ; en se jouant, ils soulevaient les eaux… Après eux venaient des tritons qui sonnaient de la trompette avec leurs conques recourbées ; ils environnaient le char d’Amphitrite traîné par des chevaux marins plus blancs que la neige, et qui, fendant l’onde salée, laissaient loin derrière eux un vaste sillon dans la mer, leurs yeux étaient enflammés et leurs bouches fumantes ; le char de la déesse était une conque d’une merveilleuse figure ; elle était d’une blancheur plus éclatante que l’ivoire, et les roues étaient d’or. Le char semblait voler sur la surface des eaux paisibles ; une troupe de nymphes couronnées de fleurs nageaient en foule derrière le char ; leurs beaux cheveux-pendaient sur leurs épaules et flottaient au gré des vents ; la déesse tenait d’une main un sceptre d’or pour commander aux vagues ; de l’autre elle portait sur ses genoux le petit dieu Palémon son fils, pendant à sa mamelle ; elle avait un visage serein et une douce majesté qui faisait fuir les vents séditieux et toutes les noires tempêtes ; les tritons conduisaient les chevaux, et tenaient les rênes dorées : une grande voile de pourpre flottait dans l’air au-dessus du char ; elle était à demi enflée par le souffle d’une multitude de
+            petits zéphyrs qui s’efforçaient de la pousser par leurs haleines : on voyait au milieu des airs, Eole empressé, inquiet, ardent ; son visage ridé et chagrin, sa voix menaçante, ses sourcils épais et pendans ; ses yeux pleins d’un feu sombre et austère tenaient en silence les fiers aquilons, et repoussaient tous les nuages. Les immenses baleines et tous les monstres marins, faisant un flux et reflux de l’onde amère, sortaient à la hâte de leurs grottes profondes pour voir la déesse. »<bibl><author key="Fénelon"/></bibl></quote></p>
         </div>
         <div>
           <head>
             <hi rend="sc">Triton</hi>
-            <num>.</num>
           </head>
           <p>Le premier <hi rend="i">Triton</hi>, qui, selon toute apparence, a donné son nom aux autres, fut le fils aîné et le favori de Neptune. Les uns lui donnent pour mère Amphitrite ; d’autres, la nymphe Céléno. La partie supérieure de son corps avait la figure d’un homme, et le bas finissait en une grande queue double ressemblant à celle des dauphins. Triton, trompette de Neptune, en sonna dans la guerre que les dieux eurent à soutenir contre les Géans ; ces colosses, épouvantés d’un son si extraordinaire, prirent la fuite, et laissèrent aux dieux la victoire. Les tritons protégeaient la navigation.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Les Harpies</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Les Harpies</hi>, ainsi nommées d’un mot grec qui signifie <hi rend="i">j’emporte de force</hi>, étaient filles de Thamas et d’Electre, fille de l’Océan et sœur d’Iris, ou, selon d’autres de Neptune et de la Terre. Elles étaient trois, <hi rend="i">Céléno, Ocypéto et Aëlo</hi> : ces monstres voraces avaient un visage de fille, un corps de vautour, des ailes aux côtés et des griffes aux mains. On les appelait aussi oiseaux stymphalides ; tout ce qu’elles trouvaient, elles le dérobaient, ou le laissaient infecté de leur attouchement. Voici ce que la fable raconte de ces animaux, qu’on regardait comme les chiennes de Jupiter et de Junon.</p>
           <p>Phinée, roi de Thrace, connaissant les secrets des dieux fut assez téméraire pour les révéler aux hommes. Pour le punir, Jupiter le condamna à perdre la vue. Le soleil exécuta la sentence. Le maître des dieux voulut encore que l’infortuné éprouvât une faim perpétuelle, et il envoya les Harpies, qui enlevaient tout ce qu’on servait sur sa table. Le supplice de ce prince dura jusqu’à l’arrivée des Argonautes dans ses états. Le bon accueil qu’il leur fit engagea Calaïs et Zétès, fils ailés de Borée de le défaire de ces monstres.</p>
@@ -1300,7 +1260,6 @@
         <div>
           <head>
             <hi rend="sc">Néréïdes</hi>
-            <num>.</num>
           </head>
           <p>Les nymphes qui commandaient sur la mer furent appelées <hi rend="i">Néréïdes</hi>, du nom de leur père Nérée. La plus illustre des Néréïdes se nommait Tétis. Cette nymphe qu’il ne faut pas confondre avec Téthys, la grande déesse des eaux, était la plus belle personne du monde. Jupiter voulait l’épouser ; mais, ayant appris du destin que cette nymphe donnerait le jour à un fils qui serait plus grand et plus illustre que son père, le roi du ciel renonça à ses prétentions, et Thétis épousa Pélée, qui en effet devint père d’Achille.</p>
         </div>
@@ -1312,35 +1271,30 @@
         <div>
           <head>
             <hi rend="sc">Protée</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Protée</hi>, fils de l’Océan et de Téthys, avait la garde des troupeaux de Neptune, composés de phoques ou veaux marins. Protée se distinguait des autres dieux de la mer par la connaissance de l’avenir ; mais pour avoir son secret, il fallait le lier avec des cordes pendant son sommeil, sans cela il s’échappait au moment où l’on croyait le tenir : tigre, lion, serpent, il prenait toutes les formes pour effrayer ceux qui le consultaient.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Glaucus</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Glaucus</hi> faisait le métier de pêcheur. Un jour il s’aperçut que des poissons qu’il venait de poser sur le rivage, ayant goûté d’une certaine herbe, prenaient de la force et resautaient ensuite dans l’eau, il voulut en faire l’épreuve : dès qu’il en eut mangé, il se précipita dans la mer, où les dieux marins le reçurent dans leur compagnie.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Ino et Mélicerte</hi>
-            <num>.</num>
           </head>
           <p>On met au nombre des divinités de la mer, <hi rend="i">Ino</hi> et <hi rend="i">Mélicerte</hi>. Junon, toujours irritée contre le sang d’Agénor, père d’Europe et de Cadmus, troubla l’esprit d’Athamas, roi de Thèbes, au point qu’il voulut massacrer Ino et ses enfans. Surprise d’une telle violence, elle s’échappa avec Mélicerte, son fils, qu’elle tenait dans ses bras, et se précipita dans les flots. Neptune les reçut l’un et l’autre au nombre des dieux marins. Ino prit le nom de <hi rend="i">Leucothé</hi>, et Mélicerte celui de <hi rend="i">Palémon</hi>.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Phorcys</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Phorcys</hi>, dieu marin du second ordre, auquel les pilotes adressaient leurs vœux dans la tempête, était fils de Neptune et père de Méduse. Chassé par Atlas des royaumes de Corse et de Sardaigne, il trouva un asile à la cour de son père, c’est-à-dire, qu’il se noya.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Charybde et Scylla</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Charybde</hi> et <hi rend="i">Scylla</hi> sont deux monstres marins que les poètes placent dans le petit détroit qui sépare la Sicile de l’Italie.</p>
           <quote>
@@ -1350,8 +1304,8 @@
             <l>L’autre, dans sa soif renaissante,</l>
             <l>Engloutit la mer mugissante,</l>
             <l>Qu’elle revomit à l’instant.</l>
-          <bibl><author>Lamotte</author>.</bibl>
-</quote>
+            <bibl><author>Lamotte</author>.</bibl>
+          </quote>
           <p><hi rend="i">Charybde</hi>, était, dit-on, une femme cruelle, qui se jetait sur les passans pour les piller. Elle déroba quelques bœufs à Hercule, qui la tua, et elle fut changée en un monstre marin, ou plutôt en un gouffre, qui est à l’opposite de celui de Scylla. Charybde s’appelle aujourd’hui <hi rend="i">Galopharo</hi> et Scylla <hi rend="i">Scyllo</hi> ; l’un et l’autre sont des écueils dangereux.</p>
           <p><hi rend="i">Scylla</hi>, selon la fable, était fille de Phorcys et d’Hécate. Elle fut aimée de Neptune. Amphitrite, par jalousie, empoisonna la fontaine où la nymphe allait se baigner, et elle devint affreuse. Scylla méconnaissable à ses propres yeux, eut horreur d’elle-même, et dans son désespoir elle se précipita dans la mer, près du détroit qui porte son nom. D’autres, qui attribuent à la jalousie de Circé la méchante action d’Amphitrite, ajoutent que Scylla en tira vengeance en faisant périr les vaisseaux d’Ulysse, que cette magicienne aimait.</p>
           <p><author>Homère</author>, dans l’<title>Odyssée</title>, donne à Scylla six têtes et douze pieds ; chaque tête avait trois rangs de dents, sa bouche, d’une grandeur effroyable, avalait les vaisseaux tout entier ; elle avait autour de sa ceinture des chiens qui dévoraient ceux qui tombaient dans son gouffre. Ce qui a donné lieu aux aboiemens des chiens, c’est le bruit que fait l’impétuosité de l’eau quand elle se précipite dans le gouffre fort serré qui est entre Reggio et Messine. Une autre Scylla s’est rendue fameuse par sa perfidie ; voici son histoire.</p>
@@ -1359,7 +1313,6 @@
         <div>
           <head>
             <hi rend="sc">Scylla. — Nisus</hi>
-            <num>.</num>
           </head>
           <p>Minos, roi de Crète, vint mettre le siége devant Mégare pour venger la mort de son fils Androgé. <hi rend="i">Scylla</hi>, fille de <hi rend="i">Nisus</hi>, roi des Mégariens, conçut pour lui un amour insensé. Elle allait sur les murs de la ville pour entendre les sons harmonieux que rendaient les pierres lorsqu’on les touchait. Apollon, qui avait fait construire les murailles de Mégare, posait souvent sa lyre sur les pierres et leur avait communiqué cette vertu. Scylla du haut des tours se plaisait à considérer Minos dans les exercices militaires ; bientôt sa passion la détermina à le rendre maître de la place.</p>
           <p>Le destin de la ville dépendait d’un cheveu couleur de pourpre que Nisus avait sur la tête ; Scylla le lui déroba pendant son sommeil, et le porta triomphante à Minos. Ce sage roi eut tant d’horreur de cette perfidie, qu’il l’abandonna. Elle fut changée en alouette et Nisus en épervier, qui va toujours la persécutant pour sa trahison.</p>
@@ -1373,7 +1326,6 @@
       <div>
         <head>
           <hi rend="sc">Eole</hi>
-          <num>.</num>
         </head>
         <p>Entre les dieux marins, <hi rend="i">Eole</hi>, arbitre de la mer, tient un rang distingué. Eole, fils d’Hippotas, descendait de Deucalion. Sa grande sagesse l’a fait passer pour fils de Jupiter. Il présidait aux vents et aux tempêtes, parce que ce prince, habile pour ce temps-là dans l’art de la navigation, savait conduire un vaisseau sur une mer orageuse. Après en avoir fait son étude, Eole présidait par l’inspection du ciel quel vent devait souffler. Le peuple ignorant se persuada que ce prince tenait les vents enfermés dans une île de Sicile où il faisait sa demeure, qu’il leur donnait la liberté comme il le jugeait à propos.</p>
         <p>Eole vivait du temps de la guerre de Troyes. Il régnait dans les îles Eoliennes, situées au nord de la Sicile ; les mêmes que celles où les poètes disent que Vulcain tenait ses forges. On donne à Eole six garçons et six filles ; ce sont sans doute les douze vents principaux. Quand on avait un voyage à faire, on lui offrait un sacrifice.</p>
@@ -1385,7 +1337,6 @@
         <div>
           <head>
             <hi rend="sc">Calaïs et Zéthès</hi>
-            <num>.</num>
           </head>
           <p>Borée enleva Orythye, fille d’Erechthée, roi d’Athènes, lorsqu’elle s’amusait à jouer sur les bords du fleuve Hissus ; c’est-à-dire, que cette princesse se noya dans la mer, où les vents la firent tomber.</p>
           <p>Borée, l’ayant transportée en Thrace, en eut deux enfans, <hi rend="i">Calaïs</hi> et <hi rend="i">Zéthès</hi> ; noms qui signifient <hi rend="i">qui souffle fort</hi> et <hi rend="i">qui souffle doucement</hi>. Ils furent de l’expédition des Argonautes dans la Colchide, et se rendirent célèbres en délivrant des Harpies le roi Phinée et toute la Thrace. Ces deux frères avaient des ailes qui leur vinrent en même temps que les cheveux. Ils furent tués par Hercule, au retour de la Colchide, parce qu’ils s’étaient opposés à ce que le vaisseau retournât d’où il venait, pour reprendre Hercule, occupé à chercher le jeune Hylas que les nymphes avaient enlevé.</p>
@@ -1394,7 +1345,6 @@
       <div>
         <head>
           <hi rend="sc">Pluton, Proserpine, Cyane</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Pluton</hi> était fils de Saturne et de Cybèle. Dans le partage que fit Jupiter, Pluton, le dernier des trois fils de Saturne, fut le plus mal servi, puisque l’enfer tomba dans son lot. D’autres disent qu’il fonda une colonie en Espagne, pays abondant en mines très-riches que ses sujets exploitèrent.</p>
         <p>On peint ce dieu avec un visage livide, des sourcils épais, des yeux rouges et un regard menaçant ; dans sa main droite est une longue fourche ; l’autre tient une clef : sa couronne est d’ébène, de narcisses ou de cyprès. Quelquefois il couvre sa tête d’un casque qui le rend invisible ; alors il monte sur son char, s’élance du gouffre de l’Averne, et parcourt en vainqueur le séjour des mortels.</p>
@@ -1410,8 +1360,8 @@
           <l>Et, pour plaire aux lois du Ténare,</l>
           <l>Se disputent l’honneur barbare</l>
           <l>De mieux peupler les sombres lieux.</l>
-        <bibl><author>Lamotte</author>.</bibl>
-</quote>
+          <bibl><author>Lamotte</author>.</bibl>
+        </quote>
         <p>Pluton a, comme ses frères, une multitude de surnoms. On le nommait <hi rend="i">Dis</hi> ou <hi rend="i">Dives</hi>, ou Pluton, parce que ces mots signifient richesses, et qu’il y présidait comme étant renfermées dans le sein de la terre. Le nom d’<hi rend="i">Urgus</hi> lui est venu du latin <hi rend="i">urgere</hi>, parce qu’il pousse à la mort. Celui de <hi rend="i">Feubruus</hi> est tiré d’un ancien mot latin, qui signifie <hi rend="i">faire des lustrations</hi>, parce qu’on en faisait dans les cérémonies funèbres ; c’est pour cette raison que certains sacrifices usités en son honneur, s’appelaient <hi rend="i">Februa</hi>. Ces cérémonies se célébraient pendant le second mois de l’année, qui en a conservé le nom de <hi rend="i">février</hi>. On nommait aussi Pluton <hi rend="i">Summanus</hi>, souverain des mânes.</p>
         <div>
           <head>Les Mânes.</head>
@@ -1425,19 +1375,15 @@
             <l>Au point d’encenser cette esclave ?</l>
             <l>Qui la craint, vainement la prie ; et qui la brave</l>
             <l>    N’a pas besoin de la prier.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
-          <p rend="image">&lt;insérer image renneville_nouvelle-mythologie-jeune-age_image-152&gt;</p>
-          <p rend="figure">
-            <graphic url="renneville_nouvelle-mythologie-jeune-age_1847-img/image2.png"/>
-            <head/>
-            <figDesc/>
-          </p>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
+          <figure>
+            <graphic url="renneville_nouvelle-mythologie_1847-img/renneville_fig2.png"/>
+          </figure>
         </div>
         <div>
           <head>
             <hi rend="sc">Plutus</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Plutus</hi> était le dieu des richesses. Les uns le font descendre de Rhée et du Temps, sans doute parce que le temps mûrit avec lenteur les trésors dans le sein de la terre ; d’autres prétendent qu’il est fils de Cérès et de Jasion, célèbre agriculteur. Cette origine est préférable à la première, car l’agriculture est la source des véritables richesses.</p>
           <p>Les anciens représentaient Plutus aveugle. Aristophane le fait parler ainsi dans sa comédie : <quote>« Jupiter m’a ainsi maltraité en haine des hommes ; car lorsque j’étais jeune garçon, je le menaçai de ne faire de bien qu’aux sages et aux vertueux seulement : c’est pour cela qu’il m’a fait aveugle, afin que je fusse dans l’impossibilité de reconnaître les gens de mérite, tant il leur porte envie. »<bibl><author key="Aristophane"/></bibl></quote></p>
@@ -1449,21 +1395,18 @@
         <div>
           <head>
             <hi rend="sc">Cerbère</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Cerbère</hi>, chien à trois têtes, né du géant Typhon et d’Echidne, gardait la porte de l’enfer. Ce chien horrible, qui avait des serpens au lieu de poil, ne s’opposait point au passage des âmes lorsqu’elles venaient dans le noir séjour : mais il mettait à leur sortie un obstacle invincible, et les effrayait par des cris et des hurlemens épouvantables.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Caron</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Caron</hi>, fils de l’Erèbe et de la Nuit, était le nautonnier des enfers, et faisait sa demeure sur le fleuve Phlégéton. Il recevait dans sa barque les âmes qui se présentaient pour passer à l’autre bord du fleuve. Ce batelier farouche incapable de se laisser fléchir, repoussait avec rudesse ceux dont les corps n’avaient pas reçu la sépulture. Leurs âmes erraient sur le rivage, jusqu’à ce qu’on eut jeté un peu de terre sur leurs dépouilles mortelles. Caron exigeait de chaque ombre, pour son passage, une pièce de monnaie nommée <hi rend="i">naulum</hi> ; c’est pourquoi les Grecs et les Romains avaient coutume de mettre une obole dans la bouche des morts.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Les Furies</hi>
-            <num>.</num>
           </head>
           <p>Les furies, <hi rend="i">Alecto, Mégère</hi> et <hi rend="i">Tisiphone</hi>, faisaient en enfer la fonction de bourreau. On les représente tenant des flambeaux ardens, et ayant des serpens pour cheveux.</p>
           <quote>
@@ -1477,8 +1420,8 @@
             <l>    D’un flambeau toujours allumé</l>
             <l>    Son bras sanguinaire est armé,</l>
             <l>Et son front monstrueux est orné de vipères.</l>
-          <bibl><author>Rousseau</author>.</bibl>
-</quote>
+            <bibl><author>Rousseau</author>.</bibl>
+          </quote>
           <p>Ces trois sœurs sont vierges. On les dit filles de l’Achéron et de la Nuit. Leur robe, souillée de sang, est tantôt noire tantôt blanche ; noire quand elles sont irritées, et alors on les appelle <hi rend="i">Némèses</hi>, furieuses ; blanche, quand elles s’adoucissent, et on les nomme <hi rend="i">Euménides</hi>, bienfaisantes.</p>
           <p>Leur ministère ne se borne pas à châtier des ombres criminelles ; souvent elles volent au séjour des vivans, planent sur la tête du coupable, et lui brillent le sein, commençant pour lui sur la terre les supplices éternels du Tartare.</p>
           <quote>
@@ -1492,8 +1435,8 @@
             <l>Se réserve, accablé du fardeau qui l’oppresse ;</l>
             <l>Il voit, sans les goûter, les biens qu’il a perdus,</l>
             <l>Et le remords lui dit : Tu ne dormiras plus.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>Les Parques.</head>
@@ -1507,8 +1450,8 @@
             <l>           Et, pour confondre la fortune,</l>
             <l>           File d’une laine commune</l>
             <l>Les jours de l’opulence et de la pauvreté.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>Juges des Enfers.</head>
@@ -1523,8 +1466,8 @@
               <l>         Minos soumet aux mêmes lois</l>
               <l>         Les vils esclaves et les rois,</l>
               <l>Les mène aux champs heureux ou les livre à Mégère.</l>
-            <bibl><author>Rousseau</author>.</bibl>
-</quote>
+              <bibl><author>Rousseau</author>.</bibl>
+            </quote>
           </div>
           <div>
             <head>Rhadamanthe.</head>
@@ -1547,13 +1490,12 @@
             <l>Sur des gazons de fleurs toujours couverts</l>
             <l>Parmi les jeux, ces ombres fortunées</l>
             <l>Coulent en paix leurs saintes destinées.</l>
-          <bibl><author>Rousseau</author>.</bibl>
-</quote>
+            <bibl><author>Rousseau</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">Le Tartare</hi>
-            <num>.</num>
           </head>
           <p>Le <hi rend="i">Tartare</hi> était, dans les enfers, le lieu destiné au supplice des scélérats, dont les crimes ne pouvaient s’expier. C’est, dit-on, une prison obscure, qui a des portes de fer et un pavé d’airain. Elle est fortifiée de trois enceintes de murailles et entourée du fleuve Phlégéton. Une haute tour la défend. Tisiphone veille sans cesse à la porte, et empêche que personne n’en sorte.</p>
           <quote>
@@ -1567,36 +1509,32 @@
             <l>Là, le cœur du géant rebelle</l>
             <l>Fournit une proie éternelle</l>
             <l>A l’avide faim du vautour.</l>
-          <bibl><author>Lamotte</author>.</bibl>
-</quote>
+            <bibl><author>Lamotte</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>Criminels précipités dans le Tartare.</head>
           <div>
             <head>
               <hi rend="sc">Typhon</hi>
-              <num>.</num>
             </head>
             <p>Les Géans ou Titans ayant escaladé le ciel, Jupiter précipita les uns dans le Tartare, et il engloutit les autres pour toujours dans les cavernes et les gouffres du mont Etna, qu’on prétend être un soupirail de l’enfer. On raconte que l’un d’eux, nommé <hi rend="i">Typhon</hi>, est étendu sous la Sicile, de manière que son bras droit répond au Pélore, qui est vers l’Italie, son bras gauche au Pachine, qui est vers l’orient, et ses pieds sont tournés du côté de Lilybés, à l’occident. Les poètes confondent Typhon et Titye.</p>
           </div>
           <div>
             <head>
               <hi rend="sc">Titye</hi>
-              <num>.</num>
             </head>
             <p><hi rend="i">Titye</hi>, fils de Jupiter et de la Terre, énorgueilli de sa taille gigantesque et de sa force prodigieuse, osa insulter Latone. Apollon et Diane, après l’avoir percé de leurs traits, le précipitèrent dans le Tartare, où son corps étendu couvre neuf arpens.</p>
           </div>
           <div>
             <head>
               <hi rend="sc">Ixion</hi>
-              <num>.</num>
             </head>
             <p><hi rend="i">Ixion</hi>, roi des Lapithes, en Thessalie, voulant obtenir pour femme Dia, fille de Déionnée, promit à celui-ci des présens considérables ; le père lui accorda sa fille et le somma de tenir sa promesse. Ixion, sous prétexte de l’accomplir, attira chez lui Déionnée, et le fit tomber par une trappe, dans une fournaise ardente. Aussitôt les remords et les Furies vengeresses s’emparent du coupable et le livrent à toutes les horreurs du plus affreux délire. Jupiter, touché de son état l’accueille, le console, le fait asseoir à sa table. Ivre de nectar, le prince osa lever les yeux sur Junon, et lui déclarer son amour. Jupiter fit attacher l’ingrat et audacieux mortel sur une roue environnée de serpens, qui, tournant sans cesse d’un mouvement rapide, lui disloquait les membres sans lui donner jamais de repos.</p>
           </div>
           <div>
             <head>
               <hi rend="sc">Les Danaïdes</hi>
-              <num>.</num>
             </head>
             <p>Danaüs et Egyptus étaient fils de Bélus. Egyptus s’empara du royaume qui porte son nom, et il obligea son frère d’aller chercher fortune. Danaüs détrôna Sthélenus, roi d’Argos, et régna à sa place. Il eut cinquante filles de plusieurs femmes ; Egyptus eut dans le même espace de temps cinquante garçons. Les cinquante mariages furent proposés et célébrés. Mais, le soir même de la célébration, Danaüs, auquel un oracle avait prédit qu’il serait détrôné par un de ses gendres, assemble ses filles, et, les armant chacune d’un poignard, leur ordonne d’assassiner leurs époux pendant leur sommeil. Elles exécutèrent ce barbare commandement ; la seule Hypermestre sauva la vie à Lyncée. Elle s’enfuit du côté de Larisse tandis que son époux allait à Lyrce, ville voisine d’Argos. La nuit suivante, ils montèrent l’un et l’autre sur une tour, et pour s’instruire mutuellement de leur arrivée, ils allumèrent chacun un flambeau.</p>
             <p>Quelque temps après l’oracle se vérifia, Lyncée, vainqueur de Danaüs, monta sur le trône d’Argos. Les Danaïdes furent condamnées par les dieux à remplir continuellement un tonneau percé sans espérance de pouvoir jamais y réussir.</p>
@@ -1621,20 +1559,21 @@
               <l>Un seul coup de son bras mit tout l’ouvrage en poudre,</l>
               <l>Et le monarque impie, enveloppé d’éclairs,</l>
               <l>Avec son char brûlant tomba dans les enfers.</l>
-              <bibl><author key="anonime"/></bibl>
+              <bibl>
+                <author key="anonime"/>
+              </bibl>
             </quote>
           </div>
           <div>
             <head>
               <hi rend="sc">Phlégias</hi>
-              <num>.</num>
             </head>
             <p><hi rend="i">Phlégias</hi> était roi d’un canton de la Béotie nommé de son nom Plégyade. Il osa mettre le feu au <title>temple de Delphes</title>. Apollon outragé ne laissa pas ce sacrilége impuni, il le précipita dans les enfers, où il est dans une continuelle appréhension de la chute d’une masse de rocher qui paraît suspendue sur sa tête. Si l’on en croit <author>Virgile</author>, Phlégyas est le prédicateur de ces tristes lieux, où il répète continuellement aux ombres : <quote><hi rend="i">Apprenez par mon exemple, à respecter les dieux et la justice.</hi><bibl><author key="anonime"/></bibl></quote> Mais comme dit fort plaisamment <author>Scaron</author>, ce sermon est inutile, puisqu’il s’adresse à des gens qui ne sont plus en état de pratiquer cette leçon.</p>
             <quote>
               <l>Cette sentence est bonne et belle ;</l>
               <l>Mais en enfer de quoi sert-elle ?</l>
-            <bibl><author>Scaron</author>.</bibl>
-</quote>
+              <bibl><author>Scaron</author>.</bibl>
+            </quote>
           </div>
           <div>
             <head>Tantale.</head>
@@ -1642,14 +1581,15 @@
             <quote>
               <l>Tantale dans un fleuve a soif, et ne peut boire,</l>
               <l>Tu ris ? change de nom, sa fable est ton histoire.</l>
-              <bibl><author key="Horace"></author></bibl>
+              <bibl>
+                <author key="Horace"/>
+              </bibl>
             </quote>
           </div>
         </div>
         <div>
           <head>
             <hi rend="sc">La Nuit</hi>
-            <num>.</num>
           </head>
           <p>Quel silence morne ! quel pâle crépuscule éclaire ces ténèbres éternelles !</p>
           <quote>
@@ -1658,15 +1598,14 @@
             <l>    Qui des sombres complots dérobe les détours ;</l>
             <l>        Qui sans témoins laisse le vice,</l>
             <l>        Et l’innocence sans secours.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>Les anciens regardaient la <hi rend="i">Nuit</hi> comme une déesse. Ils la disaient fille aînée du Chaos. On lui donne pour enfans l’Ether et le Jour, dont le père était l’Erèbe. On dit qu’elle engendra toute seule le <hi rend="i">Destin</hi>, la <hi rend="i">Mort</hi>, le <hi rend="i">Sommeil</hi>, les <hi rend="i">Songes</hi>, la <hi rend="i">Crainte</hi>, l’<hi rend="i">Obstination</hi>, la <hi rend="i">Douleur</hi>, l’<hi rend="i">Envie</hi>, le <hi rend="i">Travail</hi>, la <hi rend="i">Vieillesse</hi>, la <hi rend="i">Fraude</hi>, les <hi rend="i">Parques</hi>, la <hi rend="i">Misère</hi>, les <hi rend="i">Ténèbres</hi> ; en un mot on regardait comme enfant de la Nuit chaque chose nuisible et pernicieuse à l’homme. Quelques auteurs font naître <hi rend="i">Uranus</hi> (le Ciel), et <hi rend="i">Thitea (</hi>la Terre), de l’Océan et de la Nuit.</p>
           <p>On dépeint cette divinité vêtue et couverte d’un grand voile noir, allant sur un char précédé par les astres. Les uns lui donnent des ailes, d’autres la représentent sans char, tenant d’une main un grand voile, et tournant de l’autre un flambeau vers la terre, pour l’éteindre ; enfin on la voit ailleurs sur son char, tenant un grand voile tout parsemé d’étoiles sur sa tête.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Le Sommeil</hi>
-            <num>.</num>
           </head>
           <p>Les anciens faisaient le Sommeil fils de l’Erèbe et de la Nuit, et frère de la Mort et de l’Espérance. Son palais était impénétrable aux rayons du jour, et l’on n’y entendait d’autre bruit que le doux murmure du Léthé. Sur le bord de ce fleuve croissaient des pavots et d’autres plantes, dont la Nuit exprimait les sucs assoupissans pour les répandre ensuite sur la terre. Au milieu du palais, on voyait un lit d’ébène couvert d’un rideau noir, c’était là, que reposait le paisible dieu du Sommeil, environné des Songes. Morphée, son principal ministre, veillait près de lui avec Phobétor et Tantale, tous trois enfans du Sommeil. On peint toujours Morphée tenant des pavots à la main. Son nom signifie <hi rend="i">Figure</hi> ou <hi rend="i">Image</hi> ; parce que, durant le Sommeil, il se présente souvent à nous sous la figure des êtres qui nous intéressent. Le palais du Sommeil avait deux portes, l’une de corne et l’autre d’ivoire. Par celle de corne, sortaient les songes vrais, et par celle d’ivoire les songes trompeurs et insignifians. A travers le prisme de ces songes, qui réduit tout à sa juste valeur, le sage voit tour à tour :</p>
           <quote>
@@ -1682,8 +1621,8 @@
             <l>       Les seuls plaisirs dans l’espérance,</l>
             <l>       Les tourmens dans la jouissance,</l>
             <l>       Et le néant dans la grandeur.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>On représente ordinairement le Sommeil sous la figure d’un jeune homme qui dort la tête appuyée sur des pavots, ou d’un enfant assoupi qui a des ailes sur le dos, et tient une corne d’abondance, d’où sortent des pavots et une espèce de vapeur. Les songes sont représentés avec des ailes de chauve-souris toutes noires.</p>
           <p>M. Lagrange-Chancel a fait la description de la descente d’Orphée aux enfers ; voici comme il s’exprime :</p>
           <quote>
@@ -1703,7 +1642,9 @@
             <l>S’asseoir, l’un sur sa roue, et l’autre sur sa roche,</l>
             <l>Titye à son vautour cesse d’être livré,</l>
             <l>Et Tantale abreuver son gosier altéré.</l>
-            <bibl><author key="Lagrange-Chancel"></author></bibl>
+            <bibl>
+              <author key="Lagrange-Chancel"/>
+            </bibl>
           </quote>
         </div>
         <div>
@@ -1730,14 +1671,13 @@
             <l>       Ce cygne, celui d’Italie,</l>
             <l>       Cette fauvette était Délie ;</l>
             <l>       Ce rossignol, Anacréon.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
         </div>
       </div>
       <div>
         <head>
           <hi rend="sc">Pan</hi>
-          <num>.</num>
         </head>
         <p><hi rend="i">Pan</hi>, dieu des bergers et des montagnes, une des plus considérables parmi les divinités champêtres, était fils de Mercure. Il avait la tête, les pieds, la barbe et les cornes d’un bouc. Les Satyres et les Sylvains qu’on représente avec la même figure, étaient ses compagnons. Une troupe de nymphes le suivaient toujours, il les faisait danser au son de la flûte dont on le croyait l’inventeur.</p>
         <div>
@@ -1761,7 +1701,6 @@
         <div>
           <head>
             <hi rend="sc">Syrinx</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Syrinx</hi>, nymphe d’Arcadie, fille du fleuve Ladon, était une des plus fidèles compagnes de Diane, qui avait juré d’être toujours chaste et pure. Un jour qu’elle descendait du mont Lycée, Pan la rencontra, et tâcha, mais en vain, de lui faire croire qu’il l’aimait ; la nymphe alarmée des poursuites du dieu, et voulant s’y soustraire, prit la fuite. Lorsqu’elle fut près des bords du fleuve Ladon, son père, elle invoqua Diane, qui la changea en roseau.</p>
           <p>Cette fable est purement historique. Pan ayant remarqué que l’air agité dans un roseau y rendait une espèce de son, s’en servit pour faire une flûte qui porta le nom de Syrinx, d’un mot grec qui signifie roseau.</p>
@@ -1770,14 +1709,12 @@
         <div>
           <head>
             <hi rend="sc">Pitys</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Pitys</hi>, moins sage que Syrinx, écouta le dieu ; mais Borée, qui aimait éperdument cette nymphe, dans sa fureur jalouse, la précipita du haut d’un roc ; pendant sa chute, les dieux la métamorphosèrent en pin, arbre qui se plaît sur les montagnes. Dans la suite on le consacra à Pan, qui en porta une guirlande.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Echo</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Echo</hi>, nymphe des bois, qui fut aimée du dieu Pan, avait un esprit fort agréable. Elle sut plaire à Junon, qu’elle amusait par des contes, au point de détourner son attention de la conduite volage de Jupiter. La déesse s’apercevant de l’artifice, lui interdit la parole, et la condamna à ne parler qu’après les autres, pour répéter les dernières syllabes qu’ils prononceraient.</p>
           <p>Echo devint éprise de Narcisse, beau jeune homme qui n’aimait que lui ; elle le suivit en vain sur les montagnes et dans les forêts. Désespérée de ne pouvoir toucher son cœur, elle se cacha dans les bois où elle sécha de douleur, et ses os furent changés en pierres.</p>
@@ -1785,7 +1722,6 @@
         <div>
           <head>
             <hi rend="sc">Narcisse</hi>
-            <num>.</num>
           </head>
           <p>Ce jeune homme, dont la beauté a fait tant de bruit, était fils du fleuve Céphise et de Liriope nymphe de la mer. Dès qu’il fut né, son père fut consulter Tirésias sur son sort. Ce célèbre devin répondit qu’il parviendrait à une extrême vieillesse, s’il pouvait éviter de se voir. La beauté de Narcisse le fit aimer de toutes les Nymphes, et entre autres d’Echo. L’indifférence qu’il eut pour elles fut bientôt punie. Un jour qu’il revenait de la chasse, accablé de lassitude, de chaleur, et mourant de soif, il courut à une fontaine pour se désaltérer. Ayant vu son image dans le miroir des eaux, il devint amoureux de sa propre figure, et mourut de cette folle passion.</p>
           <p>Le soir, en descendant des montagnes, les Oréades aperçurent le corps immobile de Narcisse. A cette vue, les nymphes, vengées de ses mépris, versent des larmes amères. Elles se dispersent dans toute la contrée, et rassemblent à grands cris leurs compagnes pour célébrer les funérailles de Narcisse. Les nymphes, couronnées de cyprès, s’avancent lentement vers la rive fatale ; mais elles y cherchent en vain le corps de celui qu’elles regrettent ; elles ne trouvent à sa place qu’une fleur nouvelle. Les anciens consacraient cette fleur aux Euménides.</p>
@@ -1793,7 +1729,6 @@
         <div>
           <head>
             <hi rend="sc">Aristée</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Aristée</hi>, fils d’Apollon et de la nymphe Cyrène, apprit des nymphes à cailler le lait et à cultiver les oliviers ; il s’appliqua surtout au grand soin que demandent les abeilles ; il savait les conserver et en réparer la perte. Les poètes, pour exagérer les talens d’Aristée en ce genre, ont inventé la fable suivante :</p>
           <p>Aristée devint éperdûment amoureux d’Eurydice. Comme elle fuyait ses poursuites, le jour même de ses noces avec Orphée, elle fut piquée d’un serpent et elle en mourut. Les nymphes, touchées de son malheur, tuèrent toutes les abeilles d’Aristée, qu’elles croyaient cause de la mort de cette princesse. Aussitôt le fils de Cyrène alla trouver sa mère dans la grotte profonde qu’elle habitait à la source du Pénée ; il se plaignit à elle de son infortune, et lui demanda ce qu’il fallait faire pour réparer sa perte. Cyrène lui conseilla de s’adresser à Protée comme à un génie à qui rien n’était inconnu. Surpris de cet accident, Protée lui ordonna d’apaiser les mânes d’Eurydice, en faisant un sacrifice de quatre génisses et de quatre taureaux, l’assurant qu’il en sortirait plusieurs essaims d’abeilles. Aristée exécuta ponctuellement ce qu’il ordonnait, et il répara ses pertes.</p>
@@ -1801,7 +1736,6 @@
         <div>
           <head>
             <hi rend="sc">Palès</hi>
-            <num>.</num>
           </head>
           <p>Il ne paraît pas que les Grecs aient connu cette déesse. <hi rend="i">Palès</hi>, invoquée chez les Romains par les pasteurs, régnait sur les prés et sur les troupeaux. Quelques-uns la confondent avec Cybèle ou Vesta. Sa parure était aussi simple que son culte : on la peint couverte d’un voile, un peu de laurier et de romarin couronne ses cheveux, parce que durant ses fêtes, les bergers purgeaient leurs troupeaux, en mêlant du romarin et du laurier dans leur pâturage. Elle tient une poignée de paille, qui sert de litière aux bestiaux. Quelques étymologistes font venir son nom de <hi rend="i">Palea</hi>, paille. Il est certain qu’on célébrait en son honneur une fête nommée <hi rend="i">Palilia</hi>, ou fête de Palès particulière aux bergers. Cette fête se faisait au milieu des champs, le premier de mai, jour de la fondation de Rome par Romulus. Ce fut, dit-on, ce prince même qui l’établit, pour célébrer le jour annuel de la fondation de cette ville. Les pasteurs offraient à Palès du lait et du miel ; puis allumant, à des distances égales, trois grands feux de paille, ils sautaient pardessus ; le plus agile remportait le prix, qui, ordinairement, était une jeune chèvre ou un agneau.</p>
           <quote>
@@ -1809,13 +1743,14 @@
             <l>      Rendait hommage à la Divinité,</l>
             <l>Ses fêtes commençaient par la reconnaissance</l>
             <l>      Et finissaient par la gaîté.</l>
-          <bibl><author>Demoustier</author></bibl>
-</quote>
+            <bibl>
+              <author>Demoustier</author>
+            </bibl>
+          </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">Picus. — Canente</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Picus</hi>, père de Faune et fameux augure, était fils de Saturne, et roi de <hi rend="i">Lauretanum</hi>, en Italie. Ce prince fut, dit-on, changé en pivert par la magicienne Circé. L’usage que ce roi faisait du pivert dans les augures, ou l’allusion de son nom, aura sans doute donné lieu à cette fable.</p>
           <p>Picus avait épousé la nymphe <hi rend="i">Canente</hi>, à qui la beauté de sa voix fit donner ce nom. Canente aimait si tendrement son mari, que, lorsqu’il mourut, elle passa plusieurs jours sans manger ni dormir, courant parmi les bois et les montagnes. Enfin, accablée de lassitude, et consumée par la douleur, elle se coucha sur les bords du Tibre ; son corps desséché disparut peu à peu et s’évapora dans les airs, de sorte qu’il ne resta plus d’elle que la voix.</p>
@@ -1824,7 +1759,6 @@
         <div>
           <head>
             <hi rend="sc">Faunes</hi>
-            <num>.</num>
           </head>
           <p>Picus et Canente laissèrent pour héritier <hi rend="i">Faune</hi>, qui fut le quatrième roi d’Italie. Le courage et la rare prudence de ce prince l’ont rendu célèbre. Voulant enrichir ses sujets, il fit son étude de l’agriculture, les appliqua au labourage et les rendit industrieux. De si grands bienfaits lui méritèrent après sa mort les honneurs divins.</p>
         </div>
@@ -1833,7 +1767,6 @@
             <hi rend="sc">Fauna.</hi>
             <num> — </num>
             <hi rend="sc">Sterculie</hi>
-            <num>.</num>
           </head>
           <p>Faune épousa <hi rend="i">Fauna</hi>, sa sœur. Il en eut d’abord un fils nommé <hi rend="i">Sterculie</hi>, de <hi rend="i">sterculum</hi>, qui signifie fumier, engrais. Les Romains l’ont mis au nombre des dieux, en reconnaissance de ce qu’il leur avait appris à fumer les terres. Ses autres enfans furent les Faunes, qu’on mit de même au rang des dieux champêtres.</p>
           <p>Fauna ayant perdu son époux, s’enferma seule, et mourut sans avoir parlé à aucun homme. Les Latins la déifièrent : elle devint la patronne des dames romaines. <title>Fauna avait à Rome un temple</title>, dont les prêtres distribuaient au peuple de simples pour toutes les maladies. Les Romains confondaient Fauna avec Cybèle, ou la bonne déesse, et lui donnaient les mêmes attributs. Les dames romaines célébraient ces fêtes durant la nuit, et il était défendu aux hommes d’approcher du lieu où se célébraient les mystères. Le talent que Fauna avait de prédire lui fit donner le nom de <hi rend="i">Fatua</hi> ou <hi rend="i">Fatidica</hi>.</p>
@@ -1841,14 +1774,12 @@
         <div>
           <head>
             <hi rend="sc">Les Satyres. — Priape. — Les Sylènes</hi>
-            <num>.</num>
           </head>
           <p>Les dieux qui ressemblent le plus aux enfans de Fauna, sont les <hi rend="i">Satyres</hi>, qui ne diffèrent des Faunes que parce qu’ils ont toujours des pieds de chèvres, et qu’ils portent tantôt un thyrse, tantôt une flûte ou un tambourin pour faire danser les nymphes. <hi rend="i">Priape</hi> marche à leur tête. Ce dieu préside aux jardins, et l’on mettait ordinairement sa figure pour servir d’épouvantail. <author>Horace</author> se moque agréablement de la figure de Priape, lorsqu’il dit qu’un ouvrier, voulant employer un mauvais morceau de bois, aima mieux en faire un dieu qu’un banc. On appelle <hi rend="i">Silènes</hi> les satyres avancés en âge. Le plus ancien est le père nourricier de Bacchus.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Sylvain</hi>
-            <num>.</num>
           </head>
           <p>Le dieu <hi rend="i">Sylvain</hi>, qui présidait aux forêts, protégeait aussi les troupeaux, partageait avec le dieu Terme la garde des limites champêtres. L’Italie prodigua les honneurs à Sylvain, dans la croyance que né dans le pays, il l’avait gouverné sagement, et que le peuple se trouvait heureux sous son règne.</p>
           <p>Sylvain eut un grand nombre de fils, qui tous portèrent son nom. On les confond avec les Faunes, parce que leurs figures et leurs attributs sont les mêmes, mais leur origine est différente.</p>
@@ -1857,7 +1788,6 @@
         <div>
           <head>
             <hi rend="sc">Flore</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Flore</hi>, nommée <hi rend="i">Cloris</hi> chez les Grecs, est la déesse des fleurs. On dit que Zéphyre en étant devenu amoureux, l’enleva pour en faire sa femme. Il lui donna l’empire des fleurs, et la fit jouir d’un printemps perpétuel.</p>
           <p>Le culte de Flore fut établi chez les Sabins long-temps avant la fondation de Rome. Ce fut Tatius qui introduisit son culte à Rome : il lui consacra <title>un temple</title> dans cette ville. Les Phocéens, fondateurs de Marseille, honoraient cette déesse, dont <author>Praxitèle</author> même fit <title>la statue</title> : aussi son culte passa de la Grèce en Italie. Dans la suite, une courtisane, nommée Flore, qui avait acquis de grandes richesses, fit le sénat son héritier, ce qui lui valut une apothéose. On institua en son honneur les <hi rend="i">jeux floraux</hi>. Ils furent célébrés, pour la première fois, le 4 des calendes de mai, c’est-à-dire, le 28 avril, l’an de Rome 513, avant J.-C. 241. <title>La statue de la déesse</title> paraissait dans ces jeux, couronnée de guirlandes et couverte d’une draperie qu’elle tenait de la main droite ; de l’autre elle présentait une poignée de pois et de fèves, parce que, durant les jeux floraux, les édiles jetaient ces légumes au peuple de Rome.</p>
@@ -1865,14 +1795,12 @@
         <div>
           <head>
             <hi rend="sc">Féronie</hi>
-            <num>.</num>
           </head>
           <p>Déesse à laquelle les anciens donnaient l’intendance des bois et des vergers. Elle prenait ce nom de la ville de <hi rend="i">Féronie</hi>, située au pied du mont Soracte, aujourd’hui Saint-Sylvestre, au sommet duquel cette déesse avait <title>un temple</title>. Sur la même montagne il y avait un petit bois qui lui était consacré ; le feu y prit par hasard ; aussitôt les habitans se hâtèrent d’aller prendre la <title>statue de la déesse</title> pour la transporter ailleurs, mais tout-à-coup le bois se couronna d’une verdure nouvelle. Ce miracle accrédita tellement Féronie, que ses prêtres osaient se vanter de marcher pieds nus, sans se brûler, sur des charbons ardens. Une fois l’année on faisait un sacrifice en ce lieu. Les voyageurs s’y arrêtaient pour rendre hommage à la déesse. <author>Horace</author>, qui avait passé dans ce canton, dit qu’il se lava le visage et les mains à la fontaine sacrée qui coulait à l’entrée du bois. Il existe encore des médailles d’Auguste où l’on voit cette déesse avec une couronne. Les affranchis la prenaient pour leur divinité, parce que c’était dans son temple qu’ils prenaient le chapeau ou le bonnet, marque de leur affranchissement, lorsqu’ils étaient mis en liberté.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Pomone</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Pomone</hi> était une nymphe que les anciens regardaient comme la déesse des jardins et des fruits. Les dieux champêtres s’en disputaient la conquête ; mais Vertumne fut celui de tous qui montra le plus d’empressement à lui plaire. Ce dieu, après avoir pris différentes formes pour avoir occasion de la voir, trouva moyen de lier conversation avec elle, et sous la figure d’une vénérable vieille, il put enfin se faire écouter.</p>
           <p>Selon <author>Ovide</author>, Pomone, l’une des plus vigilantes hamadryades, se plaisait à cultiver les jardins et les arbres, surtout les pommiers, d’où lui vient son nom. Ce poète ajoute qu’elle vivait du temps de Procas, roi des Latins, c’est-à-dire, vers l’an 805 avant J.-C. Cette nymphe était sans doute une belle personne qui aimait la vie champêtre, et faisait son unique occupation de la culture des arbres fruitiers ; et ses talens en ce genre lui méritèrent les honneurs divins.</p>
@@ -1881,7 +1809,6 @@
         <div>
           <head>
             <hi rend="sc">Vertumne</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Vertumne</hi>, dieu des jardins et des vergers, est ainsi appelé du mot latin <hi rend="i">vertere</hi>, tourner, changer, parce qu’il prenait à volonté toutes sortes de formes. Il se servit surtout de cette faculté pour s’approcher de Pomone, dont il était devenu amoureux ; il parut devant elle en moissonneur chargé de gerbes de blé, en général d’armée prêt à livrer bataille ; en pêcheur avec des filets à la main. Quelquefois il portait une échelle sur ses épaules, pour cueillir des fruits. Tantôt c’était un véritable vigneron, ayant une serpe à la main ; tantôt un faucheur, la tête couronnée de foin et la faulx sur l’épaule ; une autre fois on le voyait comme un bouvier qui quitte la charrue, l’aiguillon à la main. A la faveur de tous ces déguisemens, il avait le plaisir de contempler les traits de la nymphe, mais il ne pouvait pas lui parler. Voulant à tout prix l’avoir pour épouse, il se métamorphosa en vieille ; tout-à-coup son visage se couvre de rides et ses cheveux deviennent blancs ; il s’enveloppe dans des coiffes, et entre dans les jardins de la nymphe. Il parla pour lui-même avec tant d’éloquence, que Pomone se laissa persuader, et elle devient sa femme.</p>
         </div>
@@ -1889,14 +1816,12 @@
       <div>
         <head>
           <hi rend="sc">Les Pénates</hi>
-          <num>.</num>
         </head>
         <p>Les dieux <hi rend="i">Pénates</hi> étaient regardés comme les dieux de la patrie. En vain cherche-t-on des étymologies grecques et latines de ce mot Pénates, puisque leur nom, leur culte et leurs mystères nous viennent des Samothraces et des Phrygiens. Ils s’appelaient les dieux, les bons dieux et les puissans dieux. Les Pénates Troyens avaient été transportés par Dardanus de la Phrygie dans la Samothrace ; Enée les apporta de Troyes en Italie : dans <title>un temple, à Rome</title>, près du marché, on voyait leurs <title>statues</title> sous la figure de deux jeunes hommes assis, armés chacun d’une pique.</p>
         <p>Lorsque ces dieux sont regardés comme les protecteurs des maisons particulières, ils ne diffèrent point des dieux Lares. Dans le palais d’Auguste il y avait un grand appartement pour les dieux Pénates. Les Pénates domestiques se prenaient parmi les grands dieux, quelquefois même parmi les hommes déifiés. Une des lois des douze Tables ordonnait de célébrer religieusement les sacrifices des dieux Pénates. D’abord ces dieux ne furent que les mânes des ancêtres qu’on honorait par devoir. Leur fête se célébrait un jour des Saturnales.</p>
         <div>
           <head>
             <hi rend="sc">Les Lares. — Les Lémures</hi>
-            <num>.</num>
           </head>
           <p>Les Pénates domestiques ou <hi rend="i">Lares</hi>, étaient les protecteurs des empires, des villes, des chemins, des maisons, et de chaque particulier qui les choisissait selon son intérêt, les adoptait pour sa conservation, et les regardait comme de bons génies qui veillaient au succès de ses affaires et protégeaient sa famille. De là les Lares publics, qui présidaient aux bâtimens, <hi rend="i">publici</hi> ; ceux de la mer, <hi rend="i">permarini</hi> ; des chemins, <hi rend="i">viales</hi> ; des champs, <hi rend="i">rurales</hi> ; des ennemis, qu’ils avaient soin d’éloigner, <hi rend="i">hostiles</hi> ; des maisons particulières, <hi rend="i">familiares</hi> ; ceux des villes, <hi rend="i">urbani</hi> ; ceux des carrefours, <hi rend="i">compitales</hi>. On leur donnait en général le nom de <hi rend="i">præstare opem</hi>, secourir.</p>
           <p>Selon quelques-uns, les Lares n’étaient autre chose que les âmes de ceux qui avaient bien vécu, ou qui avaient bien servi la patrie ; c’est pour cela qu’on voit sur des médailles, <hi rend="i">Laribus Augusti</hi>.</p>
@@ -1954,8 +1879,8 @@
             <l>Fermez vite et porte et fenêtre !</l>
             <l>Après m’avoir sauvé du traître,</l>
             <l>Défendez-moi de l’ennuyeux.</l>
-          <bibl><author>Ducis</author>.</bibl>
-</quote>
+            <bibl><author>Ducis</author>.</bibl>
+          </quote>
           <p>La coutume ancienne d’enterrer les morts dans les maisons a donné lieu au peuple de croire que les âmes y demeuraient aussi comme des génies propices et secourables, et il les honora sous le nom de dieu. La coutume s’étant introduite d’enterrer les morts sur les grands chemins, les Lares en devinrent les protecteurs.</p>
           <p>Presque tous les jours on offrait aux dieux domestiques du vin, de l’encens, une couronne de laine et une petite partie de ce qu’on servait sur la table.</p>
           <p>Outre ce culte particulier, on honorait publiquement les dieux Lares dans les carrefours sous le nom de <hi rend="i">Compitalitii</hi>. Une des cérémonies de cette fête était de suspendre dans les rues de petites figures d’hommes, faite de cire ou de laine, et de prier les dieux de détourner toute leur colère sur ces simulacres.</p>
@@ -1963,7 +1888,6 @@
         <div>
           <head>
             <hi rend="sc">Les Génies</hi>
-            <num>.</num>
           </head>
           <p>D’abord les <hi rend="i">Génies</hi> furent nommés <hi rend="i">Gerules</hi>. Ce nom est commun aux démons, aux Lares, aux Lémures et aux Pénates. On croyait que chaque homme avait deux génies, l’un heureux et l’autre malheureux, qui présidaient à sa naissance et veillaient spécialement sur sa personne. Le bon génie, n’inspirant que l’amour de l’honneur et de la vertu, procurait le bonheur dont on jouissait ; on imputait à l’autre les mauvais penchans et tout le mal qui en résulte ; de sorte que le sort de chacun dépendait de la supériorité d’un génie sur l’autre. Ceux des femmes se nommaient <hi rend="i">Junones</hi>. Il y avait des génies plus puissans les uns que les autres ; ce qui a fait dire aux auteurs que le génie d’Antoine redoutait celui d’Auguste.</p>
           <p>On représentait ces petites divinités sous la figure d’un jeune homme tenant d’une main un vase à boire, et de l’autre une corne d’abondance, et quelquefois sous la figure d’un serpent. On l’honorait surtout le jour de sa naissance, en répandant par terre une grande quantité de fleurs, et en lui présentant du vin dans des coupes. Le front lui était particulièrement consacré.</p>
@@ -1972,7 +1896,6 @@
         <div>
           <head>
             <hi rend="sc">Le Destin</hi>
-            <num>.</num>
           </head>
           <p>Quelques auteurs font le <hi rend="i">Destin</hi> fils de la nuit : ils l’appellent <hi rend="i">Fatum</hi>. Cette divinité aveugle, supérieure à toutes les autres, gouvernait l’univers par une fatale et inévitable nécessité : tous les autres dieux, et Jupiter lui-même étaient soumis à ses décrets. Ce dieu avait des oracles et un culte ; les trois Parques se chargeaient du soin de faire exécuter ses ordres.</p>
           <p>On représente le destin avec un livre où tout l’avenir était écrit, et que les autres dieux consultaient ; il tient dans ses mains l’urne qui renferme le sort des mortels. Voici la description de son <title>temple</title> :</p>
@@ -2010,8 +1933,8 @@
             <l>D’un bras de fer courbe le front des rois,</l>
             <l>Tient sous ses pieds la terre assujétie,</l>
             <l>Et dit au temps : « Exécute mes lois. »</l>
-          <bibl><author>Dorat</author>.</bibl>
-</quote>
+            <bibl><author>Dorat</author>.</bibl>
+          </quote>
           <quote>
             <l>Le Temps, d’une aile prompte et d’un vol insensible,</l>
             <l>Fuit et revient sans cesse à ce palais terrible ;</l>
@@ -2019,20 +1942,18 @@
             <l>Et les biens et les maux destinés aux humains :</l>
             <l>Sur un autel de fer, un livre inexplicable,</l>
             <l>Contient de l’avenir l’histoire irrévocable.</l>
-          <bibl><author>Voltaire</author>.</bibl>
-</quote>
+            <bibl><author>Voltaire</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">La Foi</hi>
-            <num>.</num>
           </head>
           <p>La <hi rend="i">Foi</hi>, divinité que les Romains adoraient, fut introduite par Numa Pompilius. On la représente par deux jeunes filles qui se donnent la main, ou par deux mains passées l’une dans l’autre, comme on se les donne en signe de bienveillance. Ses prêtres, pour faire connaître qu’ils agissaient, avec une extrême sincérité, avaient la tête et les mains couvertes d’un voile blanc.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">La Fortune</hi>
-            <num>.</num>
           </head>
           <p>Quelques poètes qui font la <hi rend="i">Fortune</hi> fille de l’Océan, disent qu’elle était une des nymphes qui cueillaient des fleurs avec Proserpine lorsqu’elle fut enlevée. Cette déesse, quoiqu’aveugle, fut une divinité puissante et révérée chez les anciens, qui croyaient que les événemens de la vie des hommes étaient son ouvrage, et qu’elle dispensait à son gré les honneurs, les richesses et les autres biens de la vie. Elle les donne en effet, ou les ôte selon son caprice, sans aucun égard pour le mérite ou pour la vertu ; c’est pourquoi on la dépeint sous la forme d’une vieille, avec du feu dans la main droite et de l’eau dans la gauche, quelquefois on lui met un bandeau sur les yeux : faut-il s’étonner si l’aveugle déesse met l’esclave à la place du prince, et le prince à celle de l’esclave ? Inconstante et volage, après avoir élevé ses favoris au comble des honneurs, elle les abandonne tout-à-coup, et les replonge dans la bassesse et dans la misère. Malgré ses injustices, les hommes de toutes les classes lui adressaient leurs vœux : les princes, les grands avaient dans leurs palais <title>une statue d’or de la Fortune</title>, qu’ils honoraient d’un culte particulier, afin qu’elle leur fut toujours favorable.</p>
           <p><title>La plus ancienne de toutes les statues de la Fortune se voyait à Smyrne</title> ; elle était l’ouvrage de <author>Bupale</author>, fameux sculpteur : il la représentait portant le ciel sur sa tête ; et tenant dans une main la corne d’abondance. Chaque poète s’est plu à lui donner une forme nouvelle : l’un la peint debout avec des ailes, un pied sur une roue qui tourne, et l’autre en l’air ; l’autre la place sur un char traîné par des chevaux aveugles. Un ancien a dit fort ingénieusement que la meilleure façon de l’honorer était de l’accabler d’injures et de reproches. Rousseau lui a adressé une belle ode, dont voici la première strophe :</p>
@@ -2047,7 +1968,9 @@
             <l>Verra-t-on toujours tes caprices</l>
             <l>Consacrés par les sacrifices</l>
             <l>Et les hommages des mortels ?</l>
-            <bibl><author key="Rousseau"></author></bibl>
+            <bibl>
+              <author key="Rousseau"/>
+            </bibl>
           </quote>
           <p>Le même poète, en parlant de l’inconstance de cette déesse, dit ailleurs :</p>
           <quote>
@@ -2059,20 +1982,20 @@
             <l>Elle nous promène à son gré :</l>
             <l>Le seul remède à ses caprices,</l>
             <l>C’est de s’y tenir préparé.</l>
-            <bibl><author key="Rousseau"></author></bibl>
+            <bibl>
+              <author key="Rousseau"/>
+            </bibl>
           </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">La Nécessité</hi>
-            <num>.</num>
           </head>
           <p>On regardait la <hi rend="i">Nécessité</hi> comme la mère de la Fortune. Le pas que les poètes lui donnent sur cette déesse marque que, toute grande qu’est la Fortune, et quelque absolu que soit son pouvoir, la Nécessité commande encore avec plus d’empire. On la représente tenant dans ses mains de bronze de longues chevilles et du plomb fondu, qui unissent et lient les pierres, les poutres et tout ce qu’il y a de plus difficile à joindre ; elle porta aussi des coins de fer, qui divisent les liaisons les plus fortes et les plus intimes.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Némésis</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Némésis</hi>, fille de la Nuit et de l’Océan, avait la fonction de châtier ceux qui abusaient des faveurs de la fortune ; elle punissait aussi les ingrats. Son front est calme, son regard est sévère, et sa démarche assurée. Une couronne de narcisses couvre sa noire chevelure ; un voile léger flotte sur ses épaules, et descend à longs plis jusqu’à terre ; elle tient dans ses mains un frein et un compas, l’un pour maîtriser la fougue des passions, l’autre pour mesurer parmi les hommes, les peines les récompenses et l’égalité.</p>
           <quote>
@@ -2082,8 +2005,8 @@
             <l>Qui du faible opprimé protége l’innocence,</l>
             <l>Et fait fléchir l’orgueil de l’injuste opulence</l>
             <l>        Devant l’honnête pauvreté.</l>
-          <bibl><author>Demoustier</author>.</bibl>
-</quote>
+            <bibl><author>Demoustier</author>.</bibl>
+          </quote>
           <p>Quelquefois Némésis tient une lance pour frapper le vice, et une coupe remplie d’une liqueur divine pour fortifier la vertu contre le malheur.</p>
           <p>Les Grecs l’adorèrent sous le nom de <hi rend="i">Némésis</hi>, vengeresse ; <hi rend="i">Adrastée</hi>, inévitable ; et <hi rend="i">Ancharie</hi>, formidable. Son <title>temple</title> le plus célèbre était situé sur une éminence près de Rhamnus, ville de l’Attique ; ce qui lui a fait donner le nom de <hi rend="i">Rhamnusie</hi>.</p>
           <p>Les Athéniens instituèrent en son honneur les fêtes <hi rend="i">Némésées</hi>, et les Romains lui élevèrent dans le Capitole un autel sur lequel ils déposaient un glaive avant de partir pour la guerre, en conjurant l’équitable déité de protéger la justice de leurs armes.</p>
@@ -2098,20 +2021,18 @@
             <l>Percent tous les replis de nos cœurs insensés ;</l>
             <l>Et nous lui répondons les éloges coupables</l>
             <l>             Qui lui sont adressés.</l>
-          <bibl><author>Rousseau</author>.</bibl>
-</quote>
+            <bibl><author>Rousseau</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">Thémis</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Thémis</hi>, fille du Ciel et de la Terre, était regardée comme la déesse de la justice, dont elle porta le nom. On dit que ce fut une reine de Thessalie qui gouverna son peuple par la justice. Elle établit dans ses états les lois, la religion, les cérémonies du culte, et tout ce qui maintient l’ordre et la paix parmi les hommes.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Astrée</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Astrée</hi>, fille de Jupiter et de Thémis, se confond avec sa mère la déesse de la justice. Elle habita parmi les hommes tant que dura l’âge d’or ; mais les crimes l’en ayant chassée, elle monta au ciel, et se plaça dans cette partie du zodiaque qu’on appelle le signe de la Vierge. <author>Virgile</author> feint ingénieusement, qu’exilée des villes, elle s’était retirée à la campagne parmi les laboureurs.</p>
           <p>On représente cette déesse tenant d’une main une balance et de l’autre une épée. D’autres lui ont mis un bandeau sur les yeux, lui ont bouché les oreilles, et l’ont peinte sans mains, pour signifier que la justice ne doit se laisser éblouir par l’éclat du rang, qu’elle doit être sourde aux sollicitations et incapable de se vendre.</p>
@@ -2126,20 +2047,18 @@
             <l>Orné de l’éclat le plus beau,</l>
             <l>Son front porte ce diadème</l>
             <l>Que l’erreur prend pour un bandeau.</l>
-          <bibl><author>Lamotte</author>.</bibl>
-</quote>
+            <bibl><author>Lamotte</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>
             <hi rend="sc">Momus</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Momus</hi>, fils du Sommeil et de la Nuit, s’occupait uniquement à examiner les actions des dieux et des hommes, et à les reprendre librement : cela le fit regarder comme le dieu de la raillerie, et représenter levant le masque de dessus le visage, et tenant une marotte à la main. La <hi rend="i">Marotte</hi> est un petit bâton ayant une petite figure coiffée et des grelots. Momus, choisi pour juge des chefs-d’œuvre de Neptune, de Vulcain et de Minerve, n’en trouva pas un qui méritât ce nom. Il blâma Neptune de n’avoir pas mis les cornes de son taureau devant les yeux ; il critiqua l’homme de Vulcain, qui aurait dû, disait-il, faire au cœur une petite fenêtre, pour découvrir ses plus secrètes pensées ; la maison de Minerve ne lui plut pas davantage, parce qu’on ne pouvait pas la changer de place quand on avait un mauvais voisin.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Harpocrate</hi>
-            <num>.</num>
           </head>
           <p>Le dieu du silence se nommait <hi rend="i">Harpocrate</hi> chez les Egyptiens, et Sigalion chez les Grecs. Sa figure représentait un homme qui a le doigt sur la bouche. <author>Ovide</author> nous apprend que les anciens honoraient aussi le Silence sous la figure d’une déesse qu’on nommait <hi rend="i">Tacita</hi> ou <hi rend="i">Muta</hi>.</p>
         </div>
@@ -2154,7 +2073,6 @@
         <div>
           <head>
             <hi rend="sc">Persée</hi>
-            <num>.</num>
           </head>
           <p>On fait venir le mot de <hi rend="i">héros</hi> du nom de Junon, qui, en grec, s’appelait <hi rend="i">Héra</hi>. Un de ses fils se nomma Héros, et ce nom, qu’il illustra par sa valeur, fut donné sans doute dans la suite à tous ceux qui se rendirent célèbres par leur bravoure ou leurs belles actions.</p>
           <p><hi rend="i">Persée</hi>, que la fable place au rang des héros, était fils de Jupiter et de Danaé. Acrisius, roi d’Argos, père de cette princesse, sur la foi d’un oracle qui lui avait prédit qu’il serait tué par l’enfant qui naîtrait de sa fille, la fit enfermer dans une tour d’airain. Jupiter, pour avoir accès auprès d’elle, se transforma en pluie d’or et entra dans la tour ; ou plutôt un prince de ce nom prodigua ce métal pour corrompre les gardes de Danaé, et l’épousa secrètement. Persée naquit de cette alliance.</p>
@@ -2207,7 +2125,6 @@
         <div>
           <head>
             <hi rend="sc">Thésée</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Thésée</hi>, fils d’Egée, roi d’Athènes, était contemporain d’Hercule, et son proche parent ; il le prit pour modèle et fut un héros. Thésée, témoin des injustices et des violences de plusieurs tyrans qui abusaient de leur force pour commettre des crimes, résolut de les pouvoir mettre hors d’état d’exercer plus long-temps leurs brigandages. Ses exploits guerriers commencèrent aux environs d’Athènes. Il attaqua d’abord et vainquit <hi rend="i">Périphète</hi>, qui portait une massue de cuivre. Thésée la garda toujours comme un monument de sa première victoire. Il extermina <hi rend="i">Phalaris</hi>, roi de Sicile. Ce prince barbare faisait enfermer des hommes tout vivans dans un taureau d’airain rougi au feu. Il poursuivit et tua le brigand <hi rend="i">Scyron</hi> jusque sur ses rochers : cet homme jetait les passans dans la mer. <hi rend="i">Procuste</hi> reçut aussi le châtiment de ses cruautés. Il surprenait les voyageurs sur le chemin d’Eleusis à Athènes, et les faisait écarteler, ou bien il les égalait à la longueur de son lit, leur coupant des pieds ou de la tête ce qui en excédait.</p>
           <p>Après avoir délivré le monde des brigands qui le désolaient, Thésée tourna sa valeur contre les monstres : il combattit entre autre le <hi rend="i">Taureau de Marathon</hi>, qui était d’une grandeur et d’une force prodigieuses : l’ayant dompté, il l’emmena à Athènes, et en fit un sacrifice aux dieux. Mais de tous les exploits de ce genre, le plus célèbre fut la victoire que Thésée remporta sur le <hi rend="i">Minotaure</hi>, monstre moitié homme et moitié taureau. Minos, roi de Crète, le tenait renfermé dans le labyrinthe construit par Dédale, l’homme le plus industrieux de son temps, et qui inventa la hache, le niveau, les voiles de navires. Dédale était aussi un habile statuaire. S’étant enfui d’Athènes pour avoir fait périr son neveu et son élève, dont il était jaloux, il s’était réfugié à la cour de Minos, qui l’avait accueilli avec distinction. Dédale fit en Crète plusieurs ouvrages remarquables, entre autres le labyrinthe, dans lequel il fut enfermé dans la suite pour avoir déplu au roi. Icare, son fils, partagea sa disgrâce. Dédale, ennuyé de sa prison, se procura des plumes et de la cire, puis il fabriqua des ailes, qu’il attacha à ses épaules et à celles d’Icare ; mais ce jeune homme, oubliant ses conseils, vola trop près du soleil : la cire de ses ailes se fondit, et il tomba dans la mer, qui porta depuis le nom d’Icarienne. Mais revenons à Thésée.</p>
@@ -2224,7 +2141,6 @@
         <div>
           <head>
             <hi rend="sc">Castor et Pollux</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Pollux, Hélène, Castor</hi> et <hi rend="i">Clytemnestre</hi>, étaient tous quatre enfans de Léda, femme de Tyndare, roi de Sparte ; mais les deux premiers avaient pour père Jupiter, et les deux autres appartenaient à Tyndare.</p>
           <p>Castor et Pollux furent de l’expédition des Argonautes, où ils signalèrent leur valeur. Ils s’aimaient si tendrement, que Pollux qui était seul immortel, voyant son frère mort et n’ayant pu obtenir de Jupiter qu’il le rendît à la vie, demanda comme une grâce de lui faire part de son immortalité. Ainsi, quand l’un descendait aux enfers, l’autre renaissait. Ils vécurent de cette manière jusqu’à ce qu’ils furent tous deux transportés au ciel, sous le signe des Gémeaux.</p>
@@ -2249,7 +2165,9 @@
             <l>Tout ce qu’en ta faveur fit mon amour extrême ;</l>
             <l>Je le ferai par haine, et je veux, pour le moins,</l>
             <l>Qu’un forfait nous sépare, ainsi qu’il nous a joints.</l>
-            <bibl><author key="Corneille"></author></bibl>
+            <bibl>
+              <author key="Corneille"/>
+            </bibl>
           </quote>
           <p>Elle envoya à sa rivale une cassette pleine de bijoux, mais sitôt que la jeune princesse l’eut ouverte, il en sortit un feu subtil qui la consuma ainsi que son père. Jason accourut pour punir cette perfidie ; à son approche, Médée monta sur un char attelé de dragons volans, qui la transportèrent à Athènes auprès du roi Egée, dont elle devint l’épouse.</p>
           <quote>
@@ -2261,15 +2179,14 @@
             <l>Je trouve une autre cour, un roi dont la puissance,</l>
             <l>Pour m’attacher à lui, me rend avec éclat</l>
             <l>Tout ce que je perdis en suivant un ingrat.</l>
-          <bibl><author>De la Fosse</author>.</bibl>
-</quote>
+            <bibl><author>De la Fosse</author>.</bibl>
+          </quote>
           <p>Médée eut de ce mariage un fils appelé <hi rend="i">Médus</hi>. Pour le faire succéder à son père, elle voulut empoisonner Thésée lorsqu’il vint à Athènes, mais son projet criminel étant découvert, elle se sauva dans une contrée de l’Asie à laquelle on a donné son nom.</p>
           <p>Les chronologistes fixent l’expédition des Argonautes en l’année soixante-quatrième après la fondation de Troyes.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Orphée</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Orphée</hi>, musicien célèbre, était fils d’Apollon et de la muse Calliope. On raconte que, par l’harmonie de sa lyre et de sa voix, il suspendit le cours des fleuves et donnait du mouvement aux rochers. Mais jamais son talent n’éclata davantage qu’aux enfers, où il charma tellement Pluton et Proserpine, qu’il obtint le retour de sa femme Eurydice, morte de la morsure d’un serpent lorsqu’elle fuyait les poursuites du jeune Aristée. Mais il n’obtint cette grâce que sous la condition qu’il ne la regarderait point qu’il ne fut sur la terre.</p>
           <quote>
@@ -2295,14 +2212,13 @@
             <l>Orphée en vain l’appelle, en vain la suit encore.</l>
             <l>Il n’embrasse qu’une ombre ; et l’horrible nocher</l>
             <l>De ses bords désormais lui défend d’approcher.</l>
-          <bibl><author>Virg.</author>, trad. de <author>Delille</author>.</bibl>
-</quote>
+            <bibl><author>Virg.</author>, trad. de <author>Delille</author>.</bibl>
+          </quote>
           <p>Orphée, au désespoir de la perte d’Eurydice, renonçant à tout attachement, se retira sur le mont Rhodope. Les dames de Thrace, piquées du mépris qu’il témoignait pour elles, résolurent de s’en venger. Un jour qu’elles célébraient les fêtes de Bacchus, profitant de la fureur prétendue que leur inspirait ce dieu, elles le mirent en pièces. Dans la suite il fut changé en cygne ; sa lyre brilla au ciel ornée de neuf belles étoiles, dont chaque Muse fournit la sienne.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Cadmus</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Cadmus</hi>, fils d’Agénor, roi de Phénicie, était frère d’Europe. Jupiter, transformé en taureau, ayant enlevé cette princesse, Agénor ordonna à Cadmus d’aller chercher sa sœur par toute la terre, jusqu’à ce qu’il l’eût trouvée. Ayant parcouru inutilement divers pays, il s’arrêta en Grèce par ordre de l’oracle, et bâtit la ville de Thèbes en Béotie. <hi rend="i">Amphion</hi> construisit les murailles en touchant de la lyre ; au son de cet instrument les pierres allaient se ranger d’elles-mêmes à leur place. Les poètes lui comparent <hi rend="i">Arion</hi>.</p>
           <quote>
@@ -2318,14 +2234,13 @@
             <l>Et, donnant aux mortels un spectacle nouveau,</l>
             <l>Il le fait à leurs yeux, sans périls et sans crainte,</l>
             <l>Naviguer sur les mers de Crète et de Corinthe.</l>
-          <bibl><author>Campistron</author>.</bibl>
-</quote>
+            <bibl><author>Campistron</author>.</bibl>
+          </quote>
           <p>Cadmus régna long-temps et avec beaucoup de gloire dans ses nouveaux états. Il vit naître une nombreuse postérité de lui et de sa chère Hermione, qu’il aima toujours avec tendresse, comme la fidèle compagne de ses malheurs ; mais des chagrins domestiques remplirent leur vie d’amertume : Sémélé fut consumée de la foudre ; Ino se précipita dans la mer ; Agave mit en pièces son propre fils. Les désastres de cette famille infortunée furent un effet de la haine de Junon, qui vengeait sur les parens d’Europe l’impression que la beauté de cette belle personne avait faite sur Jupiter. Cadmus lui-même, chassé du trône par Amphion, se retira avec sa femme parmi les Illyriens, où ils menèrent une vie triste et obscure ; les dieux, touchés enfin de leurs malheurs, les changèrent l’un et l’autre en serpens. Cadmus porta en Grèce les seize lettres de l’alphabet, et inventa l’écriture.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Œdipe</hi>
-            <num>.</num>
           </head>
           <p>Laïus, roi de Thèbes, ayant appris de l’oracle que l’enfant dont sa femme était enceinte lui donnerait la mort, ordonna à la reine de le faire périr sitôt qu’il serait né. Jocaste, ne pouvant se résoudre à cet acte barbare, chargea un soldat d’exposer son fils ; mais cet homme, touché de compassion pour cette tendre victime, se contenta de le suspendre par les pieds à un arbre. Un berger de Polybe, roi de Corinthe, le trouva dans cet état ; il l’emporta et le donna secrètement à la reine, qui n’ayant point d’enfant le reçut comme un don du ciel ; elle l’éleva comme son fils, et le nomma <hi rend="i">Œdipe</hi> à cause de l’enflure de ses pieds.</p>
           <quote>
@@ -2341,8 +2256,8 @@
             <l>Affermit pour jamais sa puissance douteuse.</l>
             <l>Sous le nom de son fils vous fûtes élevé</l>
             <l>Par cette même main qui vous avait sauvé.</l>
-          <bibl><author>Voltaire</author>.</bibl>
-</quote>
+            <bibl><author>Voltaire</author>.</bibl>
+          </quote>
           <p>Œdipe, devenu grand, sut qu’il n’était pas fils de Polybe. Il consulta l’oracle, pour savoir de qui il tenait le jour ; on lui répondit qu’il trouverait son père dans la Phocide. Il y alla, et tua Laïus, sans le connaître, dans une sédition populaire que ce roi cherchait à apaiser ; ensuite Œdipe retourna à Thèbes.</p>
           <p>Près de cette ville était le <hi rend="i">Sphinx</hi>. Ce monstre, retiré dans les montagnes, se jetait sur les passans ; leur proposait des énigmes, et dévorait ceux qui ne pouvaient pas les deviner ; de sorte que tout le pays était désert.</p>
           <quote>
@@ -2354,8 +2269,8 @@
             <l>D’un sens embarrassé dans des mots captieux,</l>
             <l>Le monstre, chaque jour, dans Thèbes épouvantée,</l>
             <l>Proposait une énigme avec art concertée.</l>
-          <bibl><author>Voltaire</author>.</bibl>
-</quote>
+            <bibl><author>Voltaire</author>.</bibl>
+          </quote>
           <p>Créon, frère de Jocaste, qui, à la mort de Laïus, s’était emparé du royaume, fit publier par des hérauts qu’il donnerait le trône de Thèbes, et la veuve de Laïus en mariage à celui qui pourrait expliquer une énigme que le Sphinx avait proposée. La grandeur de la récompense détermine Œdipe à tenter l’entreprise ; il explique l’énigme, et le Sphinx vaincu se précipite dans la mer. Ainsi Œdipe devint possesseur du royaume de Thèbes et épousa Jocaste.</p>
           <p>De ce mariage naquirent deux princes, Etéocle et Polynice, et deux princesses, Antigone et Ismène.</p>
           <p>Cependant une peste affreuse porta la désolation dans Thèbes, et l’on eut recours à l’oracle : les devins répondirent que, pour faire cesser ce fléau, il fallait bannir le meurtrier de Laïus.</p>
@@ -2364,7 +2279,6 @@
         <div>
           <head>
             <hi rend="sc">Étéocle et Polynice</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Etéocle</hi> et<hi rend="i"> Polynice</hi>, fils d’Œdipe, désignés par ce prince pour gouverner le royaume de Thèbes, résolurent, pour ne point le diviser, de régner chacun à son tour. Etéocle, qui était l’aîné, monta le premier sur le trône ; mais l’année étant finie, il refusa d’en descendre pour donner la place à son frère, selon leur convention. Telle fut l’origine de la fameuse guerre de Thèbes, surnommée <hi rend="i">des sept preux</hi>, à cause des vaillans capitaines qui s’y trouvèrent.</p>
           <p>Le dévouement de Ménécée, fils de Créon, qui se donna la mort, rendit les dieux favorables aux Thébains, et plusieurs chefs des ennemis périrent, mais la victoire restant incertaine, les deux frères la décidèrent par un combat singulier, dans lequel ils s’entre-tuèrent l’un l’autre. Si l’on en croit la fable, ils avaient une telle haine l’un pour l’autre, qu’ils se battaient dans le sein de leur mère. On ajoute que quand on brûla leurs corps, la flamme du bûcher se partagea.</p>
@@ -2373,7 +2287,6 @@
         <div>
           <head>
             <hi rend="sc">Tantale</hi>
-            <num>.</num>
           </head>
           <p>La famille de <hi rend="i">Tantale</hi>, roi de Phrygie, ne fut pas moins malheureuse que celle d’Œdipe. En parlant du Tartare, nous avons dit quel supplice souffrait ce prince impie dans les enfers ; nous ajouterons que sa criminelle audace attira sur ses descendans une foule de maux.</p>
           <p>Pélops, fils de Tantale, quitta la Phrygie, et passa dans le royaume d’Elide, où il demanda Hippodamie en mariage. Œnomaüs, roi de ce pays, et père de cette princesse, aimait si tendrement sa fille, que pour éloigner les prétendans, il ne donnait Hippodamie qu’à condition de le vaincre à la course des chariots. Si celui qui acceptait le tournoi succombait, Œnomaüs le perçait de sa lance. Plusieurs princes avaient déjà péri dans cette dangereuse épreuve ; mais Pélops n’en fut point effrayé, et il accepta les conditions. Il sut mettre dans ses intérêts Myrtile, fils de Mercure, et cocher d’Œnomaüs. Avant de partir, Myrtile ôta le fer qui retenait la roue : Œnomaüs fut renversé de son char et périt misérablement. Pélops ayant épousé Hippodamie, s’empara de ses états, auxquels il donna son nom : c’est le Péloponèse, qu’on appelle aujourd’hui la Morée.</p>
@@ -2382,7 +2295,6 @@
         <div>
           <head>
             <hi rend="sc">Troyes</hi>
-            <num>.</num>
           </head>
           <p>Dardanus, fils de Jupiter et d’Electre, après avoir régné en Italie, se retira en Phrygie : il épousa la fille de Teucer maître du pays ; et ces deux princes jetèrent les fondemens de la ville de Troyes dans cette contrée, qui était vis-à-vis le Bosphore de Thrace, environ sept cents ans avant la fondation de Rome.</p>
           <p>Erichthonius, fils de Dardanus, eut pour successeur et fils, Tros, qui donna son nom à la ville de Troyes, et celui de Troade à toute la contrée. Ce prince eut trois enfans : Ganymède, enlevé par Jupiter, Assaracus père de Capys et aïeule d’Anchise, et enfin Ilus, ce dernier donna le nom d’Illion à une citadelle qu’il bâtit à Troyes, et ce nom s’étendit même à la ville.</p>
@@ -2394,7 +2306,6 @@
         <div>
           <head>
             <hi rend="sc">Guerre de Troyes</hi>
-            <num>.</num>
           </head>
           <p>Hercule, après avoir enlevé Hésione, qu’il avait délivrée du monstre auquel Laomédon, son père, l’avait exposée par ordre de l’oracle, la donna en mariage à son ami Télamon, roi de Salamine.</p>
           <p>Priam, devenu puissant, et qui ne cherchait qu’une occasion de se venger des Grecs dont il avait été prisonnier, envoya Pâris avec une flotte pour se faire rendre Hésione. Cette princesse était sœur de Priam et tante de Pâris.</p>
@@ -2408,7 +2319,6 @@
         <div>
           <head>
             <hi rend="sc">Ruine de Troyes</hi>
-            <num>.</num>
           </head>
           <p>Achille ayant vu du haut des murailles, Polyxène, fille de Priam, l’envoya demander en mariage à son père, avec promesse de défendre sa personne et ses états. Priam accepta ses offres. Mais comme, pour célébrer cet hymen, il s’était rendu dans le <title>temple d’Apollon Tymbréen</title>, Pâris, pour venger la mort de son frère, le tua d’un coup de flèche, en lui perçant le talon, seule partie du corps qui n’eût pas été trempée dans les eaux du Styx.</p>
           <p>Ulysse et Ajax, fils de Télamon, se disputèrent les armes d’Achille. Ulysse, par son éloquence, charma si fort les chefs de l’armée qui étaient arbitres du différend qu’ils décidèrent en sa faveur ; Ajax en conçut tant de douleur, qu’il se perça de son épée.</p>
@@ -2419,7 +2329,6 @@
         <div>
           <head>
             <hi rend="sc">Agamemnon et Oreste</hi>
-            <num>.</num>
           </head>
           <p><hi rend="i">Agamemnon</hi>, de retour dans son palais, trouva dans sa famille des ennemis plus redoutables que n’avaient été les Troyens à son égard, puisque Clytemnestre, sa femme, lui donna la mort.</p>
           <p>Un jour, au milieu d’un festin, cette princesse le pria de quitter un habit à la phrygienne qu’il portait, pour en prendre un qu’elle avait tissé pendant son absence ; le roi y consentit ; mais ses bras s’embarrassèrent dans les manches, dont elle avait fermé les issues ; les conjurés, ayant Egisthe à leur tête, se levèrent aussitôt et le massacrèrent.</p>
@@ -2430,7 +2339,6 @@
         <div>
           <head>
             <hi rend="sc">Ulysse</hi>
-            <num>.</num>
           </head>
           <p>Ulysse, fils de Laërte, était roi de deux petites îles de la mer Ionienne, appelées Ithaque et Dulichium. Après avoir essuyé les fatigues d’un siége de dix ans ; il passa dix autres années à lutter contre la fortune.</p>
           <p>La tempête l’ayant jeté sur les côtes d’Afrique, plusieurs de ses compagnons y périrent : Polyphême, affreux cyclope, en dévora six ; Ulysse qu’il réservait pour le dernier, l’enivra, et lui creva l’œil qu’il avait au milieu du front.</p>
@@ -2442,7 +2350,6 @@
         <div>
           <head>
             <hi rend="sc">Énée</hi>
-            <num>.</num>
           </head>
           <p>Enée était du sang royal de Troyes. La fable lui donne Vénus pour mère. Après la ruine de sa patrie, ce héros fugitif, chargé de ses dieux, de son père, et accompagné d’Ascagne, son fils, se rendit à un port de Phrygie peu éloigné du mont Ida, où il s’embarqua, et fit voile au nord vers les côtes de Thrace. Ne pouvant y faire d’établissement, il gagna le midi, et passa en Crète sans plus de succès. Après s’être reposé de ses fatigues en Epire, il se remit en mer, et arriva à Drapane en Sicile, où il perdit Anchise son père. Il était prêt d’entrer dans le pays latin, quand Eole, à la prière du Junon, ayant élevé une tempêté horrible qui jeta sa flotte de côté et d’autre, il eut le bonheur d’être poussé à Carthage et d’y relâcher. Il repassa en Sicile pour la seconde fois, et y célébra l’anniversaire de la mort d’Anchise. Enfin, après avoir consulté à Cumes la Sybile de ce nom, il parvint à l’embouchure du Tibre, et pénétra jusqu’au pays Laurentin.</p>
           <p>Les poètes feignent que Didon régnait à Carthage lorsque Enée y arriva. Virgile qui, à dessein, fait naître Didon deux cents ans plutôt, raconte son histoire dans l’<title>Enéide</title>.</p>
@@ -2451,7 +2358,9 @@
             <l>Elle reçut le jour dans la riche Sidon ;</l>
             <l>Mais d’un frère cruel fuyant la barbarie,</l>
             <l>Son courage en ces lieux s’est fait une patrie.</l>
-            <bibl><author key="Virgile"></author></bibl>
+            <bibl>
+              <author key="Virgile"/>
+            </bibl>
           </quote>
           <p>La reine de Carthage, dit encore la fable, touchée des malheurs d’Enée, chercha à le retenir auprès d’elle ; mais ce fut en vain : les dieux avaient parlé, ils appelaient le héros troyen en Italie. Ni les avantages d’un royaume, ni sa reconnaissance, ni les larmes de Didon, rien ne put le retenir. Virgile met dans la bouche ce cette reine infortunée ces reproches sanglans :</p>
           <quote>
@@ -2459,14 +2368,15 @@
             <l>Non, au sang de Teucer tu ne dois pas le jour :</l>
             <l>N’impute pas aux dieux la naissance d’un traître,</l>
             <l>Non, du sang des héros un monstre n’a pu naître.</l>
-            <bibl><author key="Virgile"></author></bibl>
+            <bibl>
+              <author key="Virgile"/>
+            </bibl>
           </quote>
           <p>Enée aborda en Italie, Latinus, qui y régnait, le reçut avec distinction, et lui promit en mariage sa fille Lavinie. Turnus, roi des Rutules, se déclara son concurrent. Junon et Vénus prirent part à cette guerre, dans laquelle Enée perdit ses plus fidèles compagnons. Il vengea bientôt leur mort par des faits d’armes extraordinaires. Enfin les deux rivaux terminèrent la querelle par un combat singulier, dans lequel Turnus succomba. Enée épousa Lavinie et succéda à Latinus ; et, par le droit de sa femme, il jeta alors les fondemens de l’empire romain.</p>
         </div>
         <div>
           <head>
             <hi rend="sc">Philémon et Baucis</hi>
-            <num>.</num>
           </head>
           <quote>
             <l>Ni l’or ni la grandeur ne nous rendent heureux.</l>
@@ -2664,7 +2574,9 @@
             <l>Des arbres dont ce lieu va border ses rivages !</l>
             <l>Puissent-ils tout d’un coup élever leurs sourcils,</l>
             <l>Comme on vit autrefois Philémon et Baucis !</l>
-            <bibl><author key="anonime"></author></bibl>
+            <bibl>
+              <author key="anonime"/>
+            </bibl>
           </quote>
         </div>
       </div>

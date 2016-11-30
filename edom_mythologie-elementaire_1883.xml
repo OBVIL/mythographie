@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -432,8 +432,8 @@
               <l>De l’esprit d’Apollon une vive étincelle</l>
               <l>Des filles de mémoire anime les concerts ;</l>
               <l>        Et, chef de leur troupe immortelle,</l>
-              <l>Il rassemble en lui seul tous les talents divers</l><bibl><author key="anonime"/></bibl></quote>
-                <note place="bottom"><p>Pour aider la mémoire, on a réuni, par abréviation, les noms des Muses dans ce vers pentamètre :</p><quote><l xml:lang="it">Terpsi, Thal, Euter, Cli, Cal, Erat, Ura, Po, Mel.</l></quote></note>.
+              <l>Il rassemble en lui seul tous les talents divers.</l><bibl><author key="anonime"/></bibl></quote>
+                <note place="bottom"><p>Pour aider la mémoire, on a réuni, par abréviation, les noms des Muses dans ce vers pentamètre :</p><quote><l xml:lang="it">Terpsi, Thal, Euter, Cli, Cal, Erat, Ura, Po, Mel.</l></quote></note>
             
             <p>Les Muses sont représentées avec les attributs des arts auxquels elles président. Elles se plaisent aux lieux élevés. Les monts Parnasse en Phocide, Hélicon en Béotie, et Pinde entre la Thessalie et l’Epire, sont, après l’Olympe, leur demeure ordinaire. Elles ont pour coursier Pégase, cheval ailé, né du sang de Méduse. Pégase fit un jour jaillir d’un coup de pied la fontaine Hippocrène, dont les eaux, ainsi que celles du fleuve Permesse, inspiraient, dit-on, l’enthousiasme poétique. On appelle quelquefois les muses Piérides ; voici l’origine de ce nom : Les neuf filles de Piérus, roi de Macédoine, fières de leur nombre et de leurs talents, osèrent porter aux muses un défi que celles-ci acceptèrent. Mais après le combat, elles changèrent en pies, emblème de la loquacité vaniteuse, leurs imprudentes rivales, et prirent elles-mêmes le nom de Piérides, en souvenir de leur victoire. Si les Muses aiment la modestie, elles exigent surtout des cœurs honnêtes et de chastes hommages. Pyrénée, roi de Phocide, les reçut un jour dans son palais ; à peine y furent-elles entrées, qu’il voulut les outrager. Alors ayant pris des ailes, avec le secours d’Apollon, elles s’enfuirent à travers les airs. Pyrénée monta sur le haut d’une tour, et crut pouvoir imiter leur vol ; brisé dans sa chute, il paya de sa vie son criminel attentat.</p>
           </div>
@@ -998,8 +998,8 @@
               <l>A placé parmi nous deux êtres bienfaisants,</l>
               <l>De la terre à jamais aimables habitants,</l>
               <l>Soutiens dans les travaux, trésors dans l’indigence :</l>
-              <l>L’un est le doux Sommeil, et l’autre est l’Espérance</l><bibl><author key="Voltaire"/></bibl></quote>
-            <note place="bottom"><p>Un autre poëte a dit, en parlant à l’Espérance elle-même :</p><quote><l>Ton ancre soutient la nacelle</l><l>Du malheureux battu des vents,</l><l>Toi seule lui restes fidèle</l><l>Quand ses amis sont inconstants :</l><l>Malgré des verrous effroyables,</l><l>Dans les cachots tu suis nos pas ;</l><l>Si les Enfers sont redoutables,</l><l>C’est que tu n’y pénètres pas.</l><bibl><author key="anonime"/></bibl></quote></note>.
+              <l>L’un est le doux Sommeil, et l’autre est l’Espérance.</l><bibl><author key="Voltaire"/></bibl></quote>
+            <note place="bottom"><p>Un autre poëte a dit, en parlant à l’Espérance elle-même :</p><quote><l>Ton ancre soutient la nacelle</l><l>Du malheureux battu des vents,</l><l>Toi seule lui restes fidèle</l><l>Quand ses amis sont inconstants :</l><l>Malgré des verrous effroyables,</l><l>Dans les cachots tu suis nos pas ;</l><l>Si les Enfers sont redoutables,</l><l>C’est que tu n’y pénètres pas.</l><bibl><author key="anonime"/></bibl></quote></note>
           </div>
           <div>
             <head>98. Le Sommeil. — Le Silence. — La Victoire. — La Paix.</head>
