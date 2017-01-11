@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import author="diegopellizzari"
+        date="16-12-16"
+        desc="&lt;pre&gt;&lt;br/&gt;- mythographies&lt;br/&gt;- diegopellizzari&lt;br/&gt;- 16-12-16&lt;/pre&gt;"
+        name="MYTHOGRAPHIES"
+        rootDir="/Users/diegopellizzari/Documents/OBVIL/mythographies"
+        script="xmlLoader.groovy"
+        version="0.7">
+   <linkGrp type="align"/>
+   <corpora>
+      <corpus annotate="true"
+              cqpid="MYTHOGRAPHIES1481899811395"
+              desc="&lt;pre&gt;&lt;br/&gt;- mythographies&lt;br/&gt;- diegopellizzari&lt;br/&gt;- 16-12-16&lt;/pre&gt;"
+              encoding="UTF-8"
+              font=""
+              lang="fr"
+              name="MYTHOGRAPHIES">
+         <tokenizer onlyThoseTests="false">
+            <param name="whitespaces">[\p{Z}\p{C}]+</param>
+            <param name="regPunct">[\p{Ps}\p{Pe}\p{Pi}\p{Pf}\p{Po}\p{S}]</param>
+            <param name="punct_strong">[.!?]|\.\.|\.\.\.|…|\|</param>
+            <param name="regElision">['‘’]</param>
+         </tokenizer>
+         <xslt xsl=""/>
+         <pattributes/>
+         <sattributes/>
+         <biblios/>
+         <uis>
+            <ui command="concordance">
+               <context_limits type="list">text</context_limits>
+            </ui>
+         </uis>
+         <editions default="default">
+       	    <edition build_edition="true"
+                     mode="groovy"
+                     name="default"
+                     page_break_tag="pb"
+                     script="pager.groovy"
+                     words_per_page="500"/>
+         </editions>
+         <texts/>
+         <queries/>
+         <preBuild/>
+      </corpus>
+   </corpora>
+</import>
