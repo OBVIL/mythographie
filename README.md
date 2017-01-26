@@ -1,2 +1,2 @@
 # mythographies
-OBVIL, autorités en partage, mythographies
+OBVIL, autorités en partage, mythographies.
