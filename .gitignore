@@ -1,1 +1,6 @@
 import.xml
+toc/
+article/
+*.php
+*.sqlite
+.htaccess
