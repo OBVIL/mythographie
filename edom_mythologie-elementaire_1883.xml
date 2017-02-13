@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Mythologie élémentaire (9<hi rend="sup">e</hi> éd.)</title>
-        <author key="Édom, Jacques (1797-1870)">Jacques Édom</author>
+        <author key="Édom">Jacques Édom</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -1130,7 +1130,7 @@
                 <l>C’est que tu n’y pénètres pas.</l>
                 <bibl>
                   <author key="anonyme"/>
-                  <author key="Philippon de Lamadelaine" resp="editor"></author>
+                  <author key="La Madelaine" resp="editor"></author>
                 </bibl>
               </quote>
             </note>
@@ -1259,7 +1259,7 @@
               <l>De son orgueil, c’est ce que j’appelle être</l>
               <l>Grand par soi-même : et voilà les héros.</l>
               <bibl>
-                <author key="Rousseau"/>
+                <author key="J.-B. Rousseau"/>
               </bibl>
             </quote>
             <p>Le nombre des héros de l’antiquité est immense ; nous ne ferons connaître que quelques-uns des plus célèbres : Persée, Bellérophon, Hercule, Thésée. Nous observerons, autant que possible, l’ordre des temps. Nous allons, en conséquence, commencer par l’histoire de Persée, qui régna à Mycènes, de l’an 1313 à l’an 1281 avant J.-C.</p>
@@ -1892,7 +1892,7 @@
             <head>139. Les Scaldes ; l’Edda et les Sagas.</head>
             <p>L’histoire des divinités scandinaves porte l’empreinte du caractère dur et belliqueux de ces peuples, sortis du nord de l’Asie. Cette mythologie est l’œuvre des scaldes ou bardes, c’est-à-dire, des anciens poëtes de la Norwége, de l’Irlande, de la Suède et du Danemark, qui chantaient les mystères de leur religion, les aventures de leurs dieux les exploits des rois et des guerriers. Ils vivaient à la cour des princes et les accompagnaient à la guerre, afin d’être témoins des exploits qu’ils devaient célébrer. Plusieurs de ces chants étaient gravés en caractères runiques (genres d’écriture des peuples du Nord), mais le plus souvent ils passaient de bouche en bouche. Plus tard, ils furent recueillis et formèrent l’<title>Edda</title> et les <title>Sagas</title><note place="bottom">Les <title>Sagas</title> sont les traditions historiques et mythologiques de ces peuples du Nord. On appelle <title>Edda</title> deux livres ou codes religieux qi contiennent toute cette mythologie scandinave. Le premier, qui est écrit en vers, fut composé en Irlande pendant l’onzième siècle (cinquante ans après l’introduction du christianisme dans cette île), par
               <author>Sœmund Sigfuson</author>, dit
-              <author>le Sage</author>, qui voulait conserver lei débris des anciennes croyances de ses pères. Le deuxième, écrit en prose, date du douzième siècle. On doit à l’historien
+              le Sage, qui voulait conserver lei débris des anciennes croyances de ses pères. Le deuxième, écrit en prose, date du douzième siècle. On doit à l’historien
               <author>Snorro Sturleson</author> qui commenta et compléta l’<title>Edda</title> poétique. Les manuscrits des <title>Eddas</title> sont conservés à Upsal et à Copenhague.
               <author>Mademoiselle du Puget</author> en a publié la traduction française dans la Bibliothèque étrangère. Paris, 1839-40.</note> qui contenaient toute la mythologie scandinave. En voici les traits principaux.</p>
           </div>
