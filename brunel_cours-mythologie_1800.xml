@@ -78,7 +78,7 @@
           <l>L’Amour enfin, ce feu qui nous dévore,</l>
           <l>C’est un Enfant qui régit l’Univers<note place="bottom">[Table des matières] <author>Bernard</author>. <title>Léda</title>.</note>.</l>
         </quote>
-        <p>Rapprochons de ces Vers charmans du gentil <author>Bernard</author>, ceux du sévère <author>Législateur de notre Parnasse</author>.</p>
+        <p>Rapprochons de ces Vers charmans du gentil Bernard, ceux du sévère Législateur de notre Parnasse.</p>
         <quote>
           <l>… Dans une profane et riante peinture,</l>
           <l>De n’oser de la Fable employer la figure,</l>
@@ -138,7 +138,7 @@
             <l>C’est toi qui l’as créé : ton génie inventa</l>
             <l>De ces Dieux mensongers la brillante chimère ;</l>
             <l>L’Olympe de la Fable est la tête d’<author>Homère</author>.</l>
-            <bibl><author rend="sc i">Guyétand</author><note place="bottom">[Table des matières] <author>Guyétand</author> <title>à Homère</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Guyétand</author><note place="bottom">[Table des matières] Guyétand <title>à Homère</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>Je t’oublîrois, <author>Cygne de Méonie</author>,</l>
@@ -154,7 +154,7 @@
             <l>Brave dans l’air les cris du vil Corbeau.</l>
             <l>Tu plais toujours, tu seras toujours beau</l>
             <l>Comme les Cieux, les Mers et la Nature.</l>
-            <bibl><author rend="sc i">Cournand</author><note place="bottom">[Table des matières] <author>Cournand</author>. <title>Les Styles. ch. III</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Cournand</author><note place="bottom">[Table des matières] Cournand. <title>Les Styles. ch. III</title>.</note>.</bibl>
           </quote>
         </div>
       </div>
@@ -187,7 +187,7 @@
             <l>Il dit au mouvement : du Temps sois la mesure.</l>
             <l>                 Il dit à la Nature :</l>
             <l>Le Temps sera pour vous, l’Eternité pour moi.</l>
-            <bibl><author rend="sc i">Thomas</author><note place="bottom">[Table des matières] <author>Thomas</author>. <title>Ode sur le Temps. Fragment</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Thomas</author><note place="bottom">[Table des matières] Thomas. <title>Ode sur le Temps. Fragment</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    O Temps ! divinité terrible,</l>
@@ -204,7 +204,7 @@
             <l>Dans la tombe de mes aïeux :</l>
             <l>Mais si j’ai révéré les Dieux,</l>
             <l>Tu dois épargner ma mémoire.</l>
-            <bibl><author rend="sc i">Légier</author><note place="bottom">[Table des matières] <author>Légier</author>, <title>Sur le Temps. Fragment</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Légier</author><note place="bottom">[Table des matières] Légier, <title>Sur le Temps. Fragment</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -242,7 +242,7 @@
             <l>Heureuse par l’amour, ne voulut rien pour elle,</l>
             <l>Que le soin d’annoncer à la race mortelle</l>
             <l>Le retour des beaux jours et celui des frimats.</l>
-            <bibl><author><hi rend="i"><hi rend="sc">Myro</hi></hi><hi rend="i">, cit. de Corinthe</hi></author>. — <author>***</author><note place="bottom">[Table des matières] <author>Myro de Corinthe</author>. <title>Naissance de Jupiter</title>.</note>.</bibl>
+            <bibl><author><hi rend="i"><hi rend="sc">Myro</hi></hi><hi rend="i">, cit. de Corinthe</hi></author>. — <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Myro de Corinthe. <title>Naissance de Jupiter</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Les Géans, entassant dans leur rébellion,</l>
@@ -257,7 +257,7 @@
             <l>Et delà, nous dit-on, des hommes sont éclos,</l>
             <l>Hommes profanateurs, altérés de rapine,</l>
             <l>Et ne démentant point leur sanglante origine.</l>
-            <bibl><author rend="sc i">Ovide</author>. — <author rend="sc i">Saint-Ange</author><note place="bottom">Tout morceau de poésie, traduit ou imité, présentera comme celui-ci, le nom des deux auteurs.</note><note place="bottom">[Table des matières] <author>Saint-Ange</author>. <title>Métamorphoses d’Ovide, Liv. I</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Ovide</author>. — <author rend="sc i" role="translator">Saint-Ange</author><note place="bottom">Tout morceau de poésie, traduit ou imité, présentera comme celui-ci, le nom des deux auteurs.</note><note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses d’Ovide, Liv. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -279,7 +279,7 @@
             <l>Heureux de posséder l’art de guérir les maux.</l>
             <l><pb n="6" xml:id="p6"/>Malheureux que l’amour soit un mal incurable,</l>
             <l>Que mon art, pour moi seul, ne soit pas secourable !</l>
-            <bibl><author rend="sc i">Ovide</author>. — <author rend="sc i">Saint-Ange</author><note place="bottom">[Table des matières] <author>Saint-Ange</author>. <title>Métamorphoses d’Ovide. Liv. I</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Ovide</author>. — <author rend="sc i" role="translator">Saint-Ange</author><note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses d’Ovide. Liv. I</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>              Quand Apollon quitta les Cieux,</l>
@@ -293,7 +293,7 @@
             <l>Il versa ses bienfaits sur cent peuples divers :</l>
             <l>             Il avoit fait le bonheur d’un village,</l>
             <l>Mais il fit dans les Cieux, celui de l’Univers.</l>
-            <bibl><author rend="sc i">Blin de Sainmore</author><note place="bottom">[Table des matières] <author>Blin de Sainmore</author>. <title>Le retour d’Apollon</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Blin de Sainmore</author><note place="bottom">[Table des matières] Blin de Sainmore. <title>Le retour d’Apollon</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Reproches à Apollon.</label>
@@ -357,7 +357,7 @@
             <l>De la Sphère au-dessus, a suspendu l’image,</l>
             <l>Et le cercle des mois, sous des signes divers,</l>
             <l>Six à droit, six à gauche, embrasse l’Univers.</l>
-            <bibl><author rend="sc i">Ovide</author>. — <author rend="sc i">Saint-Ange</author><note place="bottom">[Table des matières] <author>Saint-Ange</author>. <title>Métamorphoses d’Ovide. Liv. II</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Ovide</author>. — <author rend="sc i" role="translator">Saint-Ange</author><note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses d’Ovide. Liv. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l><pb n="8" xml:id="p8"/>    Où naissent tes rayons, Astre enflammé du jour ?</l>
@@ -380,7 +380,7 @@
             <l>Quand les vents font rouler au milieu des éclairs</l>
             <l>Le char retentissant qui porte le tonnerre,</l>
             <l>Ton disque ouvre la nue et rassure la terre.</l>
-            <bibl><author rend="sc i">Baour-Lormian</author><note place="bottom">[Table des matières] <author>Baour-Lormian</author>. <title>Invocation au Soleil, d’Ossian</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Baour</author> - <author role="translator" rend="sc i">Lormian</author><note place="bottom">[Table des matières] Baour - Lormian. <title>Invocation au Soleil, d’Ossian</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -417,7 +417,7 @@
             <l>Le jouvenceau surpris par elle,</l>
             <l>Bondit sur ses pieds incertains,</l>
             <l>Auprès du vieillard qui chancelle.</l>
-            <bibl><author rend="sc i">Roman</author><note place="bottom">[Table des matières] <author>Roman</author>. <title>Voici la Saison des Vendanges</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Roman</author><note place="bottom">[Table des matières] Roman. <title>Voici la Saison des Vendanges</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Entrée de Bacchus dans Athènes.</label>
@@ -459,9 +459,9 @@
             <l>Joint sa feuille ondoyante à des grappes dorées ;</l>
             <l><pb n="11" xml:id="p11"/>Il boit le doux nectar, et, dans un calme heureux,</l>
             <l>Contemple, en souriant, son cortège nombreux.</l>
-            <bibl><author rend="sc i">Le Mercier</author><note place="bottom">[Table des matières] <author>Le Mercier</author>. <title>Les quatre Métamorphoses. Poème II</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Le Mercier</author><note place="bottom">[Table des matières] Le Mercier. <title>Les quatre Métamorphoses. Poème II</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Penthée</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Penthée</hi>.</p>
         </div>
         <div>
           <head><hi rend="sc">Mercure</hi>, <lb/><hi rend="i">Fils de Jupiter et de Maïa.</hi></head>
@@ -503,10 +503,10 @@
             <l>De ses raisins dorés la grappe jaunissante ;</l>
             <l>Quatre ruisseaux voisins rouloient d’un cours égal,</l>
             <l>Sur les bords émaillés, leur limpide crystal.</l>
-            <bibl><author rend="sc i">Homère</author>. — <author rend="sc i">Rochefort</author><note place="bottom">[Table des matières] <author>Rochefort</author>. <title>Odyssée. Liv. V</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Homère</author>. — <author rend="sc i" role="translator">Rochefort</author><note place="bottom">[Table des matières] Rochefort. <title>Odyssée. Liv. V</title>.</note>.</bibl>
           </quote>
           <label rend="sc">La vanité de Mercure corrigée.</label>
-          <l>                Mercure, messager céleste,</l>
+          <quote><l>                Mercure, messager céleste,</l>
           <l>            Méprisoit fort les autres Dieux.</l>
           <l>        Tous à son gré, de défauts très-nombreux,</l>
           <l>        Etoient pourvus, lui seul avoit de reste</l>
@@ -552,7 +552,7 @@
           <l>    Elle ne coûtera pas moins, je vous le jure.</l>
           <l>— Et Mercure ? — En prenant les deux autres. Mercure</l>
           <l>    Ne vous coûtera rien, il ira par dessus.</l>
-          <bibl><author><hi rend="i"><hi rend="sc">Mazurier</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author>Mazurier</author>. <title>Mercure corrigé</title>.</note>.</bibl>
+          <bibl><author><hi rend="i"><hi rend="sc">Mazurier</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Mazurier. <title>Mercure corrigé</title>.</note>.</bibl></quote>
         </div>
         <div>
           <head><hi rend="sc">Neptune</hi>, <lb/><hi rend="i">Fils de Saturne et de Rhée.</hi></head>
@@ -586,7 +586,7 @@
             <l>Est un antre sacré que le Dieu seul habite.</l>
             <l>Là, Neptune arrêta l’ardeur de ses coursiers,</l>
             <l>Et par des liens d’or il enchaîna leurs pieds.</l>
-            <bibl><author rend="sc i">Homère</author>. — <author rend="sc i">Rochefort</author><note place="bottom">[Table des matières] <author>Rochefort</author>. <title>Iliade. Liv. XIII</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Homère</author>. — <author rend="sc i" role="translator">Rochefort</author><note place="bottom">[Table des matières] Rochefort. <title>Iliade. Liv. XIII</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -642,7 +642,7 @@
             <l>           Son amour même est enfin écouté.</l>
             <bibl><author rend="sc i">Rousseau</author><note place="bottom">[Table des matières] <author>Rousseau</author>. <title>Enlèvement de Proserpine. cant</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Proserpine</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Proserpine</hi>.</p>
         </div>
         <div>
           <head><hi rend="sc">Vulcain</hi>, <lb/><hi rend="i">Fils de Jupiter et de Junon</hi>.</head>
@@ -679,7 +679,7 @@
             <l>Qui de Junon punie enchaîna les efforts ;</l>
             <l>Bacchus lui demandant sa prompte délivrance ;</l>
             <l>L’hymen dont Jupiter flatta son espérance.</l>
-            <bibl><author rend="sc i">Le Mercier</author><note place="bottom">[Table des matières] <author>Le Mercier</author>. <title>Les quatre Métamorphoses. Poème IV</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Le Mercier</author><note place="bottom">[Table des matières] Le Mercier. <title>Les quatre Métamorphoses. Poème IV</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -705,7 +705,7 @@
             <l>Sur ses pâles rivaux lève un front radieux ;</l>
             <l>Et la palme qui luit sur sa tête guerrière,</l>
             <l>                   Le place au rang des Dieux.</l>
-            <bibl><author rend="sc i">Lebrun</author><note place="bottom">[Table des matières] <author>Lebrun</author>. <title>Ode aux François.1762. Fragment</title> .</note>.</bibl>
+            <bibl><author rend="sc i">Lebrun</author><note place="bottom">[Table des matières] Lebrun. <title>Ode aux François.1762. Fragment</title> .</note>.</bibl>
           </quote>
           <quote>
             <l>    Le jour fatal se lève, et la trompette sonne :</l>
@@ -722,7 +722,7 @@
             <l>Toi, perfide Intérêt, tyran lâche et jaloux ;</l>
             <l>Gloire, honneur, politique, affreux et vils fantômes,</l>
             <l>                   Reconnoissez vos coups,</l>
-            <bibl><author rend="sc i">Borde</author><note place="bottom">[Table des matières] <author>Borde</author>. <title>Ode sur la guerre. Fragment</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Borde</author><note place="bottom">[Table des matières] Borde. <title>Ode sur la guerre. Fragment</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>
@@ -736,7 +736,7 @@
             <l>L’enfant qui vient de naître, invoque envain son âge ;</l>
             <l>On l’immole avec eux : et des jeux du berceau</l>
             <l>Il passe, l’innocent, aux horreurs du tombeau.</l>
-            <bibl><author rend="sc i">Lucain</author>. — <author><hi rend="i"><hi rend="sc">Paul</hi></hi><hi rend="i">, fils</hi></author><note place="bottom">[Table des matières] <author>Paul, fils</author>. <title>Pharsale. liv. II. Fragment</title>.</note>.</bibl>
+            <bibl><author rend="sc i">Lucain</author>. — <author role="translator"><hi rend="i"><hi rend="sc">Paul</hi></hi><hi rend="i">, fils</hi></author><note place="bottom">[Table des matières] <author>Paul, fils</author>. <title>Pharsale. liv. II. Fragment</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
