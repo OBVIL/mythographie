@@ -141,7 +141,7 @@
             <bibl><author key="Guyétand" rend="sc i">Guyétand</author><note place="bottom">[Table des matières] Guyétand <title>à Homère</title>.</note>.</bibl>
           </quote>
           <quote>
-            <l>Je t’oublîrois, <author key="Cygne de Méonie">Cygne de Méonie</author>,</l>
+            <l>Je t’oublîrois, <author key="Homère">Cygne de Méonie</author>,</l>
             <l>Toi qui m’appris les lois de l’Harmonie,</l>
             <l>Toi des Humains, peut-être le plus grand !</l>
             <l>Pour te louer les siècles se répondent.</l>
@@ -380,7 +380,7 @@
             <l>Quand les vents font rouler au milieu des éclairs</l>
             <l>Le char retentissant qui porte le tonnerre,</l>
             <l>Ton disque ouvre la nue et rassure la terre.</l>
-            <bibl><author  key="Baour" rend="sc i">Baour</author> - <author key="Lormian" role="translator" rend="sc i">Lormian</author><note place="bottom">[Table des matières] Baour - Lormian. <title>Invocation au Soleil, d’Ossian</title>.</note>.</bibl>
+            <bibl><author key="Baour-Lormian" rend="sc i">Baour-Lormian</author><note place="bottom">[Table des matières] Baour-Lormian. <title>Invocation au Soleil, d’Ossian</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -552,7 +552,7 @@
           <l>    Elle ne coûtera pas moins, je vous le jure.</l>
           <l>— Et Mercure ? — En prenant les deux autres. Mercure</l>
           <l>    Ne vous coûtera rien, il ira par dessus.</l>
-          <bibl><author  key=""><hi rend="i"><hi rend="sc">Mazurier</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Mazurier. <title>Mercure corrigé</title>.</note>.</bibl></quote>
+          <bibl><author  key="Mazurier"><hi rend="i"><hi rend="sc">Mazurier</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Mazurier. <title>Mercure corrigé</title>.</note>.</bibl></quote>
         </div>
         <div>
           <head><hi rend="sc">Neptune</hi>, <lb/><hi rend="i">Fils de Saturne et de Rhée.</hi></head>
@@ -751,7 +751,7 @@
             <l>Un zéphir plus flatteur souffle dans nos bosquets,</l>
             <l>            Les gazons me semblent plus frais,</l>
             <l>Et mes chères brebis me sont encor plus chères.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Anyte</hi></hi><hi rend="i">, Citoyenne d’Epidaure</hi></author>. — <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Anyte d’Epidaure. <title>Au Dieu Pan</title>.</note></bibl>
+            <bibl><author key="Anyte"><hi rend="i"><hi rend="sc">Anyte</hi></hi><hi rend="i">, Citoyenne d’Epidaure</hi></author>. — <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Anyte d’Epidaure. <title>Au Dieu Pan</title>.</note></bibl>
           </quote>
           <quote>
             <l>    Souvent tu viens chercher l’ombre de cet ormeau,</l>
@@ -763,7 +763,7 @@
             <l>            Satisfait, il paît l’herbe tendre</l>
             <l>            Qui croît au bord de ce ruisseau,</l>
             <l>Et moi je m’abandonne au plaisir de l’entendre.</l>
-            <bibl><author key=""><hi rend="i">La même</hi></author><note place="bottom">[Table des matières] Anyte d’Epidaure. <title>Au Dieu Pan</title>.</note>.</bibl>
+            <bibl><author key="Anyte"><hi rend="i">La même</hi></author><note place="bottom">[Table des matières] Anyte d’Epidaure. <title>Au Dieu Pan</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Pour fuir le Dieu des bois, plongée au fond des eaux,</l>
@@ -772,7 +772,7 @@
             <l>Il tira des soupirs de leur tige légère ;</l>
             <l>Du Ménale, à l’instant, les fidèles échos</l>
             <l>Répétèrent les sons des premiers chalumeaux.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Virgile</hi></hi></author>.— <author key="Gresset" rend="sc i" role="translator">Gresset</author><note place="bottom">[Table des matières] Gresset. <title>Eglogue VIII</title>.</note>.</bibl>
+            <bibl><author key="Virgile"><hi rend="i"><hi rend="sc">Virgile</hi></hi></author>.— <author key="Gresset" rend="sc i" role="translator">Gresset</author><note place="bottom">[Table des matières] Gresset. <title>Eglogue VIII</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    J’irai dans ces jardins<note place="bottom">Jardins des Plantes.</note> où calme et solitaire,</l>
@@ -812,7 +812,7 @@
             <l>                D’un air qui ne peut se décrire,</l>
             <l>M’a jeté sa couronne, et m’a fait un sourire</l>
             <l>                Que j’ai senti jusqu’à mon cœur.</l>
-            <bibl><author key="Léonard" rend="sc i">Léonard</author><note place="bottom">[Table des matières] <author key="Léonard">Léonard</author>. <title>Alexis. Roman pastoral</title>.</note>.</bibl>
+            <bibl><author key="Léonard" rend="sc i">Léonard</author><note place="bottom">[Table des matières] Léonard. <title>Alexis. Roman pastoral</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">L’Amour oiseleur.</label>
@@ -838,7 +838,7 @@
             <l>La Volupté nous berce entre les bras du Vice,</l>
             <l>Et de son souffle impur, fléau de nos beaux ans,</l>
             <l>Sèche et brûle en sa fleur le germe des talens.</l>
-            <bibl><author key="Saint-Ange" rend="sc i">Saint-Ange</author><note place="bottom">[Table des matières] <author key="Saint-Ange">Saint-Ange</author>. <title>A un jeune Poète</title>.</note>.</bibl>
+            <bibl><author key="Saint-Ange" rend="sc i">Saint-Ange</author><note place="bottom">[Table des matières] Saint-Ange. <title>A un jeune Poète</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -863,7 +863,7 @@
             <l>Nés de l’amour, en sont de nouveaux nœuds.</l>
             <l>Un tel Hymen, une union si chère,</l>
             <l>Si l’on en voit, c’est le Ciel sur la Terre.</l>
-            <bibl><author key="Voltaire" rend="sc i">Voltaire</author><note place="bottom">[Table des matières] <author key="Voltaire">Voltaire</author>. <title>L’Enfant prodigue. Acte II. Scène I</title>.</note>.</bibl>
+            <bibl><author key="Voltaire" rend="sc i">Voltaire</author><note place="bottom">[Table des matières] Voltaire. <title>L’Enfant prodigue. Acte II. Scène I</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>
@@ -876,7 +876,7 @@
             <l>La Vertu le conduit, la Tendresse l’anime,</l>
             <l>Le Bonheur sur ses pas est fixé sans retour ;</l>
             <l>Le véritable Hymen est le fils de l’Estime,</l>
-            <l>                Et le frère du tendre Amour<note place="bottom">[Table des matières] <author key="Le même [Voltaire]">Le même [Voltaire]</author>. <title>à d’Argental</title>.</note>.</l>
+            <l>                Et le frère du tendre Amour<note place="bottom">[Table des matières] <author key="Voltaire">Le même [Voltaire]</author>. <title>à d’Argental</title>.</note>.</l>
           </quote>
           <ab type="ornament"/>
           <quote>
@@ -911,7 +911,7 @@
             <l>D’un esprit doux et sage, et d’une ame sensible</l>
             <l>                Qu’est attaché le secret infaillible</l>
             <l>De fixer un époux et d’en faire un amant.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Verdier</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Verdier">Verdier</author>. <title>à Justine</title>.</note>.</bibl>
+            <bibl><author key="Verdier"><hi rend="i"><hi rend="sc">Verdier</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Verdier. <title>à Justine</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -934,7 +934,7 @@
             <l>                C’est que je le connois, mon père ;</l>
             <l>                Et presque toujours sur la Terre,</l>
             <l>                Je l’ai vu l’ami des méchans,</l>
-            <bibl><author key="Florian" rend="sc i">Florian</author><note place="bottom">[Table des matières] <author key="Florian">Florian</author>. <title>Hercule au Ciel. Fable</title>.</note>.</bibl>
+            <bibl><author key="Florian" rend="sc i">Florian</author><note place="bottom">[Table des matières] Florian. <title>Hercule au Ciel. Fable</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Oui, je perds les deux yeux ; vous les avez perdus,</l>
@@ -946,7 +946,7 @@
             <l>On a les yeux bouchés à la Ville, à la Cour :</l>
             <l>                Plutus, la Fortune et l’Amour</l>
             <l>Sont trois Aveugles-nés qui gouvernent le Monde.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Voltaire</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Voltaire">Voltaire</author>. <title>à Dudeffant</title>.</note>.</bibl>
+            <bibl><author key="Voltaire"><hi rend="i"><hi rend="sc">Voltaire</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Voltaire. <title>à Dudeffant</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -963,7 +963,7 @@
             <l>Demeure sourd et ; je vois bien</l>
             <l>Que la protection du Père</l>
             <l>Auprès du Fils n’est bonne à rien.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">François de Neufchâteau</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="François de Neufchâteau">François de Neufchâteau</author>. <title>Dans cette Grèce mensongère, etc.</title></note>.</bibl>
+            <bibl><author key="François de Neufchâteau"><hi rend="i"><hi rend="sc">François de Neufchâteau</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] François de Neufchâteau. <title>Dans cette Grèce mensongère, etc.</title></note>.</bibl>
           </quote>
           <quote>
             <l>    Venez donc dans les champs, vous que l’ennui dévore ;</l>
@@ -987,7 +987,7 @@
             <l>Aux Atrides blessés apportant le dictame ;</l>
             <l>D’abord leur sang s’arrête, et docile à sa main</l>
             <l>Le fer lâche sa proie, et tombe de leur sein.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">René. —</hi> </hi><hi rend="i"><hi rend="sc">Richard-Castel</hi></hi></author><note place="bottom">[Table des matières] <author key="René. — Richard-Castel">René. — Richard-Castel</author>. <title>Les Plantes. Poème. chant III</title>.</note>.</bibl>
+            <bibl><author key="René" rend="i sc">René</author>. — <author key="Richard-Chastel" role="translator"><hi rend="i"><hi rend="sc">Richard-Castel</hi></hi></author><note place="bottom">[Table des matières] René. — Richard-Castel. <title>Les Plantes. Poème. chant III</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>
@@ -1071,7 +1071,7 @@
             <l>            Et qu’ils ne redemandoient plus.</l>
             <l>        Ah ! parlez tous, époux antipathiques,</l>
             <l>Le divin Jupiter fit-il mieux que Momus ?</l>
-            <bibl><author key="Sélis" rend="sc i">Sélis</author><note place="bottom">[Table des matières] <author key="Sélis">Sélis</author>. <title>Le mauvais Ménage</title>.</note>.</bibl>
+            <bibl><author key="Sélis" rend="sc i">Sélis</author><note place="bottom">[Table des matières] Sélis. <title>Le mauvais Ménage</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1108,7 +1108,7 @@
             <l>Et le Barbeau de la table du maître</l>
             <l>Ne fait qu’un saut à celle des valets.</l>
             <l>Un bien commun est un bien sans attraits.</l>
-            <bibl><author key="Pétrone" rend="sc i">Pétrone</author>. — <author key="Deguerle" rend="sc i">Deguerle</author><note place="bottom">[Table des matières] <author key="Deguerle">Deguerle</author>. <title>Guerre civile de Pétrone</title>.</note>.</bibl>
+            <bibl><author key="Pétrone" rend="sc i">Pétrone</author>. — <author key="Deguerle" role="translator" rend="sc i">Deguerle</author><note place="bottom">[Table des matières] Deguerle. <title>Guerre civile de Pétrone</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1157,7 +1157,7 @@
             <l>Et que mes chants toujours nouveaux</l>
             <l>Mêlent la raison des Socrates</l>
             <l>Aux badinages des Saphos.</l>
-            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] <author key="Bernis">Bernis</author>. <title>A mes Dieux Pénates. Epître VII</title>.</note>.</bibl>
+            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>A mes Dieux Pénates. Epître VII</title>.</note>.</bibl>
           </quote>
           <quote>
             <label><hi rend="i">à un Ami. <lb/>Qui me rappeloit dans mes Foyers</hi>.</label>
@@ -1224,7 +1224,7 @@
             <l>Votre bruyant aspect pourroit effaroucher</l>
             <l>                Une ombre dolente et plaintive</l>
             <l>                Qu’une autre ombre revient chercher.</l>
-            <bibl><author key="Bourdic" rend="sc i">Bourdic</author><note place="bottom">[Table des matières] <author key="Bourdic">Bourdic</author>. <title>Ode en Stances irrégulières</title>.</note>.</bibl>
+            <bibl><author key="Bourdic" rend="sc i">Bourdic</author><note place="bottom">[Table des matières] Bourdic. <title>Ode en Stances irrégulières</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>
@@ -1248,7 +1248,7 @@
             <l>Chacun d’eux veut que je prononce :</l>
             <l>Eh, Messieurs ! D *** est son nom,</l>
             <l>Car il ne fait point de réponse.</l>
-            <bibl><author key="Mallet" rend="sc i">Mallet</author><note place="bottom">[Table des matières] <author key="Mallet-du-Pan">Mallet-du-Pan</author>. <title>Sur D.</title>.</note>.</bibl>
+            <bibl><author key="Mallet" rend="sc i">Mallet</author><note place="bottom">[Table des matières] Mallet-du-Pan. <title>Sur D.</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1287,7 +1287,7 @@
             <l>En foule au-tour de lui voltigent mille Songes,</l>
             <l>Peuple nombreux, égal aux feuilles des forêts,</l>
             <l>Aux sables du rivage, aux épis des guérêts.</l>
-            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key=""><hi rend="i"><hi rend="sc">Saint-Ange</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Saint-Ange">Saint-Ange</author>. <title>Métamorphoses d’Ovide liv. II</title>.</note>.</bibl>
+            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" role="translator"><hi rend="i"><hi rend="sc">Saint-Ange</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses d’Ovide liv. II</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1299,7 +1299,7 @@
             <l>    Le Dieu (<hi rend="i">le Sommeil</hi>), choisit Morphée : aucun autre jamais</l>
             <l><pb n="37" xml:id="p37"/>Ne sut mieux d’un mortel emprunter le visage,</l>
             <l>La démarche, la voix et même son langage.</l>
-            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" rend="sc i">Saint-Ange</author> <note place="bottom">[Table des matières] <author key="Saint-Ange">Saint-Ange</author>. <title>Métamorphoses d’Ovide. liv. II</title>.</note>.</bibl>
+            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" role="translator"  rend="sc i">Saint-Ange</author> <note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses d’Ovide. liv. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Sur ces demeures solitaires,</l>
@@ -1313,7 +1313,7 @@
             <l>Et voir dans tout son appareil</l>
             <l>L’Aurore entr’ouvrant les barrières</l>
             <l>Du Temple brillant du Soleil.</l>
-            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] <author key="Bernis">Bernis</author>. <title>A mes Dieux pénates. épître. VII</title>.</note>.</bibl>
+            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>A mes Dieux pénates. épître. VII</title>.</note>.</bibl>
           </quote>
           <p><hi rend="i">Voyez</hi><hi rend="sc">Sommeil, Songes</hi>.</p>
         </div>
@@ -1347,7 +1347,7 @@
             <l>Elle abandonne un corps appesanti loin d’elle,</l>
             <l>Que son être est plus noble, et qu’elle ne sort pas</l>
             <l>De la vile poussière éparse sous ses pas.</l>
-            <bibl><author key="Young" rend="sc i">Young</author>. — <author key="Colardeau" rend="sc i">Colardeau</author><note place="bottom">[Table des matières] <author key="Colardeau">Colardeau</author>. <title>Nuit d’Young</title>.</note>.</bibl>
+            <bibl><author key="Young" rend="sc i">Young</author>. — <author key="Colardeau" role="translator" rend="sc i">Colardeau</author><note place="bottom">[Table des matières] Colardeau. <title>Nuit d’Young</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Mais sur l’homme assoupi Morphée est descendu.</l>
@@ -1362,7 +1362,7 @@
             <l>Et d’un pied fantastique, il foule les gazons ;</l>
             <l>Le Chasseur presse et frappe un cerf imaginaire,</l>
             <l>Le Guerrier d’un vain bronze affronte le tonnerre.</l>
-            <bibl><author key="Le Gouvé" rend="sc i">Le Gouvé</author><note place="bottom">[Table des matières] <author key="Le Gouvé">Le Gouvé</author>. <title>Les Souvenirs. Poème</title>.</note>.</bibl>
+            <bibl><author key="Le Gouvé" rend="sc i">Le Gouvé</author><note place="bottom">[Table des matières] Le Gouvé. <title>Les Souvenirs. Poème</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1378,7 +1378,7 @@
             <l>L’un l’autre se frappant de leurs cimes hautaines,</l>
             <l>Eclatés par l’effort des bruyans tourbillons,</l>
             <l>Font retentir au loin les échos des vallons.</l>
-            <bibl><author key="Homère" rend="sc i">Homère</author>. — <author key="Rochefort" rend="sc i">Rochefort</author><note place="bottom">[Table des matières] <author key="Rochefort">Rochefort</author>. <title>Iliade. liv. XVI</title>.</note>.</bibl>
+            <bibl><author key="Homère" rend="sc i">Homère</author>. — <author key="Rochefort" role="translator" rend="sc i">Rochefort</author><note place="bottom">[Table des matières] Rochefort. <title>Iliade. liv. XVI</title>.</note>.</bibl>
           </quote>
           <quote>
             <label><hi rend="i">Tempête</hi>.</label>
@@ -1390,7 +1390,7 @@
             <l>La foudre étincelante éclate dans les nues ;</l>
             <l>Et le feu des éclairs, et l’abîme des flots,</l>
             <l>Montroient par-tout, la mort aux pâles matelots,</l>
-            <bibl><author key="Voltaire">Voltaire</author><note place="bottom">[Table des matières] <author key="Voltaire">Voltaire</author>. <title>Henriade. ch. I</title>.</note>.</bibl>
+            <bibl><author key="Voltaire">Voltaire</author><note place="bottom">[Table des matières] Voltaire. <title>Henriade. ch. I</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Zéphyre.</label>
@@ -1413,7 +1413,7 @@
             <l>A ses côtés, sur un arbre voisin,</l>
             <l>La vigne monte, et court vaine et superbe,</l>
             <l>Près du cédrat suspendre le raisin.</l>
-            <bibl><author key="Imbert" rend="sc i">Imbert</author><note place="bottom">[Table des matières] <author key="Imbert">Imbert</author>. <title>Le jugement de Pâris. ch. I</title>.</note>.</bibl>
+            <bibl><author key="Imbert" rend="sc i">Imbert</author><note place="bottom">[Table des matières] Imbert. <title>Le jugement de Pâris. ch. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1503,7 +1503,7 @@
             <l>Rappellent le règne de Flore,</l>
             <l>Et la campagne brille encor</l>
             <l>Des douces couleurs de l’aurore.</l>
-            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] <author key="Bernis">Bernis</author>. <title>Les quatre Saisons. ch. III</title>.</note>.</bibl>
+            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>Les quatre Saisons. ch. III</title>.</note>.</bibl>
           </quote>
           <p><hi rend="i">Voyez</hi><hi rend="sc">Pomone</hi>.</p>
         </div>
@@ -1515,7 +1515,7 @@
             <l>Chancèle à chaque pas dans sa marche incertaine ;</l>
             <l>Son front déshonoré par l’injure des ans,</l>
             <l>Ou n’a plus de cheveux, ou n’en a que de blancs.</l>
-            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" rend="sc i">Saint-Ange</author><note place="bottom">[Table des matières] <author key="Saint-Ange">Saint-Ange</author>. <title>Les quatre Ages</title>.</note>.</bibl>
+            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" rend="sc i" role="translator">Saint-Ange</author><note place="bottom">[Table des matières] Saint-Ange. <title>Les quatre Ages</title>.</note>.</bibl>
           </quote>
           <quote>
             <label><hi rend="i">L’Hiver de</hi> 1709.</label>
@@ -1570,7 +1570,7 @@
             <l>Ni le bruit du marteau, ni le cri de la scie ;</l>
             <l>Les chars ne roulent plus sur la terre durcie.</l>
             <l>Par-tout un long silence image de la mort…</l>
-            <bibl><author key="Roucher" rend="sc i">Roucher</author><note place="bottom">[Table des matières] <author key="Roucher">Roucher</author>. <title>Les Mois. ch. XI</title>.</note>.</bibl>
+            <bibl><author key="Roucher" rend="sc i">Roucher</author><note place="bottom">[Table des matières] Roucher. <title>Les Mois. ch. XI</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1611,7 +1611,7 @@
             <l>S’ils soupçonnent leurs noms dans ses premiers accens ;</l>
             <l>S’ils retrouvent en eux des traits de ressemblance,</l>
             <l>Ils partissent jouir d’une double existence.</l>
-            <bibl><author key="Maréchal" rend="sc i">Maréchal</author><note place="bottom">[Table des matières] <author key="Maréchal">Maréchal</author>. <title>L’âge le plus heureux, etc.</title></note>.</bibl>
+            <bibl><author key="Maréchal" rend="sc i">Maréchal</author><note place="bottom">[Table des matières] Maréchal. <title>L’âge le plus heureux, etc.</title></note>.</bibl>
           </quote>
           <quote>
             <label>
@@ -1634,7 +1634,7 @@
             <l>Vous enflamme jusqu’au délire ;</l>
             <l>Un rien suffit pour vous séduire,</l>
             <l>Et l’Enfance est votre portrait.</l>
-            <bibl><author key="Beauharnois" rend="sc i">Beauharnois</author><note place="bottom">[Table des matières] <author key="Beauharnois">Beauharnois</author>. <title>Portrait des François</title>.</note>.</bibl>
+            <bibl><author key="Beauharnois" rend="sc i">Beauharnois</author><note place="bottom">[Table des matières] Beauharnois. <title>Portrait des François</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1664,7 +1664,7 @@
             <l>Mais le dur Nautonnier sans égard fait son choix.</l>
             <l>Il reçoit quand il veut, l’esclave dans sa barque,</l>
             <l>Et d’un coup d’aviron repousse le monarque.</l>
-            <bibl><author key="Virgile" rend="sc i">Virgile</author>. — <author key="Lefranc" rend="sc i">Lefranc</author><note place="bottom">[Table des matières] <author key="Lefranc">Lefranc</author>. <title>Enéide. liv. VI</title>.</note>.</bibl>
+            <bibl><author key="Virgile" rend="sc i">Virgile</author>. — <author key="Lefranc" rend="sc i" role="translator">Lefranc</author><note place="bottom">[Table des matières] Lefranc. <title>Enéide. liv. VI</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    La figure un peu décrépite</l>
@@ -1675,7 +1675,7 @@
             <l>Dit à sa Muse favorite ;</l>
             <l>Ecrivez à ce vieux Barbon ;</l>
             <l>Elle écrivit ; je ressuscite.</l>
-            <bibl><author key="Voltaire" rend="sc i">Voltaire</author><title>à Bourdic</title><note place="bottom">[Table des matières] <author key="Voltaire">Voltaire</author>. <title>à Bourdic</title>.</note>.</bibl>
+            <bibl><author key="Voltaire" rend="sc i">Voltaire</author><title>à Bourdic</title><note place="bottom">[Table des matières] Voltaire. <title>à Bourdic</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1748,7 +1748,7 @@
             <l>Il livre au fer sacré, les plus gros, les plus beaux,</l>
             <l>Fait des libations, et plein de confiance</l>
             <l>Des Mânes paternels invoque la puissance.</l>
-            <bibl><author key="Virgile" rend="sc i">Virgile</author>. — <author key="Chabanon" rend="sc i">Chabanon</author><note place="bottom">[Table des matières] <author key="Chabanon">Chabanon</author>. <title>Enéide. liv. VI</title>.</note>.</bibl>
+            <bibl><author key="Virgile" rend="sc i">Virgile</author>. — <author key="Chabanon" rend="sc i" role="translator">Chabanon</author><note place="bottom">[Table des matières] Chabanon. <title>Enéide. liv. VI</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Aux Mânes de ma Mère.</label>
@@ -1800,7 +1800,7 @@
             <l>Sera mon seul consolateur ;</l>
             <l>Et du moins, auprès de ma Mère,</l>
             <l>Je pourrai retrouver mon cœur.</l>
-            <bibl><author key="Doigni" rend="sc i">Doigni</author><note place="bottom">[Table des matières] <author key="Doigni">Doigni</author>. <title>Aux Mânes de ma Mère</title>.</note>.</bibl>
+            <bibl><author key="Doigni" rend="sc i">Doigni</author><note place="bottom">[Table des matières] Doigni. <title>Aux Mânes de ma Mère</title>.</note>.</bibl>
           </quote>
         </div>
       </div>
@@ -1869,7 +1869,7 @@
             <l>Qu’il faut que leur famille, au secours de leurs mains,</l>
             <l>Qu’il faut que leur patrie, à leur noble victoire,</l>
             <l>Doivent leur liberté, leur bonheur et leur gloire.</l>
-            <bibl><author key="Lucrèce" rend="sc i">Lucrèce</author>. — <author key=""><hi rend="i"><hi rend="sc">Leblanc-de-Guillet</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Leblanc de Guillet">Leblanc de Guillet</author>. <title>Lucrèce. ch. II</title>.</note>.</bibl>
+            <bibl><author key="Lucrèce" rend="sc i">Lucrèce</author>. — <author key="Leblanc de Guillet" role="translator"><hi rend="i"><hi rend="sc">Leblanc-de-Guillet</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Leblanc de Guillet. <title>Lucrèce. ch. II</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1903,7 +1903,7 @@
             <l>Samos lui r’ouvre un sein qui l’a nourrie,</l>
             <l>Et Junon trouve en cette Ile fleurie,</l>
             <l>Ces plaisirs purs qui naissent dans les champs.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Malfilatre</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Malfilatre">Malfilatre</author>. <title>Narcisse. ch. II</title>.</note>.</bibl>
+            <bibl><author key="Malfilatre"><hi rend="i"><hi rend="sc">Malfilatre</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Malfilatre. <title>Narcisse. ch. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Avec orgueil, mais avec majesté,</l>
@@ -1920,7 +1920,7 @@
             <l>D’un diadême, où l’éclat d’un or pâle</l>
             <l>Ranime un fond tendrement azuré,</l>
             <l>Et dans ses mains brille un sceptre d’opale.</l>
-            <bibl><author key="Imbert" rend="sc i">Imbert</author><note place="bottom">[Table des matières] <author key="Imbert">Imbert</author>. <title>Le Jugement de Pâris. ch. I</title>.</note>.</bibl>
+            <bibl><author key="Imbert" rend="sc i">Imbert</author><note place="bottom">[Table des matières] Imbert. <title>Le Jugement de Pâris. ch. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1966,7 +1966,7 @@
             <l><pb n="57" xml:id="p57"/>    Jeunes cœurs, rompez vos chaînes :</l>
             <l>Cessons de craindre les peines</l>
             <l>Dont nous étions alarmés.</l>
-            <bibl><author key="Rousseau" rend="sc i">Rousseau</author><note place="bottom">[Table des matières] <author key="Rousseau">Rousseau</author>. <title>Diane. ch. I</title>.</note>.</bibl>
+            <bibl><author key="J.-B. Rousseau" rend="sc i">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Diane. ch. I</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Les bois furent toujours l’école des guerriers,</l>
@@ -1991,7 +1991,7 @@
             <l>Tout se tait : le cor sonne ; on s’écrie, on s’élance,</l>
             <l>Et soudain comme un trait, meute, coursier, chasseur,</l>
             <l>Du rempart des taillis ont franchi l’épaisseur.</l>
-            <bibl><author key="Roucher" rend="sc i">Roucher</author><note place="bottom">[Table des matières] <author key="Roucher">Roucher</author>. <title>Les Mois. ch. VII</title>.</note>.</bibl>
+            <bibl><author key="Roucher" rend="sc i">Roucher</author><note place="bottom">[Table des matières] Roucher. <title>Les Mois. ch. VII</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2066,7 +2066,7 @@
             <l>Se dépouillant de sa grandeur suprême,</l>
             <l>Elle contemple et partage elle-même</l>
             <l>De ces cœurs purs l’innocente gaîté.</l>
-            <bibl><author key="Léonard" rend="sc i">Léonard</author><note place="bottom">[Table des matières] <author key="Léonard">Léonard</author>. <title>Temple de Gnide. ch. I</title>.</note>.</bibl>
+            <bibl><author key="Léonard" rend="sc i">Léonard</author><note place="bottom">[Table des matières] Léonard. <title>Temple de Gnide. ch. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2094,7 +2094,7 @@
             <l>Des boucles d’or, errantes et captives ;</l>
             <l>Et des brillans, d’un vert foible et douteux,</l>
             <l>Ceignent son front, façonnés en olives.</l>
-            <bibl><author key="Imbert" rend="sc i">Imbert</author><note place="bottom">[Table des matières] <author key="Imbert">Imbert</author>. <title>Le jugement de Pâris. ch. I</title>.</note>.</bibl>
+            <bibl><author key="Imbert" rend="sc i">Imbert</author><note place="bottom">[Table des matières] Imbert. <title>Le jugement de Pâris. ch. I</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Les Arbres protégés par les Dieux.</label>
@@ -2122,7 +2122,7 @@
             <l>Repartit Jupiter, embrassant la Déesse ;</l>
             <l>Tu sais apprécier les choses par leurs fruits,</l>
             <l>Et l’Olympe, à ton choix, reconnoît la Sagesse.</l>
-            <bibl><author key="Rivery" rend="sc i">Rivery</author><note place="bottom">[Table des matières] <author key="Riveri">Riveri</author>. <title>Les arbres protégés par les Dieux</title>.</note>.</bibl>
+            <bibl><author key="Rivery" rend="sc i">Rivery</author><note place="bottom">[Table des matières] Riveri. <title>Les arbres protégés par les Dieux</title>.</note>.</bibl>
           </quote>
           <p><hi rend="i">Voyez</hi><hi rend="sc">Arachné</hi>.</p>
         </div>
@@ -2164,7 +2164,7 @@
             <l>Ne connoît ni le temps, ni bornes, ni distance,</l>
             <l>Et perce également, embrassant l’Univers,</l>
             <l>L’épaisseur de la terre, et le cristal des airs.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Dubois</hi></hi><hi rend="i">-<hi rend="sc"/></hi><hi rend="i"><hi rend="sc">Fontanelle</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Dubois-Fontanelles">Dubois-Fontanelles</author>. <title>Ericie ou la Vestale. acte I. scène I</title>.</note>.</bibl>
+            <bibl><author key="Dubois-Fontanelles"><hi rend="i"><hi rend="sc">Dubois</hi></hi><hi rend="i">-<hi rend="sc"/></hi><hi rend="i"><hi rend="sc">Fontanelle</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Dubois-Fontanelles. <title>Ericie ou la Vestale. acte I. scène I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2225,7 +2225,7 @@
             <l>Et Pallas, coiffée en bergère,</l>
             <l>Pour égayer les moissonneurs,</l>
             <l>Danse à midi sur la fougère.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Bernis</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Bernis">Bernis</author>. <title>Les quatre saisons. ch. II</title>.</note>.</bibl>
+            <bibl><author key="Bernis"><hi rend="i"><hi rend="sc">Bernis</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Bernis. <title>Les quatre saisons. ch. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    J’admire tes bienfaits, divine Agriculture,</l>
@@ -2268,7 +2268,7 @@
             <l>Les champs sollicités par les mains des Camilles,</l>
             <l>De leurs dons à l’envi combloient leurs possesseurs,</l>
             <l>Et ces fruits du travail n’altéroient point les mœurs.</l>
-            <bibl><author key="Saint-Lambert" rend="sc i">Saint-Lambert</author><note place="bottom">[Table des matières] <author key="Saint-Lambert">Saint-Lambert</author>. <title>L’été. ch. II</title>.</note>.</bibl>
+            <bibl><author key="Saint-Lambert" rend="sc i">Saint-Lambert</author><note place="bottom">[Table des matières] Saint-Lambert. <title>L’été. ch. II</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2307,7 +2307,7 @@
             <l>Et l’innocence enfin paisible,</l>
             <l>Va la voir d’un glaive infaillible</l>
             <l>Frapper son calomniateur.</l>
-            <bibl><author key="La Motte" rend="sc i">La Motte</author><note place="bottom">[Table des matières] <author key="La Motte">La Motte</author>. <title>Ode VII</title>.</note>.</bibl>
+            <bibl><author key="La Motte" rend="sc i">La Motte</author><note place="bottom">[Table des matières] La Motte. <title>Ode VII</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Portrait de la Chicane.</label>
@@ -2333,7 +2333,7 @@
             <l>Comme un hibou, souvent il se dérobe au jour ;</l>
             <l>Tantôt les yeux en feu, c’est un lion superbe ;</l>
             <l>Tantôt, humble serpent il se glisse sous l’herbe.</l>
-            <bibl><author key="Boileau" rend="sc i">Boileau</author><note place="bottom">[Table des matières] <author key="Boileau">Boileau</author>. <title>Lutrin. ch. V</title>.</note>.</bibl>
+            <bibl><author key="Boileau" rend="sc i">Boileau</author><note place="bottom">[Table des matières] Boileau. <title>Lutrin. ch. V</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2362,7 +2362,7 @@
             <l>Que leur fine toison compose mes habits ;</l>
             <l>Et quand le fuseau tourne entre leurs mains légères,</l>
             <l>Ne blesse pas les doigts de nos jeunes bergères ?</l>
-            <bibl><author key="Delille" rend="sc i">Delille</author><note place="bottom">[Table des matières] <author key="Delille">Delille</author>. <title>L’imagination. Poème</title>.</note>.</bibl>
+            <bibl><author key="Delille" rend="sc i">Delille</author><note place="bottom">[Table des matières] Delille. <title>L’imagination. Poème</title>.</note>.</bibl>
           </quote>
           <quote>
             <l><pb n="69" xml:id="p69"/>    Que les vergers, que les champs ont d’attraits !</l>
@@ -2373,7 +2373,7 @@
             <l>Et détrompé du faste des palais,</l>
             <l>Je sais enfin, sous mon toit solitaire,</l>
             <l>Apprécier les faveurs de Palès.</l>
-            <bibl><author key="Palissot" rend="sc i">Palissot</author><note place="bottom">[Table des matières] <author key="Pallissot">Pallissot</author>. <title>Dunciade. ch. III</title>.</note>.</bibl>
+            <bibl><author key="Palissot" rend="sc i">Palissot</author><note place="bottom">[Table des matières] Pallissot. <title>Dunciade. ch. III</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2412,7 +2412,7 @@
             <l>Et des essaims d’abeilles bourdonnantes,</l>
             <l>Qui, suspendus en grappes éclatantes,</l>
             <l>Sucent des fleurs les esprits éthérés.</l>
-            <bibl><author key="Léonard" rend="sc i">Léonard</author><note place="bottom">[Table des matières] <author key="Léonard">Léonard</author>. <title>Les Saisons. ch. I</title>.</note>.</bibl>
+            <bibl><author key="Léonard" rend="sc i">Léonard</author><note place="bottom">[Table des matières] Léonard. <title>Les Saisons. ch. I</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>           Quelle Déité bienfaisante</l>
@@ -2429,7 +2429,7 @@
             <l>Quel mélange d’odeurs ! quelle variété !</l>
             <l>Non loin de ces berceaux, la diligente abeille</l>
             <l>Du calice des fleurs extrait sa liqueur d’or…</l>
-            <bibl><author key="Venance" rend="sc i">Venance</author><note place="bottom">[Table des matières] <author key="Venance">Venance</author>. <title>Fragment</title>.</note>.</bibl>
+            <bibl><author key="Venance" rend="sc i">Venance</author><note place="bottom">[Table des matières] Venance. <title>Fragment</title>.</note>.</bibl>
           </quote>
           <p><hi rend="i">Voyez</hi><hi rend="sc">Printemps</hi>.</p>
         </div>
@@ -2458,7 +2458,7 @@
             <l>Qu’on voit dans la plaine</l>
             <l>Soutenir à peine</l>
             <l>Leurs pas incertains.</l>
-            <bibl><author key="Bernard" rend="sc i">Bernard</author><note place="bottom">[Table des matières] <author key="Bernard">Bernard</author>. <title>L’Automne</title>.</note>.</bibl>
+            <bibl><author key="Bernard" rend="sc i">Bernard</author><note place="bottom">[Table des matières] Bernard. <title>L’Automne</title>.</note>.</bibl>
           </quote>
           <label rend="sc">les Saisons.</label>
           <quote>
@@ -2468,7 +2468,7 @@
             <l>L’Automne, le front ceint de grappes colorées,</l>
             <l>Tout souillé des raisins que ses pieds ont pressés ;</l>
             <l>Et l’Hiver, aux cheveux de neige hérissés,</l>
-            <bibl><author key="Saint-Ange" rend="sc i">Saint-Ange</author><note place="bottom">[Table des matières] <author key="Saint-Ange">Saint-Ange</author>. <title>Métamorphoses. liv. II</title>.</note>.</bibl>
+            <bibl><author key="Saint-Ange" rend="sc i">Saint-Ange</author><note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses. liv. II</title>.</note>.</bibl>
           </quote>
           <p><hi rend="i">Voyez</hi><hi rend="sc">Vertumne</hi>.</p>
         </div>
@@ -2537,7 +2537,7 @@
             <l>Et que mûrit l’aile du temps,</l>
             <l>Vaut-il un seul regard de Flore,</l>
             <l>Lorsqu’on est dans son printemps.</l>
-            <bibl><author key="Pesselier" rend="sc i">Pesselier</author><note place="bottom">[Table des matières] <author key="Pesselier">Pesselier</author>. <title>Epître à Hébé</title>.</note>.</bibl>
+            <bibl><author key="Pesselier" rend="sc i">Pesselier</author><note place="bottom">[Table des matières] <Pesselier</author>. <title>Epître à Hébé</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2548,7 +2548,7 @@
             <l>Chargé de pluie, altéré de lumière,</l>
             <l>Boit le Soleil, et vers notre paupière</l>
             <l>Réfléchit l’or et la pourpre et l’azur.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Malfilatre</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Malfilatre">Malfilatre</author>. <title>Narcisse. ch. III</title>.</note>.</bibl>
+            <bibl><author key="Malfilatre"><hi rend="i"><hi rend="sc">Malfilatre</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Malfilatre. <title>Narcisse. ch. III</title>.</note>.</bibl>
           </quote>
           <label rend="sc">Le Paon et l’Arc-en-Ciel.</label>
           <l>                      Après une averse d’été,</l>
@@ -2641,7 +2641,7 @@
             <l>Phébus franchissant la barrière</l>
             <l>S’élance, et loin de la carrière,</l>
             <l>Pousse ses chevaux mugissans.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Le Prieur</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Le Prieur">Le Prieur</author>. <title>L’Aurore, etc.</title>.</note>.</bibl>
+            <bibl><author key="Le Prieur"><hi rend="i"><hi rend="sc">Le Prieur</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Le Prieur. <title>L’Aurore, etc.</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2657,7 +2657,7 @@
             <l>Mobile, incertain et constant,</l>
             <l>Le temps, d’une aile infatigable,</l>
             <l>Parcourt ce palais éclatant,</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Bernis</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Bernis">Bernis</author>. <title>Les quatre parties du jour</title>.</note>.</bibl>
+            <bibl><author key="Bernis"><hi rend="i"><hi rend="sc">Bernis</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Bernis. <title>Les quatre parties du jour</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Déjà d’un demi-jour l’horison se colore,</l>
@@ -2668,7 +2668,7 @@
             <l>Les amènent fumans de flammes qu’ils vomissent,</l>
             <l>Et repus d’ambrosie, abreuvés de nectar,</l>
             <l>Avec ordre rangés les attèlent au char.</l>
-            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" rend="sc i">Saint-Ange</author> <note place="bottom">[Table des matières] <author key="Saint-Ange">Saint-Ange</author>. <title>Métamorphoses. liv. II</title>.</note>.</bibl>
+            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" rend="sc i" role="translator">Saint-Ange</author> <note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses. liv. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Dans ce beau palais du Soleil</l>
@@ -2774,7 +2774,7 @@
             <l>Qui les méprise et les ignore !</l>
             <l>Le cœur qui les sent, les adore,</l>
             <l>Et peut seul les apprécier.</l>
-            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] <author key="Bernis">Bernis</author>. <title>Epitre aux Grâces</title>.</note>.</bibl>
+            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>Epitre aux Grâces</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2804,7 +2804,7 @@
             <l>Le monde entier pour commun héritage,</l>
             <l>Egalité sans lois et sans partage ;</l>
             <l>Tels sont les biens qu’on possédoit alors.</l>
-            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] <author key="Bernis">Bernis</author>. <title>Le nouvel Elysée</title>.</note>.</bibl>
+            <bibl><author key="Bernis" rend="sc i">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>Le nouvel Elysée</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Heureux le siècle où les tables champêtres</l>
@@ -2826,7 +2826,7 @@
             <l>Zéphyr souffloit ; la flûte soupiroit ;</l>
             <l>L’écho des bois doucement murmuroit :</l>
             <l>Dans l’Univers tout n’étoit qu’harmonie.</l>
-            <bibl><author key="Thompson" rend="sc i">Thompson</author>. — <author key="Léonard" rend="sc i">Léonard</author><note place="bottom">[Table des matières] <author key="Léonard">Léonard</author>. <title>Les Saisons. ch. I</title>.</note>.</bibl>
+            <bibl><author key="Thompson" rend="sc i">Thompson</author>. — <author key="Léonard" rend="sc i" role="translator">Léonard</author><note place="bottom">[Table des matières] <author key="Léonard">Léonard</author>. <title>Les Saisons. ch. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2855,7 +2855,7 @@
             <l>O combien la mémoire a d’heureux avantages !</l>
             <l>Elle charme l’exil, embellit les voyages,</l>
             <l>Recule le présent, et promet l’avenir.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Le</hi> Gouvé</hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Le Gouvé">Le Gouvé</author>. <title>Les Souvenirs. Poème</title>.</note>.</bibl>
+            <bibl><author key="Le Gouvé"><hi rend="i"><hi rend="sc">Le</hi> Gouvé</hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Le Gouvé. <title>Les Souvenirs. Poème</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Temple de Mémoire.</label>
@@ -2880,13 +2880,13 @@
             <l>Mais ici, quels faits mémorables</l>
             <l>Cachent ces débris vénérables,</l>
             <l>Mutilés et presque effacés ?</l>
-            <bibl><author key="La Motte" rend="sc i">La Motte</author><note place="bottom">[Table des matières] <author key="La Motte">La Motte</author>. <title>Le temple de Mémoire. Ode III</title>.</note>.</bibl>
+            <bibl><author key="La Motte" rend="sc i">La Motte</author><note place="bottom">[Table des matières] La Motte. <title>Le temple de Mémoire. Ode III</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Sur un Poëte plagiaire.</label>
             <l>    Qui pourroit de ses vers lui disputer la gloire ?</l>
             <l>Chacun sait que sa muse est fille de Mémoire.</l>
-            <bibl><author key="Fayolle" rend="sc i">Fayolle</author><note place="bottom">[Table des matières] <author key="Fayolle">Fayolle</author>. <title>Sur un Poète plagiaire</title>.</note>.</bibl>
+            <bibl><author key="Fayolle" rend="sc i">Fayolle</author><note place="bottom">[Table des matières] Fayolle. <title>Sur un Poète plagiaire</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2957,7 +2957,7 @@
             <l>Si j’en ai soutenu la gloire,</l>
             <l>Muse, viens payer ma victoire,</l>
             <l>D’un laurier digne de mon front.</l>
-            <bibl><author key="La Motte" rend="sc i">La Motte</author><note place="bottom">[Table des matières] <author key="La Motte">La Motte</author>. <title>Le Parnasse. ode V</title>.</note>.</bibl>
+            <bibl><author key="La Motte" rend="sc i">La Motte</author><note place="bottom">[Table des matières] La Motte. <title>Le Parnasse. ode V</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Terpsicore.</label>
@@ -2975,7 +2975,7 @@
             <l>Je revois les amours, les faits de nos aïeux :</l>
             <l>Elle sait m’inspirer leur belliqueuse ivresse,</l>
             <l>J’admire leurs exploits, et je plains leur foiblesse…</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Dorat</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Dorat">Dorat</author>. <title>La Déclamation. ch. IV</title>.</note>.</bibl>
+            <bibl><author key="Dorat"><hi rend="i"><hi rend="sc">Dorat</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Dorat. <title>La Déclamation. ch. IV</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Danses Provençales.</label>
@@ -2999,7 +2999,7 @@
             <l>On s’élance, on s’élève, on retombe avec elle.</l>
             <l>Provence fortunée, asile aimé des cieux,</l>
             <l>Que j’aimerois ton ciel, ton délire et tes jeux !</l>
-            <bibl><author key=""><hi rend="i">Le même</hi></author><note place="bottom">[Table des matières] <author key="Dorat">Dorat</author>. <title>La Déclamation. ch. IV</title>.</note>.</bibl>
+            <bibl><author key="Dorat"><hi rend="i">Le même</hi></author><note place="bottom">[Table des matières] Dorat. <title>La Déclamation. ch. IV</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -3015,7 +3015,7 @@
             <l>Veillez aux jours chéris du plus beau<note place="bottom">Elle parle de Xantus.</note> des mortels.</l>
             <l>C’est sous ces pins touffus que ses mains innocentes</l>
             <l>               Vous, ont élevé des autels.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Myro</hi></hi><hi rend="i">, cit. de Corinthe</hi></author>. — <author key="***">***</author><note place="bottom">[Table des matières] <author key="Myro de Corinthe">Myro de Corinthe</author>. <title>Fragment</title>.</note>.</bibl>
+            <bibl><author key=""><hi rend="i"><hi rend="sc">Myro</hi></hi><hi rend="i">, cit. de Corinthe</hi></author>. — <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Myro de Corinthe. <title>Fragment</title>.</note>.</bibl>
           </quote>
           <quote>
             <label rend="sc">Inscription pour une Fontaine.</label>
@@ -3032,7 +3032,7 @@
             <l>Tu rappelles l’objet qui consacra ton nom ;</l>
             <l>Ses bienfaits et les tiens animent ce canton,</l>
             <l>Et son ame est toujours pure comme ton onde.</l>
-            <bibl><author key="Prélong" rend="sc i">Prélong</author><note place="bottom">[Table des matières] <author key="Prélong">Prélong</author>. <title>A une belle source</title>.</note>.</bibl>
+            <bibl><author key="Prélong" rend="sc i">Prélong</author><note place="bottom">[Table des matières] Prélong. <title>A une belle source</title>.</note>.</bibl>
           </quote>
           <p><hi rend="i">Voyez</hi><hi rend="sc">Aristée</hi> . </p>
         </div>
@@ -3068,7 +3068,7 @@
             <l>Aux richesses des grands mille fois préférable !</l>
             <l>Trop heureux le mortel qui, goûtant tes douceurs,</l>
             <l>Sait connoître et sentir le prix de tes faveurs !.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Roman</hi></hi><hi rend="i">, d’Avignon</hi></author><note place="bottom">[Table des matières] <author key="Roman, d’Avignon">Roman, d’Avignon</author>. <title>Epître sur la Santé</title>.</note>.</bibl>
+            <bibl><author key="Roman"><hi rend="i"><hi rend="sc">Roman</hi></hi><hi rend="i">, d’Avignon</hi></author><note place="bottom">[Table des matières] Roman, d’Avignon. <title>Epître sur la Santé</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    O toi, mère des biens qui rendent l’homme heureux,</l>
@@ -3106,7 +3106,7 @@
             </label>
             <l>    Lorsque vers la Douleur la Pitié te conduit,</l>
             <l>Le Calme te précède, et la Santé te suit.</l>
-            <bibl><author key=""><hi rend="i"><hi rend="sc">Paul</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] <author key="Paul">Paul</author>. <title>Au médecin Calvet</title>.</note>.</bibl>
+            <bibl><author key="Paul"><hi rend="i"><hi rend="sc">Paul</hi></hi><hi rend="i"><hi rend="sc"/></hi></author><note place="bottom">[Table des matières] Paul. <title>Au médecin Calvet</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -3140,7 +3140,7 @@
             <l>Enfans toujours douteux de rapports incertains,</l>
             <l>Entourent la Déesse en nouveautés féconde,</l>
             <l>Et ses yeux sont ouverts sur tous les coins du monde.</l>
-            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" rend="sc i">Saint-Ange</author> <note place="bottom">[Table des matières] <author key="Saint-Ange">Saint-Ange</author>. <title>Métamorphoses. liv. XII</title>.</note>.</bibl>
+            <bibl><author key="Ovide" rend="sc i">Ovide</author>.— <author key="Saint-Ange" rend="sc i" role="translator">Saint-Ange</author> <note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses. liv. XII</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -3158,7 +3158,7 @@
             <l>Une robe sanglante est toute sa parure ;</l>
             <l>Et sa main secouant un flambeau dans les airs,</l>
             <l>De sa cruelle flamme embrase l’Univers.</l>
-            <bibl><author key="[">[<hi rend="i"><hi rend="sc">Pétrone</hi></hi>]</author>. — <author key="Bouhier" rend="sc i">Bouhier</author><note place="bottom">[Table des matières] <author key="Bouhier">Bouhier</author>. <title>Des trompettes déjà, etc.</title></note>.</bibl>
+            <bibl><author key="Pétrone">[<hi rend="i"><hi rend="sc">Pétrone</hi></hi>]</author>. — <author key="Bouhier" rend="sc i" role="translator">Bouhier</author><note place="bottom">[Table des matières] Bouhier. <title>Des trompettes déjà, etc.</title></note>.</bibl>
           </quote>
           <quote>
             <label>
@@ -3193,7 +3193,7 @@
             <l>Viens ! Pluton à Pharsale apprête le carnage :</l>
             <l>Là, du sang des humains doit s’abreuver un Dieu. »</l>
             <l>La Discorde a parlé : l’Univers est en feu.</l>
-            <bibl><author key="Pétrone" rend="sc i">Pétrone</author>. — <author key="Deguerle" rend="sc i">Deguerle</author><note place="bottom">[Table des matières] <author key="Deguerle">Deguerle</author>. <title>Guerre civile de Pétrone</title>.</note>.</bibl>
+            <bibl><author key="Pétrone" rend="sc i">Pétrone</author>. — <author key="Deguerle" rend="sc i" role="translator">Deguerle</author><note place="bottom">[Table des matières] <author key="Deguerle">Deguerle</author>. <title>Guerre civile de Pétrone</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -3219,7 +3219,7 @@
             <l>Court et pénètre en toutes les maisons.</l>
             <l>               Voilà pourquoi les consolations</l>
             <l>Viennent toujours bien tard soulager la misère.</l>
-            <bibl><author key="Fallet" rend="sc i">Fallet</author><note place="bottom">[Table des matières] <author key="Fallet">Fallet</author>. <title>Até, Déesse du malheur, etc.</title></note>.</bibl>
+            <bibl><author key="Fallet" rend="sc i">Fallet</author><note place="bottom">[Table des matières] Fallet. <title>Até, Déesse du malheur, etc.</title></note>.</bibl>
           </quote>
           <quote>
             <l>    Combien autour de nous, mugissent de tempêtes !</l>
@@ -3252,7 +3252,7 @@
             <l>Le sein des hôpitaux les rejette au dehors.</l>
             <l>Entends-tu ces mourans qui demandent leur place,</l>
             <l>Et d’un lit douloureux sollicitent la grace ?</l>
-            <bibl><author key="Young" rend="sc i">Young</author>. — <author key="Colardeau" rend="sc i">Colardeau</author><note place="bottom">[Table des matières] <author key="Colardeau">Colardeau</author>. <title>Nuit d’Young</title>.</note>.</bibl>
+            <bibl><author key="Young" rend="sc i">Young</author>. — <author key="Colardeau" rend="sc i" role="translator">Colardeau</author><note place="bottom">[Table des matières] Colardeau. <title>Nuit d’Young</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
