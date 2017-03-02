@@ -35,7 +35,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Bertoux, Guillaume (Abbé), <hi rend="i">Histoire poëtique tirée des poëtes françois ; avec un Dictionnaire poétique, par De la Croix</hi> [1771], VI<hi rend="sup">e</hi> édition, revue et corrigée, Paris, Savoye, An XIV — 1806, 259 p. Source : <ref target="https://books.google.fr/books?id=KM7thlykudAC">Google</ref><hi rend="color_0000FF"><hi rend="u"> Livres</hi></hi>.</bibl>
+        <bibl>Bertoux, Guillaume (Abbé), <hi rend="i">Histoire poëtique tirée des poëtes françois ; avec un Dictionnaire poétique, par De la Croix</hi> [1771], VI<hi rend="sup">e</hi> édition, revue et corrigée, Paris, Savoye, An XIV — 1806, 259 p. Source : <ref target="https://books.google.fr/books?id=KM7thlykudAC">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -5167,9 +5167,7 @@
           <p><hi rend="i">—</hi> Sa naissance, 81-129</p>
           <p><hi rend="i">—</hi> Fait saillir la fontaine Hippocrène, 45</p>
           <p><hi rend="i">—</hi> Est monté par Bellérophon, 150</p>
-          <list type="ul" rend="—">
-            <item rend="list">Est aux ordres des bons poëtes, 46</item>
-          </list>
+          <p>— >Est aux ordres des bons poëtes, 46</p>
           <p><hi rend="i">Pelée</hi> épouse Thétis, 74</p>
           <p><hi rend="i">—</hi> Est le père d’Achille, 173</p>
           <p><hi rend="i">Pélias</hi>, frère d’Eson, périt par l’artifice de Médée, 154</p>
