@@ -32,7 +32,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <author key="Géruzez">Eugène Géruzez</author><hi rend="i">, Petit cours de mythologie contenant la mythologie des Grecs et des Romains, avec un précis des croyances fabuleuses des Indous, des Perses, des Égyptiens, des Scandinaves et des Gaulois, par E. Geruzez ; ouvrage autorisé par le Conseil de l’Instruction publique</hi>, 12<hi rend="sup">e</hi> éd., Paris, Librairie de L. Hachette et Cie, 1869, 140 p. PDF : <ref target="https://books.google.fr/books?id=ZvYXAAAAYAAJ">Google Livres</ref>.</bibl>
+          <author key="Géruzez, Eugène">Eugène Géruzez</author><hi rend="i">, Petit cours de mythologie contenant la mythologie des Grecs et des Romains, avec un précis des croyances fabuleuses des Indous, des Perses, des Égyptiens, des Scandinaves et des Gaulois, par E. Geruzez ; ouvrage autorisé par le Conseil de l’Instruction publique</hi>, 12<hi rend="sup">e</hi> éd., Paris, Librairie de L. Hachette et Cie, 1869, 140 p. PDF : <ref target="https://books.google.fr/books?id=ZvYXAAAAYAAJ">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -49,7 +49,7 @@
       <div>
         <head>Avis de l’éditeur.</head>
         <p>Le <title>Cours de Mythologie</title> que nous réimprimons avec un complément nouveau a été écrit par un père de famille, pour l’instruction de ses propres enfants. La matière était délicate, parce qu’il fallait reproduire, avec retenue et cependant sans infidélité, des récits qui constatent les aberrations du sentiment religieux chez les peuples de l’antiquité. Ces témoignages d’une corruption profonde devaient devenir des leçons de saine morale. Une pareille difficulté ne pouvait être surmontée que par l’expérience d’un homme versé dans l’enseignement et éclairé par ces lumières du cœur que donne l’affection paternelle. L’épreuve de la publicité a été complétement favorable à cette tentative. Des mères de familles et des membres du clergé nous ont félicité d’avoir mis aux mains de l’enfance un livre qui l’instruit sans danger, ou plutôt qui fait servir à la culture de l’esprit et du sens moral le tableau des plus graves erreurs. Les qualités qui distinguent le style de M. 
-          <author key="Géruzez">Geruzez</author> se retrouvent dans cet opuscule : elles relèvent par l’agrément de la forme la solidité du fond, et promettent un succès durable à cet ouvrage, qui a été pour l’auteur l’accomplissement d’un devoir et le délassement de travaux plus sérieux.</p>
+          <author key="Géruzez, Eugène">Geruzez</author> se retrouvent dans cet opuscule : elles relèvent par l’agrément de la forme la solidité du fond, et promettent un succès durable à cet ouvrage, qui a été pour l’auteur l’accomplissement d’un devoir et le délassement de travaux plus sérieux.</p>
         <label>PETIT COURS <lb/>DE MYTHOLOGIE</label>
       </div>
       <div>
@@ -867,8 +867,8 @@
                 <l> Tu ris, change le nom, la fable est ton histoire. </l>
                 <bibl>
                   <author key="anonyme"/>
-                  <author key="Desmarets" role="translator" resp="editor"/>
                   <author key="Horace" resp="editor"/>
+                  <author key="Desmarets" role="translator" resp="editor"/>
                 </bibl>
               </quote>
             </div>
