@@ -837,7 +837,7 @@
             <bibl>
               <author key="Fontanes">Fontanes</author><note place="bottom">[Table des matières] Fontanes. <title>Les Fleurs. Poème</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Syrinx</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Syrinx</hi>.</p>
         </div>
         <div>
           <head>
@@ -1391,7 +1391,7 @@
             <bibl>
               <author key="Bernis">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>A mes Dieux pénates. épître. VII</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Sommeil, Songes</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Sommeil, Songes</hi>.</p>
         </div>
         <div>
           <head>Songes.</head>
@@ -1589,7 +1589,7 @@
             <bibl>
               <author key="Bernis">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>Les quatre Saisons. ch. III</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Pomone</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Pomone</hi>.</p>
         </div>
         <div>
           <head>Hiver.</head>
@@ -2230,7 +2230,7 @@
             <bibl>
               <author key="Rivery">Rivery</author><note place="bottom">[Table des matières] Riveri. <title>Les arbres protégés par les Dieux</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Arachné</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Arachné</hi>.</p>
         </div>
         <div>
           <head><hi rend="sc">Vesta</hi>, <lb/><hi rend="i">Fille de Saturne et d’Ops.</hi></head>
@@ -2546,7 +2546,7 @@
             <bibl>
               <author key="Venance">Venance</author><note place="bottom">[Table des matières] Venance. <title>Fragment</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Printemps</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Printemps</hi>.</p>
         </div>
         <div>
           <head><hi rend="sc">Pomone</hi>, <lb/><hi rend="i">Femme de Vertumne, Dieu de l’Automne.</hi></head>
@@ -2587,10 +2587,10 @@
             <bibl>
               <author key="Saint-Ange">Saint-Ange</author><note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses. liv. II</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Vertumne</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Vertumne</hi>.</p>
         </div>
         <div>
-          <head><hi rend="sc">Hébé</hi><hi rend="i">ou</hi><hi rend="sc">Juventa</hi>, <lb/><hi rend="i">Fille de Junon, et Déesse de la Jeunesse</hi>.</head>
+          <head><hi rend="sc">Hébé</hi><hi rend="i"> ou</hi><hi rend="sc"> Juventa</hi>, <lb/><hi rend="i">Fille de Junon, et Déesse de la Jeunesse</hi>.</head>
           <p><hi rend="sc">Belle</hi> et fraîche comme le Printemps dont elle est l’image, elle mérita de verser le Nectar à Jupiter. Ayant eu le malheur de tomber en présence des Dieux, elle fut si honteuse de sa chûte, qu’elle n’osa plus présenter à boire au Maître de l’Olympe, Le jeune et beau Ganymède la remplaça dans sa fonction. Hébé avoit aussi l’honneur d’atteler le char de Junon. Elle épousa dans la suite Hercule, admis au rang des Dieux, et rajeunit à sa prière son vieux cocher Jolas.</p>
           <quote>
             <l>    Incomparable Enchanteresse,</l>
@@ -2713,7 +2713,7 @@
           <bibl>
             <author key="Dorat">Dorat</author><note place="bottom">[Table des matières]
             <author key="Dorat">Dorat</author>. <title>Le Pan et l’Arc-en-Ciel</title>.</note>.</bibl>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Gaîté</hi> et <hi rend="sc">Nature champêtre</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Gaîté</hi> et <hi rend="sc">Nature champêtre</hi>.</p>
         </div>
         <div>
           <head><hi rend="sc">Aurore</hi>, <lb/><hi rend="i">Fille de Titan et de la Terre</hi>.</head>
@@ -2906,7 +2906,7 @@
           </quote>
         </div>
         <div>
-          <head><hi rend="sc">Astrée</hi><hi rend="i">ou</hi><hi rend="sc">l’Age d’or</hi>, <lb/><hi rend="i">Fille de Jupiter et de Thémis.</hi></head>
+          <head><hi rend="sc">Astrée</hi><hi rend="i"> ou</hi><hi rend="sc"> l’Age d’or</hi>, <lb/><hi rend="i">Fille de Jupiter et de Thémis.</hi></head>
           <p><hi rend="sc">On</hi> appelle l’<hi rend="i">Age d’or</hi>, ce siècle heureux où cette Déesse descendit du ciel et vint habiter la terre. Enchantée de l’innocence de ces premiers temps, l’Immortelle resta parmi les hommes, tant qu’ils furent vertueux et justes. Mais voyant leurs mœurs s’altérer dans l’<hi rend="i">Age d’argent</hi>, elle remonta au ciel. Sa retraite fut suivie des vices de l’<hi rend="i">Age d’airain</hi> et des crimes de l’<hi rend="i">Age de fer</hi>.</p>
           <quote>
             <l>    Là, sous les lois de Saturne et de Rhée,</l>
@@ -3177,7 +3177,7 @@
             <bibl>
               <author key="Prélong">Prélong</author><note place="bottom">[Table des matières] Prélong. <title>A une belle source</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Aristée</hi> . </p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Aristée</hi> . </p>
         </div>
         <div>
           <head><hi rend="sc">Hygie</hi>, <lb/><hi rend="i">Fille d’Escutape, Déesse de la Santé.</hi></head>
@@ -3413,7 +3413,7 @@
           </quote>
         </div>
         <div>
-          <head><hi rend="sc">Némésis</hi><hi rend="i">ou</hi><hi rend="sc">Adrastée</hi>, <lb/><hi rend="i">Déesse de la Vengeance.</hi></head>
+          <head><hi rend="sc">Némésis</hi><hi rend="i"> ou</hi><hi rend="sc"> Adrastée</hi>, <lb/><hi rend="i">Déesse de la Vengeance.</hi></head>
           <p><hi rend="sc">Elle</hi> châtioit les scélérats et tous ceux qui faisoient un abus profane ou cruel des présens de la fortune. On la représente ailée, armée de brandons et de serpens, et ayant sur sa tête une couronne rehaussée d’une corne de cerf. Némésis avoit un temple à Samos, à Ephèse et à Rome. Le plus superbe étoit celui de Rhamnus, où affluoit toute la Grèce.</p>
           <quote>
             <label>
@@ -3545,7 +3545,7 @@
           </quote>
         </div>
         <div>
-          <head><hi rend="sc">Euménides</hi><hi rend="i">ou</hi><hi rend="sc">Furies</hi>, <lb/><hi rend="i">Filles de l’Achéron et de la Nuit.</hi></head>
+          <head><hi rend="sc">Euménides</hi><hi rend="i"> ou</hi><hi rend="sc"> Furies</hi>, <lb/><hi rend="i">Filles de l’Achéron et de la Nuit.</hi></head>
           <p><hi rend="sc">Ces</hi> horribles Sœurs étoient au nombre de trois, Alecton, Tisiphone et Mégère. Chargées par les Dieux de venger le crime, elles tourmentoient les scélérats et les impies sur la Terre. Sans cesse acharnées contre eux, elles les poursuivoient jusqu’aux Enfers. Là, elles les flagelloient éternellement avec des serpens et des flambeaux.</p>
           <quote>
             <l>    Au fond d’une vallée, horreur de la Nature,</l>
@@ -3958,7 +3958,7 @@
           </quote>
         </div>
         <div>
-          <head><hi rend="sc">Hercule</hi><hi rend="i">ou</hi><hi rend="sc">Alcide</hi>, <lb/><hi rend="i">Fils de Jupiter et d’Alcmène</hi>.</head>
+          <head><hi rend="sc">Hercule</hi><hi rend="i"> ou</hi><hi rend="sc"> Alcide</hi>, <lb/><hi rend="i">Fils de Jupiter et d’Alcmène</hi>.</head>
           <p><hi rend="sc">C’étoit</hi> le héros de la force et de la valeur. Rien n’est plus fameux que ses douze travaux. Après avoir étouffé deux serpens dans son berceau, il tua l’Hydre de Lerne, monstre à plusieurs têtes ; la Biche aux cornes d’or, <pb n="111" xml:id="p111"/>et aux pieds d’airain ; le Lion de Némée, l’homicide Busiris, le Sanglier d’Erymanthe, les horribles Oiseaux du Lac Stymphale ; le Taureau furieux qui désoloit la Crète. Vainqueur du fleuve Achéloüs, il lui arracha une corne, qu’il lui rendit ensuite en échange d’Amalthée. Plusieurs Géans, plusieurs Monstres succombèrent sous ses coups. L’horrible Antée, le brigand Cacus furent étouffés dans ses bras. Hercule tua le Dragon des Hespérides, et enleva leurs pommes d’or. Rival d’Atlas, il soutint le Ciel sur ses épaules. Il dompta les Centaures et défit les Amazones. Il ravit à Pluton, Alceste et Thésée ; il tua le Vautour attaché au foie de Prométhée. Il joignit la Méditerranée à l’Océan en séparant deux montagnes, et éleva les colonnes qui portent son nom, sur lesquelles il grava ces mots :
             <quote><hi rend="i">Non plus ultra</hi></quote> : il n’est rien au-de-là. Ce fut le dernier de ses héroïques travaux, dont il ternit presque l’éclat par sa lâche foiblesse pour Omphale. Déjanire sa femme trompée par Nessus mourant, lui envoya la robe ensanglantée de ce Centaure, dans l’idée que ce présent l’empêcheroit d’en aimer une autre. A peine l’eut-il revêtue qu’il se sentit brûler les entrailles. Ne pouvant résister à ses horribles douleurs, le héros dresse son bûcher, s’y étend, et prie son ami Philoctète d’y mettre le feu. Ainsi finit Alcide. Placé dans le Ciel après sa mort, il y épousa la jeune Hébé.</p>
           <p/>
@@ -4029,7 +4029,7 @@
             <bibl>
               <author key="Racine">Racine</author><note place="bottom">[Table des matières] Racine. <title>Phèdre. acte I. scène I</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Ariane</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Ariane</hi>.</p>
         </div>
         <div>
           <head><hi rend="sc">Aristée</hi>, <lb/><hi rend="i">Fils d’Apollon et de la Nymphe Cyrène.</hi></head>
@@ -4930,7 +4930,7 @@
             <bibl>
               <author key="Lefranc">Lefranc</author><note place="bottom">[Table des matières] Lefranc. <title>Didon, acte II. scène I</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Didon</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Didon</hi>.</p>
         </div>
         <div>
           <head>Amazones.</head>
@@ -6068,7 +6068,7 @@
               <author key="Pétrone">Pétronne</author>. — 
               <author key="Deguerle" role="translator">Deguerle</author><note place="bottom">[Table des matières] Deguerle. <title>Satyricon de Pétrone</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Tartare</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Tartare</hi>.</p>
         </div>
         <div>
           <head>Pâ<hi rend="sc">ris</hi>, <lb/><hi rend="i">Fils de Priam et d’Hécube.</hi></head>
@@ -7201,7 +7201,7 @@
           </quote>
         </div>
         <div>
-          <head><hi rend="sc">Castor</hi><hi rend="i">et</hi><hi rend="sc">Pollux</hi>, <lb/><hi rend="i">Fils de Léda</hi>.</head>
+          <head><hi rend="sc">Castor</hi><hi rend="i"> et</hi><hi rend="sc"> Pollux</hi>, <lb/><hi rend="i">Fils de Léda</hi>.</head>
           <p><hi rend="sc">Leur</hi> mère eut le premier de son époux Tyndare, et le second de Jupiter. Ces deux frères s’aimoient si tendrement qu’ils ne se quittoient jamais. Ils suivirent Jason dans la Colchide, et conquirent avec lui la Toison d’or. Pollux ayant reçu de son Père l’Immortalité, le pria d’en faire part à son cher Castor. Jupiter, lui accorda cette faveur, à condition qu’ils n’en jouiroient qu’alternativement. Castor et Pollux furent après métamorphosés en ces deux Astres qu’on nomma les Gémeaux.</p>
           <quote>
             <label><hi rend="i">Pollux, seul</hi>.</label>
@@ -7587,7 +7587,7 @@
               <author key="Ovide">Ovide</author>. — 
               <author key="Dorat" role="translator">Dorat</author><note place="bottom">[Table des matières] Dorat. <title>Métamorphoses. liv. III</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Echo</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Echo</hi>.</p>
         </div>
         <div>
           <head><hi rend="sc">Actéon</hi>, <lb/><hi rend="i">Fils d’Aristée et d’Antonoé.</hi></head>
@@ -7728,7 +7728,7 @@
           </quote>
         </div>
         <div>
-          <head><hi rend="sc">Alphée</hi><hi rend="i">et</hi><hi rend="sc">Aréthuse</hi>, <lb/><hi rend="i">Fille de Nérée et de Doris.</hi></head>
+          <head><hi rend="sc">Alphée</hi><hi rend="i"> et</hi><hi rend="sc"> Aréthuse</hi>, <lb/><hi rend="i">Fille de Nérée et de Doris.</hi></head>
           <p><pb n="227" xml:id="p227"/><hi rend="sc">Aréthuse</hi>, nymphe et compagne de Diane, préféroit, comme la Déesse, les plaisirs de la chasse aux peines de l’amour. Alphée, épris de sa beauté, s’attachoit sans cesse à ses pas ; elle refusoit toujours de répondre à ses vœux. Les Dieux voulant mettre un terme à ces poursuites importunes, changèrent Arétuhse en fontaine d’Ortygie, et Alphée en fleuve d’Elide. L’amour d’Alphée survécut à sa métamorphose. Ses eaux traversoient le sein des mers sans s’y mêler, et alloient s’unir toujours pures et limpides, aux eaux d’Aréthuse.</p>
           <quote>
             <label>
@@ -8281,7 +8281,7 @@
           </quote>
         </div>
         <div>
-          <head><hi rend="sc">Hesper</hi><hi rend="i">ou</hi><hi rend="sc">Vesper</hi>, <lb/><hi rend="i">Frère d’Atlas et Père des Hespérides.</hi></head>
+          <head><hi rend="sc">Hesper</hi><hi rend="i"> ou</hi><hi rend="sc"> Vesper</hi>, <lb/><hi rend="i">Frère d’Atlas et Père des Hespérides.</hi></head>
           <p><pb n="243" xml:id="p243"/><hi rend="sc">Il</hi> fut changé en cette Etoile occidentale qu’on nomme <hi rend="i">Etoile du Soir</hi>.</p>
           <quote>
             <l>    Vesper commence à rayonner,</l>
@@ -9023,7 +9023,7 @@
         </div>
         <div>
           <head>Cyclopes.</head>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Vulcain</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Vulcain</hi>.</p>
           <quote>
             <l>    Nous voguons, et bientôt une rive inconnue,</l>
             <l>Pour croître nos douleurs, s’offrit à notre vue.</l>
@@ -9394,7 +9394,7 @@
               <author key="Laugier">Laugier</author>, ci-devant
               <author key="Gaudin">Gaudin</author><note place="bottom">[Table des matières] Laugier, ci-devant Gaudin.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Deucalion</hi>, <hi rend="i">pour la description du Parnasse</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Deucalion</hi>, <hi rend="i">pour la description du Parnasse</hi>.</p>
         </div>
         <div>
           <head>Bois sacrés.</head>
@@ -9805,7 +9805,7 @@
               <author key="Ovide">Ovide</author>.—
               <author key="Saint-Ange" role="translator">Saint-Ange</author> <note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses. liv. I</title>.</note>.</bibl>
           </quote>
-          <p><hi rend="i">Voyez</hi><hi rend="sc">Python</hi>.</p>
+          <p><hi rend="i">Voyez</hi><hi rend="sc"> Python</hi>.</p>
         </div>
         <div>
           <head>Enfers.</head>
@@ -10124,7 +10124,7 @@
           <hi rend="sc">Divinités allégoriques</hi>
         </head>
         <div>
-          <head><hi rend="sc">Destin</hi><hi rend="i">ou</hi><hi rend="sc">Destinée</hi>, <lb/><hi rend="i">Fils du Cahos.</hi></head>
+          <head><hi rend="sc">Destin</hi><hi rend="i"> ou</hi><hi rend="sc"> Destinée</hi>, <lb/><hi rend="i">Fils du Cahos.</hi></head>
           <p><pb n="294" xml:id="p294"/><hi rend="sc">Il</hi> tenoit sous ses pieds le Globe Terrestre, et dans ses mains l’Urne fatale, où étoit contenu le sort des hommes. Ses arrêts étoient irrévocables, et son pouvoir s’étendoit sur les Dieux mêmes.</p>
           <quote>
             <l>    Loin de la Sphère où grondent les orages ;</l>

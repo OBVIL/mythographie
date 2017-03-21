@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>The age of fable; or, stories of gods and heroes</title>
+        <title>The Age of Fable; or, Stories of Gods and Heroes</title>
         <author key="Bullfinch, Thomas">Thomas Bullfinch</author>
       </titleStmt>
       <editionStmt>
@@ -1862,7 +1862,8 @@
               <l>Gives the nectar to her lord.”</l>
             </quote>
             <listBibl>
-              <bibl rend="author">S. G. B. </bibl>
+              <bibl>
+                <author>S. G. B.</author></bibl>
             </listBibl>
           </div>
           <div>
@@ -2252,7 +2253,7 @@
             <p>The ancients were fond of finding a hidden meaning in their mythological tales. They explain this fight of Acheloüs with Hercules by saying Acheloüs was a river that in seasons of rain overflowed its banks. When the fable says that Acheloüs loved Dejanira, and sought a union with her, the meaning is that the river in its windings flowed through part of Dejanira’s kingdom. It was said to take the form of a snake because of its winding, and of a bull because it made a brawling or roaring in its course. When the river swelled, it made itself another channel. Thus its head was horned. Hercules prevented the return of these periodical overflows by embankments and canals; and therefore he was said to have vanquished the river-god and cut off his horn. Finally, the lands formerly subject to overflow, but now redeemed, became very fertile, and this is meant by the horn of plenty.</p>
             <p>There is another account of the origin of the Cornucopia. Jupiter at his birth was committed by his mother Rhea to the care of the daughters of Melisseus, a Cretan king. They fed the infant deity with the milk of the goat Amalthea. Jupiter broke off one of the horns of the goat and gave it to his nurses, and endowed it with the wonderful power of becoming filled with whatever the possessor might wish.</p>
             <p>The name of Amalthea is also given by some writers to the mother of Bacchus. It is thus used by
-              <author>Milton</author>, <hi rend="color_FF0000">P. L., </hi>Book IV.: —</p>
+              <author>Milton</author>, P. L., Book IV.: —</p>
             <quote>
               <l>                            “— That Nyseian isle,</l>
               <l>Girt with the river Triton, where old Cham,</l>
@@ -4254,7 +4255,7 @@
             <p>That the Druids offered sacrifices to their deity there can be no doubt. But there is some uncertainty as to what they offered, and of the ceremonies connected with their religious services we know almost nothing. The classical (Roman) writers affirm that they offered on great occasions human sacrifices; as for success in war or for relief from dangerous diseases.
               <author>Caesar</author> has given a detailed account of the manner in which this was done.
               <quote>“They have images of immense size, the limbs of which are framed with twisted twigs and filled with living persons. These being set on fire, those within are encompassed by the flames.”</quote> Many attempts have been made by Celtic writers to shake the testimony of the Roman historians to this fact, but without success.</p>
-            <p>The Druids observed two festivals in each year. The former took place in the beginning of May, and was called Beltane or “fire of God.” On this occasion a large fire was kindled on some elevated spot, in honor of the sun, whose returning beneficence they thus welcomed after the gloom and desolation of winter. <hi rend="color_FF0000">of</hi> this custom a trace remains in the name given to Whitsunday in parts of Scotland to this day.
+            <p>The Druids observed two festivals in each year. The former took place in the beginning of May, and was called Beltane or “fire of God.” On this occasion a large fire was kindled on some elevated spot, in honor of the sun, whose returning beneficence they thus welcomed after the gloom and desolation of winter. Of this custom a trace remains in the name given to Whitsunday in parts of Scotland to this day.
               <author>Sir Walter Scott</author> uses the word in the <title>Boat Song</title> in the <title>Lady of the Lake</title>: —</p>
             <quote>
               <l>“Ours is no sapling, chance sown by the fountain,</l>
@@ -4363,14 +4364,14 @@
           <head>No. 2. Page 60.</head>
           <quote>
             <l xml:lang="it">Facies non omnibus una,</l>
-            <l>Nec diversa tamen, qualem decet esse sororum. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Ovid</hi></name>.</l>
+            <l>Nec diversa tamen, qualem decet esse sororum. — <name xml:lang="it" type="author"><hi rend="i">Ovid</hi></name>.</l>
             <p>Their faces were not all alike, nor yet unlike, but such as those of sisters ought to be.</p>
           </quote>
         </div>
         <div>
           <head>No. 3. Page 63.</head>
           <quote>
-            <l>Medio tutissimus ibis. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Ovid</hi></name>.</l>
+            <l>Medio tutissimus ibis. — <name xml:lang="it" type="author"><hi rend="i">Ovid</hi></name>.</l>
             <p>You will go most safely in the middle.</p>
           </quote>
         </div>
@@ -4385,14 +4386,14 @@
         <div>
           <head>No. 5. Page 171.</head>
           <quote>
-            <l>Imponere Pelio Ossam. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Virgil</hi></name>.</l>
+            <l>Imponere Pelio Ossam. — <author>Virgil</author>.</l>
             <p xml:lang="it">To pile Ossa upon Pelion.</p>
           </quote>
         </div>
         <div>
           <head>No. 6. Page 311.</head>
           <quote>
-            <l>Timeo Danaos et dona ferentes. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Virgil</hi></name>.</l>
+            <l>Timeo Danaos et dona ferentes. — <author>Virgil</author>.</l>
             <p>I fear the Greeks even -when they offer gifts.</p>
           </quote>
         </div>
@@ -4435,14 +4436,14 @@
         <div>
           <head>No. 12. Page 352.</head>
           <quote>
-            <l>Haud ignara mali, miseris succurrere disco. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Virgil</hi></name>.</l>
+            <l>Haud ignara mali, miseris succurrere disco. — <author><hi xml:lang="it" rend="i">Virgil</hi></author>.</l>
             <p>Not unacquainted with distress, I have learned to succor the unfortunate.</p>
           </quote>
         </div>
         <div>
           <head>No. 13. Page 352.</head>
           <quote>
-            <l>Tros, Tyriusve mihi nullo discrimine agetur. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Virgil</hi></name>.</l>
+            <l>Tros, Tyriusve mihi nullo discrimine agetur. — <author><hi xml:lang="it" rend="i">Virgil</hi></author>.</l>
             <p>Whether Trojan or Tyrian shall make no difference to me.</p>
           </quote>
         </div>
@@ -4459,21 +4460,21 @@
         <div>
           <head>No. 15. Page 355.</head>
           <quote>
-            <l>Uno avulso non deficit alter. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Virgil</hi></name>.</l>
+            <l>Uno avulso non deficit alter. — <author rend="i">Virgil</author>.</l>
             <p>When one is torn away another succeeds.</p>
           </quote>
         </div>
         <div>
           <head>No. 16. Page 355.</head>
           <quote>
-            <l>Tu ne cede malis, sod contra audentior ito. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Virgil</hi></name>.</l>
+            <l>Tu ne cede malis, sod contra audentior ito. — <author rend="i">Virgil</author>.</l>
             <p>Yield thou not to adversity, but press on the more bravely.</p>
           </quote>
         </div>
         <div>
           <head>No. 17. Page 376.</head>
           <quote>
-            <l>Quadrupedante putrem sonitu quatit ungula campum. — <name xml:lang="it" type="author"><hi xml:lang="it" rend="i">Virgil</hi></name>.</l>
+            <l>Quadrupedante putrem sonitu quatit ungula campum. — <author rend="i">Virgil</author>.</l>
             <p>Then struck the hoofs of the steeds on the ground with a four-footed trampling.</p>
           </quote>
         </div>
