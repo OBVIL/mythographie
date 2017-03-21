@@ -35,7 +35,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Drioux , Claude-Joseph (1820-1898), <hi rend="i">Précis élémentaire de mythologie grecque, romaine, indienne, persane, égyptienne, gauloise et scandinave, à l’usage des institutions, des pensions de demoiselles, et des autres établissements d’instruction publique, par M. l’abbé Drioux, professeur au petit séminaire de Langres, membre de la Société littéraire de l’Université catholique de Louvain, auteur du Cours complet d’Histoire</hi>, Tournai, Typ. de J. Casterman et fils, 1850, 219 p. Source : <ref target="https://archive.org/details/storiesoflongago00kupfrich">Googlehttps://books.google.fr/books?id=6_xAAAAAcAAJ</ref><hi rend="color_0000FF"><hi rend="u"> livres</hi></hi>.</bibl>
+        <bibl>Drioux , Claude-Joseph (1820-1898), <hi rend="i">Précis élémentaire de mythologie grecque, romaine, indienne, persane, égyptienne, gauloise et scandinave, à l’usage des institutions, des pensions de demoiselles, et des autres établissements d’instruction publique, par M. l’abbé Drioux, professeur au petit séminaire de Langres, membre de la Société littéraire de l’Université catholique de Louvain, auteur du Cours complet d’Histoire</hi>, Tournai, Typ. de J. Casterman et fils, 1850, 219 p. Source : <ref target="https://archive.org/details/storiesoflongago00kupfrich">Googlehttps://books.google.fr/books?id=6_xAAAAAcAAJ</ref> livres.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -587,6 +587,7 @@
             <quote>
               <l>Tantale dans un fleuve a soif et ne peut boire.</l>
               <l>Tu ris, change le nom, la fable est ton histoire.
+                <author key="anonyme"/>
                 <author key="Horace" resp="editor"/>
                 <author key="Desmarets" role="translator" resp="editor"/></l>
             </quote>
