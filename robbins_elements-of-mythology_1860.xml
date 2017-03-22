@@ -53,8 +53,8 @@
         <head>[Epigraph]</head>
         <quote>
           <p>”Thou shall have no other gods before me.”</p>
-        <author key="anonyme"/>
-          <author key="Moïse" resp="editor"/>
+        <bibl><author key="anonyme"/>
+          <author key="Moïse" resp="editor"/></bibl>
         </quote>
       </div>
       <div>
@@ -220,12 +220,9 @@
           <l>The <hi rend="i">stamp of fate</hi>, and sanction of a god;</l>
           <l>High heaven, with trembling, the dread signal takes,</l>
           <l>And all Olympus to the centre shakes.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Iliad</title>,
+        <bibl><title>Iliad</title>,
             <author key="Homère"/>
-            <author role="translator">Pope</author>'s translation.</bibl>
-        </listBibl>
+            <author role="translator">Pope</author>'s translation.</bibl></quote>
         <p>Jove’s peculiar habitation, and that of the other celestial gods, was supposed to be Olympus, a mountain of Greece; though
           <author key="Dr. Clarke">Dr. Clarke</author>, a very learned man, supposes Olympus to be a name common to high mountains in the ancient world. <hi rend="i">Fate</hi> signifies a fixed purpose of the gods, — a determination of the divine mind which could not be altered. When Jove <hi rend="i">nodded</hi>, or inclined his head, that motion expressed his unalterable will.</p>
         <p>Jupiter, in <hi rend="i">Homer</hi>, answers a petitioner thus:</p>
@@ -240,12 +237,13 @@
           <l>The stamp of fate, and sanction of the God:</l>
           <l>High heaven, with trembling, the dread signal took,</l>
           <l>And all Olympus to the centre shook.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Iliad</title>, Book 1.
+        <bibl><title>Iliad</title>, Book 1.
             <author key="Homère"/>
             <author key="Pope" role="translator" resp="editor"/></bibl>
-        </listBibl>
+        </quote>
+        
+          
+        
         <p> Virgil, the Roman poet, represents Jove’s power over nature, with great efiect, thus;</p>
         <quote>
           <l>Great Jove himself, whom dreadful darkness shrouds,</l>
@@ -258,12 +256,9 @@
           <l>And hurls <hi rend="i">huge Athos</hi> and <hi rend="i">Cerannia</hi> down.</l>
           <l>Thick fall the rains; the wind redoubled roars:</l>
           <l>The god now smit’^s the woods and now the sounding shores.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Æneid</title>,
+        <bibl><title>Æneid</title>,
             <author key="Virgile"/>
-            <author role="translator">Pitt</author>'s translation.</bibl>
-        </listBibl>
+            <author role="translator">Pitt</author>'s translation.</bibl></quote>
         <p>Rhodope was a mountain of Thrace, Athos of Upper Greece, and the Acroceraunian ridge may be seen in modern Turkey, north of Macedonia.</p>
         <p>Just, wise, and powerful as Jove was represented by the heathens, he had not the infinite purity of the true God, for his worshippers, in their blindness, admitted many vices in his character, and related concerning him many scandalous adventures.</p>
         <p>Jupiter’s enemies were the Titans and the giants: the former were the sons of his uncle Titan, who imprisoned Saturn; and the latter were sons of Terra or Earth, who attempted to dethrone Jupiter. The giants, in their invasion, that they might scale the heavens, are said to have piled mount Pelion upon Ossa. Jupiter defeated them all.</p>
@@ -308,11 +303,8 @@
           <l>Sound their loud conchs, and smooth the circling waves,</l>
           <l>Now Europe’s shadowy shores, with loud acclaim.</l>
           <l>Hail the fair fugitive and <hi rend="i">shout her name</hi>.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author key="Darwin">Darwin</author>'s<title rend="i"> Botanic Garden</title>, Canto II.</bibl>
-        </listBibl>
+        <bibl>
+            <author key="Darwin">Darwin</author>'s<title rend="i"> Botanic Garden</title>, Canto II.</bibl></quote>
         <p><hi rend="i">Capitoline Jupiter.</hi> — A statue which adorned the temple of Jupiter at Rome. The finest Jupiter in existence is one in the Vesospi palace at Rome. On a medal struck in the time of the emperor Vitellius, is an impression like the famous statue of the capitol.</p>
         <p>Did the ancients suppose that Jupiter loved human females, and what is related of his appearance to Semele?</p>
         <p>How did Jupiter appear to Leda?</p>
@@ -366,12 +358,9 @@
           <l>Or in soft slumbers seals the wakeful eye;</l>
           <l>Then shoots from heaven to high Pieria’s steep,</l>
           <l>And stoops incumbent on the rolling deep.</l>
-        </quote>
-        <listBibl>
-          <bibl>
+        <bibl>
             <author key="Homer">Homer</author>'s <title rend="i">Odyssey</title>. —
-            <author role="translator">Pope</author>. </bibl>
-        </listBibl>
+            <author role="translator">Pope</author>. </bibl></quote>
         <p>The Greek Mercury was the son of Jupiter and Maia. He was the god of eloquence, of arts and sciences, and the messenger of Jupiter. He was the inventor of weights and measures, and conducted departed souls to the world of spirits.</p>
         <p>Mercury is represented as a young man; wings were fastened to his sandals and to his cap, and in his hand he held the <hi rend="i">caduceus</hi>. This was a wand entwined with two serpents. The caduceus had a power to induce wakefulness, or to cause sleep. Mercury, besides his higher offices, was the god of thieves, of merchants, and of highways. Statues of Mercury were often placed in roads to point out the way to travellers.</p>
         <p>The mythologists say that Mercury was born at Mount Cyllene in Arcadia, and that in his infancy he was intrusted to the care of the Seasons. His cunning and dexterity in stealing were remarkable. He stole the quiver and arrow of Apollo, and robbed Neptune of his trident, Venus of her girdle. Mars of his sword, and Vulcan of his anvil.</p>
@@ -395,9 +384,9 @@
         <quote>
           <l>Of all the gods that tread the spangled skies,</l>
           <l>Thou most unjust, most hateful in our eyes!</l>
-          <author key="anonyme"/>
+          <bibl><author key="anonyme"/>
           <author key="Pope" role="translator" resp="editor"/>
-        </quote>
+        </bibl></quote>
         <p>The Romans were a more warlike people than the Greeks; they held Mars in higher reverence than the former people. The priests of Mars at Rome were called Salii, — hey had the care of Ancilia, or sacred shields. These shields were sacred to Mars, and were held in superstitious reverence by the Romans.</p>
         <p>In the early ages of Rome, a shield was found, of a shape which was not known among the Romans. An oracle was consulted by the person who found the shield, in order to learn its origin. The oracle declared that the shield had fallen from heaven, and that Mars would favour the people who should preserve it, and that they should overcome their enemies and conquer the world; that is, all the civilized world, which then included the countries round the Mediterranean, and which the Romans several centuries after completely subdued.</p>
         <p>Numa Pompilius, second king of Rome, in order to secure the shield from being lost, caused several to be made, so exactly like it, that it was almost impossible to distinguish the original. Their form was oval. Their number was twelve; as was that of the priests, or Salii, at first, though afterwards they were increased to twenty-four.</p>
@@ -421,8 +410,8 @@
           <l>“Obscure in smoke his flaming forges sound,</l>
           <l>While bathed in sweat, from fire to fire he flew;</l>
           <l>And puffing loud the roaring bellows blew.”</l>
-          <author key="anonyme"/>
-          <author key="Pope" role="translator" resp="editor"/>
+          <bibl><author key="anonyme"/>
+          <author key="Pope" role="translator" resp="editor"/></bibl>
         </quote>
         <p>In the book of <title>Genesis</title> it is said that Tubalcain, one of the first men, was
           <quote>“an instructer of every artificer in brass and iron.”</quote> This Tubalcain might have been the same man whom the Greeks described either as Prometheus, or as Vulcan, but the fable says, Vulcan was the son of Jupiter and Juno. Vulcan is sometimes called Mulciber, and Lemnius.</p>
@@ -437,10 +426,7 @@
           <l>A summer’s day; and with the setting sun,</l>
           <l>Drops from the zenith, like a falling star,</l>
           <l>On Lemnos, the Ægean isle.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Paradise Lost</title>, Book I.</bibl>
-        </listBibl>
+        <bibl><title>Paradise Lost</title>, Book I.</bibl></quote>
         <p>Venus was the beautiful wife of Vulcan.</p>
         <quote>
           <l>——— when of old, as mystic bards presume,</l>
@@ -455,10 +441,7 @@
           <l>And ponderous hammers lifted high in air;</l>
           <l>With smiles celestial blessed their dazzled sight,</l>
           <l>And beauty blazed amid infernal night.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Botanic Garden</title>, Canto I.</bibl>
-        </listBibl>
+        <bibl><title>Botanic Garden</title>, Canto I.</bibl></quote>
         <p>Vulcan wrought a helmet for Pluto, which rendered him invisible; a trident for Neptune, which shook both land and sea; and a dog of brass for Jupiter. He also constructed invincible armour for Achilles and Eneas. The former a Greek, and the latter a Trojan hero, who were engaged in the siege of Troy. Vulcan also fabricated palaces of pure gold for the celestial deities.</p>
         <p>At Athens and Rome, festivals were kept to his honour. Upon Mount Etna a temple was dedicated to him, which was guarded by dogs, whose sense of smelling was said to be so exquisite, as to enable them to discern whether persons who came there were virtuous or vicious, and who fawned upon, or drove them away accordingly.</p>
         <p>The Romans, in their most solemn treaties, invoked Vulcan; and the assemblies in which they discussed the most important affairs, were held in the temple of Vulcan. At Memphis, in Egypt, also, was a most magnificent edifice raised in honour of this god, before which stood a colossal statue seventy feet high.</p>
@@ -506,11 +489,8 @@
           <l>Three armed with wind; and three were barbed with fire</l>
           <l>The mass they tempered thick with livid rays,</l>
           <l>Fear, Wrath, and Terror, and the lightning’s blaze.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author key="Pitt’s">Pitt’s</author><title> Translation</title>.</bibl>
-        </listBibl>
+        <bibl>
+            <author key="Pitt’s">Pitt’s</author><title> Translation</title>.</bibl></quote>
         <p>Who were the Cyclops?</p>
         <p>What mode of life did the Cyclops follow?</p>
         <p>What is meant by the Cyclops being one-eyed?</p>
@@ -530,11 +510,8 @@
           <l>To render with thy precepts less</l>
           <l>The sum of human wretchedness,</l>
           <l>And strengthen man with his own mind.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author key="Byron">Byron</author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author key="Byron">Byron</author>.</bibl></quote>
         <p><hi rend="sc">Prometheus</hi> was, doubtless, one of the first civilizers of mankind. He first yoked the ox, and disciplined the horse: he taught the use of fire, and the fusion of metals, and he also is said to have been the inventor of letters; he instructed men to cultivate and refine their manners, and to examine the laws of nature, that the treasures hidden in the earth might be brought forth and made serviceable.</p>
         <p>Because Prometheus employed fire more curiously and successfully than other men, he is said to have stolen it from heaven. He was accused of having taken this fire from the chariot of the sun; he probably obtained it by concentrating the sun’s rays, as may be done by a burning-glass; and this, ignorant persons considered stealing from heaven. It was asserted that he formed statues, into whom he transfused fire from heaven, which gave them life.</p>
         <p>Jupiter, not having succeeded in making the benevolent Prometheus unhappy, sent Mercury and Vulcan to seize and chain him to mount Caucasus. There a vulture was commanded to prey upon his liver, which was reproduced so soon as it was devoured, so that he was doomed to eternal sufferings. Hercules killed the vulture, and liberated Prometheus.</p>
@@ -598,10 +575,7 @@
           <l>The feasts of Ethiopia’s hlameless race.</l>
           <l>Twelve days the powers indulge the genial rite,</l>
           <l>Returning with the twelfth revolving light.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Iliad</title>, Book I.</bibl>
-        </listBibl>
+        <bibl><title>Iliad</title>, Book I.</bibl></quote>
         <p>The heathen deities, like mortals, had their day and night.</p>
         <quote>
           <l>                            The radiant sun, to mortal sight,</l>
@@ -610,18 +584,12 @@
           <l>The shining monuments<note place="bottom">These domes were separate habitations of the celestial gods, constructed by Vulcan.</note> of Vulcan’s art.</l>
           <l>Jove on his couch reclined his awful head,</l>
           <l>And Juno slumbered on the golden bed.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Iliad</title>, Book I.</bibl>
-        </listBibl>
+        <bibl><title>Iliad</title>, Book I.</bibl></quote>
         <p><hi rend="i">Jupiter</hi>, however, is supposed never to have slept.</p>
         <quote>
           <l>The immortals slumbered on their thrones above,</l>
           <l>All but the ever-wakeful eyes of Jove.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Iliad</title>, Book II.</bibl>
-        </listBibl>
+        <bibl><title>Iliad</title>, Book II.</bibl></quote>
         <p>The food of the gods was not supposed to be formed of the gross aliments of earth.</p>
         <quote>
           <l>For not the bread of man their life sustains,</l>
@@ -670,10 +638,7 @@
           <l>Hiss the dread snakes, and flamed in burnished gold;</l>
           <l>Flashed on her brandished arm the immortal shield,</l>
           <l>And terror lighted on the dazzled field.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Botanic Garden</title>.</bibl>
-        </listBibl>
+        <bibl><title>Botanic Garden</title>.</bibl></quote>
         <p>The Egis was not often thus employed, — it was only used to affright the bad. The meaning of this fable is, that if men in the midst of crimes are overtaken by the terrors of the wise and just God, they are suddenly stopped in the midst of their wicked purposes, and terrified at their own guilt, by a power who is of purer eyes than to behold iniquity with complacency.</p>
         <p>The Palladium was an image of Pallas, which was supposed to have fallen from heaven.</p>
         <p>The Palladium was preserved with great vigilance in the citadel of Troy, because an Oracle had declared, that, as long as it remained there, the city would be invincible against all the attacks of its enemies. Diomed and Ulysses, two of the Grecian heroes, contrived to convey the Palladium away, and Troy was taken.</p>
@@ -736,11 +701,8 @@
           <l>Till crowned with oak in antic dance you leap.</l>
           <l>Invoking Ceres; and in solemn lays.</l>
           <l>Exalt your rural queen’s immortal praise.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author key=""><hi rend="i">Pitt’s</hi><hi rend="i">Virgil</hi></author> . </bibl>
-        </listBibl>
+        <bibl>
+            <author key=""><hi rend="i">Pitt’s</hi><hi rend="i">Virgil</hi></author> . </bibl></quote>
         <p>The worship of Ceres was universal among those who received the religion of Greece. The most solemn ceremonial of that religion was the festival of Ceres, celebrated at Eleusis, a town in Attica, and particularly honoured by the Athenians. These solemnities were called the Eleusinian Mysteries.</p>
         <p>The word mysteries signifies something not commonly known. The Mysteries of Eleusis seems to have been an institution resembling modern Masonry, in the particular of secrecy at least. <hi rend="i">Initiated persons</hi> — that is, those who were admitted to be present at the ceremonies at Eleusis, were strictly forbidden to divulge what they saw there.</p>
         <p>Persons of both sexes were admitted by the high priest, called the Hierophant, to the mysteries of Eleusis. It was pretended that those \w\\o enjoyed this privilege were under the immediate protection of the goddess, and not only in this life, but after death. Those who broke the vow to conceal what they were instructed in, in these mysteries, were accounted <hi rend="i">execrable</hi>.</p>
@@ -786,11 +748,8 @@
           <l>Raven locks, and in his eye</l>
           <l>A cruel beauty, such as none</l>
           <l>Of us may wisely look upon.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author key="Barry Cornwal">Barry Cornwal</author>l.</bibl>
-        </listBibl>
+        <bibl>
+            <author key="Barry Cornwal">Barry Cornwal</author>l.</bibl></quote>
         <p>It appears, however, that Pluto had nothing frightful in the apprehension of Proserpine, and that she was taken without much resistance. The ground opened upon the occasion, the ebon coursers descended, and where the earth closed over the car of Pluto and Proserpine a fountain gushed out. This fountain was called Cyane, and thither the Sicilians would afterwards resort, and celebrate the descent of Proserpine in annual festivals.</p>
         <p>Ceres, alarmed at the absence of Proserpine, sought for her among the flowers of Enna, but she only found her daughter’s veil. It is related of Ceres, that in her distress she kindled a torch at the flames of Mount Ætna, and carrying it in her hand, to light her in all dark places, went over the world in search of her lost child.</p>
         <figure>
@@ -812,7 +771,7 @@
         <p>What became of Ascalaphus?</p>
         <p>Is the owl a proper attendant of Minerva?</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Venus and Cupid.</label>
           <l>The froth-born Venus, ravishing to sight,</l>
           <l>Rose from the ample sea to upper light.</l>
@@ -858,10 +817,7 @@
           <l>Round her fine waist and swelling bosom swim,</l>
           <l>And star with glittering brine each crystal limb.</l>
           <l>— And beauty blazed to heaven and earth unveiled.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Botanic Garden</title>.</bibl>
-        </listBibl>
+        <bibl><title>Botanic Garden</title>.</bibl></quote>
         <p>She is often represented in her sea-shell sporting upon the ocean, the sea-nymphs, called Nereides, and dolphins, and Cupids, surrounding her. When she ascended to heaven her chariot was drawn by doves and swans, accompanied by Cupid and the Graces. She guided her doves by a golden chain She was clothed in slight and graceful apparel, bound round the waist by a girdle called the <hi rend="i">cestus</hi>. The cestus was supposed to make Venus a thousand times more graceful and beautiful than she was without it.</p>
         <p>The temples of Venus were numerous in the heathen world; those of Paphos, Cythera, and Idalia were the most celebrated. In some places incense only was offered to this goddess. The dove and the swan, the rose and the myrtle, the most graceful of birds, and the sweetest and most odorous of plants, were sacred to Venus.</p>
         <p>In ancient times the Greeks regarded fine hair as the greatest natural ornament of the female sex. The ladies preserved their hair carefully, and arranged it in a very tasteful and becoming manner; they often consecrated it to Venus.</p>
@@ -889,10 +845,7 @@
           <l>The youth immortal rises to the light,</l>
           <l>Leaves the drear chambers of the insatiate tomb,</l>
           <l>And shines and charms with renovated bloom.</l>
-        </quote>
-        <listBibl>
-          <bibl><title>Botanic Garden</title>, Canto II.</bibl>
-        </listBibl>
+        <bibl><title>Botanic Garden</title>, Canto II.</bibl></quote>
         <p>In what verses are Venus and Cupid described?</p>
         <p>What did Venus personify?</p>
         <p>What were the appellations of Venus?</p>
@@ -1039,12 +992,9 @@
             <l>Here, from our strict embrace a stream he glides.</l>
             <l>And last, sublime, ’tis stately growth he rears</l>
             <l>A tree, and well dissembled foliage wears.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <author key="Pope'">Pope'</author>
-              <author key="Homer’">Homer’</author>s<title>Odyssey</title> . </bibl>
-          </listBibl>
+              <author key="Homer’">Homer’</author>s<title>Odyssey</title> . </bibl></quote>
           <ab type="ornament">———</ab>
           <p><hi rend="sc">Harpies</hi>, certain disgusting demons mentioned by
             <author key="Virgil">Virgil</author>. The Harpies had human faces, but bodies of vultures, with long claws like the talons of carnivorous birds. The Harpies not only injured but defiled whatever they lighted upon. They were represented as rapacious and cruel, and destroying for the mere pleasure of destruction.</p>
@@ -1073,11 +1023,8 @@
           <quote>
             <l>Bacchus, that first from out the purple grape,</l>
             <l>Crushed the sweet poison of misused wine.</l>
-          </quote>
-          <listBibl>
-            <bibl>
-              <author key="Milton's">Milton's</author> <title>Comus</title> . </bibl>
-          </listBibl>
+          <bibl>
+              <author key="Milton's">Milton's</author> <title>Comus</title> . </bibl></quote>
           <p><hi rend="sc">Bacchus</hi> was probably some ancient conqueror and civilian of the Eastern nations. The mythologists say that Bacchus was born in Egypt and educated at Nysa in Arabia; that he taught the culture of the grape, and the art of converting its juice to wine, and the preparation of honey: and that he subdued India, Phrygia, Egypt, and Syria. The conquests of Bacchus seem to have been of a pacific nature. They represented the triumph of the useful arts over brute force.</p>
           <p>Bacchus, drawn by wild beasts, subject to his will, attended by rural deities, — Pan, Silenus, and the Satyrs, and making a peaceable progress from one country to another, exhibits a benefactor and not a disturber of nations. The fir, the ivy, the fig, and the vine, were sacred to Bacchus. The goat was slain in his sacrifices, because that animal is injurious to vines.</p>
           <p>The festivals of Bacchus were celebrated in the woods. Women were his principal worshippers His priestesses were called Bacchæ, Bacchantes, and Menades, the Bacchæ ran about disguised in the skins of beasts with dishevelled hair, bearing torches in their hands, and waving the thyrsus, and sometimes bearing upon their shoulders young kids for the sacrifice.</p>
@@ -1085,7 +1032,7 @@
             <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_087.png"/>
           </figure>
           <p>The feasts of Bacchus were sometimes noisy, and those who attended them were often intoxicated. These feasts were called Bachanalia, Revels, and Orgies. Riotous meetings of those who drink much wine and keep late hours are now often called orgies. The Bacchæ hung little images of Bacchus upon the pine trees when they went into the woods to celebrate his worship.</p>
-          <quote rend="border">
+          <quote>
             <label>To Bacchus.</label>
             <l>Bacchus, on thee we call, in hymns divine,</l>
             <l>And hang thy statues on the lofty pine.</l>
@@ -1101,12 +1048,9 @@
             <l>Let all the riches of thy reign abound;</l>
             <l>Each field replete, with blushing autumn, glow,</l>
             <l>And in deep tides, by thee, the foaming vintage flow.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <author key=""><hi rend="i">Pitt’s</hi> </author>
-              <author key="Virgil">Virgil</author> . </bibl>
-          </listBibl>
+              <author key="Virgil">Virgil</author> . </bibl></quote>
           <p>In the Medici gallery, at Florence, is a fine statue of Bacchus by
             <author key="Michel Angelo">Michel Angelo</author>. He is crowned with ivy and vine tendrils, and holds in his right hand a cup, and in his left a bunch or cluster of grapes, of which a little satyr, covered with a goat skin, is endeavouring to get a taste.</p>
           <p>Who was Bacchus?</p>
@@ -1267,10 +1211,7 @@
             <l>Infernal Cupids flapped their demon wings;</l>
             <l>Earth with deep yawn received the fair, amazed,</l>
             <l>And far in night celestial beauty blazed.</l>
-          </quote>
-          <listBibl>
-            <bibl><title>Botanic Garden</title>, Canto IV.</bibl>
-          </listBibl>
+          <bibl><title>Botanic Garden</title>, Canto IV.</bibl></quote>
           <p>Who was the presiding deity of hell, and how was he represented?</p>
           <p>Who was Pluto’s wife, and how is she described?</p>
           <ab type="ornament">———</ab>
@@ -1310,12 +1251,9 @@
             <l>The crashing fetter, and the rattling chain,</l>
             <l>Strike the great hero with the frightful sound,</l>
             <l>The hoarse, rough, mingled din, that thunders round.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <author key="Pitt’s">Pitt’s</author>
-              <author key="Virgil">Virgil</author> . </bibl>
-          </listBibl>
+              <author key="Virgil">Virgil</author> . </bibl></quote>
           <p>What were the infernal regions?</p>
           <p>What did the ancients believe respecting funeral honours?</p>
           <p>Who stood at the entrance of hell?</p>
@@ -1626,7 +1564,7 @@
           <p>With whom did Hercules make war, and what was the result of that war?</p>
           <p>Whom did Hercules prefer to Dejanira, and what was the consequence of his preference?</p>
           <p>How did Hercules die?</p>
-          <quote rend="border">
+          <quote>
             <label>Labours of Hercules.</label>
             <l>The mighty Hercules o’er many a clime</l>
             <l>Waved his vast mace in virtue’s cause sublime,</l>
@@ -1667,10 +1605,7 @@
             <l>Affrighted Scylla bellows round his shores:</l>
             <l>Vesuvius groans through all his echoing caves,</l>
             <l>And Ætna thunders o’er the insurgent waves.</l>
-          </quote>
-          <listBibl>
-            <bibl><title>Botanic Garden</title>, Canto L</bibl>
-          </listBibl>
+          <bibl><title>Botanic Garden</title>, Canto L</bibl></quote>
           <p>What verses describe the labours of Hercules?</p>
         </div>
         <div>
@@ -1991,13 +1926,10 @@
             <l>Heaven to my fleet refused a prosperous wind;</l>
             <l>No vows had we preferred, nor victim slain!</l>
             <l>For this the gods each favouring gale restrain.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <title>Odyssey</title>
               <title>, Book IV.</title>
-            </bibl>
-          </listBibl>
+            </bibl></quote>
           <p>A long and weary calm ensued,</p>
           <quote>
             <l>And the pale mariner at once deplores,</l>
@@ -2039,13 +1971,10 @@
             <l>The aerial summit from its mighty base;</l>
             <l>The rock rushed seaward with impetuous roar,</l>
             <l>Ingulfed, and to the abyss the boaster bore.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <title>O dyssey</title>
               <title>, Book IV.</title>
-            </bibl>
-          </listBibl>
+            </bibl></quote>
           <p>Who, next to Achilles, was the bravest Greek at the siege of Troy?</p>
           <p>Who was Ajax, sometimes called the <hi rend="i">Less</hi>?</p>
           <p>How did Minerva and Neptune punish the impiety of Ajax?</p>
@@ -2107,13 +2036,10 @@
             <l>And ill he pays the promise of a god,</l>
             <l>If yon proud monarch thus thy son defies,</l>
             <l>Obscures my glory and resumes my prize.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <title>Iliad</title>
               <title>, Book  V.</title>
-            </bibl>
-          </listBibl>
+            </bibl></quote>
           <p>Achilles is supposed to have been buried near the promontory of Sigæum, not far from the site of ancient Troy. Some ages after the war of Troy, Alexander, as he was going into Persia, offered a sacrifice on the tomb of Achilles, to celebrate the hero, and
             <author key="the poet who had transmitted his fame to posterity">the poet who had transmitted his fame to posterity</author>.</p>
           <p>Who was Achilles?</p>
@@ -2140,13 +2066,10 @@
             <l>Two ages in his native realm he reigned,</l>
             <l>And now the example of the third remained.</l>
             <l>All viewed with awe the venerable man.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <title>Iliad</title>
               <title>, Book   I.</title>
-            </bibl>
-          </listBibl>
+            </bibl></quote>
           <p>Nestor returned from the war of Troy in safety to his own dominions and family in Messinia. He lost his son Antilochus in the battles of Troy; but his old age is represented to have been passed in the piety and peace, which the sovereign of a small and unwarlike state might be likely to enjoy without disturbance.</p>
           <p>Who was Nestor, and what was his character?</p>
           <p>How does
@@ -2209,13 +2132,10 @@
             <l>Thy gentle accents softened all my pain;</l>
             <l>For thee I mourn, and mourn myself in thee,</l>
             <l>The wretched source of all this misery,</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <title>Iliad</title>
               <title>, Book XI V.</title>
-            </bibl>
-          </listBibl>
+            </bibl></quote>
           <p>Hector feared that Andromache would be cruelly treated by whomsoever among the Greeks should make her his prisoner; he says,</p>
           <quote>
             <l>“I see thee weeping, trembling, captive led.”</l>
@@ -2494,13 +2414,10 @@
             <l>Is soothed by some melodious spell.</l>
             <l>Slow breathing from the hollow stone</l>
             <l>In witching notes and solemn tone.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <author key="Herbert">Herbert</author>
               <author key=" ’ "> ’ </author>
-              <author key="s">s</author><title>Helga</title> . </bibl>
-          </listBibl>
+              <author key="s">s</author><title>Helga</title> . </bibl></quote>
           <p>The Dog of Darkness, similar to the Grecian Cerberus, guarded the entrance of Niflheim.</p>
           <quote>
             <l>Uprose the king of men with speed,</l>
@@ -2513,13 +2430,10 @@
             <l>Foam and human gore distilled.</l>
             <l>Hoarse he bays with hideous din,</l>
             <l>Eyes that glow, and fangs that grin.</l>
-          </quote>
-          <listBibl>
-            <bibl>
+          <bibl>
               <author key="Gray">Gray</author>
               <author key=" ’ "> ’ </author>
-              <author key="s">s</author><title>Descent of Odin</title> . </bibl>
-          </listBibl>
+              <author key="s">s</author><title>Descent of Odin</title> . </bibl></quote>
           <p>In the Scandinavian Hell was the principal abode of Loke, the cruel, cunning, and malicious enemv of gods and men. Here resided Hela, the dreadful goddess of death, daughter of the evil genius Loke and the giantess Angherbode, or messenger of ill Hela was described as occupying an immense palace; where her hall was Sorrow; her table. Famine; her knife, Hunger; her servants, Slowness and Delay; her gate, Precipice; her vestibule, Languor; her bed, Malady and Leanness; her tent, Malediction. One half of her body was of the colour of putrid, and the other of living flesh. In this region of horrors roamed the wolf Fenris, a monster dreaded by the gods, as destined to be one instrument of their destruction; and the equally formidable serpent.</p>
           <p>The Valkyries were maids of the god of war; the goddesses of slaughter. It was their province to select those that were to fall in battle; to bear the invitation of Odin to the most distinguished; to conduct the souls of heroes slain to Valhalla, his hall; and there to pour out for them the beverage of the gods.</p>
           <quote>
@@ -2542,10 +2456,7 @@
             <l>Nor love might ever harbour there.</l>
             <l>Was never woman’s beauteous face,</l>
             <l>So stern, and yet so passionless.</l>
-          </quote>
-          <listBibl>
-            <bibl><title>Helga</title> . </bibl>
-          </listBibl>
+          <bibl><title>Helga</title> . </bibl></quote>
           <p>What was the Scandinavian Hell?</p>
           <p>Who was Vala?</p>
           <p>Had the Scandinavians a dog like Cerberus?</p>
@@ -2830,13 +2741,10 @@
           <l>With wild excess, or avarice, blasts the joy.</l>
           <l>But yet at last, shall Arimanius fall</l>
           <l>Before his might, and evil be no more.</l>
-        </quote>
-        <listBibl>
-          <bibl>
+        <bibl>
             <author key="Glover">Glover</author>
             <author key=" ’ "> ’ </author>
-            <author key="s">s</author><title>Leonidas</title> . </bibl>
-        </listBibl>
+            <author key="s">s</author><title>Leonidas</title>.</bibl></quote>
         <p>What is the character of the ancient religion of Persia?</p>
         <p>What among the Persians was the symbol of the deity?</p>
         <p>Who were the ancient Magi?</p>

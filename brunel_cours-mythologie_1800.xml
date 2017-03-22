@@ -6074,8 +6074,8 @@
           <head>Pâ<hi rend="sc">ris</hi>, <lb/><hi rend="i">Fils de Priam et d’Hécube.</hi></head>
           <p><pb n="176" xml:id="p176"/>L’<hi rend="sc">Oracle</hi> avoit prédit à son père qu’il causeroit un jour la ruine de Troie. Priam effrayé voulut qu’on lui ôtât la vie au moment de sa naissance : un officier de la cour le sauva, confia son enfance aux bergers du Mont Ida, et présenta à Priam un autre enfant mort. Pâris devint si beau, que Jupiter le nomma juge du différend élevé entre Junon, Pallas et Vénus, au sujet de la pomme d’or : le Prince berger décerna la pomme à Vénus, Pâris ne vérifia que trop dans la suite la prédiction de l’Oracle. Il enleva Hélène à Ménélas, et alluma ainsi le feu de cette longue et cruelle guerre qui embrasa Troie, et dévora l’Empire de Priam.</p>
           <quote>
-            <label><hi rend="i">Traduction libre </hi><lb/>De la 15<hi rend="sup">e</hi> ode d’
-              <author key="Horace">Horace</author>, livre i.<hi rend="sup">er</hi> <lb/>(<hi rend="i">Pastor cum traheret, etc.</hi>)</label>
+            <bibl><hi rend="i">Traduction libre </hi><lb/>De la 15<hi rend="sup">e</hi> ode d’
+              <author key="Horace">Horace</author>, livre i.<hi rend="sup">er</hi> <lb/>(<hi rend="i">Pastor cum traheret, etc.</hi>)</bibl>
             <l>    Epris d’un fol amour, Pâris, sur ses vaisseaux,</l>
             <l>Conduisoit à Pergame une perfide amante,</l>
             <l>Lorsqu’un Dieu suspendit le murmure des eaux,</l>
@@ -12005,7 +12005,7 @@
             <l>Tous dans l’ardeur d’un plaisir mutuel,</l>
             <l>Chanter gaîment un aïeul en béquille,</l>
             <l>Qui vit cent fois ce transport annuel.</l>
-            <l><pb n="345" xml:id="p345"/>A leurs festins, l’allégresse plus vive</l>
+            <l>A leurs festins, l’allégresse plus vive</l>
             <l>Chassant la gêne et le faux compliment,</l>
             <l>Affranchissoit l’étiquette captive ;</l>
             <l>Les mets exquis, mais offerts simplement,</l>

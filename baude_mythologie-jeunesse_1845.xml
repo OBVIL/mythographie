@@ -989,7 +989,7 @@
             <l>Lui montre encore sa route, et, du plus haut des cieux,</l>
             <l>Le suit, autant qu’il peut, de la voix et des yeux.</l>
             <l>Va par là, lui dit-il, reviens, détourne, arrête.</l>
-            <author key="Boileau" resp="editor"/>
+            <bibl><author key="Boileau" resp="editor"/></bibl>
           </quote>
           <p>Cependant les chevaux du Soleil, se sentant conduire par une main étrangère, se détournent de la route ordinaire ; Phaéton se trouble et abandonne les rênes. Les chevaux alors s’emportent, et tantôt, s’élevant jusqu’à l’Empyrée, menacent d’embraser le ciel ; tantôt, descendant trop bas, brûlent les montagnes et dessèchent les rivières. Ce fut alors que les Éthiopiens prirent ce teint noir qu’ils conservent encore, et que l’Afrique perdit sa verdure.</p>
           <p>Enfin, la Terre, se voyant périr, implore le secours de Jupiter, qui, pour remédier à ce pressant danger, foudroie le fils du Soleil, et le précipite dans l’Eridan (le Pô), fleuve d’Italie.</p>
@@ -1072,7 +1072,7 @@
             <l>Qui fait, reprit sa sœur, que je ne vous suis pas :</l>
             <l>        En voyant les hommes, hélas !</l>
             <l>        Il m’en souvient bien davantage. »</l>
-            <author key="La Fontaine"/>
+            <bibl><author key="La Fontaine"/></bibl>
           </quote>
         </div>
         <div>
@@ -1090,7 +1090,7 @@
           <head>Pyrénée et les Muses.</head>
           <p>Un jour que les Muses se rendaient au Parnasse, elles furent surprises par un orage qui les força de s’arrêter chez <hi rend="i">Pyrénée</hi>, roi de la Phocide. Le prince leur fit beaucoup d’accueil ; mais à peine furent-elles entrées, qu’il fit fermer les portes de son palais, et voulut faire violence aux filles de Jupiter et de Mnémosyne. Alors les Muses, ayant imploré Apollon, prirent des ailes et s’envolèrent. Pyrénée voulut les suivre, et monta sur le haut d’une tour, croyant pouvoir voler comme elles ; mais il essaya vainement de se soutenir dans les airs : il tomba et se tua<note place="bottom"><p>La fable de Pyrénée nous enseigne que la présomption expose souvent les hommes au ridicule. La Fontaine a dit :</p>
             <quote><l>Ne forçons point notre talent,</l><l>Nous ne ferions rien avec grâce.</l>
-            <author key="La Fontaine"/></quote></note>.</p>
+            <bibl><author key="La Fontaine"/></bibl></quote></note>.</p>
         </div>
         <div>
           <head>Les Piérides et les Muses.</head>

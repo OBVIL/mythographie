@@ -54,7 +54,7 @@
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_000.png"/>
         </figure>
-        <p rend="legend">1. “Cupid once upon a bed <lb/>Of roses laid his weary head. <lb/><hi rend="sc">Sleeping Love</hi> (<name type="author"><hi rend="i">Perrault</hi></name>).</p>
+        <desc>1. “Cupid once upon a bed <lb/>Of roses laid his weary head. <lb/><hi rend="sc">Sleeping Love</hi> (<name type="author"><hi rend="i">Perrault</hi></name>).</desc>
       </div>
       <div>
         <head>[Title Page]</head>
@@ -94,7 +94,7 @@
         <p>Apollo was the god of the sun, of music, and of love. He was very beautiful, as indeed almost all the gods were; but he was the fairest of them all. He drove his golden sun chariot through the heavens every day, and on his lyre he played sweet music. He could heal all kinds of wounds, and could shoot wonderfully well with his golden arrows.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_011.png"/>
-          <p rend="legend">2. “He drove his golden sun chariot through the heavens.” <lb/><hi rend="sc">Aurora</hi> (<name type="author"><hi rend="i">Guido Reni</hi></name>).</p>
+          <desc>2. “He drove his golden sun chariot through the heavens.” <lb/><hi rend="sc">Aurora</hi> (<name type="author"><hi rend="i">Guido Reni</hi></name>).</desc>
         </figure>
         <p>His twin sister was Diana, goddess of the moon. She drove her silver car at night when Apollo had gone to rest in the western sky. She was also the goddess of hunting; and, in the daytime, she wandered through the green woods, with her arrows at her side, while her fleet hounds sped on in front of her, and a train of young girls and wood nymphs followed.</p>
         <p>As Apollo was the most beautiful of all the gods, so Venus, the queen of love and beauty, was the fairest of the goddesses. She was supposed to have sprung from the sea one day, in a cloud of spray, and all the beings who dwelt in the sea, the sea nymphs and the sea gods and Neptune himself, rose with songs of gladness to welcome their queen.</p>
@@ -107,7 +107,7 @@
         <p>Lastly there was Pan, the god of the shepherds and of the woods. He was a strange creature, half goat and half man. But he was loved by every one, and especially by the shepherds; for he guarded their flocks from harm, and played his pipes and danced with them in many a frolic.</p>
         <p>And, if we believe the stories told by the Greeks, in and about the woods and the waters and the fields wandered all the gods I have spoken of. They lived their lives of mingled pleasure and sorrow, just as did the men and women who worshiped them, and pictured them in their palaces of gold and silver and precious stones, up in the land of the clouds and the stars.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>The Wonderful World</label>
           <l><hi rend="sc">Great</hi>, wide, beautiful, wonderful world,</l>
           <l>With the wonderful water round you curled,</l>
@@ -126,10 +126,7 @@
           <l/>
           <l>Ah! you are so great, and I am so small,</l>
           <l>I tremble to think of you, world, at all</l>
-        </quote>
-        <listBibl>
-          <bibl>(<title>Lilliput Lectures</title>.)</bibl>
-        </listBibl>
+        <bibl>(<title>Lilliput Lectures</title>.)</bibl></quote>
       </div>
       <div>
         <head>The Great Bear and the Little Bear</head>
@@ -146,7 +143,7 @@
         <p>So thrice five summers and winters passed, and, in the meanwhile, Arcas had grown to be a fine, tall youth, who, like his mother, was very fond of hunting. So good a marksman was he that he hardly ever missed his aim, and with his faithful hound, and his sharp hunting knife, brought many a wild deer to bay.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_017.png"/>
-          <p rend="legend">3. “He and his hound brought the wild deer to bay.” <lb/><hi rend="sc">The Chase</hi> (<name type="author"><hi rend="i">Debay</hi></name>).</p>
+          <desc>3. “He and his hound brought the wild deer to bay.” <lb/><hi rend="sc">The Chase</hi> (<name type="author"><hi rend="i">Debay</hi></name>).</desc>
         </figure>
         <p>One day he took his bow and arrows, and started out alone. He had been hunting a long time, when, in following a deer’s track, he came suddenly into a little cleared space, and saw, standing within a few feet of him, a great, shaggy bear.</p>
         <p>Callisto, for it was she, did not hear the sound of footsteps until it was too late to hide, and then she turned to see who was coming. In an instant, in spite of the many years since she had last seen him, the mother knew her son; and she gazed with wondering eyes at the child who had grown to be such a tall, fine-looking boy. She longed to speak; but of course her growling would have frightened Arcas, so she merely kept her eyes fixed on him.</p>
@@ -155,7 +152,7 @@
         <p>Juno was very angry when she saw the newly-made stars twinkling in the sky. She had tried to show her hatred toward Callisto by taking away her human form, but now Jupiter had made her and her son far greater than human beings. She went to Neptune, god of the sea, and told him her troubles. She asked him to grant her at least one little favor, — never to let the Great Bear or the Little Bear enter his ocean palace.</p>
         <p>If some time you watch the stars over the ocean, you will see that as the night passes, they seem to sink lower and lower, and at last to vanish into the sea. That is what Juno meant by speaking of the stars entering Neptune’s ocean palace. Neptune promised to do as she wished, and he kept his word, for from that day to this, the Great Bear and the Little Bear have never set.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>The Gladness of Nature</label>
           <l>Is this a time to be cloudy and sad,</l>
           <l>    When our mother Nature laughs around;</l>
@@ -181,11 +178,8 @@
           <l>    On the dewy earth that smiles in his ray,</l>
           <l>On the leaping waters and gay young isles;</l>
           <l>    Ay, look, and he’ll smile thy gloom away.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">William C. Bryant</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">William C. Bryant</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>A Story of the Springtime</head>
@@ -202,7 +196,7 @@
           <p>King Pluto knew that he must hasten away with his prize, lest Ceres should discover her loss; and, to keep out of her path, he drove his chariot a roundabout way. He came to a river; but as he neared its banks, it suddenly began to bubble and swell and rage, so that Pluto did not dare to drive through its waters. To go back another way would mean great loss of time; so with his scepter he struck the ground thrice. It opened, and, in an instant, horses, chariot, and all, plunged into the darkness below.</p>
           <p>But Proserpine knew that the nymph of the stream had recognized her, and had tried to save her by making the waters of the stream rise. So, just as the ground was closing over her, the girl seized her girdle and threw it far out into the river. She hoped that in some way the girdle might reach Ceres and help her to find her lost daughter.</p>
           <ab type="ornament">———</ab>
-          <quote rend="border">
+          <quote>
             <label>The Voice of Spring</label>
             <l><hi rend="sc">I Come</hi>, I come! ye have called me long;</l>
             <l>I come o’er the mountains, with light and song.</l>
@@ -224,17 +218,14 @@
             <l>They are flinging spray o’er the forest boughs,</l>
             <l>They are bursting fresh from their sparry caves,</l>
             <l>And the earth resounds with the joy of waves.</l>
-          </quote>
-          <listBibl>
-            <bibl><author>Felicia Hemans</author>.</bibl>
-          </listBibl>
+          <bibl><author>Felicia Hemans</author>.</bibl></quote>
         </div>
         <div>
           <head>Part II</head>
           <p><hi rend="sc">In</hi> the evening Ceres returned to her home; but her daughter, who usually came running to meet her, was nowhere to be seen. Ceres searched for her in all the rooms, but they were empty. Then she lighted a great torch from the fires of a volcano, and went wandering among the fields, looking for her child. When morning broke, and she had found no trace of Proserpine, her grief was terrible to see.</p>
           <figure>
             <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_027.png"/>
-            <p rend="legend">4. “Ceres lighted a torch and went searching for her child.” <lb/><hi rend="sc">Ceres</hi> (<hi rend="i">Glyptothek, Munich</hi>).</p>
+            <desc>4. “Ceres lighted a torch and went searching for her child.” <lb/><hi rend="sc">Ceres</hi> (<hi rend="i">Glyptothek, Munich</hi>).</desc>
           </figure>
           <p>On that sad day, Ceres began a long, long wandering. Over land and sea she journeyed, bearing in her right hand the torch which had been kindled in the fiery volcano.</p>
           <p>All her duties were neglected, and everywhere the crops failed, and the ground was barren and dry. Want and famine took the place of wealth and plenty throughout the world. It seemed as though the great earth grieved with the mother for the loss of beautiful Proserpine.</p>
@@ -249,7 +240,7 @@
           <p>Some people say that Proserpine really is the spring time, and that while she is with us all the earth seems fair and beautiful. But when the time comes for Proserpine to rejoin King Pluto in his dark home underground, Ceres hides herself and grieves through all the weary months until her daughter’s return.</p>
           <p>Then the earth, too, is somber and sad. The leaves fall to the ground, as though the trees were weeping for the loss of the fair, young queen; and the flowers hide underground, until the eager step of the maiden, returning to earth, awakens all nature from its winter sleep.</p>
           <ab type="ornament">———</ab>
-          <quote rend="border">
+          <quote>
             <label>The Fountain</label>
             <l><hi rend="sc">Into</hi> the sunshine,</l>
             <l>    Full of the light,</l>
@@ -290,10 +281,7 @@
             <l>    Let my heart be</l>
             <l>Fresh, changeful, constant,</l>
             <l>    Upward like thee!</l>
-          </quote>
-          <listBibl>
-            <bibl><author>James Russell Lowell</author>.</bibl>
-          </listBibl>
+          <bibl><author>James Russell Lowell</author>.</bibl></quote>
         </div>
       </div>
       <div>
@@ -313,7 +301,7 @@
         <p>And here Latona lived for a long, long time. She was very happy, and hoped that Juno would never find her in this hidden corner of the earth. After a while one of the gods, who loved and pitied her, sent two beautiful twin babes to gladden her heart. She never wearied of watching her little boy and girl, as they lay asleep or played with their fingers and toes in true baby fashion. She named the boy Apollo, and the girl Diana.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_033.png"/>
-          <p rend="legend">5. “Watching her little boy and girl, as they lay asleep.” <lb/><hi rend="sc">Latona and her Children</hi> (<name type="author"><hi rend="i">Rinehart</hi></name>).</p>
+          <desc>5. “Watching her little boy and girl, as they lay asleep.” <lb/><hi rend="sc">Latona and her Children</hi> (<name type="author"><hi rend="i">Rinehart</hi></name>).</desc>
         </figure>
         <p>One sad day, when she was sitting in the sunshine with her children, a black, angry-looking cloud spread over the sky; and when Latona looked up toward it, she saw Juno standing before her. With harsh words, the goddess ordered the poor mother to leave the island at once; and, although it made Latona very sad to go from the home where she had been so happy, she hastened away, for she feared that otherwise Juno might harm her two beautiful babes. So she took a little one in each arm, and again set forth on her wanderings.</p>
         <p>She came at length to a desert land, where there was not a blade of grass or a flower to rest her tired eyes. The hot sand burned her feet, and her lips were parched with thirst. The two babes in her arms sometimes seemed to weigh like lead, she was so tired from walking all day long. Yet her cloak was always held so as to shield them, not herself, from the sun. The mother was glad to suffer anything for her children’s sake.</p>
@@ -328,7 +316,7 @@
         <p>As for Latona, her time of suffering was almost over. The twin babes for whom she had borne so much, grew up to repay her, as well as children ever can repay their parents.</p>
         <p>Jupiter, the god who had sent them to Latona in her loneliness, had given them his own godlike nature; and when next we hear of them, Apollo is the great god of the sun and of music, and Diana, his beautiful twin sister, is the goddess of the moon. So much did they honor their mother that her lightest wish was a law to them, and nothing that she asked of them was left ungranted.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>The Brook</label>
           <l><hi rend="sc">I come</hi> from haunts of coot and hern,</l>
           <l>    I make a sudden sally,</l>
@@ -374,10 +362,7 @@
           <l>    To join the brimming river,</l>
           <l>For men may come, and men may go,</l>
           <l>    But I go on forever.</l>
-        </quote>
-        <listBibl>
-          <bibl><author>Alfred Tennyson</author>.</bibl>
-        </listBibl>
+        <bibl><author>Alfred Tennyson</author>.</bibl></quote>
       </div>
       <div>
         <head>Echo and Narcissus</head>
@@ -391,7 +376,7 @@
         <p>They went on in this way for some time, Narcissus parting the branches in search of his comrades, and Echo stealing softly behind him, until the boy suddenly saw that he had lost his way and called out, “Is there any one here?” Echo, who had stepped behind a tree, quickly answered “Here!”</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_039.png"/>
-          <p rend="legend">6. “Echo quickly answered, ‘Here’.” <lb/><hi rend="sc">Echo</hi> (<name type="author"><hi rend="i">Roberts</hi></name>).</p>
+          <desc>6. “Echo quickly answered, ‘Here’.” <lb/><hi rend="sc">Echo</hi> (<name type="author"><hi rend="i">Roberts</hi></name>).</desc>
         </figure>
         <p>The youth was very much surprised, for he had thought himself alone in the woods. He looked all around, but not seeing any one to whom the voice could belong, he called, “Come!” whereupon Echo likewise called, “Come!”</p>
         <p>This was bewildering. He could see no one, and yet every cry of his was answered, and the voice seemed very near. He went on calling and questioning, and each time Echo answered in his own words. She did not dare show herself, for fear that he might be angry, but you see she could not help answering.</p>
@@ -400,7 +385,7 @@
         <p>Poor Echo! His unkind looks had hurt her sadly, and she hid herself in the woods, and mourned and grieved, thinking of the beautiful youth who had treated her so rudely. She suffered very much and wept night and day and could not touch any food; so that she grew pale and thin and began to waste away to a shadow, as people say, until at last her body vanished altogether, and nothing but her voice remained.</p>
         <p>Since that time she lies hidden in the woods, and no one has ever seen so much as a gleam of her white arms in the branches; but her voice is still heard among the hills, answering to every call.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Invitation to Echo</label>
           <l>Two of us among the daisies</l>
           <l>    In the meadow bright and still,</l>
@@ -437,11 +422,8 @@
           <l>            O sad Echo,</l>
           <l>To escape your prison can you find no way?</l>
           <l>                                        (No way!)</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Edith M. Thomas</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Edith M. Thomas</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>How Narcissus Loved His Own Image</head>
@@ -465,7 +447,7 @@
         <p>Such beautiful things did she fashion with her wool, and so graceful did she look as she worked with her spindle, that great lords and ladies came from every part of the land to see her at her work. Her name was famous throughout Greece, and princes and merchants paid her great prices for her wonderful embroidery.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_047.png"/>
-          <p rend="legend">7. “So graceful she looked as she worked with her spindle.” <lb/><hi rend="sc">A Spinner</hi> (<name type="author"><hi rend="i">Moreau</hi></name>).</p>
+          <desc>7. “So graceful she looked as she worked with her spindle.” <lb/><hi rend="sc">A Spinner</hi> (<name type="author"><hi rend="i">Moreau</hi></name>).</desc>
         </figure>
         <p>So, as I said, wealth and comfort took the place of poverty in Arachne’s home, and the parents blessed their daughter, and all of them lived very happily. Thus it might have gone on until they died, had not Arachne’s head been turned by the praises that were showered upon her from all sides. She became so vain about her work that she could think of nothing but how wonderful she was; and one day she boasted that, though she was only a humble girl, she was far greater in her skill than the goddess Minerva. Minerva, you remember, was the goddess of wisdom and of war; but in her spare moments she amused herself by doing just such work as had made Arachne famous, — embroidery in wool, or tapestry, as it was called.</p>
         <p>Now there was no fault that displeased the gods more than conceit; so when Minerva heard of the girl’s bold speech, she was much astonished, and thought she would visit Arachne to see what she meant by her boast.</p>
@@ -481,7 +463,7 @@
         <p>In an instant Arachne’s hair fell off, and her face became so small that her body looked very large next to it, though in reality it, too, had diminished in size. Her fingers were changed into ugly spider’s legs, and, hanging from her thread, she spun and spun forever.</p>
         <p>If you can find a dusty old corner in an attic, or if you will look closely along your garden wall, perhaps you will see, if not Arachne herself, at least one of her race, spinning and spinning away at a web, as a punishment for that foolish girl’s vanity.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>“Twist Ye, Twine Ye”</label>
           <l><hi rend="sc">Twist</hi> ye, twine ye! even so</l>
           <l>Mingle shades of joy and woe,</l>
@@ -497,11 +479,8 @@
           <l>Whirling with the whirling spindle.</l>
           <l>Twist ye, twine ye! even so,</l>
           <l>Mingle human bliss and woe.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Walter Scott</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Walter Scott</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>The Story of the Laurel</head>
@@ -521,14 +500,14 @@
         <p>Apollo followed in hot haste, calling to her not to be afraid and not to run so fast, for fear she might hurt herself on the thorns and brambles; and at last he cried, “Do not try to run from me. I love you, and will do you no harm. I am the great sun god Apollo.”</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_055.png"/>
-          <p rend="legend">8. “I am the great sun god Apollo.” <lb/><hi rend="sc">Apollo Belvedere</hi> (<hi rend="i">Vatican, Rome</hi>).</p>
+          <desc>8. “I am the great sun god Apollo.” <lb/><hi rend="sc">Apollo Belvedere</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
         </figure>
         <p>But Daphne was only the more terrified at these words, and fled more swiftly, while Apollo still followed. He had almost reached her side, when she stretched out her arms to her father, the god of a river along whose banks she was fleeing. “Oh father,” she cried, “help me! help me! Either let the earth open and swallow me, or change this form of mine so that Apollo will not love me.”</p>
         <p>Hardly had she finished her prayer, when her limbs grew heavy, and a thin bark began to cover her skin. Her hair changed into green leaves, her arms to slender branches, and her feet, which had borne her along so swiftly, were now rooted to the ground. Her father had answered her prayer, and had changed her into a laurel tree.</p>
         <p>When Apollo saw that his beautiful Daphne had become a tree, he wept and threw his arms about the newly formed bark and said, “Since you cannot be my wife, fair Daphne, at least you shall be my tree, my laurel. Your foliage shall be used to crown the heads of victors, and shall be green alike in summer and in winter.” And so it came to pass, — the laurel, Apollo’s emblem from that day on, became the sign of honor and triumph.</p>
         <p>If now you should ever hear the phrase “crowned with laurel,” you will know what it means, if only you remember the story of Apollo and Daphne.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Cupid</label>
           <l><hi rend="sc">Cupid</hi> once upon a bed</l>
           <l>Of roses laid his weary head;</l>
@@ -554,11 +533,8 @@
           <l>Thou feel’st the little wild bee’s touch,</l>
           <l>How must the heart, ah, Cupid, be,</l>
           <l>The hapless heart that’s stung by thee?”</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Thomas Moore</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Thomas Moore</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>The Story of a Sweet Singer</head>
@@ -583,7 +559,7 @@
         <p>The trees and the rocks and the birds and the flowers mourned the loss of the sweet singer, and the wood nymphs and the water nymphs, who had often listened in rapture to his music, grew pale and thin with grieving over his death.</p>
         <p>But Orpheus himself, with a happy heart, crossed the dark River of Death into the realm of Hades. This time Charon gladly ferried him across, and the fierce dog wagged his tail in friendly greeting. At the entrance gate stood Eurydice, waiting to welcome him; and he rushed forward to meet his dear wife and put his arms about her, happy in the thought that they would never again be parted.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Orpheus with His Lute</label>
           <l><hi rend="sc">Orpheus</hi> with his lute made trees,</l>
           <l>And the mountain tops that freeze,</l>
@@ -596,12 +572,9 @@
           <l>    Hung their heads, and then lay by.</l>
           <l>    In sweet music is such art;</l>
           <l>    Killing care and grief of heart.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">William Shakspeare</hi></author>.</bibl>
-        </listBibl>
-        <quote rend="border">
+        <bibl>
+            <author><hi rend="sc">William Shakspeare</hi></author>.</bibl></quote>
+        <quote>
           <label>Eurydice</label>
           <l><hi rend="sc">He</hi> came to call me back from death</l>
           <l>    To the bright world above;</l>
@@ -626,11 +599,8 @@
           <l>What have I done! what have I done!”</l>
           <l>And then I saw no more the sun,</l>
           <l>    And lost were life and love.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Francis W. Bourdillon</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Francis W. Bourdillon</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>The Queen Huntress and a Bold Hunter</head>
@@ -639,7 +609,7 @@
         <p>Clad in her short hunting garments, her shining quiver of arrows slung over one shoulder, she spent the day in the green woods, enjoying the pleasures of the chase. She was followed by a train of young girls, who hunted and rested with her. But only the fairest and best maidens were thought worthy of the great honor of hunting with Diana.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_065.png"/>
-          <p rend="legend">9. “Clad in her hunting skirt with her quiver of arrows.” <lb/><hi rend="sc">Diana of Versailles</hi> (<hi rend="i">Louvre, Paris</hi>).</p>
+          <desc>9. “Clad in her hunting skirt with her quiver of arrows.” <lb/><hi rend="sc">Diana of Versailles</hi> (<hi rend="i">Louvre, Paris</hi>).</desc>
         </figure>
         <p>When they were tired of the sport, they would seek a shady place where, perhaps, a cool brook sped along over the stones; and there they would bathe their hot limbs, and drink the cooling water, and lie on the soft grass under the trees. No one ever dared to enter these quiet, hidden groves, for they were sacred to Diana and her nymphs.</p>
         <p>Actaeon was a youth who also was very fond of hunting. More than all else, he loved to follow the deer; and he had a fine pack of hounds that never failed to track the game when once they had caught scent of the trail.</p>
@@ -650,7 +620,7 @@
         <p>He turned to flee, but it was too late. One of the hounds had caught sight of his antlers and had given the cry; and the next minute, the whole pack of eager creatures was at his back.</p>
         <p>Poor Actaeon! He fled in terror, but although his swift feet carried him along like the wind, his antlers caught in the trees and bushes and held him back. At last, tired out by the struggle, he sank to the ground. An instant later the pack fell upon him, and the young hunter was torn to pieces by his own hounds.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>The Hunter’s Song</label>
           <l><hi rend="sc">Hark</hi>, hark! Who calleth the maiden Morn</l>
           <l>From her sleep in the woods and the stubble corn?</l>
@@ -677,11 +647,8 @@
           <l>Of the bold, sweet sound of the hunter’s horn!</l>
           <l>                    The horn the horn!</l>
           <l>Oh, the sound of all sounds is the hunter’s horn!</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Barry Cornwall</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Barry Cornwall</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>The Story of Perseus</head>
@@ -708,7 +675,7 @@
         <p>Still there was something so kind and comforting in the tone in which the queer-looking stranger asked the question, that, almost before he knew it, Perseus was telling him the whole story.</p>
         <p>When he had finished, Mercury sat silent for a few moments, lost in deep thought, and then said, “My boy, you have undertaken a dangerous task, yet with my help you may succeed. But first of all, you must promise to do in all things just as I tell you.” Perseus promised, and in the next story you will hear whether or not he succeeded.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Lullaby</label>
           <l><hi rend="sc">Sweet</hi> and low, sweet and low,</l>
           <l>    Wind of the western sea</l>
@@ -727,11 +694,8 @@
           <l>Silver sails all out of the west</l>
           <l>    Under the silver moon.</l>
           <l>Sleep, my little one; sleep, my pretty one, sleep.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Alfred Tennyson</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Alfred Tennyson</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>How Perseus Went in Quest of Medusa’s Head</head>
@@ -751,7 +715,7 @@
         <p>This was a secret with which the sisters would not have parted if they could have helped themselves; but the loss of their precious eye was a thing too terrible to think of. So, after a few minutes, they told Perseus all he wanted to know, and he set their hearts at rest by clapping the eye into the forehead of the sister standing nearest him.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_075.png"/>
-          <p rend="legend">10. “Perseus clipped the eye into her forehead.”<hi rend="sc"><lb/>Perseus and the Graeae</hi> (<hi rend="i">Burne-Jones</hi>).</p>
+          <desc>10. “Perseus clipped the eye into her forehead.”<hi rend="sc"><lb/>Perseus and the Graeae</hi> (<hi rend="i">Burne-Jones</hi>).</desc>
         </figure>
         <p>Then he flew back swiftly to the grove where Mercury was waiting, and thanked him for all his help, and, after bidding him farewell, started out on his errand.</p>
         <p>He flew over many lands and seas, until at last he came to the island where the terrible Gorgons lived. He dared not look down, even for an instant, for fear of being turned to stone. But Minerva’s bright shield served as a mirror, and, reflected in it, he saw the three monsters lying fast asleep on the shore beneath him.</p>
@@ -799,7 +763,7 @@
         <p>After that Perseus took his wife to his island home, and there they spent many happy days together in his mother’s little cottage.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_083.png"/>
-          <p rend="legend">11. “Perseus led his Wife to his Island Home.” <lb/><hi rend="sc">Perseus</hi> (<name type="author"><hi rend="i">Canova</hi></name>).</p>
+          <desc>11. “Perseus led his Wife to his Island Home.” <lb/><hi rend="sc">Perseus</hi> (<name type="author"><hi rend="i">Canova</hi></name>).</desc>
         </figure>
       </div>
       <div>
@@ -828,7 +792,7 @@
         <p>Jupiter could no longer bear to see her suffering; so he begged Juno to take pity on Io, and promised never again to speak to the maiden, if the queen would set her free. Juno herself was moved with pity, and restored Io to her own shape. The people of the land found her by the side of the river Nile, and thought her so fair and good that they made her their queen.</p>
         <p>She lived happily for many years, until she grew old and died. Then the people carved a great statue of the queen, and placed it in their temple; and they called the statue Isis. Hundreds of years after Io was dead, the people of Egypt still came and laid their flowers and other gifts at the foot of the statue of Isis, to show how much they loved their beautiful queen.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Song to Pan</label>
           <l><hi rend="sc">All</hi> ye woods and trees and bowers,</l>
           <l>All ye virtues and ye powers</l>
@@ -851,12 +815,9 @@
           <l>            Ever holy,</l>
           <l>Ever honored, ever young,</l>
           <l>Thus great Pan is ever sung.</l>
-        </quote>
-        <listBibl>
-          <bibl>
+        <bibl>
             <author><hi rend="sc">Beaumont</hi></author><hi rend="sc">and</hi>
-            <author><hi rend="sc">Fletcher</hi></author>.</bibl>
-        </listBibl>
+            <author><hi rend="sc">Fletcher</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>How a Mother’s Pride Was Humbled</head>
@@ -877,13 +838,13 @@
         <p>As Niobe saw her daughters falling about her, she seized the youngest and tried to hide her in her cloak, crying, “Leave me but this one, ye gods, spare me this last and youngest one!” But the fatal arrow had already been loosed, and as the words left the mother’s lips’, the last of her children fell dead at her feet.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_093.png"/>
-          <p rend="legend">12. “‘Spare me this last and youngest one,’ she cried.” <lb/><hi rend="sc">Niobe</hi> (<hi rend="i">Uffizi Palace, Florence</hi>).</p>
+          <desc>12. “‘Spare me this last and youngest one,’ she cried.” <lb/><hi rend="sc">Niobe</hi> (<hi rend="i">Uffizi Palace, Florence</hi>).</desc>
         </figure>
         <p>Then the childless, humbled woman sat down upon the plain among her dead, and gazed about her in silent grief. And thus she sat, day after day, and never moved nor spoke. Her grief was hardening her, slowly but surely. The color left her cheeks, her eyes grew fixed in their look of pain, and at last, through her sorrow, she was changed to marble.</p>
         <p>The marble image of grief stood upon the plain for many days; until at last there came a mighty hurricane sweeping across the plain, and it swept away the motionless figure in its course. It carried the image aloft to the top of the high mountain overlooking Thebes, and placed it there among the other rocks.</p>
         <p>And to this day, you can see the woman of stone seated on the high mountain top; or at least you can see a rock that looks something like a woman; and in the sightless eyes a little stream has its source and trickles down the mountain side, as though poor Niobe wept on forever.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Children</label>
           <l><hi rend="sc">Come</hi> to me, O ye children!</l>
           <l>    For I hear you at your play,</l>
@@ -929,11 +890,8 @@
           <l>    That ever were sung or said;</l>
           <l>For ye are living poems,</l>
           <l>    And all the rest are dead.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>A Mighty Hero of Olden Times</head>
@@ -954,7 +912,7 @@
         <p>In that last fierce struggle, one of the bull’s horns was broken off. The goddess of plenty, or Fortune, as she is sometimes called, found it lying forgotten on the ground. She was so much pleased with its shape that she filled it with her autumn fruits and flowers and took it for her emblem. And this is the story of the origin of the horn of plenty, which we see at so many of our autumn festivals.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_099.png"/>
-          <p rend="legend">13. “She filled the horn with her autumn fruits.” <lb/><hi rend="sc">Fortune</hi> (<hi rend="i">Vatican, Rome</hi>).</p>
+          <desc>13. “She filled the horn with her autumn fruits.” <lb/><hi rend="sc">Fortune</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
         </figure>
       </div>
       <div>
@@ -991,7 +949,7 @@
         <p>Perdix would surely have been drowned, had he not been rescued by Minerva, the goddess of wisdom, who loved him because he was so skillful. She changed him into a partridge, and he flew off across the waters.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_107.png"/>
-          <p rend="legend">14. “Minerva, the Goddess of Wisdom.” <lb/><hi rend="sc">Minerva de Velletri</hi> (<hi rend="i">Louvre, Paris</hi>).</p>
+          <desc>14. “Minerva, the Goddess of Wisdom.” <lb/><hi rend="sc">Minerva de Velletri</hi> (<hi rend="i">Louvre, Paris</hi>).</desc>
         </figure>
         <p>Daedalus soon became afraid of what the people of Athens might do if they learned of his crime. So taking with him his young son, Icarus, he left Athens in the night and fled to the island of Crete, where King Minos received him very kindly.</p>
         <p>But before long, Daedalus got himself into trouble by interfering with the king’s household, and Minos made both father and son prisoners on the island. Daedalus grew very weary of that life, and thought and thought of some means of escaping from the island; but he could not get a boat, though day after day he looked at the white-sailed vessels on the water, and longed to have one of them for his own.</p>
@@ -1006,7 +964,7 @@
         <p>While he was thus engaged, he heard a strange cry overhead, and looking up, saw a partridge wheeling its flight above him. Immediately he thought of Perdix, whom he had so cruelly killed, and he felt that the death of his own son was his punishment for that wicked deed.</p>
         <p>For a long time after that, the place was known as the island of Icarus, and the sea in which the boy was drowned was called the Icarian Sea.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Birds in Summer</label>
           <l>How pleasant the life of a bird must be,</l>
           <l>Flitting about in each leafy tree;</l>
@@ -1071,11 +1029,8 @@
           <l>On the mountain tops, on the billowy sea,</l>
           <l>On the leafy stems of the forest tree,</l>
           <l>How pleasant the life of a bird must be!</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Mary Howitt</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Mary Howitt</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>A Cruel King</head>
@@ -1092,7 +1047,7 @@
         <p>And one day, as Aegeus was walking in the palace gardens with Theseus, a messenger came running in hot haste, to tell the news that King Minos was coming against Athens with a mighty army, to avenge the. death of his son.</p>
         <p>So all of a sudden the feasting in merry Athens came to an end, and all was hurry and confusion as the people hastily prepared for war.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Rise! For the Day Is Passing</label>
           <l><hi rend="sc">Rise</hi>! for the day is passing,</l>
           <l>    And you lie dreaming on;</l>
@@ -1120,11 +1075,8 @@
           <l>    Or the hour will strike at last</l>
           <l>When, from dreams of a coming battle,</l>
           <l>    You may wake to find it past.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Adelaide Anne Procter</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Adelaide Anne Procter</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>A Lock of Purple Hair, and What Came of It</head>
@@ -1191,7 +1143,7 @@
         <p>One evening two strangers entered the gates of the city. One was a tall, noble-looking man with massive head and fine features. His companion was much younger, and there was something bright and quick about him. Indeed, at times his feet seemed hardly to touch the ground, as he almost flew along. He wore a curious cap, too, and in his left hand he carried a staff wreathed with two snakes.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_125.png"/>
-          <p rend="legend">15. “His feet seemed hardly to touch the ground.” <lb/><hi rend="sc">Flying Mercury</hi> (<name type="author"><hi rend="i">Bologna</hi></name>).</p>
+          <desc>15. “His feet seemed hardly to touch the ground.” <lb/><hi rend="sc">Flying Mercury</hi> (<name type="author"><hi rend="i">Bologna</hi></name>).</desc>
         </figure>
         <p>The strangers knocked at the door of the first cottage they came to, and asked for a night’s shelter. Not only was this refused, but harsh words were given in answer to the simple request.</p>
         <p>The strangers went on to the next cottage and the next; but nowhere did they receive a welcome. Moreover, a crowd of children collected and followed the wanderers with hoots and cries.</p>
@@ -1246,7 +1198,7 @@
         <p>But she was not drowned. The gods so pitied the loving couple that they changed them into white halcyon birds, or kingfishers, as they are sometimes called, which live forever on the sea.</p>
         <p>The sailors say that, even in the stormiest seas, there are every year seven calm days, during which the water is smooth as glass and only the gentlest breezes blow. Then the halcyon birds may be seen floating on the quiet waters. And because of the name of the birds that are supposed to bring them, these seven days are known as the halcyon days.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>In Absence</label>
           <l>          <hi rend="sc">Watch</hi> her kindly, stars!</l>
           <l>From the sweet, protecting skies</l>
@@ -1275,11 +1227,8 @@
           <l>On her lips, her eyes, her face,</l>
           <l>Till I come to take your place,</l>
           <l>          Kiss and kiss her, winds!</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>The Story of the Golden Fleece</head>
@@ -1302,7 +1251,7 @@
           <p>Phryxus, however, clung to the ram’s back, and at last they alighted together in the land of Colchis, far away from the boy’s old home. Here Phryxus married the king’s daughter. The -golden ram, worn out with the long, hard journey over land and sea, soon died; and Phryxus hung its fleece on a tree in a wood, and set a fierce dragon to guard it.</p>
           <p>In time Phryxus died and a new king ruled in Colchis; and the greatest treasure in all the land was the Golden Fleece, which hung in the woods, guarded night and day by the terrible dragon.</p>
           <ab type="ornament">———</ab>
-          <quote rend="border">
+          <quote>
             <label>The Cloud</label>
             <l><hi rend="sc">I bring</hi> fresh showers for the thirsting flowers</l>
             <l>    From the seas and the streams;</l>
@@ -1323,11 +1272,8 @@
             <l>    And the nursling of the Sky;</l>
             <l>I pass through the pores of the ocean and shores;</l>
             <l>    I change, but I cannot die.</l>
-          </quote>
-          <listBibl>
-            <bibl>
-              <author><hi rend="sc">Percy Bysshe Shelley</hi></author>.</bibl>
-          </listBibl>
+          <bibl>
+              <author><hi rend="sc">Percy Bysshe Shelley</hi></author>.</bibl></quote>
         </div>
         <div>
           <head>II. The Sailing of the Ship Argo</head>
@@ -1349,7 +1295,7 @@
           <p>When the ship was finished, Jason sent word of his intended voyage to his comrades of the old school days, and they all came to join him. These heroes were called the Argonauts, from the ship “Argo” in which they sailed.</p>
           <p>After a long and dangerous voyage, during which there happened many wonderful things about which you will some day hear, the Argonauts arrived at Colchis, the land of the Golden Fleece.</p>
           <ab type="ornament">———</ab>
-          <quote rend="border">
+          <quote>
             <label>The Arrow and the Song</label>
             <l><hi rend="sc">I shot</hi> an arrow into the air,</l>
             <l>It fell to earth, I knew not where;</l>
@@ -1364,11 +1310,8 @@
             <l>I found the arrow, still unbroke;</l>
             <l>And the song, from beginning to end,</l>
             <l>I found again in the heart of a friend.</l>
-          </quote>
-          <listBibl>
-            <bibl>
-              <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
-          </listBibl>
+          <bibl>
+              <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl></quote>
         </div>
         <div>
           <head>III. How the Fleece Was Brought Back to Greece</head>
@@ -1387,7 +1330,7 @@
           <p>But Jason did not feel the heat of the flames, thanks to Medea’s magic drug. He went up close to the angry creatures, and seizing them by the horns, dashed their heads together until the bulls were stunned. Then he quickly slipped the yoke over their heads. The bulls were now as gentle as cows, and Jason ploughed the four acres in a short time.</p>
           <figure>
             <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_147.png"/>
-            <p rend="legend">16. “He threw the magic drug into its eyes.” <lb/><hi rend="sc">Jason and the Dragon</hi> (<name type="author"><hi rend="i">Salvator Rosa</hi></name>).</p>
+            <desc>16. “He threw the magic drug into its eyes.” <lb/><hi rend="sc">Jason and the Dragon</hi> (<name type="author"><hi rend="i">Salvator Rosa</hi></name>).</desc>
           </figure>
           <p>Next he sowed the dragon’s teeth in the soil he had just turned up, and in less time than it takes to tell, a mass of helmets began to show above the ground, just as the little leaves pierce through the soil in the springtime. But, whereas the leaves are followed by pretty blossoms, the helmets covered a very ugly crop of fierce, armed soldiers, who all turned upon Jason at once. Remembering Medea’s advice, he seized a large stone and hurled it into the midst of his foes.</p>
           <p>This made them turn from Jason against one another, for each one thought it was his neighbor who had thrown the stone. In a few minutes, they were all fighting and struggling in a confused mass, and they fought so fiercely that in a short time the field was strewn with the dead bodies of the men who had sprung up from the dragon’s teeth.</p>
@@ -1414,7 +1357,7 @@
         <p>Then Apollo changed Cyparissus into a cypress tree, that he might continue to live in the green forests, with the birds and the flowers he loved so dearly.</p>
         <p>And to this day the cypress tree is planted above graves as an emblem of grief.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>Earth to Earth</label>
           <l><hi rend="sc">His</hi> hands with earthly work are done,</l>
           <l>    His feet are done with roving,</l>
@@ -1435,11 +1378,8 @@
           <l>    Broidered with leaf and blossom,</l>
           <l>And lay him tenderly to sleep</l>
           <l>    Dear Earth, upon thy bosom.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>A Sea God and a Wicked Enchantress</head>
@@ -1465,7 +1405,7 @@
         <p>She was changed to a rock, but ever after, that part of the sea was dangerous to sail through, and many people who have narrowly escaped shipwreck there have told how they heard the loud, fierce barking of dogs from the base of the rock.</p>
         <p>Poor Glaucus mourned for Scylla many a day, and never again went near the cruel Circe. To this day, the rock Scylla stands in the blue Mediterranean, and is shunned by all who sail upon the sea.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>The Sea Hath Its Pearls</label>
           <l><hi rend="sc">The</hi> sea hath its pearls,</l>
           <l>    The heaven hath its stars;</l>
@@ -1481,11 +1421,8 @@
           <l>    Come unto my great heart;</l>
           <l>My heart, and the sea, and the heaven</l>
           <l>    Are melting away with love!</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>A Youth Who Was Changed Into a Flower</head>
@@ -1499,7 +1436,7 @@
         <p>Apollo and his companion were both fond of the game, and they began to play, and were enjoying themselves very much. Apollo hurled his disc high into the air, and it shot up through the clouds, and, after a long pause, fell to the ground with a crash.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_157.png"/>
-          <p rend="legend">17. “He hurled his disc high into the air.” <lb/><hi rend="sc">The Discobolus</hi> (<hi rend="i">Vatican, Rome</hi>).</p>
+          <desc>17. “He hurled his disc high into the air.” <lb/><hi rend="sc">The Discobolus</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
         </figure>
         <p>Then Hyacinthus, eager to show that he was as good a player as his friend, hurried forward to pick it up. But the disc had struck the ground with such force that it rebounded, and hit the thoughtless boy on the forehead.</p>
         <p>Stunned by the blow, Hyacinthus with a little cry of pain, sank to the ground. Apollo rushed to his side, and kneeling down, tried to stanch the wound with his hand, while he tenderly caressed the lad. He was so frightened that he was almost as pale as the wounded Hyacinthus.</p>
@@ -1509,7 +1446,7 @@
         <p>When he had finished, he stooped down and tenderly touched the boy’s forehead with his hand; in an instant the lifeless body vanished, and in its stead had sprung up a lovely, purple blossom. It was almost the color of the blood that had flowed from the boy’s forehead.</p>
         <p>And since that day, so long ago, the beautiful purple hyacinth comes with the first breath of spring, to remind us of the story of the great god of the sun and the little lad whom he loved so dearly.</p>
         <ab type="ornament">———</ab>
-        <quote rend="border">
+        <quote>
           <label>To a Friend</label>
           <l><hi rend="sc">Green</hi> be the turf above thee,</l>
           <l>    Friend of my better days!</l>
@@ -1525,11 +1462,8 @@
           <l>    Like thine, are laid in earth,</l>
           <l>There should a wreath be woven</l>
           <l>    To tell the world their worth.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Fitz-Greene Halleck</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Fitz-Greene Halleck</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>A Wonderful Sculptor</head>
@@ -1545,7 +1479,7 @@
         <p>So the days passed on, until the time of the great festival of Venus was at hand. Venus, you know, was the goddess of love, and once a year, the youths and maidens of Cyprus had a great celebration in her honor.</p>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_163.png"/>
-          <p rend="legend">18. “The great goddess of love.” <lb/><hi rend="sc">Venus de Milo</hi> (<hi rend="i">Louvre, Paris</hi>).</p>
+          <desc>18. “The great goddess of love.” <lb/><hi rend="sc">Venus de Milo</hi> (<hi rend="i">Louvre, Paris</hi>).</desc>
         </figure>
         <p>On this day Pygmalion joined the train of young men and at last stood before the altar in the temple of Venus.</p>
         <p>As he stood there, he began to pray. He prayed that Venus, the great goddess of love, would take pity on him; and since he could never care for any other woman, that she who could work such wonders would change his marble statue into a real, living maiden.</p>
@@ -1574,7 +1508,7 @@
         <p>Time passed, and over the hole which the barber had dug there grew a thicket of hollow reeds; and when the wind played through them they gave forth these strange words,</p>
         <p>“<hi rend="i">King Midas wears great asses ears.</hi>”</p>
         <p>Soon all the king’s subjects came to hear of this secret that the reeds whispered, and then they knew how Apollo had punished their king for his stupid judgment. But Midas could not have blamed the barber, even if he had known about his midnight errand; for in truth the poor fellow had never breathed the secret to a single person.</p>
-        <quote rend="border">
+        <quote>
           <label>The Sweet Singer</label>
           <l><hi rend="sc">He</hi> the best of all musicians,</l>
           <l>He the sweetest of all singers,</l>
@@ -1603,14 +1537,11 @@
           <l>Sang of beauty, love, and longing;</l>
           <l>Sang of death and life undying</l>
           <l>In the land of the Hereafter.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author> (<title>Hiawatha</title>)</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author> (<title>Hiawatha</title>)</bibl></quote>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_171.png"/>
-          <p rend="legend">19. “He the best of all musicians. <lb/>He the sweetest of all singers.” <lb/><hi rend="sc">Apollo Citharaedus</hi> (<hi rend="i">Vatican, Rome</hi>).</p>
+          <desc>19. “He the best of all musicians. <lb/>He the sweetest of all singers.” <lb/><hi rend="sc">Apollo Citharaedus</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
         </figure>
       </div>
       <div>
@@ -1635,7 +1566,7 @@
         <p>He wandered into the woods, and all the wild animals hurried into places of shelter when they felt the ground tremble under his angry step, and the little birds stopped singing, in their fright.</p>
         <p>At last he came to the spot where the shepherd and Galatea were sitting lovingly together. Then his heart burned with wrath, and he seized a large rock and hurled it at the lovers. Galatea slipped beneath the waters and so escaped, but the shepherd was crushed under the heavy weight.</p>
         <p>Yet Acis did not die, for the gods changed him into a stream of we.cer, which gushed forth from under the rock. At first it was red and looked like blood, but as it flowed on, it became clearer and clearer, until at last, pure as crystal, it sprang into the sea and joined Galatea in her cave under the waters; and there the gentle youth and the white sea nymph lived as happily as though the poor, ugly, old Polyphemus had never seen them.</p>
-        <quote rend="border">
+        <quote>
           <label>The Shepherd’s Song To His Love</label>
           <l><hi rend="sc">Come</hi>, live with me and be my love,</l>
           <l>And we will all the pleasures prove</l>
@@ -1666,11 +1597,8 @@
           <l>For thy delight each May morning:</l>
           <l>If these delights thy mind may move,</l>
           <l>Then, live with me and be my love.</l>
-        </quote>
-        <listBibl>
-          <bibl>
-            <author><hi rend="sc">Christopher Marlowe</hi></author>.</bibl>
-        </listBibl>
+        <bibl>
+            <author><hi rend="sc">Christopher Marlowe</hi></author>.</bibl></quote>
       </div>
     </body>
   </text>
