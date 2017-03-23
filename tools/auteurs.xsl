@@ -51,6 +51,11 @@ id;lang;key;role;resp
     <xsl:value-of select="@role"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@resp"/>
+    <xsl:value-of select="$tab"/>
+    <xsl:choose>
+      <xsl:when test="ancestor::tei:note">note</xsl:when>
+      <xsl:when test="ancestor::tei:quote">quote</xsl:when>
+    </xsl:choose>
     <xsl:value-of select="$lf"/>
   </xsl:template>
 </xsl:stylesheet>
