@@ -13,6 +13,7 @@
 id;lang;key;role;resp
   
   -->
+  <xsl:template match="tei:teiHeader"/>
   <xsl:template match="*">
     <xsl:apply-templates select="*"/>
   </xsl:template>
@@ -52,10 +53,7 @@ id;lang;key;role;resp
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@resp"/>
     <xsl:value-of select="$tab"/>
-    <xsl:choose>
-      <xsl:when test="ancestor::tei:note">note</xsl:when>
-      <xsl:when test="ancestor::tei:quote">quote</xsl:when>
-    </xsl:choose>
+    <xsl:value-of select="name(ancestor::*[self::tei:note or self::tei:quote][1])"/>
     <xsl:value-of select="$lf"/>
   </xsl:template>
 </xsl:stylesheet>
