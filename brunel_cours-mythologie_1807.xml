@@ -7,19 +7,32 @@
     <fileDesc>
       <titleStmt>
         <title>Cours de mythologie (2<hi rend="sup">e</hi> éd.)</title>
-        <author>Joseph Brunel</author>
+        <author key="Brunel, Joseph">Joseph Brunel</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi </name>
           <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
         </respStmt>
+        <respStmt>
+          <name>Diego Pellizzari</name>
+          <resp>Encodage TEI</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2017</date>
+        <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/brunel_cours-mythologie_1807/</idno>
-        <availability status="restricted"/>
+        <availability status="restricted">
+          <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>Brunel, Joseph (1746-1820), <hi rend="i">Cours de mythologie, orné de morceaux de Poésie analogues à chaque article, ouvrage qui manquait à l’éducation, par J. Brunel</hi>, seconde édition revue et augmentée, Lyon, Tournachon-Molin, 1807, VIII-398 p. Source : <ref target="https://books.google.fr/books?id=xzw-AAAAcAAJ">Google Livres</ref>.</bibl>
@@ -27,10 +40,10 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1807"/>
+        <date when="1807">1807</date>
       </creation>
       <langUsage>
-        <language>fre</language>
+        <language ident="fr">fr</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -38,10 +51,12 @@
     <body>
       <div>
         <head>[Frontispice.]</head>
-        <p rend="image">Insérer image brunel_cours-mythologie_1807-img001</p>
+        <figure>
+          <graphic url="brunel_cours-mythologie_1807-images/brunel_cours-mythologie_1807-img001.png"/>
+        </figure>
       </div>
       <div>
-        <head><figure><graphic url="brunel_cours-mythologie_1807-img/image1.emf"/><head/><figDesc/></figure> [Épigraphe.]</head>
+        <head>[Épigraphe.]</head>
         <quote>
           <l>Point de poésie sans fiction.</l>
           <bibl>

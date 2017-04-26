@@ -7,19 +7,32 @@
     <fileDesc>
       <titleStmt>
         <title>Leçons élémentaires sur la mythologie</title>
-        <author>Henri Engrand</author>
+        <author key="Engrand, Henri">Henri Engrand</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi </name>
           <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
         </respStmt>
+        <respStmt>
+          <name>Diego Pellizzari</name>
+          <resp>Encodage TEI</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2017</date>
+        <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/engrand_lecons-elementaires_1815/</idno>
-        <availability status="restricted"/>
+        <availability status="restricted">
+          <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>Engrand, Henri (1753-1823), <hi rend="i">Leçons élémentaires sur la mythologie, suivies d’un Traité sommaire de l’Apologue ou de la Fable morale à l’usage de la Jeunesse de l’un et de l’autre sexe. Par l’auteur des Leçons élémentaires sur l’<hi rend="sc">Histoire Ancienne</hi> et l’<hi rend="sc">Histoire Romaine</hi>, des <hi rend="sc">Principes de la Langue Française</hi>, et de l’<hi rend="sc">Abrégé de l’Histoire de France</hi></hi>, Reims, impr. de Le Batard, 1815, 178 p. Source : <ref target="https://books.google.fr/books?id=jhZCAAAAcAAJ">Google Livres</ref>. 1<hi rend="sup">re</hi> édition : 1797.</bibl>
@@ -27,10 +40,10 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1815"/>
+        <date when="1815">1815</date>
       </creation>
       <langUsage>
-        <language>fre</language>
+        <language ident="fr">fr</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -39,15 +52,8 @@
       <div>
         <head>Aux citoyens administrateurs municipaux de la commune de Rheims.</head>
         <p rend="i">L’<hi rend="sc">hommage</hi> d’un Livre né dans vos murs, et consacré à l’instruction de la Jeunesse, vous est bien dû, <hi rend="sc">Citoyens Magistrats</hi> : aussi rien n’égale l’empressement et le plaisir que j’ai de vous l’offrir. Chargés de surveiller les études et de favoriser de tout votre pouvoir la culture et les progrès des sciences et des arts, vous ne pouvez manquer d’accueillir tout ce qui tend à perfectionner l’éducation, et à propager les connaissances utiles. Vous êtes vous-mêmes pères de famille : un Livre fait pour vos enfans, pour cette plus chère partie de votre existence, ne sauroit vous être étranger, ni vous trouver indifférens. J’ai donc lieu de croire que vous approuverez mes efforts, et que vous recevrez favorablement la Dédicace que j’ose vous faire d’un Ouvrage élémentaire destiné à l’instruction publique. Si ce premier travail justifie mon intention et mes désirs, en répandant quelques fruits heureux, je crois pouvoir annoncer d’autres projets d’utilité publique, dont je m’occuperai incessamment, si les circonstances me le permettent. </p>
-        <p rend="i">Veuillez agréer, 
-        
-          <hi rend="sc">Citoyens Magistrats</hi>
-        
-        , l
-        es assurances de respect et d’estime de </p>
-        <signed><hi rend="i"><hi rend="sc">Votre Concitoyen</hi>, 
-</hi><lb/>ENGRAND,
-<lb/><hi rend="i">Conservateur des Dépôts littéraires de la Commune de Rheims.</hi></signed>
+        <p rend="i">Veuillez agréer, <hi rend="sc">Citoyens Magistrats</hi> , l es assurances de respect et d’estime de </p>
+        <signed><hi rend="i"><hi rend="sc">Votre Concitoyen</hi>, </hi><lb/>ENGRAND, <lb/><hi rend="i">Conservateur des Dépôts littéraires de la Commune de Rheims.</hi></signed>
       </div>
       <div>
         <head>Préface.</head>
@@ -55,7 +61,15 @@
         <p>Nous ne saurions non plus disconvenir que nos peintures, nos statues, nos tapisseries, les monumens de toute espèce, toutes ces riches et grandes productions du génie, où se repose si délicieusement l’œil du spectateur, ne nous offrent pour la plupart que des sujets empruntés de l’ancien Paganisme. N’est-ce pas aussi dans cette même source que les Auteurs dramatiques vont chercher le plus souvent leurs héros et leurs héroïnes, pour les faire figurer sur la scène, où l’on prend tant de plaisir à recueillir leurs touchantes catastrophes ? Il n’est pas rare sans doute d’entendre nos théâtres retentir des plaintes d’<hi rend="i">Iphigénie</hi> et d’<hi rend="i">Andromaque</hi>, des fureurs d’<hi rend="i">Oreste</hi>, des emportemens d’<hi rend="i">Achille</hi> et de <hi rend="i">Clytemnestre</hi>, etc. L’homme honnête rougiroit d’ignorer des choses d’un usage si fréquent et si habituel, et d’ailleurs si propres à procurer de précieuses jouissances. La connoissance de la Mythologie est donc utile, je dis même nécessaire non-seulement à l’homme de lettres, mais à toute personne qui se pique de quelque éducation.</p>
         <p>Décidé par ce puissant motif, je travaillai, pour mes Élèves, un petit Traité sur la Mythologie. Une personne, de beaucoup de lumières, informée de mon travail, me fit inviter à le livrer à l’impression, ajoutant que ce seroit servir l’instruction, vu qu’il n’existoit pas, dans cette partie, de Livres élémentaires à l’usage de la Jeunesse. Je ne pus me refuser au plaisir d’être utile à mes Concitoyens : je me déterminai donc sans peine à faire imprimer les <hi rend="i">Leçons élémentaires</hi> que je présente au Public.</p>
         <p>Ce petit Livre n’offrira rien de neuf ; ce qu’il renferme n’est pas mon ouvrage : c’est une simple compilation, que j’ai tâché de rédiger avec le plus d’ordre et de méthode qu’il m’a été possible. La Fable est un cahos, dont tous les abords sont couverts d’épaisses ténèbres. Les plus savans Mythologues souvent ne marchent qu’au hasard, et ne peuvent toujours porter la lumière dans la nuit profonde des temps. Les recherches faites dans cette science sont immenses ; mais aucun Savant n’a pu encore lever le voile tout entier. Je n’ai adopté que les choses le plus généralement reçues, et je me suis borné aux notions les plus essentielles et le plus indispensablement nécessaires. C’est donc purement un Traité élémentaire de Mythologie que j’offre ici aux jeunes gens des deux sexes. Ils ont tant de choses à apprendre ! il faut nécessairement se resserrer dans des bornes étroites. <hi rend="i">De tout un peu</hi> : tel devroit être, ce me semble, la devise des Maisons d’éducation.</p>
-        <p>Pour rendre les connoissances mythologiques, répandues dans les différens articles de ce Recueil, à-la-fois plus amusantes et plus instructives, j’ai cru devoir les accompagner de morceaux de poésies analogues, tirés de nos meilleurs Poëtes, tels que <author>Malherbe</author>, <author>Corneille</author>, <author>Racine</author>, <author>Boileau</author>, <author>Molière</author>, <author>Rousseau</author>, <author>Lamotte</author>, <author>Voltaire</author>, etc. J’ai observé que les jeunes gens apprennent avec plus de plaisir les choses ainsi assaisonnées de vers piquans et curieux. D’ailleurs je crois qu’on doit rechercher tout ce qui tend à meubler avantageusement et à orner leur esprit et leur mémoire.</p>
+        <p>Pour rendre les connoissances mythologiques, répandues dans les différens articles de ce Recueil, à-la-fois plus amusantes et plus instructives, j’ai cru devoir les accompagner de morceaux de poésies analogues, tirés de nos meilleurs Poëtes, tels que
+          <author>Malherbe</author>,
+          <author>Corneille</author>,
+          <author>Racine</author>,
+          <author>Boileau</author>,
+          <author>Molière</author>,
+          <author>Rousseau</author>,
+          <author>Lamotte</author>,
+          <author>Voltaire</author>, etc. J’ai observé que les jeunes gens apprennent avec plus de plaisir les choses ainsi assaisonnées de vers piquans et curieux. D’ailleurs je crois qu’on doit rechercher tout ce qui tend à meubler avantageusement et à orner leur esprit et leur mémoire.</p>
         <p>J’avois également travaillé, pour mes Élèves, un Traité succinct de l’Apologue ou de la Fable morale <hi rend="i">;</hi> il devoit servir comme d’acolyte et de pendant à ma Mythologie. On m’a aussi engagé à le donner à l’Imprimeur, afin que ces deux petits Traités fussent placés l’un près de l’autre dans un même volume. On a jugé que ce petit écrit n’étoit pas indigne de voir le jour.</p>
         <p>Ce sont des leçons de vertus civiles et morales, et des principes de conduite, dont l’unique but est de former au bien le cœur des jeunes gens, et de leur inspirer le goût de l’honnête et du beau. On leur met sous les yeux le tableau des devoirs de l’homme de bien et du citoyen vertueux. On s’est aussi attaché à leur dessiner les vices les plus honteux et les plus ennemis de la société, avec les couleurs propres à leur en dévoiler toute la turpitude, et à leur en donner la plus forte aversion. Le tout est accompagné de Fables choisies, bien capables de faire sortir avec avantage les vérités utiles qu’on s’est efforcé de répandre dans l’ouvrage. Certes, je serois bien récompensé, si ce foible essai pouvoit faire germer une vertu de plus dans le cœur des jeunes personnes qui le liront, ou seulement en extirper un vice.</p>
       </div>
@@ -86,7 +100,8 @@
               <l>L’homme aveugle compta ses dieux.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
           </div>
           <div>
@@ -113,7 +128,8 @@
           <p>2.° Elle nous facilite l’intelligence des meilleurs Ecrivains de l’Antiquité, et des Poëtes les plus estimés.</p>
           <p>3.° Par elle, nous connoissons les sujets des ouvrages de peinture, de sculpture, des ouvrages de tapisseries, etc. Enfin elle nous fournit, dans bien des occasions, des connoissances utiles. Les aventures de Phaëton et d’Icare, qui prennent un vol audacieux dans les airs, nous représentent le sort des orgueilleux ; celle du beau Narcisse qui, trop épris de sa beauté, meurt victime de sa passion en se contemplant dans les eaux d’une fontaine, prouve la folle vanité de ceux qui n’aiment qu’eux.</p>
           <p>D. La Poésie ne doit-elle pas aussi à la Fable une partie de ses agrémens ?</p>
-          <p>R. Oui ; elle emprunte d’elle ses plus beaux ornemens. La fiction est ame de la Poésie, et pare tout de ses riches couleurs. La Poésie ne dit presque jamais rien naturellement ; elle relève tout par des images et un langage surnaturel. Ici, les Bergers sont des Satyres ou des Faunes, et les Bergères des Nymphes ; les hommes à cheval, des Centaures ; les vaisseaux, tantôt un cheval ailé, comme dans l’histoire de Bellérophon ; tantôt des dragons, comme dans celle de Médée. On fit passer les oranges pour des pommes d’or, l’or pour une pluie de ce fameux métal, comme dans la fable de Danaé ; les flèches pour des foudres et des carreaux, etc. Écoutons <author>Boileau</author> à ce sujet :</p>
+          <p>R. Oui ; elle emprunte d’elle ses plus beaux ornemens. La fiction est ame de la Poésie, et pare tout de ses riches couleurs. La Poésie ne dit presque jamais rien naturellement ; elle relève tout par des images et un langage surnaturel. Ici, les Bergers sont des Satyres ou des Faunes, et les Bergères des Nymphes ; les hommes à cheval, des Centaures ; les vaisseaux, tantôt un cheval ailé, comme dans l’histoire de Bellérophon ; tantôt des dragons, comme dans celle de Médée. On fit passer les oranges pour des pommes d’or, l’or pour une pluie de ce fameux métal, comme dans la fable de Danaé ; les flèches pour des foudres et des carreaux, etc. Écoutons
+            <author>Boileau</author> à ce sujet :</p>
           <quote>
             <l>Là, pour nous enchanter, tout est mis en usage :</l>
             <l>Tout prend un corps, une ame, un esprit, un visage ;</l>
@@ -134,7 +150,9 @@
         <div>
           <head>Nombre des Dieux chez les Payens.</head>
           <p>D. Le nombre des Dieux étoit-il considérable chez les Payens ?</p>
-          <p>R. <author>Varron</author> en fait monter le nombre jusqu’à trente mille ; aussi <author>Juvénal</author> nous représente Atlas gémissant sous le poids du ciel, à cause du nombre des Dieux qu’on y logeoit.</p>
+          <p>R.
+            <author>Varron</author> en fait monter le nombre jusqu’à trente mille ; aussi
+            <author>Juvénal</author> nous représente Atlas gémissant sous le poids du ciel, à cause du nombre des Dieux qu’on y logeoit.</p>
         </div>
         <div>
           <head>Le Destin.</head>
@@ -153,14 +171,16 @@
             <l>Contient de l’avenir l’histoire irrévocable.</l>
           </quote>
           <listBibl>
-            <bibl>(<author>Voltaire</author>.)</bibl>
+            <bibl>(
+              <author>Voltaire</author>.)</bibl>
           </listBibl>
         </div>
         <div>
           <head>Division des Dieux en deux classes et leurs noms.</head>
           <p>D. En combien de classes partage-t-on les Dieux ?</p>
           <p>R. Nous les partageons en deux classes ; nous appelons ceux de la et première les <hi rend="i">Dieux suprêmes</hi>, autrement dits par les anciens <hi rend="i">majorum Nationum</hi> ; parce qu’ils étoient connus et révérés par toutes les nations. On en comptait vingt ; Jupiter, Junon, Neptune, Cérès, Mercure, Minerve, Vesta, Apollon, Diane, Mars, Vénus et Vulcain. Ces douze premiers Dieux formoient le Conseil suprême ; on les appeloit <hi rend="i">Dii consulentes</hi>. Les huit autres n’avoient point séance à ce Conseil suprême ; leur titre étoit <hi rend="i">Dii selecti</hi> : c’étoient Saturne, Génius, le Soleil, Orcus, Bacchus, Janus, la Terre et la Lune.</p>
-          <p>Les Dieux compris dans la seconde classe, appelés par les Latins <hi rend="i">Dii minorum Gentium</hi>, n’avoient pas de place dans le ciel, ils étoient regardés comme des Divinités bourgeoises : <author>Ovide</author> les appelle <hi rend="i">de plebe Deos</hi>. Pan, Pomone, Flore, Palès, et les autres Divinités champêtres, étoient de ce nombre.</p>
+          <p>Les Dieux compris dans la seconde classe, appelés par les Latins <hi rend="i">Dii minorum Gentium</hi>, n’avoient pas de place dans le ciel, ils étoient regardés comme des Divinités bourgeoises :
+            <author>Ovide</author> les appelle <hi rend="i">de plebe Deos</hi>. Pan, Pomone, Flore, Palès, et les autres Divinités champêtres, étoient de ce nombre.</p>
         </div>
         <div>
           <head>Demi-Dieux et Héros.</head>
@@ -169,9 +189,9 @@
           <p>Les anciens avoient encore divinisé plusieurs Vertus, comme la Fidélité, la Concorde, etc., et même les misères de la vie, comme la Pauvreté, la Fièvre, etc. Ces Divinités formoient une quatrième classe.</p>
         </div>
         <div>
-          <head>Première partie de la Fable.
-<lb/>Des Dieux du premier ordre.</head>
-          <p><hi rend="sc">Avant</hi> de commencer leur histoire, nous avons cru devoir placer ici les beaux vers de <author>Rousseau</author> sur le Cahos.</p>
+          <head>Première partie de la Fable. <lb/>Des Dieux du premier ordre.</head>
+          <p><hi rend="sc">Avant</hi> de commencer leur histoire, nous avons cru devoir placer ici les beaux vers de
+            <author>Rousseau</author> sur le Cahos.</p>
           <p>D. Qu’est-ce que le Cahos ?</p>
           <div>
             <head>Le Cahos.</head>
@@ -215,7 +235,8 @@
             <p>D. Que devint alors Saturne ?</p>
             <p>R. Il se réfugia en Italie, où Janus, roi du pays Latin, le reçut avec bonté. Cette contrée fut ensuite appelée le <hi rend="i">Latium</hi>, du mot latin <hi rend="i">Latere</hi>, parce qu’elle avoit servi de retraite à Saturne.</p>
             <p>D. Comment se comporta Saturne dans ce pays ?</p>
-            <p>R. D’abord, pour reconnoître les services de Janus, il lui donna toutes les qualités qui font un bon Roi. Il enseigna l’agriculture aux hommes ; il leur apprit à fumer les terres ; et le temps de son règne fut appelé <hi rend="i">Age d’or</hi>. Voici la description de cet Age heureux, donnée par le célèbre <author>Despréaux</author> :</p>
+            <p>R. D’abord, pour reconnoître les services de Janus, il lui donna toutes les qualités qui font un bon Roi. Il enseigna l’agriculture aux hommes ; il leur apprit à fumer les terres ; et le temps de son règne fut appelé <hi rend="i">Age d’or</hi>. Voici la description de cet Age heureux, donnée par le célèbre
+              <author>Despréaux</author> :</p>
             <quote>
               <l>Tous les plaisirs couroient au-devant de leurs vœux ;</l>
               <l>La faim aux animaux ne faisoit point la guerre ;</l>
@@ -228,7 +249,8 @@
             <p>D. Comment nomme-t-on les trois Ages qui suivirent le Siècle d’or ?</p>
             <p>R. On les appelle l’Age d’argent, l’Age d’airain, et l’Age de fer.</p>
             <p>D. Qu’est-ce que l’Age d’argent ?</p>
-            <p>R. L’Age d’argent est celui où les hommes commençant à déchoir de leur première innocence, perdirent en même-temps une partie de leur bonheur. Voici comme s’en exprime <author>Lamotte</author> :</p>
+            <p>R. L’Age d’argent est celui où les hommes commençant à déchoir de leur première innocence, perdirent en même-temps une partie de leur bonheur. Voici comme s’en exprime
+              <author>Lamotte</author> :</p>
             <quote>
               <l>Pourquoi fuis-tu, chère innocence <hi rend="i"/>?</l>
               <l>Quel destin t’enlève aux mortels ?</l>
@@ -256,7 +278,8 @@
               <l>Le meurtre usurpe les lauriers.</l>
             </quote>
             <p>D. Qu’est-ce que 1’Age de fer ?</p>
-            <p>R. L’Age de fer est le temps où les hommes s’abandonnèrent à tous les excès les plus honteux. Écoutons <author>Lamotte</author> :</p>
+            <p>R. L’Age de fer est le temps où les hommes s’abandonnèrent à tous les excès les plus honteux. Écoutons
+              <author>Lamotte</author> :</p>
             <quote>
               <l>Fureur, trahison mercenaire,</l>
               <l>L’or vous enfante ; j’en frémis.</l>
@@ -270,7 +293,8 @@
               <l>Qui s’élève encor contre lui.</l>
             </quote>
             <p>D. Saturne n’étoit-il pas aussi connu sous un autre nom ?</p>
-            <p>R. Saturne est le même que le Temps, Divinité allégorique, représentée sous la figure d’un vieillard, avec des attributs propres à marquer la rapidité et la vicissitude du temps qui détruit tout ; comme les ailes, la faulx, le sablier, et le serpent qui forme un cercle en se mordant la queue. Voici ce qu’en dit <author>Rousseau</author> :</p>
+            <p>R. Saturne est le même que le Temps, Divinité allégorique, représentée sous la figure d’un vieillard, avec des attributs propres à marquer la rapidité et la vicissitude du temps qui détruit tout ; comme les ailes, la faulx, le sablier, et le serpent qui forme un cercle en se mordant la queue. Voici ce qu’en dit
+              <author>Rousseau</author> :</p>
             <quote>
               <l>Ce vieillard qui, d’un vol agile,</l>
               <l>Fuit sans jamais être arrêté,</l>
@@ -311,7 +335,8 @@
               <l>Leur imposa silence, et parla de la sorte, <hi rend="i">etc</hi>.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Rousseau</author>.)</bibl>
+              <bibl>(
+                <author>Rousseau</author>.)</bibl>
             </listBibl>
             <p>Devenu grand, il détrôna son père Saturne, qui en vouloit à ses jours, et partagea l’Empire du monde avec ses deux frères Neptune et Pluton. Celui-ci eut les enfers, et Neptune régna sur les eaux ; Jupiter se réserva le ciel.</p>
             <p>D. Comment Jupiter fut-il élevé ?</p>
@@ -321,7 +346,8 @@
             <p>D. Qu’étoit-ce que l’Aigle de Jupiter ?</p>
             <p>R. Périphas, Roi d’Athènes, se fit tant aimer de son peuple, qu’il en fut adoré à l’égal de Jupiter ; ce qui irrita si fort le maître des Dieux, qu’il voulut le foudroyer ; mais par compassion il se contenta de le changer en Aigle ; c’est sur cet Aigle qu’il traversoit les airs.</p>
             <p>D. Quelle guerre Jupiter eut-il à soutenir contre les Titans ?</p>
-            <p>R. Titan, oncle de Jupiter, vit avec peine le gouvernement passer aux enfans de son frère. Pour s’en venger, il suscita les Géans contre l’usurpateur ; mais Jupiter terrassa ces enfans de la Terre à coups de foudre, et les accabla sous les montagnes qu’ils avoient amassées pour le détrôner. Les plus fameux sont Encelade, Briarée à cent bras, et Typhée ; ce dernier étoit moitié homme, moitié serpent ; sa tête atteignoit le ciel. <author>Quinault</author> célèbre ainsi la victoire de Jupiter sur les Géans :</p>
+            <p>R. Titan, oncle de Jupiter, vit avec peine le gouvernement passer aux enfans de son frère. Pour s’en venger, il suscita les Géans contre l’usurpateur ; mais Jupiter terrassa ces enfans de la Terre à coups de foudre, et les accabla sous les montagnes qu’ils avoient amassées pour le détrôner. Les plus fameux sont Encelade, Briarée à cent bras, et Typhée ; ce dernier étoit moitié homme, moitié serpent ; sa tête atteignoit le ciel.
+              <author>Quinault</author> célèbre ainsi la victoire de Jupiter sur les Géans :</p>
             <quote>
               <l>Ils sont ensevelis sous la masse pesante</l>
               <l>Des monts qu’ils entassoient pour attaquer les cieux ;</l>
@@ -333,7 +359,8 @@
               <l>Et tout cède à l’effort de sa main foudroyante.</l>
             </quote>
             <p>D. Quelles ont été les principales métamorphoses de Jupiter ?</p>
-            <p>R. Il se métamorphosa en cygne pour Léda, dont il eut Castor et Pollux ; en taureau pour Europe, qui lui donna Minos et Radamante ; en pluie d’or pour Danaé, dont il eut Persée ; et en berger pour Mnémosyne, mère des neuf Muses. <author>Molière</author> a dit :</p>
+            <p>R. Il se métamorphosa en cygne pour Léda, dont il eut Castor et Pollux ; en taureau pour Europe, qui lui donna Minos et Radamante ; en pluie d’or pour Danaé, dont il eut Persée ; et en berger pour Mnémosyne, mère des neuf Muses.
+              <author>Molière</author> a dit :</p>
             <quote>
               <l>Passe encor de le voir de ce sublime étage,</l>
               <l>              Dans celui des hommes venir,</l>
@@ -350,12 +377,14 @@
               <l>(<hi rend="i">Audax Japeti genus ignem fraude, etc.</hi>)</l>
             </quote>
             <listBibl>
-              <bibl><author>Horace</author>.</bibl>
+              <bibl>
+                <author>Horace</author>.</bibl>
             </listBibl>
             <p>D. Qui étoit Pandore ?</p>
             <p>R. Les Dieux ne purent souffrir que Jupiter s’attribuât exclusivement le droit et la gloire de créer les hommes ; c’est pourquoi ils concoururent ensemble pour former une femme parfaite. Pallas lui donna la sagesse ; Vénus, la beauté ; Apollon, la connoissance de la musique ; Mercure, l’éloquence ; et on l’appela <hi rend="i">Pandore</hi>, nom composé de deux mots grecs, qui signifié <hi rend="i">tout don</hi>.</p>
             <p>D. Dites-nous ce que c’est que la boëte de Pandore ?</p>
-            <p>R. Jupiter, sous prétexte de faire aussi son présent à Pandore, la fit venir et lui donna une boëte, avec ordre de la porter à Prométhée. Epiméthée, son frère, l’ouvrit, et aussitôt tous les maux de la nature, qui y étoient renfermés, se répandirent sur la terre ; l’espérance resta au fond. Voici ce qu’en du premier dit <author>Rousseau</author> :</p>
+            <p>R. Jupiter, sous prétexte de faire aussi son présent à Pandore, la fit venir et lui donna une boëte, avec ordre de la porter à Prométhée. Epiméthée, son frère, l’ouvrit, et aussitôt tous les maux de la nature, qui y étoient renfermés, se répandirent sur la terre ; l’espérance resta au fond. Voici ce qu’en du premier dit
+              <author>Rousseau</author> :</p>
             <quote>
               <l>D’où peut venir ce mélange adultère</l>
               <l>D’adversités dont l’influence altère</l>
@@ -389,7 +418,8 @@
             <p>R. Junon, fille de Saturne et de Rhée, sœur et épouse de Jupiter, étoit la Reine des Dieux, et la Déesse qui présidoit aux royaumes.</p>
             <p>On la nommoit <hi rend="i">Lucine</hi>, parce qu’elle présidoit aux accouchemens, et <hi rend="i">Pronuba</hi>, parce qu’elle étoit la Déesse des alliances.</p>
             <p>D- Quel caractère attribue-t-on à Junon ?</p>
-            <p>R. Elle étoit d’une jalousie et d’un orgueil insupportables, impérieuse et vindicative. Sa jalousie parut dans les persécutions qu’elle suscita à toutes les personnes que Jupiter avoit aimées, et aux enfans qu’il en avoit eus, comme Hercule, etc. Les filles de Prétus, parce qu’elles s’étoient vanté d’être plus belles que Junon, furent frappées d’un genre de folie qui leur fit croire qu’elles étoient changées en vaches. On sait encore ce que coûta à la nation Troyenne la préférence que le berger Pâris donna à Vénus au préjudice de cette Déesse. Son caractère altier et impérieux est bien peint dans ces vers de <author>Lamotte</author> :</p>
+            <p>R. Elle étoit d’une jalousie et d’un orgueil insupportables, impérieuse et vindicative. Sa jalousie parut dans les persécutions qu’elle suscita à toutes les personnes que Jupiter avoit aimées, et aux enfans qu’il en avoit eus, comme Hercule, etc. Les filles de Prétus, parce qu’elles s’étoient vanté d’être plus belles que Junon, furent frappées d’un genre de folie qui leur fit croire qu’elles étoient changées en vaches. On sait encore ce que coûta à la nation Troyenne la préférence que le berger Pâris donna à Vénus au préjudice de cette Déesse. Son caractère altier et impérieux est bien peint dans ces vers de
+              <author>Lamotte</author> :</p>
             <quote>
               <l>Moi, l’épouse et la sœur du maître du tonnerre !</l>
               <l>Moi, la Reine des Dieux, du Ciel et de la Terre !</l>
@@ -424,7 +454,8 @@
               <l>           Dans les lieux où vous revenez.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Quinault</author>.)</bibl>
+              <bibl>(
+                <author>Quinault</author>.)</bibl>
             </listBibl>
             <p>D. Pourquoi Apollon fut-il banni du ciel ?</p>
             <p>R. Pour avoir mis à mort les Cyclopes, ministres de la colère de Jupiter. Voici à quelle occasion. Esculape, fils d’Apollon et élève du Centaure Chiron dans la médecine, étoit devenu si habile médecin, qu’il vint à bout de ressusciter le jeune Hyppolite, mis à mort par des monstres marins. Jupiter, indigné qu’un mortel empiétât sur ses droits, foudroya le téméraire médecin. Apollon, qui n’osa s’en prendre à Jupiter, s en vengea sur les Cyclopes qui avaient forgé la foudre.</p>
@@ -463,7 +494,8 @@
               <l>Apollon ne promet qu’un nom et des lauriers.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Boileau</author>.)</bibl>
+              <bibl>(
+                <author>Boileau</author>.)</bibl>
             </listBibl>
             <p>Apollon écorcha vif le satyre Marsyas, qui osa le défier, et prétendit chanter mieux que lui. Il donna aussi des oreilles d’âne à Midas, roi de Phrygie, qui avoit décidé en faveur de Marsyas.</p>
           </div>
@@ -473,7 +505,8 @@
             <p>R. Leurs noms sont <hi rend="sc">Calliope, Clio, Erato, Melpomène, Thalie, Terpsicore, Euterpe, Polymnie</hi> et <hi rend="sc">Uranie</hi>. Elles étoient filles de Jupiter et de Mnémosyne. Elles présidoient aux arts et aux sciences.</p>
             <p>D. A quoi chacune d’elles préside-t-elle particulièrement ?</p>
             <p>R. Calliope préside à l’éloquence et au poëme héroïque ; Clio, à l’histoire ; Erato, aux poésies amoureuses ; Melpomène, à la tragédie ; Thalie, à la comédie ; Terpsicore, à la danse ; Euterpe, aux instrumens ; Polymnie, à l’ode ; Uranie, à l’astronomie.</p>
-            <p><author>Perrault</author> a heureusement exprimé les différens emplois des Muses dans les vers suivans :</p>
+            <p>
+              <author>Perrault</author> a heureusement exprimé les différens emplois des Muses dans les vers suivans :</p>
             <quote>
               <l>La noble <hi rend="sc">Calliope</hi>, en ses vers sérieux,</l>
               <l>Célèbre les hauts faits des vaillans demi-Dieux.</l>
@@ -523,7 +556,8 @@
               <l>Le sévère Pluton rompt lui-même ses lois.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Fontenelle</author>.)</bibl>
+              <bibl>(
+                <author>Fontenelle</author>.)</bibl>
             </listBibl>
             <p>D. Comment Diane étoit-elle considérée sur la terre ?</p>
             <p>R. Elle étoit considérée comme la Déesse des chasseurs. Elle habitoit les bois et les forêts avec une troupe de Nymphes qu’elle occupoit toujours à la chasse. On l’appelle la <hi rend="i">chaste Diane</hi>, parce qu’elle ne voulut jamais se marier. Elle avoit même tant de pudeur, qu’elle changea en cerf le chasseur Actéon qui avoit eu la témérité de la regarder dans le bain. On dit cependant qu’elle aima le berger Endymion ; mais alors elle est regardée comme Divinité céleste ?</p>
@@ -535,7 +569,8 @@
             <p><hi rend="sc">D. Qui</hi> étoit Bacchus ?</p>
             <p>R. Bacchus étoit fils de Jupiter et de Sémélé.</p>
             <p>D. Comment vint-il au monde ?</p>
-            <p>R. Les Poëtes le font naître de la cuisse de Jupiter. Voici à quelle occasion. Junon, ennemie déclarée de ses rivales, prit la figure de Béroé, nourrice de Sémélé ; vint trouver celle-ci, lui conseilla de demander à Jupiter de se faire voir à elle dans toute sa gloire, c’est-à-dire, la foudre à la main. Jupiter se rendit avec peine à sa demande. Ayant paru devant elle dans tout son éclat, elle fut réduite en cendres sur-le-champ par le feu du tonnerre. Mais Jupiter, pour sauver le petit Bacchus dont elle étoit enceinte, l’enferma dans sa cuisse, d’où il sortit au temps marqué pour sa naissance. <author>Un Poëte</author> fait parler ainsi Junon :</p>
+            <p>R. Les Poëtes le font naître de la cuisse de Jupiter. Voici à quelle occasion. Junon, ennemie déclarée de ses rivales, prit la figure de Béroé, nourrice de Sémélé ; vint trouver celle-ci, lui conseilla de demander à Jupiter de se faire voir à elle dans toute sa gloire, c’est-à-dire, la foudre à la main. Jupiter se rendit avec peine à sa demande. Ayant paru devant elle dans tout son éclat, elle fut réduite en cendres sur-le-champ par le feu du tonnerre. Mais Jupiter, pour sauver le petit Bacchus dont elle étoit enceinte, l’enferma dans sa cuisse, d’où il sortit au temps marqué pour sa naissance.
+              <author>Un Poëte</author> fait parler ainsi Junon :</p>
             <quote>
               <l>Exigez qu’aux Thébains lui-même il vienne apprendre</l>
               <l>                        Un choix pour vous si glorieux ;</l>
@@ -545,12 +580,14 @@
               <l>Tel qu’aux yeux de Junon il paroît dans les cieux.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
             <p>D. Par qui fut-il élevé ?</p>
             <p>R. Le vieux Silène prit soin de son éducation sur le mont Nysa. Il le suivit aussi à la conquête des Indes, monté sur un âne.</p>
             <p>D. Que fit Bacchus devenu grand ?</p>
-            <p>R. Il parcourut toute la terre, et fit la conquête des Indes. On le regarde même comme le plus puissant des Dieux après Jupiter ; il en étoit au moins le plus courageux. Il fut le seul qui osa rester dans le ciel pendant la guerre des géans : il s’étoit changé en lion, pour les combattre. Voici ce qu’en dit <author>Rousseau</author> dans les vers suivans ;</p>
+            <p>R. Il parcourut toute la terre, et fit la conquête des Indes. On le regarde même comme le plus puissant des Dieux après Jupiter ; il en étoit au moins le plus courageux. Il fut le seul qui osa rester dans le ciel pendant la guerre des géans : il s’étoit changé en lion, pour les combattre. Voici ce qu’en dit
+              <author>Rousseau</author> dans les vers suivans ;</p>
             <quote>
               <l>C’est lui qui, des Fils de la Terre</l>
               <l>Châtiant la rebellion,</l>
@@ -561,7 +598,8 @@
               <l>Aux yeux de ses frères vaincus.</l>
             </quote>
             <p>D. Que dit-on encore de Bacchus ?</p>
-            <p>R. Bacchus, après la conquête des Indes, revint en Egypte, où il enseigna aux hommes l’agriculture, planta la vigne, et inventa la vendange. <author>Un Poëte célèbre</author> s’en exprime ainsi :</p>
+            <p>R. Bacchus, après la conquête des Indes, revint en Egypte, où il enseigna aux hommes l’agriculture, planta la vigne, et inventa la vendange.
+              <author>Un Poëte célèbre</author> s’en exprime ainsi :</p>
             <quote>
               <l>Prends part à la juste louange</l>
               <l>De ce Dieu si cher aux guerriers,</l>
@@ -572,7 +610,8 @@
               <l>Que de n’être qu’un conquérant.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Rousseau</author>.)</bibl>
+              <bibl>(
+                <author>Rousseau</author>.)</bibl>
             </listBibl>
             <p>D. Comment représente-t-on Bacchus ?</p>
             <p>R. On le peint sous la figure d’un jeune homme avec un teint vermeil et un visage réjoui, comme il convient au Dieu de la vendange. Il est assis sur un tonneau avec une coupe à la main, ou sur un char traîné par des tygres, des lynx ou des panthères, et tenant à la main un thyrse, qui est une baguette entourée de pampres, de lierre, et surmontée d’une pomme de pin.</p>
@@ -585,7 +624,8 @@
           <div>
             <head>Mercure.</head>
             <p><hi rend="sc">D. Qu’étoit</hi> Mercure ?</p>
-            <p>R. Mercure, fils de Jupiter et de Maïa, étoit l’interprète et le messager des Dieux, mais sur-tout de Jupiter. Il avoit des ailes à la tête et aux pieds, afin qu’il put exécuter plus promptement leurs ordres. Il gouvernoit aussi les affaires qui regardoient la paix et la guerre ; enfin il conduisoit les ames dans les enfers, et avoit le pouvoir de les en retirer. <author>Lamotte</author> lui adresse ainsi la parole :</p>
+            <p>R. Mercure, fils de Jupiter et de Maïa, étoit l’interprète et le messager des Dieux, mais sur-tout de Jupiter. Il avoit des ailes à la tête et aux pieds, afin qu’il put exécuter plus promptement leurs ordres. Il gouvernoit aussi les affaires qui regardoient la paix et la guerre ; enfin il conduisoit les ames dans les enfers, et avoit le pouvoir de les en retirer.
+              <author>Lamotte</author> lui adresse ainsi la parole :</p>
             <quote>
               <l>Toi qui d’une ardeur empressée,</l>
               <l>Sers le Maître de l’Univers,</l>
@@ -611,7 +651,8 @@
             <p><hi rend="sc">D. Que</hi> nous disent les Poëtes sur la naissance de Vénus ?</p>
             <p>R. Les uns la disent fille du Ciel et de la Terre, les autres de Jupiter et de Dioné : la plupart prétendent qu’elle est sortie de l’écume de la mer. On la nomme encore Cypris ; elle est la Déesse de la beauté. Les Heures, sitôt sa naissance, l’enlevèrent dans le ciel ; les Dieux la trouvèrent si belle, qu’ils la nommèrent <hi rend="i">Déesse de l’Amour</hi>. Jupiter, pour récompenser Vulcain des services qu’il lui avoit rendus, lui fit épouser Vénus.</p>
             <p>D. Dites-nous quelques mots de la ceinture de cette Déesse ?</p>
-            <p>R. Cette ceinture étoit le plus bel ornement de Vénus. Elle renfermoit tous les attraits, tous les agrémens, et tout ce que les grâces ont de plus séduisant. <author>Homère</author> en fait une magnifique description. (<title>Iliad.</title> <hi rend="i">l.</hi> 44).</p>
+            <p>R. Cette ceinture étoit le plus bel ornement de Vénus. Elle renfermoit tous les attraits, tous les agrémens, et tout ce que les grâces ont de plus séduisant.
+              <author>Homère</author> en fait une magnifique description. (<title>Iliad.</title> <hi rend="i">l.</hi> 44).</p>
             <p>D. En quels lieux Vénus étoit-elle particulièrement adorée ?</p>
             <p>R. Elle avoit des temples dans tous les pays du monde ; les plus beaux et les plus célèbres étoient à Amathonte, à Lesbos, à Paphos, à Gnide et à Cythère. L’île de Chypre lui étoit particulièrement consacrée. Le culte qu’on lui rendoit étoit un composé de jeux, de chants, de danses, de débauches infâmes. La rose, le myrthe et la colombe lui étoient consacrés. Les femmes étoient dans l’usage de lui offrir leur chevelure. Delà l’histoire de la chevelure de Bérénice changée en étoile, et placée au ciel.</p>
             <p>D. Quels furent les enfans de Vénus ?</p>
@@ -626,14 +667,16 @@
               <l>Vous rendez le repos au monde.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Rousseau</author>.)</bibl>
+              <bibl>(
+                <author>Rousseau</author>.)</bibl>
             </listBibl>
             <p>D. Dites-nous le nombre des Grâces, et leurs noms ?</p>
             <p>R. Elles sont trois, et se nomment <hi rend="sc">Aglaé, Thalie</hi> et <hi rend="sc">Euphrosine</hi>. Elles sont les compagnes inséparables de Vénus. Elles suivent aussi assez ordinairement la cour des Muses.</p>
             <p>D. Comment Venus est-elle représentée ?</p>
             <p>R. On la peint traînée par des colombes, par des cygnes ou par des moineaux ; on place à côté d’elle son fils Cupidon.</p>
             <p>D. Expliquez-nous ce que c’est que le saut de Leucade ?</p>
-            <p>R. Il y avoit en Leucadie un lieu fort élevé, d’où on se jetoit dans la mer, pour trouver un remède à l’amour ; mais on ne se faisoit aucun mal. <author>Sapho</author>, poète pleine de grâces, fit ce fameux saut.</p>
+            <p>R. Il y avoit en Leucadie un lieu fort élevé, d’où on se jetoit dans la mer, pour trouver un remède à l’amour ; mais on ne se faisoit aucun mal.
+              <author>Sapho</author>, poète pleine de grâces, fit ce fameux saut.</p>
           </div>
           <div>
             <head>Vulcain.</head>
@@ -644,11 +687,13 @@
               <l>Dont le maître des cieux épouvante la terre.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
             <p>On le regardoit comme le Dieu du feu ; il avoit sous ses ordres du premier les Cyclopes, géans qui n’avoient qu’un œil au milieu du front.</p>
             <p>D. Où étoient les forges de Vulcain ?</p>
-            <p>R. Les forges de Vulcain étoient dans les îles de Lemnos, de Lypare, et dans le mont Etna. Voici ce qu’en dit <author>Rousseau</author> dans les vers suivans :</p>
+            <p>R. Les forges de Vulcain étoient dans les îles de Lemnos, de Lypare, et dans le mont Etna. Voici ce qu’en dit
+              <author>Rousseau</author> dans les vers suivans :</p>
             <quote>
               <l>Dans ces antres fameux, où Vulcain nuit et jour</l>
               <l>Forge de Jupiter les foudroyantes armes,</l>
@@ -681,7 +726,8 @@
               <l>        Jetez le trouble et l’épouvante.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Quinault</author>.)</bibl>
+              <bibl>(
+                <author>Quinault</author>.)</bibl>
             </listBibl>
             <p>D. Quel fut le différent de Minerve avec Neptune ?</p>
             <p>R. Neptune et Minerve se disputoient l’honneur de donner un nom à la capitale de la Grèce que Cécrops venoit de bâtir. Les Dieux assemblés se décidèrent en faveur de la Divinité qui produiroit la chose la plus belle et la plus utile. Minerve, d’un coup de lance, fit sortir de terre un olivier tout fleuri ; Neptune, d’un coup de son trident, fit naître un beau cheval. Minerve l’emporta, et donna le nom d’Athènes à cette ville, qui devint dans la suite si célèbre.</p>
@@ -697,7 +743,8 @@
               <l>Dont elle écrase les humains.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Rousseau</author>.)</bibl>
+              <bibl>(
+                <author>Rousseau</author>.)</bibl>
             </listBibl>
             <p>D. Comment représente-t-on cette Déesse ?</p>
             <p>R. On la représente armée d’une cuirasse, avec un casque sur la tête, une lance à la main, l’égide au bras, et auprès d’elle un hibou.</p>
@@ -710,7 +757,8 @@
             <head>Mars.</head>
             <p><hi rend="sc">D. De</hi> qui Mars étoit-il fils ?</p>
             <p>R. Jupiter avoit donné seul la naissance à Pallas ; Junon de même donna seule le jour à Mars. C’étoit le Dieu de la guerre.</p>
-            <p>Le caractère de ce Dieu est bien rendu dans ces vers que <author>Rousseau</author> met dans la bouche de Jupiter.</p>
+            <p>Le caractère de ce Dieu est bien rendu dans ces vers que
+              <author>Rousseau</author> met dans la bouche de Jupiter.</p>
             <quote>
               <l>Tigre, à qui la pitié ne peut se faire entendre,</l>
               <l>Tu n’aimes que le meurtre et les embrasemens ;</l>
@@ -722,7 +770,8 @@
               <l>Plus digne de régner sur les bords du Cocyte,</l>
               <l>Que de tenir ta place entre les Dieux du ciel !</l>
             </quote>
-            <p><author>De la Noue</author> achève de le faire connoître :</p>
+            <p>
+              <author>De la Noue</author> achève de le faire connoître :</p>
             <quote>
               <l>   Ce Dieu terrible, environné d’éclairs,</l>
               <l>   Brise, en passant, les sceptres, les couronnes,</l>
@@ -784,7 +833,8 @@
                 <l>              Des mortels indiscrets.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Rousseau</author>.)</bibl>
+                <bibl>(
+                  <author>Rousseau</author>.)</bibl>
               </listBibl>
               <p>D. Les Poëtes ne nomment-ils pas encore quelques autres Divinités maritimes ?</p>
               <p>R. Ils parlent encore de plusieurs, entr’autres d’Eole et des Styrènes ?</p>
@@ -801,7 +851,8 @@
                 <l>De voler sur l’humide plaine.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Rousseau</author>.)</bibl>
+                <bibl>(
+                  <author>Rousseau</author>.)</bibl>
               </listBibl>
               <p>On le représente avec un sceptre de fer à la main, assis ou appuyé du premier sur un rocher, d’où les Vents cherchent à s’échapper.</p>
               <p>Les Vents sont représentés sous la figure de jeunes enfans ailés.</p>
@@ -817,7 +868,8 @@
                 <l>   Notre triomphe est assuré.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Fontenelle</author>.)</bibl>
+                <bibl>(
+                  <author>Fontenelle</author>.)</bibl>
               </listBibl>
               <p>D. Dites-nous comment Ulysse évita leurs piéges ?</p>
               <p>R. Il se fit attacher au mât de son vaisseau, et boucha les oreilles de ses compagnons. Par ce moyen, il entendit impunément la voix enchanteresse des Syrènes. Celles-ci, désespérées, se précipitèrent dans la mer, et furent changées en rochers.</p>
@@ -843,7 +895,8 @@
                 <l>Que Pluton enlève à Cérès.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
               <p>D. Comment représente-t-on Pluton ?</p>
               <p>R. Pluton est représenté sur un char tiré par des chevaux noirs, portant une couronne d’ébène sur la tête, et des clefs à la main. Son royaume est communément appelé le royaume des Ombres et des Morts.</p>
@@ -859,7 +912,8 @@
                 <l>Mille supplices renaissans.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -876,7 +930,8 @@
                 <l>Ne dévident pas tous nos jours.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Malherbe</author>.)</bibl>
+                <bibl>(
+                  <author>Malherbe</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -893,7 +948,8 @@
                 <l>Que nos vœux, que nos cris, vous trouvent favorables !</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
               <p>Les eaux de l’Achéron sont bourbeuses et amères.</p>
               <p>Le Styx faisoit sept fois le tour des Enfers ; c’étoit par ce fleuve que juroient les Dieux, et s’ils se parjuroient, ils étoient privés de la Divinité pendant cent ans.</p>
@@ -919,7 +975,8 @@
                 <l>Les hurlemens sont suspendus.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
               <p>D. Nommez-nous quelques-uns des fameux scélérats que la Fable place dans les Enfers.</p>
               <p>R. Elle nomme sur-tout Sisyphe, ordre. Tantale, Typhon, les Danaïdes, les Titans, etc.</p>
@@ -936,7 +993,8 @@
                 <l>L’irrite et la trahit toujours.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -960,7 +1018,8 @@
                 <l>      De leurs parricides fureurs.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
               <p>Les coupables furent condamnées à remplir d’eau un tonneau percé.</p>
             </div>
@@ -995,14 +1054,14 @@
                 <l>      En irrite encor le désir.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
             </div>
           </div>
         </div>
         <div>
-          <head>Seconde partie de la Fable.
-<lb/>Des Dieux du second ordre.</head>
+          <head>Seconde partie de la Fable. <lb/>Des Dieux du second ordre.</head>
           <p><hi rend="sc">La Terre</hi> avoit ses Dieux, ainsi que le Ciel, la Mer et les Enfers. Leur nombre est si prodigieux, qu’il seroit difficile de les placer avec assez de méthode pour en donner une idée nette et précise. Nous les distinguerons en Divinités terrestres, champêtres et domestiques.</p>
           <div>
             <head>Divinités terrestres.</head>
@@ -1019,7 +1078,8 @@
                 <l>Les Dieux percent mon cœur d’une douleur mortelle.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Quinault</author>.)</bibl>
+                <bibl>(
+                  <author>Quinault</author>.)</bibl>
               </listBibl>
               <p>D. Comment représente-t-on Cérès ?</p>
               <p>R. On la représente couronnée d’épis, tenant d’une main une faucille, et de l’autre une poignée d’épis mêlée de pavots.</p>
@@ -1054,7 +1114,8 @@
                 <l>Et dans tous nos jardins nous chérirons ta loi.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Gresset</author>.)</bibl>
+                <bibl>(
+                  <author>Gresset</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -1100,7 +1161,8 @@
                 <l>Que l’erreur prend pour un bandeau.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -1114,7 +1176,8 @@
                 <l>Seule tu comblois tous leurs vœux.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
               <p>Elle est représentée couronnée de laurier, portant d’une main une petite statue de Plutus, et de l’autre une branche d’olivier.</p>
             </div>
@@ -1141,7 +1204,8 @@
                 <l>Semer le bruit et la terreur.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Rousseau</author>.)</bibl>
+                <bibl>(
+                  <author>Rousseau</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -1159,7 +1223,8 @@
                 <l>C’est de s’y tenir préparé.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Rousseau</author>.)</bibl>
+                <bibl>(
+                  <author>Rousseau</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -1177,7 +1242,8 @@
                 <l>                  Qui nous sont adressés.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Rousseau</author>.)</bibl>
+                <bibl>(
+                  <author>Rousseau</author>.)</bibl>
               </listBibl>
               <p>On la représente avec des ailes, armée de serpens et de torches ardentes, et une couronne sur la tête.</p>
             </div>
@@ -1198,7 +1264,8 @@
                 <l>Marchent sans ordre à ses côtés.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Rousseau</author>.)</bibl>
+                <bibl>(
+                  <author>Rousseau</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -1220,7 +1287,8 @@
                 <l>Semble annoncer la mort aux peuples effrayés.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Voltaire</author>.)</bibl>
+                <bibl>(
+                  <author>Voltaire</author>.)</bibl>
               </listBibl>
             </div>
           </div>
@@ -1237,7 +1305,8 @@
                 <l>C’est le Dieu des bergers et de leurs bergeries.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Gresset</author>.)</bibl>
+                <bibl>(
+                  <author>Gresset</author>.)</bibl>
               </listBibl>
               <p>On le représentoit ayant des cornes sur la tête, des pieds de chèvre, la face rubiconde, et tenant en main une espèce de flûte, que les Grecs nommoient <hi rend="i">Syrinx</hi>.</p>
               <p>D. Donnez- nous l’origine de l’expression <hi rend="i">teneur panique</hi> ?</p>
@@ -1262,7 +1331,8 @@
                 <l>Dont nous sommes les vains échos.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -1282,7 +1352,8 @@
                 <l>Il s’échappe sans cesse, et toujours se poursuit.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Lamotte</author>.)</bibl>
+                <bibl>(
+                  <author>Lamotte</author>.)</bibl>
               </listBibl>
             </div>
           </div>
@@ -1307,7 +1378,8 @@
                 <l>               C’est-là ton champ, et c’est le mien.</l>
               </quote>
               <listBibl>
-                <bibl>(<author>Ovide</author>, <title>Traduction libre</title>.)</bibl>
+                <bibl>(
+                  <author>Ovide</author>, <title>Traduction libre</title>.)</bibl>
               </listBibl>
             </div>
             <div>
@@ -1319,8 +1391,7 @@
           </div>
         </div>
         <div>
-          <head>Troisième partie de la Fable.
-<lb/>Des demi-Dieux et des Héros.</head>
+          <head>Troisième partie de la Fable. <lb/>Des demi-Dieux et des Héros.</head>
           <p><hi rend="sc">D. Qu’entend-on</hi> par demi-Dieux ?</p>
           <p>R. On entend des Héros nés d’un Dieu et d’une Mortelle, ou d’une Déesse et d’un Mortel.</p>
           <p>D. Compte-t-on beaucoup de demi-Dieux ?</p>
@@ -1350,7 +1421,8 @@
               <l>               Leur fait vainement résistance.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Quinault</author>.)</bibl>
+              <bibl>(
+                <author>Quinault</author>.)</bibl>
             </listBibl>
           </div>
           <div>
@@ -1372,7 +1444,8 @@
               <l>Sont des arrêts des destinées.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Molière</author>.)</bibl>
+              <bibl>(
+                <author>Molière</author>.)</bibl>
             </listBibl>
             <p>D. Racontez-nous comment Junon ne cessa de poursuivre Hercule ?</p>
             <p>R. Junon épuisa tous les efforts de sa haine contre ce fils de Jupiter. Elle fit naître Euristhée avant lui, afin qu’en sa qualité d’aîné il eut le droit de lui commander. Ce fut à l’instigation de l’implacable Déesse qu’Euristhée exigea d’Hercule des travaux aussi difficiles que dangereux. On en compte douze principaux, appelés communément <hi rend="i">les travaux d’Hercule</hi>. Les voici :</p>
@@ -1396,7 +1469,8 @@
               <l>Fit trop enfoncer la nacelle.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Voiture</author>.)</bibl>
+              <bibl>(
+                <author>Voiture</author>.)</bibl>
             </listBibl>
             <p>D. Que fit Hercule lorsqu’il eut heureusement terminé les douze travaux qui lui avoient été commandés par Eurysthée ?</p>
             <p>R. II parcourut l’univers pour le purger des monstres et des tyrans, et pour soulager les malheureux.</p>
@@ -1407,7 +1481,8 @@
               <l>          Le foudre est moins fort que son bras.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
             <p>Il tua Cacus, insigne voleur qui désoloit l’Italie.</p>
             <p>Il détacha Prométhée, et fit mourir le vautour qui lui déchiroit le foie.</p>
@@ -1422,7 +1497,8 @@
               <l>Blesse Alcide, il est temps de vaincre ce Héros.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
             <p>Cupidon servit à souhait les désirs de la Déesse. Bientôt on vit ce grand homme couvert d’un habit de femme, filer aux pieds d’Omphale, reine de Lydie. Cette honteuse passion flétrit en un instant les lauriers du vainqueur de l’univers.</p>
             <p>D. Hercule servit-il long-temps sous les lois d’Omphale ?</p>
@@ -1436,7 +1512,8 @@
               <l>Bien loin de s’affoiblir, redoublent leurs atteintes.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Campistron</author>.)</bibl>
+              <bibl>(
+                <author>Campistron</author>.)</bibl>
             </listBibl>
             <p>Pour finir son supplice, il se jeta sur un bûcher qu’il avoit préparé sur le mont Oëta, ou il faisoit un sacrifice. Ses cendres furent recueillies par son ami Philoctète, et mises dans une urne.</p>
             <p>Hercule fut placé dans le ciel, où il épousa Hébé, Déesse de la jeunesse. On le représente couvert de la peau d’un lion, et armé d’une massue.</p>
@@ -1452,7 +1529,8 @@
               <l>De monstres, de méchans échappés an tonnerre.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Racine</author>.)</bibl>
+              <bibl>(
+                <author>Racine</author>.)</bibl>
             </listBibl>
             <p>D. Quelles sont les grandes actions par où il se distingua ?</p>
             <p>R. Il fit mourir plusieurs tyrans : tels étoient Phalaris, qui faisoit brûler les hommes dans un taureau d’airain ; Scyrron, qui jetoit dans la mer tous les étrangers ; Procuste, qui faisoit étendre les passans sur un lit de fer, et ordonnoit qu’on coupât la partie des jambes qui en excédoit la longueur.</p>
@@ -1466,7 +1544,8 @@
               <l>Et la Crète fumant du sang du Minotaure.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>De la Fosse</author>.)</bibl>
+              <bibl>(
+                <author>De la Fosse</author>.)</bibl>
             </listBibl>
             <p>D. Dites-nous en peu de mots comment Thésée a vaincu le Minotaure ?</p>
             <p>R. Le Minotaure étoit un monstre moitié homme, moitié taureau, né, selon les Poëtes, de Pasiphaë, épouse de Minos, roi de Crète. Ce Prince, pour venger la mort de son fils Androgée, tué par les jeunes gens d’Athènes, obligea les Athéniens de lui envoyer, chaque année, sept de leurs enfans, choisis par le sort, pour être dévorés par le Minotaure. Thésée, tout jeune encore, forma le généreux projet d’affranchir sa patrie de ce tribut honteux et cruel.</p>
@@ -1481,7 +1560,8 @@
               <l>Au secours de Thésée elle appelle les Dieux.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
             <p>D. De qui Thésée fut-il aidé dans son entreprise ?</p>
             <p>R. Ariadne, fille de Minos, lui prêta ses secours. Le Minotaure étoit enfermé dans un Labyrinthe, dont il n’étoit pas possible de trouver l’issue. Ariadne donna à Thésée un peloton de fil, par le moyen duquel il lui fut aisé de revenir sur ses pas, après avoir tué le Minotaure.</p>
@@ -1490,11 +1570,13 @@
             <quote>
               <l>          Quand je devrois, nouvel Icare,</l>
               <l>De ma chûte orgueilleuse étonner l’Univers ;</l>
-              <l>          Je veux sur les pas de <author>Pindare</author></l>
+              <l>          Je veux sur les pas de
+                <author>Pindare</author></l>
               <l>          M’élever jusques dans les airs.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>La Grange-Chancel</author>.)</bibl>
+              <bibl>(
+                <author>La Grange-Chancel</author>.)</bibl>
             </listBibl>
             <p>Thésée, en partant pour son expédition contre le Minotaure, avoit promis à son père de changer les voiles de son vaisseau, s’il revenoit vainqueur. La joie lui fit oublier cette convention. Egée, voyant de loin des voiles noires, crut qu’il avoit perdu son fils, et se précipita dans cette partie de la mer qui porte son nom.</p>
             <p>D. Continuez de nous raconter les grands exploits de Thésée ?</p>
@@ -1511,7 +1593,8 @@
               <l>Et repasser les bords qu’on passe sans retour.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Racine</author>.)</bibl>
+              <bibl>(
+                <author>Racine</author>.)</bibl>
             </listBibl>
             <p>Pirithoüs fut dévoré par Cerbère ; et Thésée resta aux Enfers jusqu’au temps où Hercule vint le délivrer. Ils firent ensemble la guerre aux Amazones, et Thésée épousa Hyppolite, reine de ces femmes guerrières, dont il eut un fils qui porta le même nom.</p>
             <p>D. Racontez- nous l’aventure funeste de ce malheureux fils ?</p>
@@ -1526,7 +1609,8 @@
               <l>J’abandonne ce traître à toute ta colère.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Racine</author>.)</bibl>
+              <bibl>(
+                <author>Racine</author>.)</bibl>
             </listBibl>
             <p>Il ne fut que trop exaucé. Neptune envoya un monstre marin qui, par ses mugissemens, effraya les chevaux d’Hyppolite.</p>
             <quote>
@@ -1555,7 +1639,8 @@
               <l>Il ouvre un œil mourant qu’il referme soudain.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Racine</author>.)</bibl>
+              <bibl>(
+                <author>Racine</author>.)</bibl>
             </listBibl>
             <p>Esculape rendit la vie à Hyppolite, et Diane le transporta en Italie. Thésée mourut à Athènes, après avoir mérité d’être mis au rang des Demi-Dieux.</p>
             <p>Phèdre, bourrelée par les remords, se pendit de désespoir.</p>
@@ -1575,7 +1660,8 @@
               <l>Et tantôt citoyen des Cieux.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Boileau</author>.)</bibl>
+              <bibl>(
+                <author>Boileau</author>.)</bibl>
             </listBibl>
             <p>D. Par où se signalèrent-ils encore ?</p>
             <p>R. Ils furent du nombre des Argonautes, qui firent la conquête de la Toison d’or. Ils purgèrent aussi la mer des pirates qui l’infestoient. De là ils étoient honorés comme des Dieux marins, et on leur immoloit des agneaux blancs.</p>
@@ -1591,7 +1677,8 @@
               <l>        Lorsque le Ciel le favorise.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Gresset</author>.)</bibl>
+              <bibl>(
+                <author>Gresset</author>.)</bibl>
             </listBibl>
             <p>D. Qu’étoit-ce que la Toison d’or ?</p>
             <p>R. Aëte, roi de la Colchide, possédoit une Toison d’or, que Phryxus, fils d’Athamas, roi de Thèbes, avoit portée en Colchide. Il la mit dans un bois consacré au Dieu Mars, sous la garde d’un dragon furieux qui ne dormoit jamais, et de plusieurs taureaux qui vomissoient des flammes.</p>
@@ -1604,7 +1691,8 @@
               <l>                 Ont conquis la Toison.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Voltaire</author>.)</bibl>
+              <bibl>(
+                <author>Voltaire</author>.)</bibl>
             </listBibl>
             <p>D. Par les secours de qui Jason vint-il à bout de son entreprise ?</p>
             <p>R. Cette fameuse expédition présentoit des difficultés insurmontables, et Jason auroit infailliblement échoué, sans le secours de Médée, dont les enchantemens étoient absolument nécessaires pour rendre les taureaux dociles, et, endormir les dragons. Médée étoit fille d’Aëte, et par son moyen Jason emporta la Toison d’or.</p>
@@ -1631,7 +1719,8 @@
               <l>Que des restes affreux des victimes sanglantes.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>T. Corneille</author>.)</bibl>
+              <bibl>(
+                <author>T. Corneille</author>.)</bibl>
             </listBibl>
             <p>Bellérophon eut aussi beaucoup de part à la défaite des Amazones. Ses victoires lui méritèrent la main de Philoné, fille d’Iobates, roi de Lycie.</p>
           </div>
@@ -1650,7 +1739,8 @@
               <l>Elle eut autant de part que le brave Jason.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>La Grange-Chancel</author>.)</bibl>
+              <bibl>(
+                <author>La Grange-Chancel</author>.)</bibl>
             </listBibl>
             <p>D. Les Poëtes ne feignent-ils pas qu’Orphée est descendu aux Enfers ?</p>
             <p>R. Oui, et voici à quel sujet. Euridice, son épouse, mourut de la piqûre d’un serpent le jour même de ses noces. Il eut le courage de visiter les sombres bords, pour la redemander à Pluton. Celui-ci la lui rendit, mais à condition qu’elle le suivroit, et qu’il ne la regarderait pas qu’elle ne fut de retour sur la terre. Orphée appercevoit déjà la lumière : il se retourne avec impatience ; Euridice lui est enlevée ; pour toujours.</p>
@@ -1663,10 +1753,12 @@
               <l>Par un impatient regard.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
             <p>Orphée, inconsolable, renonça pour jamais aux femmes. Les Bacchantes, outrées de se voir méprisées par lui, le mirent en pièces, et sa lyre fut placée au ciel.</p>
-            <p><author>Campistron</author> retrace dans ces vers toutes les merveilles que l’on attribuoit à Orphée :</p>
+            <p>
+              <author>Campistron</author> retrace dans ces vers toutes les merveilles que l’on attribuoit à Orphée :</p>
             <quote>
               <l>Les arbres, les rochers, sensibles à sa voix ;</l>
               <l>Les tigres, les lions, asservis à ses lois ;</l>
@@ -1692,7 +1784,8 @@
               <l>       Qu’il faut m’arrêter en ces lieux.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Quinault</author>.)</bibl>
+              <bibl>(
+                <author>Quinault</author>.)</bibl>
             </listBibl>
             <p>D. En quel lieu la ville de Thèbes fut-elle bâtie ?</p>
             <p>R. Elle fut bâtie en Béotie. L’Oracle consulté sur le sort de cette ville, annonça les plus grands malheurs, ce qui fut cause que Cadmus s’en éloigna. On dit qu’il fut changé en serpent avec Hermione son épouse.</p>
@@ -1713,17 +1806,20 @@
               <l>Naviguer sur les mers de Crète et de Corinthe.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Campistron</author>.)</bibl>
+              <bibl>(
+                <author>Campistron</author>.)</bibl>
             </listBibl>
             <p>D. A qui doit-on la découverte des seize lettres de l’alphabet, et l’invention de l’écriture ?</p>
-            <p>R. On convient généralement que ce bien si intéressant nous vient de Cadmus, roi de Phénicie, qui le premier porta l’art de l’écriture dans la Grèce. Tout le monde connoît ces beaux vers de <author>Brébeuf</author> sur ce Prince :</p>
+            <p>R. On convient généralement que ce bien si intéressant nous vient de Cadmus, roi de Phénicie, qui le premier porta l’art de l’écriture dans la Grèce. Tout le monde connoît ces beaux vers de
+              <author>Brébeuf</author> sur ce Prince :</p>
             <quote>
               <l>C’est de lui que nous vient cet art ingénieux</l>
               <l>De peindre la parole et de parler aux yeux ;</l>
               <l>Et, par les traits divers des figures tracées,</l>
               <l>Donner de la couleur et du corps aux pensées.</l>
             </quote>
-            <p>Le Poëte <author>Pindare</author> devoit le jour à la ville de Thèbes. Lors du saccagement de cette ville par Alexandre le Grand, l’immortel conquérant ordonna, par respect pour les talens du grand Poëte, que la maison où il étoit né fut épargnée.</p>
+            <p>Le Poëte
+              <author>Pindare</author> devoit le jour à la ville de Thèbes. Lors du saccagement de cette ville par Alexandre le Grand, l’immortel conquérant ordonna, par respect pour les talens du grand Poëte, que la maison où il étoit né fut épargnée.</p>
           </div>
           <div>
             <head>Œdipe.</head>
@@ -1745,7 +1841,8 @@
               <l>Proposoit une énigme avec art concertée.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Voltaire</author>.)</bibl>
+              <bibl>(
+                <author>Voltaire</author>.)</bibl>
             </listBibl>
             <p>Le <hi rend="i">Sphinx</hi> demandoit : « Quel est l’animal qui, le matin, à quatre pieds, deux à midi, et trois le soir ? »</p>
             <p>La couronne et la main de la Reine étoit promise à celui qui expliqueroit l’énigme. Œdipe l’expliqua. Il répondit au Sphinx, que son animal est l’homme qui, dans son enfance, se traîne sur les pieds et sur les mains, dans l’âge viril se soutient sur ses deux pieds, et dans la vieillesse s’appuie sur un bâton qui lui sert de troisième pied :</p>
@@ -1756,7 +1853,8 @@
               <l>La reine tint parole, et j’eus le diadême.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>P. Corneille</author>.)</bibl>
+              <bibl>(
+                <author>P. Corneille</author>.)</bibl>
             </listBibl>
             <p>D. Quels furent les malheurs d’Œdipe ?</p>
             <p>R. Œdipe avoit tué Laïus, son père, sans le connoître. Ici il épouse sa mère sans le savoir ; il règne, et les premiers momens de son règne parurent heureux. Mais bientôt sou peuple est la proie d’une affreuse famine, et une horrible contagion vint mettre le comble à ses maux. On consulte l’Oracle ; il répond que les malheurs de Thèbes ne finiront qu’après le bannissement du meurtrier de Laïus. Le soldat, qui avoit exposé Œdipe sur le mont Cithéron, découvre le mystère de sa naissance ; Œdipe se reconnoît coupable de deux crimes monstrueux : il voit avec horreur qu’il est le meurtrier de son père, et qu’il avoit épousé sa mère. Celle-ci se pendit de désespoir. Œdipe se creva les yeux, et se condamna à un exil perpétuel.</p>
@@ -1769,7 +1867,8 @@
               <l>Vous payez à-la-fois mon crime et mes vertus.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
           </div>
           <div>
@@ -1793,7 +1892,8 @@
               <l>Et son ame en courroux s’enfuit dans les enfers.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Racine</author>.)</bibl>
+              <bibl>(
+                <author>Racine</author>.)</bibl>
             </listBibl>
             <p>Les corps de ces deux malheureux frères furent mis sur le même bûcher, pour y être brûlés. La flamme aussitôt se divisa d’elle-même, ce qui qui fit connoître, ajoute la Fable, que la mort n avoit pu éteindre une haine, dont on n’a point encore vu d’exemple.</p>
           </div>
@@ -1812,7 +1912,8 @@
               <l>Ma sœur, parmi nos Dieux nous irons la placer.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>La Grange-Chancel</author>.)</bibl>
+              <bibl>(
+                <author>La Grange-Chancel</author>.)</bibl>
             </listBibl>
             <p>Oreste et Pilade tuèrent Thoas, pour le punir de ses cruautés, enlevèrent la statue de Diane, et revinrent dans la Grèce avec Iphigénie.</p>
           </div>
@@ -1833,11 +1934,13 @@
               <l>Et les breuvages de Circé.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Rousseau</author>.)</bibl>
+              <bibl>(
+                <author>Rousseau</author>.)</bibl>
             </listBibl>
             <p>Ulysse, pour ne point aller à la guerre de Troye, contrefit l’insensé ; il attela à sa charrue des animaux peu propres au labourage ; il traça des sillons sur les bords de la mer, où il sema du sel au lieu de bled. Palamède, qui soupçonna sa feinte, plaça Télémaque, fils d’Ulysse, devant la charrue ; Ulysse, pour ne pas blesser son enfant, détourna la charrue, ce qui le démasqua, et l’obligea d’entrer dans la ligue des Princes Grecs.</p>
             <p>D. Dites-nous comment Ulysse a surmonté tous les différens dangers auxquels il a été exposé ?</p>
-            <p>R. Il échappa par son adresse à la fureur des Lestrigons. Entre les mains et à la merci de Polyphême, le plus fameux des Cyclopes, il vint à bout de l’enivrer, et lui creva le seul œil qu’il avoit au milieu du front. Pour échapper aux enchantemens de Circé, il se servit d’une herbe qui lui avoit fait connoître Minerve. Ce fut aussi avec cette herbe qu’il rendit à ses compagnons leur première forme. Il épousa ensuite Circé, et en eut Télégone. Le célèbre <author>Rousseau</author> décrit ainsi les fureurs magiques de cette Nymphe :</p>
+            <p>R. Il échappa par son adresse à la fureur des Lestrigons. Entre les mains et à la merci de Polyphême, le plus fameux des Cyclopes, il vint à bout de l’enivrer, et lui creva le seul œil qu’il avoit au milieu du front. Pour échapper aux enchantemens de Circé, il se servit d’une herbe qui lui avoit fait connoître Minerve. Ce fut aussi avec cette herbe qu’il rendit à ses compagnons leur première forme. Il épousa ensuite Circé, et en eut Télégone. Le célèbre
+              <author>Rousseau</author> décrit ainsi les fureurs magiques de cette Nymphe :</p>
             <quote>
               <l>Sur un autel sanglant l’affreux bûcher s’allume ;</l>
               <l>La foudre dévorante aussitôt le consume.</l>
@@ -1873,7 +1976,8 @@
               <l>Qu’être immortel dans un exil.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Gresset</author>.)</bibl>
+              <bibl>(
+                <author>Gresset</author>.)</bibl>
             </listBibl>
             <quote>
               <l>Ulysse, après vingt ans d’absence,</l>
@@ -1882,7 +1986,8 @@
               <l>Vit finir le cours de ses maux.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Rousseau</author>.)</bibl>
+              <bibl>(
+                <author>Rousseau</author>.)</bibl>
             </listBibl>
             <p>Il arriva enfin à Ithaque, où il vécut peu de temps heureux. Il remit ses états à son fils Télémaque, et périt par la main de Télégone, qu’il avoit eu de Circé.</p>
             <p>Pénélope, son épouse, avoit, pour amuser ses amans jusqu’au retour d’Ulysse, imaginé un moyen ; ce fut de leur promettre d’épouser l’un d’eux, lorsque la tapisserie qu’elle avoit commencée, seroit finie. Elle défaisoit la nuit ce qu’elle avoit fait le jour.</p>
@@ -1892,7 +1997,8 @@
             <p><hi rend="sc">D. De</hi> qui Énée étoit-il fils ?</p>
             <p>R. Enée étoit fils d’Anchise et de la Déesse Vénus. II échappa à la ruine de Troye ; il chargea son père sur ses épaules, prit son fils Iüle, ou Ascagne, par la main, et emporta les Dieux tutélaires de sa patrie.</p>
             <p>D. Racontez-nous les aventures d’Enée ?</p>
-            <p>R. En voici le précis. Après le sac de Troye, il rassemble le peu de Troyens qui avoient échappés à la fureur des Grecs <hi rend="i">;</hi> il s’embarque avec eux, et erre pendant sept ans de mers en mers, toujours le jouet des flots, et en but à la haine de Junon contre le nom Troyen. Il aborde à Carthage dans le temps que Didon, fille de Bélus, roi de Tyr, en bâtissoit les murs. La Princesse en devient éperdument amoureuse ; elle veut retenir Enée ; mais celui-ci part par ordre de Jupiter. Didon se tue de désespoir. Cette Princesse malheureuse avoit été obligée de fuir à la mort de Sichée son premier mari. Le prince Troyen, qu’elle avoit épouse en secondes noces, fuit, et elle se donne la mort. C’est ce qui a donné lieu à cette belle épigramme d’<author>Aussonne</author> :</p>
+            <p>R. En voici le précis. Après le sac de Troye, il rassemble le peu de Troyens qui avoient échappés à la fureur des Grecs <hi rend="i">;</hi> il s’embarque avec eux, et erre pendant sept ans de mers en mers, toujours le jouet des flots, et en but à la haine de Junon contre le nom Troyen. Il aborde à Carthage dans le temps que Didon, fille de Bélus, roi de Tyr, en bâtissoit les murs. La Princesse en devient éperdument amoureuse ; elle veut retenir Enée ; mais celui-ci part par ordre de Jupiter. Didon se tue de désespoir. Cette Princesse malheureuse avoit été obligée de fuir à la mort de Sichée son premier mari. Le prince Troyen, qu’elle avoit épouse en secondes noces, fuit, et elle se donne la mort. C’est ce qui a donné lieu à cette belle épigramme d’
+              <author>Aussonne</author> :</p>
             <quote>
               <l xml:lang="it">Infelix Dido, nulli bene nupta marito,</l>
               <l>Hoc pereunte fugis, hoc fugiente peris.</l>
@@ -1926,7 +2032,8 @@
               <l>Encore un endroit à couper.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>Lamotte</author>.)</bibl>
+              <bibl>(
+                <author>Lamotte</author>.)</bibl>
             </listBibl>
             <p>Thétis savoit que le Destin avoit décidé qu’Achille périrait devant Troye ; pour empêcher que son fils ne suivît les Grecs ligués contre cette malheureuse ville, elle le fit déguiser en femme, et l’envoya, sous cet habit, dans l’île de Scyros, à la cour de Lycomède.</p>
             <p>D. Comment et par qui fut-il découvert ?</p>
@@ -1947,7 +2054,8 @@
               <l>Reconnoît le Héros que demande la Grèce, etc.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>La Grange-Chancel</author>.)</bibl>
+              <bibl>(
+                <author>La Grange-Chancel</author>.)</bibl>
             </listBibl>
             <p>P, Que fit Achille reconnu par Ulysse ?</p>
             <p>R, Il le suivit avec joie, et Thétis fut contrainte de le laisser partir ; mais elle lui fit faire auparavant des armes d’une excellente trempe par Vulcain. Achille est devant Troye, il y fait des prodiges : mais Agamemnon lui ayant enlevé sa captive Briséïs, il se retire dans sa tenté, et refuse de combattre. Seulement il consent de passer ses armes à Patrocle son ami intime. Celui-ci fait un grand carnage parmi les Troyens ; il défit Hector ; mais il tombe sous les coups du Héros Troyen.</p>
@@ -1962,7 +2070,8 @@
               <l>L’infamie étoit due au ravisseur d’Hélène.</l>
             </quote>
             <listBibl>
-              <bibl>(<author>T. Corneille</author>.)</bibl>
+              <bibl>(
+                <author>T. Corneille</author>.)</bibl>
             </listBibl>
             <p>Le sort de la ville de Troye étoit attaché à la conservation du <hi rend="i">Palladium</hi> : c’étoit une statue de Minerve, descendue du ciel, et qui s’étoit plantée comme d’elle-même sur l’autel. On prétend qu’elle rouloit toujours les yeux, et remuoit de temps en temps la lance qu’elle tenoit à la main. Il fut enlevé par Diomède et Ulysse. Troye fût prise et saccagée l’an du monde 2070.</p>
           </div>
@@ -1991,9 +2100,7 @@
             <p>D. Que dit-on d’Adonis ?</p>
             <p>R. Adonis, fils de Myrrha, fut aimé tendrement de Vénus. Il aimoit passionnément la chasse ; il perça d’une flèche un sanglier, que ses chiens relançoient : cet animal furieux se jeta sur lui, et le tua : la Déesse de l’Amour le changea en anémone.</p>
             <trailer>
-              <hi rend="i"><hi rend="sc">Fin</hi> 
-        
-        des Leçons élémentaires sur la Mythologie.</hi>
+              <hi rend="i"><hi rend="sc">Fin</hi> des Leçons élémentaires sur la Mythologie.</hi>
             </trailer>
           </div>
         </div>
@@ -2009,33 +2116,40 @@
           <l>……………………………………………………</l>
           <l>L’homme n’eût point voulu d’un précepte sévère ;</l>
           <l>Pour le prendre il falloit trouver cet hameçon.</l>
-          <l>Ainsi ce <author>Phrygien</author><note place="bottom"><name type="author"><hi rend="i"><hi rend="sc">Ésope</hi></hi></name>.</note> que l’univers renomme,</l>
+          <l>Ainsi ce
+            <author>Phrygien</author><note place="bottom"><name type="author"><hi rend="i"><hi rend="sc">Ésope</hi></hi></name>.</note> que l’univers renomme,</l>
           <l>      Fut Précepteur du genre humain.</l>
           <l>      Qu’un lecteur est bien sous sa main !</l>
           <l>Il l’amuse en enfant » mais pour en faire un homme.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Lamotte</author>, <title>L. 5. F. 3</title>.)</bibl>
+          <bibl>(
+            <author>Lamotte</author>, <title>L. 5. F. 3</title>.)</bibl>
         </listBibl>
         <p>La Fable est une philosophie déguisée qui ne badine que pour instruire, et qui instruit toujours d’autant mieux, qu’elle amuse.</p>
         <p>D. Quel est l’Auteur qui a le mieux réussi en ce genre ?</p>
-        <p>R. C’est, sans contredit, <author>La Fontaine</author>. Ce Poëte incomparable a mis les Fables d’<author>Ésope</author> en vers français avec un naturel et des grâces inimitables ; tout devient or entre ses mains.</p>
+        <p>R. C’est, sans contredit,
+          <author>La Fontaine</author>. Ce Poëte incomparable a mis les Fables d’
+          <author>Ésope</author> en vers français avec un naturel et des grâces inimitables ; tout devient or entre ses mains.</p>
         <quote>
           <l>Tout fleurit dans ses vers ; le plus vil animal</l>
           <l>          Est éloquent………………………</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Lamotte</author>, L.3. F.10.)</bibl>
+          <bibl>(
+            <author>Lamotte</author>, L.3. F.10.)</bibl>
         </listBibl>
         <p>D. Quels sont les personnages que l’Apologue emploie le plus souvent ?</p>
-        <p>R. Los animaux, les arbres, etc. En effet, ce sont des maîtres, dont les leçons sont d’autant mieux écoutées, qu’elles choquent moins l’amour propre, toujours ombrageux de l’homme. Voici comme s’en explique <author>notre Auteur</author> :</p>
+        <p>R. Los animaux, les arbres, etc. En effet, ce sont des maîtres, dont les leçons sont d’autant mieux écoutées, qu’elles choquent moins l’amour propre, toujours ombrageux de l’homme. Voici comme s’en explique
+          <author>notre Auteur</author> :</p>
         <quote>
           <l>Tout parle en mon ouvrage, et même les poissons ;</l>
           <l>Ce qu’ils disent s’adresse à tous tant que nous sommes.</l>
           <l>Je me sers d’animaux pour instruire les hommes.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Fontaine</author>.)</bibl>
+          <bibl>(
+            <author>La Fontaine</author>.)</bibl>
         </listBibl>
         <p>Et ailleurs :</p>
         <quote>
@@ -2066,7 +2180,8 @@
           <l>      En apprendre à devenir hommes.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Lamotte</author>, <title>L. 1. F. 2</title>.)</bibl>
+          <bibl>(
+            <author>Lamotte</author>, <title>L. 1. F. 2</title>.)</bibl>
         </listBibl>
         <p>D. A quoi doit-on sur-tout s’attacher dans l’éducation des enfans ?</p>
         <p>R. La première attention que doivent avoir les pères et mères, c’est de n’offrir à leurs enfans que des exemples de vertu<note place="bottom">Leçon commence, exemple achève.</note>. Le mauvais exemple détruiroit les meilleures leçons. On a mauvaise grâce à blâmer dans ses enfans des défauts ou des ridicules, qu’ils remarqueroient en nous. L’Écrevisse reprochoit à sa fille de marcher mal. Ecoutons la réponse de celle-ci.</p>
@@ -2080,9 +2195,11 @@
           <l>Beaucoup plus de ceux-ci…………………………</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 12. F. 10</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 12. F. 10</title>.)</bibl>
         </listBibl>
-        <p><author>Un autre Poëte</author> a dit :</p>
+        <p>
+          <author>Un autre Poëte</author> a dit :</p>
         <quote>
           <l>Mère, crains pour ta fille ; elle examine en toi</l>
           <l>L’esprit, l’air, tout enfin jusqu’à je ne sais quoi.</l>
@@ -2092,7 +2209,8 @@
           <l>Elle est auprès de toi tout œil et tout oreille.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Sanlec.</author>, <title>Sat. 3</title>.)</bibl>
+          <bibl>(
+            <author>Sanlec.</author>, <title>Sat. 3</title>.)</bibl>
         </listBibl>
         <p>Un bon exemple est le germe de mille bonnes actions. Que l’exemple du vice au contraire est facilement contagieux !</p>
         <p>D. La sagesse de mœurs et de conduite suffit-elle dans une mère de famille ?</p>
@@ -2102,7 +2220,8 @@
           <l>Faute de cultiver la nature et ses dons.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 8. F.  4</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 8. F.  4</title>.)</bibl>
         </listBibl>
         <p>D. Comment faut-il punir les fautes ?</p>
         <p>R. Toujours avec discrétion et dans le calme des sens. Dans vos réprimandes, montrez-vous toujours, pères et mères, les amis plutôt que les maîtres de vos enfans. Sur-tout que vos corrections soient justes et jamais à contre-temps. Un enfant se noyoit ; un pédant le voit, et au lieu de le tirer sur-le-champ de l’eau, il lui fait une longue harangue :</p>
@@ -2114,7 +2233,8 @@
           <l>Toujours veiller à semblable canaille.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 2. F. 19</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 2. F. 19</title>.)</bibl>
         </listBibl>
         <p>Qui ne sent tout le ridicule de cette réprimande déplacée ? L’enfant n’a-t-il pas raison de lui répondre :</p>
         <quote>
@@ -2125,7 +2245,8 @@
         <p>D. Quelle doit être l’occupation la plus ordinaire de la jeunesse ?</p>
         <p>R. L’étude et les connoissances propres à lui former l’esprit et le cœur doivent l’occuper avant tout. On a trop peu suivi jusqu’ici l’éducation des jeunes personnes du sexe. L’ignorance est également honteuse et funeste pour tous. Les femmes tiennent un rang distingué dans la société <hi rend="i">;</hi> faites pour charmer les ennuis et les fatigues de l’homme auquel le sort les a réunis, et embellir les jours de sa vie, elles ont la plus grande influence sur les destinées du genre humain. Les connoissances inspirent les goûts sérieux et solides, écartent les amusemens frivoles, attachent aux devoirs domestiques. Quel esprit fin et délié, quelle étendue, quelle variété de connoissances n’exige pas l’éducation des enfans, dont le premier âge leur est confié ! et quels charmes ne répandent pas dans la vie ces femmes estimables, dont l’esprit orné réunit aux connoissances une douce aménité de caractère et tous les attraits d’une aimable modestie ! Le premier devoir et le plus grand intérêt des jeunes personnes, est donc de se remplir l’esprit de connoissances solides : elles doivent en faire leur principale occupation.</p>
         <p>D. Faites-nous connoître par quelque exemple le mépris attaché à l’ignorance, et son dénuement de toutes ressources dans le besoin ?</p>
-        <p>R. Ecoutons <author>La Fontaine</author> ; voici ce qu’il nous dit d’un riche ignorant qui s’égaye aux dépens d’un savant en ces termes :</p>
+        <p>R. Ecoutons
+          <author>La Fontaine</author> ; voici ce qu’il nous dit d’un riche ignorant qui s’égaye aux dépens d’un savant en ces termes :</p>
         <quote>
           <l>……………………… Tenez-vous table ?</l>
           <l>Que sert à vos pareils de lire incessamment ?</l>
@@ -2146,9 +2267,11 @@
           <l>Laissez dire les sots ; le savoir à son prix.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 8. F. 19</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 8. F. 19</title>.)</bibl>
         </listBibl>
-        <p>Le paresseux peut lire ses devoirs dans la <title>Fable de la Fourmi et de la Cigale</title> ; L’homme d’étude et de travail au contraire voit dans l’exemple de la Fourmi quel est le prix de la diligence, et combien il est avantageux de se faire de bonne heure un bon fond, et des provisions utiles pour le soir de la vie, c’est-à-dire, pour le temps de la vieillesse. (<author>La Font.</author>, <title>L. 1. F. 1</title>.)</p>
+        <p>Le paresseux peut lire ses devoirs dans la <title>Fable de la Fourmi et de la Cigale</title> ; L’homme d’étude et de travail au contraire voit dans l’exemple de la Fourmi quel est le prix de la diligence, et combien il est avantageux de se faire de bonne heure un bon fond, et des provisions utiles pour le soir de la vie, c’est-à-dire, pour le temps de la vieillesse. (
+          <author>La Font.</author>, <title>L. 1. F. 1</title>.)</p>
         <p>D. Quel est le défaut le plus ordinaire de la jeunesse ?</p>
         <p>R. C’est la légèreté : réflexion, prudence, sont des vertus qu’elle connoît peu. Tout l’amuse, tout la distrait, elle se repaît de futilités ; les choses sérieuses et vraiment intéressantes l’ennuient ; elle ne goûte rien de ce qui peut lui être utile. Cet esprit de légèreté, ce penchant aveugle pour les bagatelles l’entraînent souvent dans mille dangers qu’elle n’a pas su prévoir. La <title>Fable du Bouc imprudent</title> est une trop fidèle image de la jeunesse étourdie, inconsidérée, qui se laisse entraîner si légèrement dans les folies les plus pernicieuses.</p>
         <quote>
@@ -2173,7 +2296,8 @@
           <l>Tâche de t’en tirer, et fais tous tes efforts.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 3. F. 5</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 3. F. 5</title>.)</bibl>
         </listBibl>
         <p>D. Est-il intéressant de s’appliquer au bien de bonne heure ?</p>
         <p>R. Rien n’importe tant au jeune âge, que de se plier au bien dès ses tendres années, et de contracter d’heureuses habitudes. Les premiers penchans s’effacent difficilement ; on connoît la force de l’habitude : le pli une fois formé, pour le bien comme pour le mal, rien au monde ne peut le faire disparoître.</p>
@@ -2183,7 +2307,8 @@
           <l>Le vase est imbibé, l’étoffe a pris son pli.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 2. F. 18</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 2. F. 18</title>.)</bibl>
         </listBibl>
         <p>D. Quelle est la source la plus féconde des vices de la jeunesse ?</p>
         <p>R. C’est la mauvaise compagnie. Evitez avec soin toutes les personnes peu exemplaires. Si vous fréquentez les méchans, bientôt la contagion gagnera jusqu’à vous <hi rend="i">;</hi> le cœur, l’esprit, en seront également infectés, rien n’est si contagieux que le mauvais exemple.</p>
@@ -2191,11 +2316,13 @@
           <l>Il faut faire aux méchans guerre continuelle.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author> <title>L. 8. F. 13</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author> <title>L. 8. F. 13</title>.)</bibl>
         </listBibl>
         <p rend="noindent">ou du moins éviter soigneusement leur compagnie.</p>
         <p>D. Que pensez-vous des flatteurs ?</p>
-        <p>R. Ils sont les ennemis les plus dangereux de ceux qui les écoutent. Le poison de la flatterie est d’autant plus pernicieux, qu’il est plein de charmes, et n’offre au premier abord que des douceurs ; mais il ne tarde pas à faire sentir toute son amertume, et à nous rendre ses infortunées victimes. Les paroles suivantes de <author>La Fontaine</author> s’adressent à quiconque écoute le flatteur avec complaisance, et se laisse prendre à ses douces et perfides amorces :</p>
+        <p>R. Ils sont les ennemis les plus dangereux de ceux qui les écoutent. Le poison de la flatterie est d’autant plus pernicieux, qu’il est plein de charmes, et n’offre au premier abord que des douceurs ; mais il ne tarde pas à faire sentir toute son amertume, et à nous rendre ses infortunées victimes. Les paroles suivantes de
+          <author>La Fontaine</author> s’adressent à quiconque écoute le flatteur avec complaisance, et se laisse prendre à ses douces et perfides amorces :</p>
         <quote>
           <l>      Mon bon Monsieur,</l>
           <l>   Apprenez que tout flatteur</l>
@@ -2215,7 +2342,8 @@
           <l>           Valent bien, dit-on, ceux du nôtre.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 8. F. 11</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 8. F. 11</title>.)</bibl>
         </listBibl>
         <p>Tous deux dorment profondément. Un songe trompeur représente à l’un son camarade dans l’embarras. Il se lève en sursaut, prend son épée, vole à son secours. L’autre étonné de voir son ami à pareille heure, le croyant dans la peine, n’attend pas qu’il s’explique, lui offre sa bourse, son bras.</p>
         <quote>
@@ -2229,7 +2357,8 @@
           <l>     Quand il s’agit de ce qu’il aime,</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Idem</author>.)</bibl>
+          <bibl>(
+            <author>Idem</author>.)</bibl>
         </listBibl>
         <p>D. Comment les jeunes personnes doivent-elles envisager l’amour ?</p>
         <p>R. Elles doivent le considérer comme la passion la plus redoutable et la plus dangereuse. Il n’est rien au monde sur quoi elles soient obligées de se surveiller davantage. Le soin de leur réputation, l’innocence des mœurs, les lois saintes de la conscience, leur propre bonheur, leur en font un devoir particulier. Leur réputation, cette fleur si délicate et si précieuse, leur impose la loi d’avoir toujours devant les yeux les tristes et nombreux naufrages que tant de personnes ont faits, pour avoir imprudemment écouté cette funeste passion.</p>
@@ -2238,7 +2367,8 @@
           <l>On peut bien dire : adieu prudence.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 4. F. 1</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 4. F. 1</title>.)</bibl>
         </listBibl>
         <p>Cette passion aveugle n’a d’autre guide que la folie. Les plus grands génies en ont souvent fait la triste expérience. La vertu elle-même a plus d’une fois honteusement échoué contre ce dangereux écueil.</p>
         <p>D. Quelles sont les précautions qu’on doit apporter pour se défendre de cet ennemi si funeste à notre bonheur ?</p>
@@ -2249,7 +2379,8 @@
           <l>On n’y peut plus rentrer dès qu’on en est dehors.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Boileau</author>.)</bibl>
+          <bibl>(
+            <author>Boileau</author>.)</bibl>
         </listBibl>
         <p>D. Comment doit-on considérer la beauté ?</p>
         <p>R. Comme le trésor le plus fragile : c’est une rose que l’aurore voit éclore, et qui finit avec le déclin du jour qui l’a fait naître. Le mérite seul peut donner du prix à la beauté. La vertu et les talens ne vieillissent pas. On ne doit donc jamais se laisser prendre aux apparences. Un Renard voyant une belle tête :</p>
@@ -2257,7 +2388,8 @@
           <l>Belle tête, dit-il, mais de cervelle point !</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 4. F. 14</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 4. F. 14</title>.)</bibl>
         </listBibl>
         <p>Laissons l’écorce, pour ne nous attacher qu’au solide. L’homme tire tout son prix de l’ame et de ses qualités.</p>
         <p>D. Le choix d’un époux est-il une chose bien importante ?</p>
@@ -2268,9 +2400,11 @@
           <l>           Voyez un peu la belle espèce.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 7. F. 5</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 7. F. 5</title>.)</bibl>
         </listBibl>
-        <p>Qu’arriva-t-il à cette belle dédaigneuse ? Écoutez-le de <author>La Fontaine</author> :</p>
+        <p>Qu’arriva-t-il à cette belle dédaigneuse ? Écoutez-le de
+          <author>La Fontaine</author> :</p>
         <quote>
           <l>Celle-ci fit un choix qu’on n’auroit jamais cru,</l>
           <l>Se trouvant à la fin toute aise et toute heureuse,</l>
@@ -2283,7 +2417,8 @@
           <l>Plus fait douceur que violence.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Fontaine</author>.)</bibl>
+          <bibl>(
+            <author>La Fontaine</author>.)</bibl>
         </listBibl>
         <p>2.° Comme chefs de famille, leur occupation la plus douce, la plus chère, j’ajoute la plus sacrée, sera le soin de leurs enfans : c’est un dépôt précieux confié à toute leur sollicitude. Leur éducation demande leurs premiers soins ; les bien pénétrer de tous les devoirs de l’homme et du citoyen ; nourrir leurs jeunes cœurs de l’amour de leur patrie, de leurs semblables ; leur inspirer un attachement solide et sincère pour les lois de leur pays, et un respect religieux pour les magistrats ; répandre dans le sein de ces tendres plantes les semences de tontes les vertus morales et civiles ; enfin orner leur esprit des connoissances utiles et agréables : telle est l’importante, la noble et la sainte tâche imposée à tous les pères et mères. Ils se souviendront aussi de marquer à tous leurs enfans les mêmes attentions, la même tendresse. Combien de malheurs doivent être attribués à une indiscrète prédilection des pères et mères pour certains de leurs enfans !</p>
         <p>3.° Les maîtres ont encore des devoirs importans à remplir à l’égard de leurs domestiques. Ils les traiteront avec douceur ; ils leur marqueront des attentions, des soins ; ils n’aviliront pas, par d’indignes procédés, l’auguste qualité d’homme que la main du suprême Créateur a imprimée sur leur front ; ils verront en eux des frères, qui ont des droits à leur bienveillance, et dont ils doivent faire le bonheur en échange des services qu’ils en reçoivent. Ils auront un soin particulier à leur inspirer l’amour du bien, de la vertu et des actions honnêtes. Ils surveilleront particulièrement leur conduite, régleront leurs mœurs, leur rendront tous leurs devoirs chers et précieux. Ils ne se permettront jamais rien en leur présence qui puisse leur laisser des impressions fâcheuses, ou les porter au mal.</p>
@@ -2294,7 +2429,8 @@
           <l>        Ne se remplit à babiller.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 4. F. 3</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 4. F. 3</title>.)</bibl>
         </listBibl>
         <p>D. Doit-on faire beaucoup de cas de la discrétion ?</p>
         <p>R. La discrétion est la vertu du sage ; cette intéressante qualité est malheureusement trop peu commune. On taxe souvent les femmes de porter mal un secret :</p>
@@ -2303,9 +2439,11 @@
           <l>Le porter loin est difficile aux Dames.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 8. F. 6</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 8. F. 6</title>.)</bibl>
         </listBibl>
-        <p>Elles pourraient ajouter avec le bon <author>La Fontaine</author> :</p>
+        <p>Elles pourraient ajouter avec le bon
+          <author>La Fontaine</author> :</p>
         <quote>
           <l>      Je sais même sur ce fait,</l>
           <l>Bon nombre d’hommes qui sont femmes.</l>
@@ -2317,13 +2455,15 @@
           <l>Mon mari vient de pondre un œuf gros comme quatre.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>idem</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>idem</title>.)</bibl>
         </listBibl>
         <p>La commère court le dire aussitôt à une autre, puis celle-ci à sa voisine : en une heure, le secret de l’œuf pondu fut le secret de la comédie.</p>
         <p>D. Jusqu’à quel point doit-on respecter les discours de la critique ?</p>
         <p>R. Notre premier soin doit être de mettre notre conduite à l’abri de tout reproche. Il est beau d’imposer silence à la malignité de la censure par une vie intègre, de faire taire l’envie par des mœurs pures, par une probité sévère, par la douceur et l’aménité de son caractère. Sûr de l’estime méritée des gens de biens, on peut alors faire peu de cas des discours qui ne doivent leur naissance qu’à la malveillance. Il faut avoir le courage de se mettre au-dessus de pareils discours : ils ne méritent que nos mépris.</p>
         <p>D. De quel œil devons-nous voir les défauts des autres ?</p>
-        <p>R. Nous devons les voir avec des sentimens d’indulgence comme nous désirons qu’on voie les nôtres. Gardons-nous de traiter avec rigueur les foiblesses du prochain ; nos regards doivent se fixer sur nos défauts, avant de voir ceux de nos semblables. Quand nous serons bien pénétrés de la certitude de nos perfections, nous serons bien plus disposés à l’indulgence pour les autres : voilà ce que nous devons être ; mais est-ce bien là ce que sont la plupart des hommes. A combien d’entre nous <author>La Fontaine</author> n’auroit-il pas le droit de dire :</p>
+        <p>R. Nous devons les voir avec des sentimens d’indulgence comme nous désirons qu’on voie les nôtres. Gardons-nous de traiter avec rigueur les foiblesses du prochain ; nos regards doivent se fixer sur nos défauts, avant de voir ceux de nos semblables. Quand nous serons bien pénétrés de la certitude de nos perfections, nous serons bien plus disposés à l’indulgence pour les autres : voilà ce que nous devons être ; mais est-ce bien là ce que sont la plupart des hommes. A combien d’entre nous
+          <author>La Fontaine</author> n’auroit-il pas le droit de dire :</p>
         <quote>
           <l>Lynx envers nos pareils, et taupes envers nous,</l>
           <l>Nous nous pardonnons tous, et rien aux autres hommes.</l>
@@ -2338,7 +2478,8 @@
         <p>D. Quels sont les défauts les plus nuisibles à la société, et les plus honteux pour l’homme qui s’en rend coupable ?</p>
         <p>R. Ce sont la fourberie, l’hypocrisie, le mensonge, la gourmandise, l’entêtement, l’ingratitude, l’orgueil, l’injustice, l’avarice.</p>
         <p>D. Dites- nous un mot de la fourberie ?</p>
-        <p>R. La fourberie est le manque de bonne foi ; c’est un vice du cœur qui dégrade l’homme, qui lui fait perdre l’estime de ses semblables, et qui le rend le fléau de la société. Il faut voir dans <author>La Fontaine</author> un tableau parfaitement dessiné de ce vice honteux dans l’excellente <title>Fable de l’Aigle, de la Laye, femelle du Sanglier, et de la Chatte</title>).</p>
+        <p>R. La fourberie est le manque de bonne foi ; c’est un vice du cœur qui dégrade l’homme, qui lui fait perdre l’estime de ses semblables, et qui le rend le fléau de la société. Il faut voir dans
+          <author>La Fontaine</author> un tableau parfaitement dessiné de ce vice honteux dans l’excellente <title>Fable de l’Aigle, de la Laye, femelle du Sanglier, et de la Chatte</title>).</p>
         <quote>
           <l>Que ne sait point ourdir une langue traîtresse</l>
           <l>   Par sa pernicieuse adresse ?</l>
@@ -2358,7 +2499,8 @@
           <l>Retourne sur son auteur.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 4. F. 11</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 4. F. 11</title>.)</bibl>
         </listBibl>
         <p>Le Loup avoit noirci le Renard dans l’esprit du lion attaqué d’une maladie grave. Il étoit absent, il avoit tort. Le Renard fut mandé. Il se disculpe pleinement, et pour se venger du Loup qui lui avoit rendu ce mauvais service, il dit au roi des animaux : Sire, j’ai consulté plusieurs médecins sur votre maladie <hi rend="i">;</hi> ils ne connoissent qu’un moyen de guérison, c’est d’envelopper votre majesté de la peau toute fumante d’un Loup écorché vif :</p>
         <quote>
@@ -2368,10 +2510,12 @@
           <l>      Et de la peau s’enveloppa.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 8. F. 3</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 8. F. 3</title>.)</bibl>
         </listBibl>
         <p>D. Peignez-nous l’hypocrisie des couleurs qui lui conviennent ?</p>
-        <p>R. L’hypocrisie est le masque de la vertu ; c’est un vice bas et honteux, qui décèle une ame ennemie de la lumière, et qui ne se pare des traits de la vertu que pour mieux tromper. Le dol et la fourbe marchent toujours à ses côtés : elle est un mensonge continuel ; tout est faux, tout est trompeur dans l’hypocrite ; ses discours, ses gestes, ses regards, toute l’habitude de son corps, son ame toute entière. Ce vice méprisable est justement odieux à toutes les classes de la société. L’homme qui en est entaché ne peut être assez hué, conspué, vilipendé. Il faut le fuir comme une peste dangereuse. <title>La Fable déjà citée (de l’Aigle, de la Laye et de la Chatte</title>, <author>La Font.</author>, <title>L. 3. F. 6</title>.), le prouve bien. Le Singe Bertrand, ce rafiné hypocrite, qui se sert de la patte du chat pour tirer les marrons hors du feu, en est un autre exemple.</p>
+        <p>R. L’hypocrisie est le masque de la vertu ; c’est un vice bas et honteux, qui décèle une ame ennemie de la lumière, et qui ne se pare des traits de la vertu que pour mieux tromper. Le dol et la fourbe marchent toujours à ses côtés : elle est un mensonge continuel ; tout est faux, tout est trompeur dans l’hypocrite ; ses discours, ses gestes, ses regards, toute l’habitude de son corps, son ame toute entière. Ce vice méprisable est justement odieux à toutes les classes de la société. L’homme qui en est entaché ne peut être assez hué, conspué, vilipendé. Il faut le fuir comme une peste dangereuse. <title>La Fable déjà citée (de l’Aigle, de la Laye et de la Chatte</title>,
+          <author>La Font.</author>, <title>L. 3. F. 6</title>.), le prouve bien. Le Singe Bertrand, ce rafiné hypocrite, qui se sert de la patte du chat pour tirer les marrons hors du feu, en est un autre exemple.</p>
         <quote>
           <l>              Raton avec sa patte,</l>
           <l>           D’une manière délicate,</l>
@@ -2383,9 +2527,11 @@
           <l>           N’étoit pas content, ce dit-on.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 9. F. 17</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 9. F. 17</title>.)</bibl>
         </listBibl>
-        <p>On voit encore bien la ruse hypocrite et traîtresse du Vautour dans la <title>Fable de l’Aigle et du Vautour</title> <hi rend="i">de M.</hi> <author>Richer</author>, (<hi rend="i">Paris</hi>, 1748, <title>L. 1 F. 14</title>).</p>
+        <p>On voit encore bien la ruse hypocrite et traîtresse du Vautour dans la <title>Fable de l’Aigle et du Vautour</title> <hi rend="i">de M.</hi> 
+          <author>Richer</author>, (<hi rend="i">Paris</hi>, 1748, <title>L. 1 F. 14</title>).</p>
         <p>L’aigle avoit trouvé une huître qui tenoit bon contre les coups de bec,</p>
         <quote>
           <l>         Et se tenoit serrée</l>
@@ -2413,7 +2559,8 @@
           <l>Rien n’est beau que le vrai, le vrai seul est aimable.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Boileau</author>.)</bibl>
+          <bibl>(
+            <author>Boileau</author>.)</bibl>
         </listBibl>
         <p>La candeur est le plus bel ornement de l’ame : cette riche vertu mérite nos hommages et tous nos amours.</p>
         <p>Un bûcheron au désespoir, redemandoit sa coignée qu’il avoit perdue : Mercure, pour l’éprouver, vint lui en montrer une d’or, puis une d’argent. Le Bûcheron les refusa toutes deux, disant qu’elles ne lui appartenoient pas. Enfin, le Dieu lui en montra une troisième, qu’il réclama.</p>
@@ -2422,7 +2569,8 @@
           <l>Ta bonne foi sera récompensée.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 5. F. 1</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 5. F. 1</title>.)</bibl>
         </listBibl>
         <p>D’autres Bûcherons à qui le mensonge ne coûtoit rien, soutinrent à Mercure que celle qui étoit d’or leur appartenoit.</p>
         <quote>
@@ -2439,10 +2587,12 @@
           <l>En quelque état qu’on soit, quand on a la sagesse.</l>
         </quote>
         <listBibl>
-          <bibl>(M. <author>Le Noble</author>.)</bibl>
+          <bibl>(M. 
+            <author>Le Noble</author>.)</bibl>
         </listBibl>
         <p>D. Comment doit-on considérer la gourmandise ?</p>
-        <p>R. Elle est à juste titre placée au rang des vices qui avilissent l’homme. Celui qui fait un Dieu de son ventre est digne de tous nos mépris : c’est un animal immonde, qui sacrifie tout aux plaisirs honteux de la bouche. Son ame est comme ensevelie dans la fange. Par-tout ses désirs gloutons font taire sa, raison, imposent silence à sa sagesse. M. <author>De Lamotte</author> nous peint bien l’intempérance du gourmand dans la <title>Fable de l’Huître</title>.</p>
+        <p>R. Elle est à juste titre placée au rang des vices qui avilissent l’homme. Celui qui fait un Dieu de son ventre est digne de tous nos mépris : c’est un animal immonde, qui sacrifie tout aux plaisirs honteux de la bouche. Son ame est comme ensevelie dans la fange. Par-tout ses désirs gloutons font taire sa, raison, imposent silence à sa sagesse. M. 
+          <author>De Lamotte</author> nous peint bien l’intempérance du gourmand dans la <title>Fable de l’Huître</title>.</p>
         <quote>
           <l>Quel goût ! quelle fraîcheur ! Il avaloit toujours :</l>
           <l>Grande exclamation à chaque huître avalée,</l>
@@ -2459,7 +2609,7 @@
         </quote>
         <p>On ne sauroit donc trop fuir l’intempérance ; une fatale expérience ne nous apprend que trop combien cher coûtent les excès en tout genre <hi rend="i">;</hi> la perte de l’estime, de la fortune, de la santé, de la vie même : tels sont le plus souvent les tristes fruits de l’intempérance.</p>
         <p>D. Quel est le jugement qu’on porte dans le monde des caractères entêtés et opiniâtres ?</p>
-        <p>R. On les fuit, on les évite avec le plus grand soin. Ils sont des fléaux de société. Les dissentions, les querelles les suivent par-tout.  L’entêtement décèle un fond d’amour propre insupportable ; l’ignorance souvent le produit. Dans tous les cas, il marque un défaut de savoir-vivre qui nous rend indignes de la bonne société. L’homme honnête et bien élevé fait volontiers le sacrifice de son opinion par égard pour les autres.</p>
+        <p>R. On les fuit, on les évite avec le plus grand soin. Ils sont des fléaux de société. Les dissentions, les querelles les suivent par-tout. L’entêtement décèle un fond d’amour propre insupportable ; l’ignorance souvent le produit. Dans tous les cas, il marque un défaut de savoir-vivre qui nous rend indignes de la bonne société. L’homme honnête et bien élevé fait volontiers le sacrifice de son opinion par égard pour les autres.</p>
         <p>D. Que pense-t-on des ingrats ?</p>
         <p>R. L’ingratitude est un vice généralement détesté ; cependant il n’en est pas de plus répandu parmi les hommes. On méprise avec raison l’homme ingrat ; néanmoins il se reproduit par-tout :</p>
         <quote>
@@ -2474,7 +2624,8 @@
           <l>       Fait déserter jusques à ses valets.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Lamotte</author>, <title>L. 2. F. 10</title>.)</bibl>
+          <bibl>(
+            <author>Lamotte</author>, <title>L. 2. F. 10</title>.)</bibl>
         </listBibl>
         <p>L’ingrat est souvent puni de sou ingratitude. La <title>Fable de la Tortue et du Scorpion</title> en offre un exemple frappant. Ecoutons le langage que la Tortue tient à ce dernier.</p>
         <quote>
@@ -2491,13 +2642,15 @@
           <l>On a souvent besoin d’un plus petit que soi.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 2. F. 11</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 2. F. 11</title>.)</bibl>
         </listBibl>
         <p>Le bien ne reste jamais sans récompense. Si les hommes sont injustes, le ciel accorde toujours à la vertu le prix mérité.</p>
         <p>D. Que doit-on penser de l’orgueil ?</p>
         <p>R. L’orgueil est le produit de l’ignorance et de la sottise. Il suffiroit d’un simple coup d’œil sur nous-mêmes, pour renoncer à toute pensée de suffisance et de présomption. Que sommes-nous, sinon des êtres pétris de foiblesses, de défauts et d’ignorance ? Néanmoins on peut dire que l’orgueil est le mal humain, tant il est généralement répandu chez la pauvre gente, dite raisonnable.</p>
         <quote>
-          <l>   Qu’est-ce que l’homme ? <author>Aristote</author> répond :</l>
+          <l>   Qu’est-ce que l’homme ?
+            <author>Aristote</author> répond :</l>
           <l>      C’est un animal raisonnable.</l>
           <l>Je n’en crois rien. S’il faut le définir à fond,</l>
           <l>C’est un animal sot, superbe et misérable.</l>
@@ -2505,17 +2658,20 @@
           <l>      S’exagère sa propre idée.</l>
           <l>      Tel s’imagine être un géant</l>
           <l>      Qui n’a pas plus d’une coudée.</l>
-          <l><author>Aristote</author> n’a pas trouvé notre vrai nom :</l>
+          <l>
+            <author>Aristote</author> n’a pas trouvé notre vrai nom :</l>
           <l>      Orgueil et petitesse ensemble,</l>
           <l>      Voilà tout l’homme, ce me semble.</l>
           <l>Est-ce donc là ce qu’on nomme raison ?</l>
         </quote>
         <listBibl>
-          <bibl>(<author>Lamotte</author>, <title>L. 1. F. 13</title>.)</bibl>
+          <bibl>(
+            <author>Lamotte</author>, <title>L. 1. F. 13</title>.)</bibl>
         </listBibl>
         <p>Concluons donc que rien ne fait autant de tort à notre raison que le sot orgueil dont se targuent tant de petits personnages tout bouffis de suffisance et de leur propre estime. Plus on a de saine philosophie, moins on s’estime. L’orgueil déplaît à tous, nous fait des ennemis sans nombre ; la modestie au contraire gagne tous les cœurs, et mérite nos hommages : aussi est-elle le partage de toutes les ames bien nées.</p>
         <p>D. Avec quel soin doit-on éviter de se rendre coupable d’injustice ?</p>
-        <p>R. L’injustice est justement repoussée par un mépris général ; elle ne peut reposer que dans un cœur pervers. Ennemie déclarée de la vertu, tous les maux sortent de cette source empoisonnée. Les ames honnêtes doivent donc fuir même jusqu’à l’ombre de l’injustice. Rendre à chacun ce qui lui est dû, respecter scrupuleusement les droits de tous, en un moi, traiter dans toutes choses les autres, comme nous désirons être traités nous-mêmes ; telle sera notre conduite invariable, si nous sommes sages et religieux observateurs de la loi évangélique : telle est la saine morale de tous les honnêtes gens, par laquelle ils ont des droits légitimes à l’estime et à l’affection de leurs concitoyens. Qui ne se sentira saisi d’indignation, en lisant dans M. <author>Richer</author> la <title>Fable du Chien, du Mouton et du Renard</title> ?</p>
+        <p>R. L’injustice est justement repoussée par un mépris général ; elle ne peut reposer que dans un cœur pervers. Ennemie déclarée de la vertu, tous les maux sortent de cette source empoisonnée. Les ames honnêtes doivent donc fuir même jusqu’à l’ombre de l’injustice. Rendre à chacun ce qui lui est dû, respecter scrupuleusement les droits de tous, en un moi, traiter dans toutes choses les autres, comme nous désirons être traités nous-mêmes ; telle sera notre conduite invariable, si nous sommes sages et religieux observateurs de la loi évangélique : telle est la saine morale de tous les honnêtes gens, par laquelle ils ont des droits légitimes à l’estime et à l’affection de leurs concitoyens. Qui ne se sentira saisi d’indignation, en lisant dans M. 
+          <author>Richer</author> la <title>Fable du Chien, du Mouton et du Renard</title> ?</p>
         <quote>
           <l>De coucher sur la dure un vieux dogue étoit las ;</l>
           <l>Il rencontre un Mouton dont la toison nouvelle</l>
@@ -2549,12 +2705,15 @@
           <l>           Elle vous vaudra tout autant.</l>
         </quote>
         <listBibl>
-          <bibl>(<author>La Font.</author>, <title>L. 4. F. 20</title>.)</bibl>
+          <bibl>(
+            <author>La Font.</author>, <title>L. 4. F. 20</title>.)</bibl>
         </listBibl>
         <p>L’emploi sage de l’or, et sa juste dispensation, est le seul éclat qu’il ait aux yeux du juste appréciateur des choses. Les richesses sont un dépôt sacré mis entre les mains de l’homme opulent, pour soulager l’indigent, et essuyer les larmes de la misère.</p>
         <p>D. Que doit-on penser des personnes passionnées pour la parure et la toilette ?</p>
         <p>R. Que ce sont des esprits légers et frivoles, dont la parure fait tout le mérite. Elles se persuadent follement que la considération est attachée à la richesse et à l’éclat des habits. Une dame de haut parage, mais du plus mince mérite, mit un jour son suisse à la porte, pour avoir introduit chez elle un homme distingué par ses lumières et sa vertu, mais qui ne portoit pas des manchettes à la mode ; elle éconduisit l’honnête homme lui-même, qui avoit eu l’insolence de paroître devant madame sans la livrée des modes. On sent combien sont méprisables aux yeux de la raison des personnages aussi ridicules. Une dame Romaine demandait à Cornélie, mère des Gracques, de lui faire voir ses bijoux et ses parures : elle se contenta de lui montrer ses enfans.</p>
-        <p>La candeur, la modestie, la douceur, l’innocence des mœurs, les connoissances, la vertu : telle est la vraie parure de l’ame, la seule qui mérite notre estime, la seule digne de fixer les désirs et la recherche des femmes honnêtes. Qu’elles aiment la propreté, mais qu’elles fuient tout ce qui annonce la passion de la parure et de la toilette : la vertu ne peut résider dans un cœur possédé d’un goût aussi désordonné. Consultons la <author>Fable du Léopard et du Singe</author>, et bientôt nous dirons avec <author>La Fontaine</author> :</p>
+        <p>La candeur, la modestie, la douceur, l’innocence des mœurs, les connoissances, la vertu : telle est la vraie parure de l’ame, la seule qui mérite notre estime, la seule digne de fixer les désirs et la recherche des femmes honnêtes. Qu’elles aiment la propreté, mais qu’elles fuient tout ce qui annonce la passion de la parure et de la toilette : la vertu ne peut résider dans un cœur possédé d’un goût aussi désordonné. Consultons la
+          <author>Fable du Léopard et du Singe</author>, et bientôt nous dirons avec
+          <author>La Fontaine</author> :</p>
         <quote>
           <l>           Ce n’est pas sur l’habit</l>
           <l>Que la diversité me plaît, c’est dans l’esprit.</l>
@@ -2576,7 +2735,8 @@
         <div>
           <head>Le Temple de Diane, à Éphèse.</head>
           <p><hi rend="sc">D. Comment</hi> considère-t-on le Temple de Diane ?</p>
-          <p>R. Le Temple de Diane d’Ephèse, est justement nommé une des sept Merveilles du monde. Il étoit un des plus beaux que l’on connut. On y admiroit sur-tout cent vingt-sept colonnes, qui étoient des monumens de la magnificence d’autant de rois. Des tableaux excellens, de superbes statues décoraient ce Temple. On prétend qu’il a été bâti par <author>Ctésiphon</author>.</p>
+          <p>R. Le Temple de Diane d’Ephèse, est justement nommé une des sept Merveilles du monde. Il étoit un des plus beaux que l’on connut. On y admiroit sur-tout cent vingt-sept colonnes, qui étoient des monumens de la magnificence d’autant de rois. Des tableaux excellens, de superbes statues décoraient ce Temple. On prétend qu’il a été bâti par
+            <author>Ctésiphon</author>.</p>
           <p>D. Combien a-t-on mis de temps à le bâtir ?</p>
           <p>R. Deux cent vingt ans, et selon quelques-uns quatre cents ans.</p>
           <p>D. Qui contribuait aux frais de ce Temple ?</p>
@@ -2589,7 +2749,9 @@
           <p><hi rend="sc">D. Qu’étoit</hi> le Colosse de Rhodes ?</p>
           <p>R. C’étoit une statue d’airain d’Apollon. Elle étoit placée au port de Rhodes, et étoit d’une hauteur si extraordinaire, qu’on assure que les navires passoient à pleines voiles entre ses jambes. Elle avoit cent cinq pieds de haut.</p>
           <p>D. Qui a fait ce Colosse ?</p>
-          <p>R. <author>Charès de Lynde</author>, disciple du fameux sculpteur <author>Lysippe</author>.</p>
+          <p>R.
+            <author>Charès de Lynde</author>, disciple du fameux sculpteur
+            <author>Lysippe</author>.</p>
           <p>D. Demeura-t-il longtemps sans accident ?</p>
           <p>R. Cinquante-six ans après qu’il fut fait, il fut renversé pan un tremblement de terre. Un marchand Juif en acheta les débris, et en chargea neuf cents chameaux.</p>
         </div>
@@ -2608,7 +2770,8 @@
             <l>Quand elle est maîtresse des sens.</l>
           </quote>
           <listBibl>
-            <bibl>(<author>Malherbe</author>.)</bibl>
+            <bibl>(
+              <author>Malherbe</author>.)</bibl>
           </listBibl>
           <p>Pour adoucir sa douleur, elle fit bâtir ce tombeau avec des soins et des frais immenses, au point qu’il mérita d’être mis au rang des sept Merveilles du monde.</p>
         </div>
@@ -2617,7 +2780,8 @@
           <p><hi rend="sc">D. Qu’appeloit-on</hi> le Jupiter Olympien ?</p>
           <p>R. C’étoit la statue de ce Dieu, placée dans le Temple qu’il avoit à Olympie, ville célèbre, située entre le mont Ossa et le mont Olympe.</p>
           <p>D. Qui a fait cette statue ?</p>
-          <p>R. <author>Phidias</author>, fameux sculpteur ; cet ouvrage magnifique mérita l’admiration de toute l’antiquité.</p>
+          <p>R.
+            <author>Phidias</author>, fameux sculpteur ; cet ouvrage magnifique mérita l’admiration de toute l’antiquité.</p>
           <p>D. Faites-nous la description de ce beau travail ?</p>
           <p>R. La statue étoit d’or et d’ivoire : elle représentoit le Dieu assis sur un trône d’or enrichi de pierres précieuses ; il portoit sur la tête une couronne qui imitoit la forme de l’olivier ; la chaussure et le manteau étoient aussi d’or ; le Dieu tenoit de la main droite une victoire d’or et d’ivoire, et de la gauche un sceptre surmonté d’un Aigle.</p>
           <p>Le Temple pouvoit passer lui-même pour une merveille. Il étoit orné de tout ce que la peinture et la sculpture pouvoient offrir de plus rare et de plus précieux <hi rend="i">;</hi> les plus beaux marbres, le bronze, l’or et l’ivoire, décoroient l’intérieur de ce bâtiment, dont l’architecture étoit admirable.</p>
@@ -2625,7 +2789,8 @@
         <div>
           <head>Le Phare d’Alexandrie.</head>
           <p><hi rend="sc">D. Qu’étoit</hi> le Phare d’Alexandrie ?</p>
-          <p>R. C’étoit un superbe édifice, ouvrage de <author>Sostrate</author>, Gnidien.</p>
+          <p>R. C’étoit un superbe édifice, ouvrage de
+            <author>Sostrate</author>, Gnidien.</p>
           <p>Di- Décrivez-nous les parties et l’usage de ce beau monument ?</p>
           <p>R. Au-dessus d’un palais de marbre blanc, s’élevoit une tour quarrée, bâtie du même marbre, et d’une hauteur extraordinaire : c’étoit un composé de plusieurs galeries soutenues les unes sur les autres, par de riches colonnes. Du haut de cet édifice, où l’on allumoit tous les soirs un fanal pour éclairer l’entrée du port, on prétend que l’on découvroit tous les vaisseaux qui abordoient à l’île de Rhodes, éloignée de deux cents lieues.</p>
           <p>D. Quand fut-il bâti ?</p>
@@ -2644,12 +2809,14 @@
             <l>Ce vaste Mausolée où repose Ninus ?</l>
           </quote>
           <listBibl>
-            <bibl>(<author>Voltaire</author>.)</bibl>
+            <bibl>(
+              <author>Voltaire</author>.)</bibl>
           </listBibl>
           <p>D. Dites-nous quelque chose des Jardins ?</p>
           <p>R. Ils étoient d’une beauté surprenante, très-vastes, et soutenus en l’air par des colonnes.</p>
           <p>D. Par où les Murailles de Babylone étoient-elles sur-tout remarquables ?</p>
-          <p>R. Elles étoient remarquables par leur épaisseur, leur hauteur et leur circuit. Elles avoient 87 pieds d’épaisseur, 350 pieds de hauteur, et 20 lieues de circuit. Elles formoient un quarré parfait, dont chaque côté étoit de 5 lieues. Chaque côté avoit 25 portes, ce qui fait en tout 100. Ces portes étoient d’airain massif <hi rend="i">;</hi> de là vient que Dieu, permettant à Cyrus la conquête de Babylone, lui dit : (<title>Isaïe</title><hi rend="i">, chap. 25. v. 2.</hi>) <quote><hi rend="i">Je romprai les portes d’airain</hi></quote>.</p>
+          <p>R. Elles étoient remarquables par leur épaisseur, leur hauteur et leur circuit. Elles avoient 87 pieds d’épaisseur, 350 pieds de hauteur, et 20 lieues de circuit. Elles formoient un quarré parfait, dont chaque côté étoit de 5 lieues. Chaque côté avoit 25 portes, ce qui fait en tout 100. Ces portes étoient d’airain massif <hi rend="i">;</hi> de là vient que Dieu, permettant à Cyrus la conquête de Babylone, lui dit : (<title>Isaïe</title><hi rend="i">, chap. 25. v. 2.</hi>)
+            <quote><hi rend="i">Je romprai les portes d’airain</hi></quote>.</p>
         </div>
         <div>
           <head>Les Pyramides d’Égypte.</head>

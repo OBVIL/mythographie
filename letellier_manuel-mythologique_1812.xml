@@ -7,19 +7,30 @@
     <fileDesc>
       <titleStmt>
         <title>Manuel mythologique de la jeunesse</title>
-        <author>Charles-Constant Letellier</author>
+        <author key="Letellier, Charles-Constant">Charles-Constant Letellier</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi </name>
           <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
         </respStmt>
+        <respStmt>
+          <name>Diego Pellizzari</name>
+          <resp>Encodage TEI</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2017</date>
+        <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/letellier_manuel-mythologique_1812/</idno>
-        <availability status="restricted"/>
+        <availability status="restricted"><licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
+          <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+          <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+          <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+          <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+          <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+        </licence></availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>Le Tellier, Constant (1768-1846), <title>Manuel mythologique de la jeunesse, ou Instruction sur la mythologie, par demandes et par réponses, suivi d’un exercice sur l’apologue ; par Charles-Constant Letellier, Professeur de Belles-Lettres, Paris, chez Le Prieur, Belin, l’auteur, 1812, 404 p.</title> Source : <ref target="https://books.google.fr/books?id=RdPidrtfXq8C">Google Livres</ref>.</bibl>
@@ -27,10 +38,10 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1812"/>
+        <date when="1812">1812</date>
       </creation>
       <langUsage>
-        <language>fre</language>
+        <language ident="fr">fr</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -1435,7 +1446,7 @@
             <head>Divinités champêtres.</head>
             <div>
               <head>
-                <seg rend="heading3char">Pan</seg>
+                <seg>Pan</seg>
                 <num>.</num>
               </head>
               <figure>
@@ -1907,7 +1918,7 @@
                 <l>Et la foudre en éclats qui gronde sous ses pieds,</l>
                 <l>Semble annoncer la mort aux peuples effrayés.</l>
               </quote>
-              <p><seg rend="heading3char">Bellone</seg>.</p>
+              <p><seg >Bellone</seg>.</p>
               <p>D. Qu’étoit Bellone ?</p>
               <p><hi rend="i">R. Bellone</hi>, déesse de la guerre, étoit sœur de Mars. C’étoit elle qui atteloit les chevaux de ce dieu, lorsqu’il partoit pour la guerre. Les poëtes la dépeignent au milieu des combats, courant de rang en rang, les cheveux épars, le feu dans les yeux, et faisant retentir dans les airs son fouet ensanglanté : on lui donne aussi pour arme un fléau, ou une verge teinte de sang.</p>
               <quote>
@@ -2051,7 +2062,7 @@
               <bibl>(
                 <author>Bernard</author>.)</bibl>
             </listBibl>
-            <p><seg rend="heading3char">Esculape</seg>.</p>
+            <p><seg >Esculape</seg>.</p>
             <p>D. De qui Esculape étoit-il fils ?</p>
             <p><hi rend="i">R. Esculape</hi> étoit fils d’Apollon et de la nymphe Coronis. Il passe pour l’inventeur et le dieu de la médecine. Il accompagna Hercule et Jason dans l’expédition de la Colchide. Il fut foudroyé par Jupiter, pour avoir ressuscité Hippolyte. Peu de temps après sa mort, il reçut les honneurs divins. Son culte fut établi d’abord à Épidaure, lieu de sa naissance ; de là il se répandit dans toute la Grèce. On l’honoroit à Épidaure sous la figure d’un serpent. On lui immoloit des poules et des coqs. Esculape eut aussi un temple célèbre dans la ville de Rome.</p>
           </div>
@@ -3040,7 +3051,7 @@
               <bibl>(
                 <author>Legouvé</author>.)</bibl>
             </listBibl>
-            <p><seg rend="heading3char">Pélops</seg>.</p>
+            <p><seg >Pélops</seg>.</p>
             <p>D. Racontez l’histoire de Pélops.</p>
             <p><hi rend="i">R. Pélops</hi>, fils de Tantale, demanda la main d’Hippodamie, fille d’Œnomaüs, roi d’Élide et de Pise. Œnomaüs aimoit tellement sa fille, qu’il ne pouvoit se résoudre à s’en séparer. Afin d’écarter les prétendants, il proposoit Hippodamie pour prix à celui qui le vaincroit à la course, mais à condition que le vaincu seroit mis à mort. Il vainquit, et tua jusqu’à treize concurrents. Pélops se présenta le quatorzième. Neptune, qui l’aimoit, lui avoit donné des chevaux ailés. Pélops gagna d’ailleurs Myrtile, cocher d’Œnomaüs, et l’engagea à ôter la clavette qui tenoit les roues. Le char d’Œnomaüs fut renversé, et ce prince se cassa la tête ; Pélops resta possesseur d’Hippodamie. Il étendit beaucoup ses états, qui prirent de lui le nom de <hi rend="i">Péloponèse</hi>.</p>
             <p>D. Quels furent les enfants de Pélops et d’Hippodamie ?</p>
@@ -3402,7 +3413,7 @@
               </listBibl>
               <p>D. Que fit Oreste pour être délivré de la poursuite des Furies ?</p>
               <p><hi rend="i">R.</hi> Il consulta l’oracle d’Apollon, qui lui répondit qu’il devoit aller en Tauride enlever la statue de Diane, et délivrer sa sœur Iphigénie. <hi rend="i">Pylade</hi>, fils de Strophius, roi de Phocide, lié d’une étroite amitié avec Oreste, voulut accompagner ce prince dans son voyage. Mais, ayant été surpris touts deux, ils furent chargés de chaînes pour être immolés à Diane. Thoas, roi de la Tauride, consentit à sauver l’un des deux étrangers. Ce fut alors qu’il s’éleva une dispute célèbre entre Oreste et Pylade : l’un vouloit mourir pour l’autre. Le sort tomba sur Oreste ; mais, au moment qu’Iphigénie alloit le frapper, elle le reconnut pour son frère. Oreste et Pylade tuèrent Thoas, pour le punir de ses cruautés, enlevèrent la statue de Diane, et revinrent dans la Grèce avec Iphigénie. Oreste donna sa sœur Électre en mariage à Pylade ; ensuite il épousa Hermione, fille de son oncle Ménélas, et joignit au royaume de Mycènes celui de Sparte.</p>
-              <p><seg rend="heading3char">Achille</seg>.</p>
+              <p><seg >Achille</seg>.</p>
               <figure>
                 <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img234.png"/>
               </figure>
@@ -4552,7 +4563,7 @@
             <div>
               <head>
                 <author>Cléobule</author>
-                <seg rend="heading3char">.</seg>
+                <seg >.</seg>
               </head>
               <p>D. Quand vécut
                 <author>Cléobule</author> ?</p>
