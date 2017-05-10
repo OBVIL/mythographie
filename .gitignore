@@ -4,5 +4,5 @@ article/
 *.php
 *.sqlite
 .htaccess
-
+~$*
 test.csv
