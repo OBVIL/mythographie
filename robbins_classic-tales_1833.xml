@@ -26,12 +26,12 @@
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/robbins_classic-tales_1833/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
-          <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-          <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-          <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-          <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-          <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-        </licence>
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -170,8 +170,10 @@
         <p><hi rend="i">Ann.</hi> Is the story of Psyche very old?</p>
         <p><hi rend="i">Mother.</hi> Yes; one Apuleius, who lived in Sicily, and wrote in Greek, about seventeen hundred years ago, said he found it in an old book; so it must be very old.</p>
         <p><hi rend="i">Ann.</hi> It is a very pretty story.</p>
-        <p><hi rend="i">Mother.</hi> I think so. Many beside you think so. The Italian painters like it very much. I gave it you because I thought you might see prints of it, which you would better understand if you knew the story. <author>Sir James Edward Smith</author>, an English traveller, saw this whole story painted in a palace in Italy; he says, in <title>a journal of his travels</title>,
-          <quote>“The Farnesina, a little palace on the Tiber, belonging to the king of Naples, is adorned with beautiful fresco paintings by </quote><author>Raphael</author>
+        <p><hi rend="i">Mother.</hi> I think so. Many beside you think so. The Italian painters like it very much. I gave it you because I thought you might see prints of it, which you would better understand if you knew the story.
+          <author>Sir James Edward Smith</author>, an English traveller, saw this whole story painted in a palace in Italy; he says, in <title>a journal of his travels</title>,
+          <quote>“The Farnesina, a little palace on the Tiber, belonging to the king of Naples, is adorned with beautiful fresco paintings by </quote>
+          <author>Raphael</author>
           <quote>. The walls of the palace are embellished with a representation of the story of Cupid and Psyche in twenty-four compartments. Never was a story better exhibited.”</quote></p>
         <p><hi rend="i">Ann.</hi> Have you any more stories like this of Psyche for me to read?</p>
         <p><hi rend="i">Mother.</hi> Yes, I have many; and the next I will give you shall be one about Proserpine, who gave Psyche the box.</p>
@@ -272,7 +274,8 @@
         <p>The people, who lived in the country about Athens, were thus forced to remove to the town for safety, and even there they were not protected from the Attic robbers. At the time to which the following story belongs, Pandion, king of Athens, found that he must call upon some other king to punish the robbers, for he was not able to do it himself.</p>
         <p>He sent all the way to Thrace, to Tereus, the king of that country, and told him the distress of his people. Tereus promised to do what he could to relieve Pandion and his subjects; and he came with a sufficient army into Attica, and so effectually punished the barbarians, that the Athenians were no longer afraid of them.</p>
         <p>Pandion was very grateful to Tereus, and invited him to live with his family, while he should stay in Greece. Pandion had two amiable daughters, and Tereus was so well pleased with Progne, the eldest, that he asked her of her father for a wife. Pandion granted his request, and Progne herself agreed to marry Tereus.</p>
-        <p>The people of Athens, as well as all the king’s family, rejoiced in the happy prospects of Progne. In those days, the king of a little city was known by every body in his domain, and beloved <hi rend="i">by</hi> all. He was the judge that settled their disputes, the general that led their armies, and the priest that offered sacrifices to their gods — in short, they regarded him as their father, and they loved all whom he loved.<note place="bottom">See <author>Mitford’s</author> <title>Greece</title>, Vol. I.</note></p>
+        <p>The people of Athens, as well as all the king’s family, rejoiced in the happy prospects of Progne. In those days, the king of a little city was known by every body in his domain, and beloved <hi rend="i">by</hi> all. He was the judge that settled their disputes, the general that led their armies, and the priest that offered sacrifices to their gods — in short, they regarded him as their father, and they loved all whom he loved.<note place="bottom">See
+          <author>Mitford’s</author> <title>Greece</title>, Vol. I.</note></p>
         <p>Marriages were celebrated in public among the Greeks, and all the friends of the parties joined in the festival which was made on the occasion; and they believed that the gods and goddesses came unseen, and blessed the happy pair; and sometimes they spoke of them as if they saw them.</p>
         <p>At the wedding of Progne, says the fable, Juno and Hymen refused to attend, and the Graces and Loves, when they entered the bride’s apartment, fled in terror; for they perceived that the Furies, with their lighted torches were there, and that the screech-owl and raven, birds of evil omen, were perched over their heads. All this threatened misfortune to the couple about to be united.</p>
         <p>But notwithstanding these sad <hi rend="i">portents</hi>, Tereus and Progne were married, and left Athens. Progne wept bitterly when she took leave of her amiable sister, Philomela. Progne lived happily enough in Thrace for a few years. She had a little boy, whom she named Itys, and she loved him dearly. When Itys was about a year old, Progne begged her husband to allow her to go to Athens, to see her aged father, and her sister.</p>
@@ -340,7 +343,8 @@
         <p><hi rend="sc">The</hi> people mentioned in these verses above were of the city of Lystra, a Greek town in Asia Minor. When they saw the miracles done by Paul and Silas, they called them Jupiter and Mercury. Not far from Lystra was the province of Phrygia. There is an old fable which is very pretty, that belongs to Phrygia, in Asia Minor, where it would seem the people were apt to believe in the visits of Jupiter and Mercury. These gods, says the fable, once resolved to go about in disguise, to learn among the different classes of men, the rich and the poor, which were the best. Jupiter laid down his thunder-bolts, and Mercury his caduceus. They appeared, in this journey, like common mortals, or rather like poor, weary, wayfaring men.</p>
         <p>The two gods, when night was approaching, looked about them for supper and lodging. They knocked at many doors, but were refused at all. One man said, “My friends are with me; I can admit no other guests;” a second answered their application by saying, “I do not like your appearance; people must be careful nowadays who they take in, there are so many rogues in the world;” and a third declared, “He had seen the taller stranger before. He was the same who carried off his uncle’s daughter, as she was watering the flock with her two brothers at the fountain; and he was stronger than they, and beat them both.”</p>
         <p>The two gods were repulsed in similar rude ways from many doors, and might have gone back to Olympus, to the golden beds<note place="bottom">
-          <quote><l> — to their starry domes the gods depart,</l><l>The shining monuments of Vulcan’s art:</l><l>Jove on his couch reclined his awful head,</l><l>And Juno slumbered on the golden bed.</l></quote><bibl><author>Pope’s Homer</author>, Book I.</bibl></note> which Vulcan had constructed for them, if a poor cottage had not attracted their notice. It was low, and its roof was covered with reeds and straw woven together.</p>
+          <quote><l> — to their starry domes the gods depart,</l><l>The shining monuments of Vulcan’s art:</l><l>Jove on his couch reclined his awful head,</l><l>And Juno slumbered on the golden bed.</l></quote><bibl>
+          <author>Pope’s Homer</author>, Book I.</bibl></note> which Vulcan had constructed for them, if a poor cottage had not attracted their notice. It was low, and its roof was covered with reeds and straw woven together.</p>
         <p>Beneath this humble roof lived Baucis and Philemon, an aged and a happy pair. They were poor, but they did not desire to be rich. They had no servants to command, and they needed none; they loved and helped one another.</p>
         <p>Spurned from better habitations, Jupiter and Mercury knocked at the little door of this poor couple, and the good man of the house instantly opened it. “Allow us, friend,” said Jupiter to the man, “to rest ourselves a while at your hearth.” “You do me honour, sirs,” answered Philemon, “to pass by loftier dwellings and to sojourn in mine. You will find indifferent cheer, but you shall be welcome;” and waving his hand for them to pass, they stooped their heads a little, at the low door, and entered the cottage.</p>
         <p>A stout oaken bench, with a hard back to it, called a settle, was drawn towards the fire, and the guests were invited to repose themselves upon it Just as they were taking their seats, Baucis, the mistress of the house said, “Nay; stay you a minute;” and she quickly found cushions stuffed with straw, which she put upon the bench. “These,” she said, “will ease your weary limbs.” They were the best she had, and, though coarse, were as comfortable as an embroidered divan<anchor xml:id="footnote1"/>.<note place="bottom">Divan: seat used by the Turks, often of rich materials.</note></p>
@@ -365,7 +369,8 @@
           <l>“We beg one hour of death, that neither she</l>
           <l>With widow’s tears may live to bury me,</l>
           <l>Nor weeping I, with withered arms, may bear</l>
-          <l>My breathless Baucis to the sepulchre.”<note place="bottom"><author>Dryden</author>.</note></l>
+          <l>My breathless Baucis to the sepulchre.”<note place="bottom">
+            <author>Dryden</author>.</note></l>
         </quote>
         <p>Jupiter granted their request, and for a few years they dwelt in the precincts of his temple, and assisted in his worship. But one day, as they stood at the gate discoursing with some strangers who had come thither, and were relating the transformation of their cottage, old Philemon perceived his good dame to be covered with leaves, of tender green; and old Baucis saw his lengthened arms putting forth branches; roots sprung from their feet and penetrated the ground; their bodies, suddenly enclosed with bark, assumed the form of a tree’s trunk, and an encroaching rind closed up their lips, as they uttered the fond words, “Farewell, faithful husband!” “Farewell, beloved wife!”</p>
         <p>Philemon became a vigorous oak, and Baucis a shady linden. Their story was told far and wide, and their virtues were held in respect. Worshippers who resorted to the temple, brought garlands there, and hung upon the branches of the trees, which stood side by side. The votaries prayed that their wives might be helpers and comforters like Baucis, and their husbands constant till death, like Philemon.</p>
@@ -400,7 +405,8 @@
         <p>“When,” &amp; c. See page 53.</p>
         <p><hi rend="i">Mother.</hi> Now you see one of the uses of classical fables.</p>
         <p><hi rend="i">Ann.</hi> I see that they serve to explain the <title>Bible</title> sometimes. I never beard a nightingale sing; have you?</p>
-        <p><hi rend="i">Mother.</hi> The nightingale is not known in America. She has been celebrated in all ages. She is a native of the southern countries of Europe, and it may be of Western Asia. She is called in poetry, Philomela, from that fable you have been reading. The fable might be concluded by saying, that Philomela bewailed her misfortunes in sweet melancholy music, which she made chiefly in the night. That is what the nightingale does. You shall read part of Mr. <author>Keats’s</author> sweet description of this poetic warbler.</p>
+        <p><hi rend="i">Mother.</hi> The nightingale is not known in America. She has been celebrated in all ages. She is a native of the southern countries of Europe, and it may be of Western Asia. She is called in poetry, Philomela, from that fable you have been reading. The fable might be concluded by saying, that Philomela bewailed her misfortunes in sweet melancholy music, which she made chiefly in the night. That is what the nightingale does. You shall read part of Mr.
+          <author>Keats’s</author> sweet description of this poetic warbler.</p>
         <p>(Her mother gives her a book, and Ann reads.)</p>
         <quote>
           <l>“Thou wast not born for death, immortal bird!</l>
@@ -464,14 +470,17 @@
         <p><hi rend="i">Ann.</hi> What do you mean by his attributes?</p>
         <p><hi rend="i">Mother.</hi> What we call his character. He was endowed with wings, was quick in flight, and was eloquent and watchful over the affairs of mortals. Celerity, or quick motion; eloquence, or ready speech; vigilance, or watchfulness, were his attributes. He assisted thieves and orators, and carried messages for the gods; such was his function, or business. Do you understand me?</p>
         <p><hi rend="i">Ann.</hi> Very well. What was the caduceus?</p>
-        <p><hi rend="i">Mother.</hi> It was a wand, or stick, round which serpents were twined. As a stick inflicts blows, and may defend a man, may prevent others from injuring him, or punish them if they do — a stick, or thick rod of wood, shows that the person bearing it is powerful. Such a rod in a king’s hand is a sceptre. In the hand of a god, or witch, or pretended prophet, it is a wand; and with it, fables say, the god, or witch, calls up absent or dead persons, and does other wonders, which he could not do without it Mercury’s caduceus, when he touched people with it, made them wake, or fall asleep, just as he chose. <author>Homer</author> describes it as</p>
+        <p><hi rend="i">Mother.</hi> It was a wand, or stick, round which serpents were twined. As a stick inflicts blows, and may defend a man, may prevent others from injuring him, or punish them if they do — a stick, or thick rod of wood, shows that the person bearing it is powerful. Such a rod in a king’s hand is a sceptre. In the hand of a god, or witch, or pretended prophet, it is a wand; and with it, fables say, the god, or witch, calls up absent or dead persons, and does other wonders, which he could not do without it Mercury’s caduceus, when he touched people with it, made them wake, or fall asleep, just as he chose.
+          <author>Homer</author> describes it as</p>
         <quote>
           <l>“The wand which causes sleep to fly,</l>
           <l>Or in soft slumber seals the wakeful eye.”</l>
         </quote>
         <p><hi rend="i">Ann.</hi> Or metamorphosed them to stone, as Aglauria was.</p>
         <p><hi rend="i">Mother.</hi> Yes. I will tell you a pretty story of Mercury. One morning, very early, he was walking on the sea shore, and he saw the shell of a dead tortoise, which is oval and hollow, like a dish cover, only rather flatter. He picked up the shell; a single fibre or thread of the dead animal’s body was stretched across it. He pulled it and it made a low sound. Mercury thought that if he stretched other strings across the shell, it would make more music. He tried the experiment, and it produced very sweet tones.</p>
-        <p>This instrument was called the <hi rend="i">lyre</hi>, and was a favourite instrument of the Greeks. When you read in poetry of the “vocal shell,” it means this instrument. Afterward, the shell was cut away, and left only a frame to stretch the strings across. You may see a lyre in the hands of one of the muses. Poets made songs to be sung to the music of the lyre, and called their songs <hi rend="i">lyrics</hi>; and the poets were called lyric poets. We frequently call animated poetry <hi rend="i">lyric</hi>, at the present time. A very wise man<note place="bottom"><author>Burke</author>. See <title>Lives of Painters and Sculptors</title>, by <author>Allan Cunningham</author>.— <hi rend="sc">Family Library</hi>.</note> said, the invention of the lyre was
+        <p>This instrument was called the <hi rend="i">lyre</hi>, and was a favourite instrument of the Greeks. When you read in poetry of the “vocal shell,” it means this instrument. Afterward, the shell was cut away, and left only a frame to stretch the strings across. You may see a lyre in the hands of one of the muses. Poets made songs to be sung to the music of the lyre, and called their songs <hi rend="i">lyrics</hi>; and the poets were called lyric poets. We frequently call animated poetry <hi rend="i">lyric</hi>, at the present time. A very wise man<note place="bottom">
+          <author>Burke</author>. See <title>Lives of Painters and Sculptors</title>, by
+          <author>Allan Cunningham</author>.— <hi rend="sc">Family Library</hi>.</note> said, the invention of the lyre was
           <quote>“the good fruits of early rising. Mercury was an industrious deity, and an example to man.”</quote> That is the <hi rend="i">moral</hi> of the fable.</p>
         <p><hi rend="i">Ann.</hi> I have often seen the moral of a fable mentioned. What is a moral?</p>
         <p><hi rend="i">Mother.</hi> What the fable teaches is the moral.</p>
@@ -548,7 +557,8 @@
           <l>Of Aristeus, with the clustering locks;</l>
           <l>And Polydorus, born in towery Thebes.”</l>
         </quote>
-        <bibl><author>Elton’s Hesiod</author>.</bibl>
+        <bibl>
+          <author>Elton’s Hesiod</author>.</bibl>
         <p><hi rend="sc">Cadmus</hi> married Harmonia, the daughter of Mars and Venus, and they lived happily together. They had one son and four daughters. Their son was Polydorus, and their daughters were Ino, Agave, Antinoe, and Semele. Antinoe married a prince named Aristeus, and they had a son called Acteon. This Acteon was one of the most expert hunters in the world.</p>
         <p>Acteon being one day fatigued by the chase lay down to rest himself by a fountain, in the valley of Gargaphia. The trees which surrounded the fountain were sacred to Diana, and it was not permitted to any man to enter her domain. Diana was a modest female deity, and she watched over modest young girls.</p>
         <p>Acteon did not know he had entered a consecrated grove, and he fell asleep there, through weariness. He had not slumbered long, when he was awaked by dashing of waters, and the laughing of young girls bathing in the fountain.</p>
@@ -637,7 +647,8 @@
         <p>The Bacchantes used to call their fury, <hi rend="i">inspiration</hi>. We cannot, they would say, restrain this feeling which we have. We cannot prevent our desire to shriek, and shout, and destroy whatever comes in our way. The god inspires us; he disposes us to these extravagances. They were intoxicated, and thus they excused their folly.</p>
         <p>Agave and her sisters did not perceive who it was they had killed, and they cut off his head and fixed it upon the point of a thyrsus, and Agave ran about with it, shouting, and showing it to her companions.</p>
         <p>In the midst of all this extravagance, the aged Cadmus came out into the woods, and met his daughters and their companions. He instantly saw, in the ghastly features of the severed head, those of his beloved grandson, and soon convinced Agave that she was exulting in the death of her son.</p>
-        <p>Too late, Agave saw the atrocity of such conduct; she beat her breast, and tore her hair, but she could not restore life to the dead. Cadmus grieved bitterly for the undeserved death of Pentheus. <author>One of the Greek poets</author> thus describes his lamentation for him:</p>
+        <p>Too late, Agave saw the atrocity of such conduct; she beat her breast, and tore her hair, but she could not restore life to the dead. Cadmus grieved bitterly for the undeserved death of Pentheus.
+          <author>One of the Greek poets</author> thus describes his lamentation for him:</p>
         <quote>
           <l>“Dearest of men! for thou, though now no more,</l>
           <l>Shall yet be numbered ’mongst my best lov’d sons.</l>
@@ -647,7 +658,8 @@
           <l>With rude offence? Inform me, and my hand</l>
           <l>Shall punish him that injures thee, my father.’’”</l>
         </quote>
-        <bibl><author>Potter’s Euripides</author>.</bibl>
+        <bibl>
+          <author>Potter’s Euripides</author>.</bibl>
         <p>As if Cadmus had said, as he stood over the disfigured body of his grandson, “Beloved Pentheus! thou art indeed dead; killed by the madness and folly of the Menades. Still, though no longer alive, I will call thee my dear son. I remember all your tenderness.’ You would say, gently stroking this long gray beard, ‘My dear grandfather, does any one ever dare to offend thee by the least disrespect? If any should forget to honour thy reverend age, I will punish him.’”</p>
         <p>The remains of Pentheus were treated with respect, and Agave, restored to reason, bitterly repented of her guilty conduct. The sight of a thyrsus became shocking to her, and she never went near mount Citheron; for there the recollection of her murdered son, and of her crime, were too painful to be endured.</p>
       </div>
@@ -712,7 +724,8 @@
           <l>The <hi rend="i">last</hi> ill-fated, since of mortal date:</l>
           <l>The two Immortal, and unchanged by years.”</l>
         </quote>
-        <bibl><author>Elton’s Hesiod</author>.</bibl>
+        <bibl>
+          <author>Elton’s Hesiod</author>.</bibl>
         <p>These verses show that Medusa was destined to die, therefore she might be killed; but her sisters were immortal.</p>
         <p>Medusa had been very beautiful, but she once behaved improperly in Minerva’s temple. Minerva was the goddess of wisdom. She required all worshippers to offer her serious, respectful worship; and if persons in her temple, or any other, behaved improperly, the ancients called it profaning the temple, and <hi rend="i">sacrilege</hi>, and caused the sacrilegious person to be punished.</p>
         <p>Minerva, to punish Medusa, changed her beauty into the most frightful ugliness, and her fine hair into snakes; and she looked so dreadful, that when others looked at her, they were turned to stone.</p>
@@ -729,7 +742,8 @@
         <ab type="ornament">———</ab>
         <p>Æolus had shut up the winds in their prison, the night was tranquil, and Perseus being delivered from the king of Mauritania, fell into a refreshing sleep. Nature reposed in quiet, till Lucifer, the morning star, shedding silvery light upon the couch of the shepherd and the ploughman, admonished them that the hour to commence their daily labour had arrived. Perseus still slumbered, but Aurora unbarred the gates of day, and roused him from his rest. He rose with renewed vigour, and pursued his way, like some migratory bird, through immeasurable fields of ether, leaving, in his flight, nations and cities behind him.</p>
         <p>The next descent of Perseus was into the dominions of Cepheus, king of Ethiopia. Here he beheld Andromeda, the king’s daughter, chained to a rock, where she was expecting, in unspeakable anguish, to be devoured by a sea monster.</p>
-        <p>Andromeda’s mother was a vain, silly woman. She boasted of her own beauty, and said that she was handsomer than Juno or the Nereides. Neptune, as god of the sea, had a great regard for the Nereides. They were fifty daughters of the sea-god Nereus, and had their habitation in the ocean. <author>Milton</author> calls them
+        <p>Andromeda’s mother was a vain, silly woman. She boasted of her own beauty, and said that she was handsomer than Juno or the Nereides. Neptune, as god of the sea, had a great regard for the Nereides. They were fifty daughters of the sea-god Nereus, and had their habitation in the ocean.
+          <author>Milton</author> calls them
           <quote>the “blue-haired” deities</quote>.</p>
         <p>Neptune was offended with Cassiope, and because she was a queen, laid her whole kingdom under water. The poor people, to escape from the inundation, climbed upon house-tops, and the highest branches of trees; some were drowned and others starved, and a great sea monster came up and devoured many.</p>
         <p>Cepheus, in this calamity, resorted to the oracle of Jupiter Ammon. This oracle was in Lybia, nine days journey from Alexandria. There was a temple to Jupiter and in it the figure of a ram, with large horns; and so he was sometimes called “horned Ammon.” Cepheus entreated the oracle to instruct him what he should do to satisfy the angry Neptune.</p>
@@ -829,7 +843,8 @@
         <p><hi rend="i">Ann.</hi> But how does this relate to Apollo?</p>
         <p><hi rend="i">Mother.</hi> It was necessary for me to explain to you folly the <hi rend="i">term</hi>, or word <hi rend="i">association</hi>, before I could make you understand that <hi rend="sc">many associations</hi> belong to the story of Apollo and the Python.</p>
         <p><hi rend="i">Ann.</hi> What are some of them?</p>
-        <p><hi rend="i">Mother.</hi> After he had killed the Python, he was sometimes called Pythias. The Greeks built a temple in honour of Apollo at Delphi, and <author>Homer</author> calls it
+        <p><hi rend="i">Mother.</hi> After he had killed the Python, he was sometimes called Pythias. The Greeks built a temple in honour of Apollo at Delphi, and
+          <author>Homer</author> calls it
           <quote>“rocky Pytho.”</quote> They instituted an oracle there, and the priestess was called the Pythia. They said that the tripod on which this priestess sat was covered with the skin of the Python. And they celebrated the death of the Python in certain games, called the Pythian.</p>
         <p><hi rend="i">Ann.</hi> What was a tripod?</p>
         <p><hi rend="i">Mother.</hi> It was sometimes a stool with <hi rend="i">three</hi> feet. The Greeks were very fond of tripods; I mean the form of a tripod was very fashionable among them. They used them for many purposes, and they were sometimes used to burn perfumes, or to set lamps upon. Here is one with an <hi rend="i">antique</hi> lamp on it. There was a street at Athens called the street of the Tripods.</p>
@@ -857,8 +872,12 @@
       </div>
       <div>
         <head>Conversation: Mother and Ann.</head>
-        <p><hi rend="i">Ann.</hi> I have heard of <author>Shakspeare’s</author> laurels; what does that mean?</p>
-        <p><hi rend="i">Mother.</hi> It only means <author>Shakspeare’s</author> <hi rend="i">fame</hi>, or reputation. <author>Shakspeare</author> was a great poet. He lived more than two hundred years ago; but every reader admires and praises <author>Shakspeare</author>. That admiration of so many persons, for so long a time, is his fame; his undying or <hi rend="i">immortal fame</hi>, as some persons say, because he is now more admired than ever. As, in ancient times, poets were crowned with laurels, to show that their genius was known and admired; so when, at this time, we speak of a poet’s laurels, we mean his <hi rend="i">fame</hi>, or the admiration of mankind for him.</p>
+        <p><hi rend="i">Ann.</hi> I have heard of
+          <author>Shakspeare’s</author> laurels; what does that mean?</p>
+        <p><hi rend="i">Mother.</hi> It only means
+          <author>Shakspeare’s</author> <hi rend="i">fame</hi>, or reputation.
+          <author>Shakspeare</author> was a great poet. He lived more than two hundred years ago; but every reader admires and praises
+          <author>Shakspeare</author>. That admiration of so many persons, for so long a time, is his fame; his undying or <hi rend="i">immortal fame</hi>, as some persons say, because he is now more admired than ever. As, in ancient times, poets were crowned with laurels, to show that their genius was known and admired; so when, at this time, we speak of a poet’s laurels, we mean his <hi rend="i">fame</hi>, or the admiration of mankind for him.</p>
         <p><hi rend="i">Ann.</hi> It is what is called a <hi rend="i">metaphorical</hi>, or figurative way of speaking, when one word, like “laurels,” means glory, and not <hi rend="i">literally</hi>, or as the word is, <hi rend="i">laurels</hi>.</p>
         <p><hi rend="i">Mother.</hi> You understand, I perceive, what you have been told concerning literal and figurative language. I must tell you a little more concerning Apollo. You have seen casts and medallions of the pagan gods.</p>
         <p><hi rend="i">Ann.</hi> Yes; marble and plaster images of them.</p>
@@ -868,7 +887,8 @@
         <p><hi rend="i">Ann.</hi> Who made the statue?</p>
         <p><hi rend="i">Mother.</hi> That is not known. About three hundred years ago, it was dug up from among some ruins in Antium, near Rome. It was dreadfully broken, but the fragments were found, and put ingeniously together, and it was conveyed to the Vatican, where it is carefully preserved. I will allow you to read to me another day some few more Classical Tales; but when they shall have been finished, you must return to something useful.</p>
         <p><hi rend="i">Ann.</hi> Are not these useful?</p>
-        <p>Mother; Yes; they will enable you to understand pictures, and statues, and poetry, better than you could have done without reading them. But, at present, you can afford no more time to fictions; you must read facts. I have a book of Grecian History,<note place="bottom">See <title>Grecian History</title> by the <author>author of this work</author>.</note> which will teach you many important truths connected with the Greeks.</p>
+        <p>Mother; Yes; they will enable you to understand pictures, and statues, and poetry, better than you could have done without reading them. But, at present, you can afford no more time to fictions; you must read facts. I have a book of Grecian History,<note place="bottom">See <title>Grecian History</title> by the
+          <author>author of this work</author>.</note> which will teach you many important truths connected with the Greeks.</p>
       </div>
       <div>
         <head>Adventures of Io</head>
@@ -919,7 +939,10 @@
         <p>Apollo, immediately after the death of Phæton, refused to guide the chariot of day, and the gods assembling around him, entreated that he would not leave the earth in darkness. But Apollo only answered, that Jupiter ought himself to undertake the task of enlightening the earth, that he might know how difficult was the task, and how little Phæton had deserved to die because he had failed in it.</p>
         <p>Jupiter, however, persuaded Apollo that it was necessary, few the preservation of the earth, that the presumptuous charioteer should die; and afterward induced Apollo to reascend his glorious car, and to cheer the earth mice mere with the smiles of the blessed sun.</p>
         <ab type="ornament">———</ab>
-        <p><hi rend="i">Hours, Days, Months, Seasons, Years, and Ages</hi>. — All these are personified in mythology, in poetry, and in the arts. The Horæ, or Hours, are represented as lovely young girls, having light embroidered robes. They appear thus in <author>Guido’s</author> Aurora. Prints of Aurora, attended by the Hours, and taken from the original of <author>Guido</author>, are not very rare in this country. <author>Guido’s</author> painting is the splendid embellishment of a ceiling in the Palazzo Respigliosi, at Rome.</p>
+        <p><hi rend="i">Hours, Days, Months, Seasons, Years, and Ages</hi>. — All these are personified in mythology, in poetry, and in the arts. The Horæ, or Hours, are represented as lovely young girls, having light embroidered robes. They appear thus in
+          <author>Guido’s</author> Aurora. Prints of Aurora, attended by the Hours, and taken from the original of
+          <author>Guido</author>, are not very rare in this country.
+          <author>Guido’s</author> painting is the splendid embellishment of a ceiling in the Palazzo Respigliosi, at Rome.</p>
       </div>
       <div>
         <head>Niobe.</head>

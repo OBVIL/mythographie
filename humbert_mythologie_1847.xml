@@ -145,9 +145,9 @@
             <l>Pluton sort de son trône ; il pâlit, il s’écrie.</l>
             <l>Il a peur que le dieu, dans cet affreux séjour,</l>
             <l>D’un coup de son trident ne fasse entrer le jour.</l>
+            <bibl>
+              <author>Boileau</author>.</bibl>
           </quote>
-          <bibl>
-            <author>Boileau</author>.</bibl>
           <p>C’est à Neptune qu’est attribuée la création du cheval, un des plus beaux présents que les dieux aient pu faire aux hommes ; mais en le créant, il enseigna aussi l’art de le dompter ; il apprivoisa ce quadrupède fougueux, et l’assujettit à la main et à la voix du cavalier.</p>
           <p>Tous les peuples honorèrent Neptune, le craignirent, lui dressèrent à l’envi des statues et des autels. Les habitants de la Libye le regardaient comme leur principale divinité. Il eut des temples sans nombre dans l’Asie-Mineure, dans la Grèce, en Italie, spécialement dans les contrées maritimes. Il était invoqué par les navigateurs ; il était le patron des athlètes aux courses de chars et de chevaux. Les jeux Isthmiques, à Corinthe, et les Consuales, à Rome, furent institués en son honneur. On lui immolait le cheval et le taureau. Les aruspices lui offraient le fiel des victimes, par analogie avec l’amertume des eaux de la mer.</p>
           <p>— On représente <hi rend="i">Neptune</hi> comme un vieillard robuste, dont la large poitrine et les épaules charnues sont couvertes d’une draperie de couleur azurée. Son sceptre est un trident ou fourche à trois pointes ; son char est une vaste coquille, traînée par des hippocampes ou chevaux marins à deux pieds. Les <hi rend="i">Tritons</hi> qui lui servent de cortége annoncent sa présence en soufflant dans une conque, sorte de trompette recourbée qui va toujours en s’élargissant, et dont le bruit éclatant se propage jusqu’aux extrémités du monde.</p>
@@ -313,9 +313,9 @@
             <l>Sont des sœurs sans jalousie ;</l>
             <l>Elles vivent d’ambroisie,</l>
             <l>Et non d’absinthe et de fiel.</l>
+            <bibl>
+              <author>Voltaire</author>.</bibl>
           </quote>
-          <bibl>
-            <author>Voltaire</author>.</bibl>
           <p>Quelquefois Apollon est à leur tête, jouant de la lyre : on lui donne alors le surnom de Musagète, c’est-à-dire de conducteur ou chef des Muses.</p>
           <p><hi rend="i">Calliope</hi> présidait à la Poésie héroïque. On la représente couronnée de laurier, tenant de la main droite une trompette et de l’autre les trois meilleurs poèmes épiques, l’<title>Iliade</title>, l’<title>Odyssée</title> et l’<title>Énéide</title>.</p>
           <p><hi rend="i">Clio</hi> présidait à l’Histoire. Son occupation principale était de conserver le souvenir des actions généreuses et des exploits éclatants. On la représente, (comme Calliope), couronnée de laurier, tenant une trompette de la main droite, et de la gauche un livre ouvert.</p>
@@ -462,9 +462,9 @@
               <l>Mes vœux sont courts, les voici tous :</l>
               <l>Qu’un peu d’aisance entre chez nous :</l>
               <l>Que jamais la vertu n’en sorte !</l>
+              <bibl>
+                <author>Ducis</author>.</bibl>
             </quote>
-            <bibl>
-              <author>Ducis</author>.</bibl>
             <p>Mais si une famille était affligée de quelque revers, ces idoles encensées la veille éprouvaient des traitements rigoureux autant que risibles ; on les battait, on les mutilait, on les jetait par la fenêtre. L’empereur Caligula en usa de la sorte envers eux, disant « qu’il était mécontent de leur service. »</p>
           </div>
           <div>
@@ -492,9 +492,9 @@
               <l>On a les yeux bouchés à la ville, à la cour.</l>
               <l>      Plutus, la Fortune et l’Amour</l>
               <l>Sont trois aveugle-nés qui gouvernent le monde.</l>
+              <bibl>
+                <author>Voltaire</author>.</bibl>
             </quote>
-            <bibl>
-              <author>Voltaire</author>.</bibl>
             <p>— Les Grecs représentent <hi rend="i">Plutus</hi> sous la figure d’un vieillard qui tient une bourse à la main. Il arrive à pas lents et en boitant, et s’en retourne avec des ailes : ce qui veut dire que les richesses s’acquièrent difficilement, mais qu’elles se dissipent très-vite. Quelquefois on met Plutus au rang des divinités infernales, et on le confond avec <hi rend="i">Pluton</hi>, parce que l’or et l’argent se tirent des entrailles de la terre.</p>
           </div>
           <div>
@@ -541,15 +541,15 @@
               <l>L’oisiveté pèse et tourmente.</l>
               <l>L’âme est un feu qu’il faut nourrir,</l>
               <l>Et qui s’éteint s’il ne s’augmente.</l>
+              <bibl>
+                <author>Voltaire</author>.</bibl>
             </quote>
-            <bibl>
-              <author>Voltaire</author>.</bibl>
             <quote>
               <l>Le ciel, par les travaux veut qu’on monte à la gloire :</l>
               <l>Pour gagner un triomphe, il faut une victoire.</l>
+              <bibl>
+                <author>Corneille</author>.</bibl>
             </quote>
-            <bibl>
-              <author>Corneille</author>.</bibl>
           </div>
           <div>
             <head>§ 30. La Nuit. — Le Sommeil.</head>
@@ -566,9 +566,9 @@
               <l>Redouter de la mort les piéges imprévus :</l>
               <l>      Elle n’est point tant que nous sommes ;</l>
               <l>      Quand elle est, nous ne sommes plus.</l>
+              <bibl>
+                <author>L’abbé Mangenot</author>.</bibl>
             </quote>
-            <bibl>
-              <author>L’abbé Mangenot</author>.</bibl>
             <p>La déesse des funérailles s’appelait <hi rend="i">Libitine</hi>, chez les Romains, et était la protectrice de tous les employés et administrateurs des pompes funèbres. Elle avait à Rome un temple où l’on venait apporter un denier d’argent (50 centimes) pour chaque personne qui décédait : institution ancienne, qui remonte au règne de Servius Tullius. Le nom de <hi rend="i">Libitine</hi> est quelquefois donné à Hécate et à Proserpine.</p>
           </div>
         </div>
@@ -670,9 +670,9 @@
             <l>Et sa langue glacée, et sa mourante voix,</l>
             <l>Sa voix disait encore : O ma chère Eurydice !</l>
             <l>Et tout le fleuve en pleurs répondait : <hi rend="i">Eurydice</hi> !</l>
+            <bibl>
+              <author>P. D. E. Lebrun</author>.</bibl>
           </quote>
-          <bibl>
-            <author>P. D. E. Lebrun</author>.</bibl>
         </div>
         <div>
           <head>§ 9. Cadmus.</head>
@@ -683,11 +683,11 @@
           <p>Ce mariage eut les plus heureux commencements. Cadmus se voyait gendre de deux grandes divinités ; père de quatre filles aussi belles que séduisantes, Ino, Agavé, Autonoé et Sémélé ; et chef suprême d’un peuple dévoué et soumis ; mais Junon n’envisageait pas d’un œil tranquille cette félicité. Déesse jalouse, pouvait-elle oublier que Cadmus était le frère d’Europe, sa rivale ? Elle n’eut point de repos qu’elle n’eût tari les joies de ce prince, et accumulé sur lui tous les genres de deuil. Actéon, son petit-fils, habile chasseur, expira sous les morsures de ses propres chiens ; Sémélé périt par l’éclat éblouissant des foudres de Jupiter ; Penthée, fils d’Agavé, fut mis en pièces par les bacchantes ; Ino, devenue folle, se précipita dans la mer. Pour comble d’infortune, son peuple se révolta, son autorité fut méconnue, il fut banni de Thèbes et obligé de chercher avec son épouse un refuge au fond de l’Illyrie. Accablés l’un et l’autre sous le faix des années et du chagrin, ils prièrent les dieux de mettre un terme à leurs maux, et furent métamorphosés en <hi rend="i">serpents</hi>.</p>
           <p>Au rapport de plusieurs auteurs, ce fut Cadmus qui porta le premier en Grèce la connaissance des lettres de l’alphabet, et qui introduisit dans cette contrée le culte des dieux de l’Égypte et de la Phénicie.</p>
           <p>
-            <seg >§ </seg>
-            <seg >10. Amphion</seg>
-            <seg >. — </seg>
-            <seg >Linu</seg>
-            <seg >s.</seg>
+            <seg>§ </seg>
+            <seg>10. Amphion</seg>
+            <seg>. — </seg>
+            <seg>Linu</seg>
+            <seg>s.</seg>
           </p>
           <p>Amphion, fils de Jupiter et d’Antiope, cultiva la poésie et la musique avec un rare succès. Mercure, admirateur de ses talents, lui fit présent d’une lyre à sept cordes, au son de laquelle il bâtit les murailles de Thèbes. Les pierres, sensibles à l’harmonie de ses chants, allaient d’elles-mêmes se ranger à leur place. Ce qui signifie qu’Amphion se servit de son éloquence pour persuader à un peuple encore grossier d’abandonner la campagne et les bois, et de se retirer dans une ville fortifiée, pour y être à l’abri des bêtes sauvages et des brigands.</p>
           <p>Linus, poète et musicien thébain, fils d’Apollon et de Terpsichore, inventa la mélodie et le rhythme, et composa des poèmes sur l’origine du monde, sur l’astronomie, et sur la nature des plantes. Orphée, Hercule et Thamyris furent ses disciples.</p>
@@ -699,9 +699,9 @@
             <l>La mort a frappé votre maître,</l>
             <l>Et, d’un souffle, a fait disparaître</l>
             <l> Le flambeau qui vous éclairait.</l>
+            <bibl>
+              <author>Le Franc de Pompignan</author>.</bibl>
           </quote>
-          <bibl>
-            <author>Le Franc de Pompignan</author>.</bibl>
         </div>
         <div>
           <head>§ 11. Tirésias.</head>
@@ -731,9 +731,9 @@
             <l>L’essieu crie et se rompt : l’intrépide Hippolyte</l>
             <l>Voit voler en éclats tout son char fracassé ;</l>
             <l>Dans les rênes lui-même il tombe embarrassé.</l>
+            <bibl>
+              <author>Racine</author>.</bibl>
           </quote>
-          <bibl>
-            <author>Racine</author>.</bibl>
           <p>Traîné par ses chevaux et couvert de plaies, il expire après quelques instants. Thésée ne connut son erreur et sa faute que lorsqu’il était trop tard pour les réparer.</p>
           <p>Dans ces entrefaites, Mnesthée, fils de Pétès, et l’un des descendants d’Érechthée, flatta si bien le peuple d’Athènes, et mit en usage tant de brigue et d’artifices, qu’il se fit accorder la couronne. En vain Thésée voulut-il reprendre le commandement des armées ; en vain essaya-t-il de faire valoir ses droits : les volages Athéniens, oubliant tout ce qu’il avait fait pour eux, l’obligèrent à s’enfuir. Il se retira dans l’île de Scyros, où le roi Lycomède, gagné par Mnesthée, l’assassina. Les Athéniens sentirent enfin leur ingratitude ; ils restituèrent le trône aux enfants de Thésée, et élevèrent au vainqueur du Minotaure un temple et un tombeau.</p>
         </div>
@@ -944,9 +944,9 @@
             <l>Et de la coupe séduisante</l>
             <l>Que le fol Amour lui présente</l>
             <l> Il boit a longs traits le poison.</l>
+            <bibl>
+              <author>J.-B. Rousseau</author>.</bibl>
           </quote>
-          <bibl>
-            <author>J.-B. Rousseau</author>.</bibl>
           <p>Rendu prudent par ses fautes, il résista aux mélodieuses voix des Sirènes, franchit avec bonheur les écueils de Charybde et de Scylla, et aborda pour la seconde fois en Sicile, à ce rivage fameux, où la fille d’Apollon, <hi rend="i">Lampétie</hi>, gardait les troupeaux du dieu son père : troupeaux innombrables auxquels il était défendu de toucher. Ulysse se reposa de ses fatigues Sur cette plage, et enjoignit expressément à ses compagnons de respecter le bétail sacré. Tant que durèrent les provisions, ils observèrent les ordres d’Ulysse ; mais les vivres ayant manqué et la faim se faisant sentir, ils enlevèrent quatre bœufs et quatre génisses qu’ils égorgèrent. Apollon n’eut pas plus tôt connu cette impiété qu’il pria Jupiter d’en tirer vengeance ; et le maître des dieux envoya aux profanateurs un signe effrayant de sa colère : les peaux de ces bœufs et de ces génisses se mirent à marcher, les chairs qui rôtissaient à la broche commencèrent à mugir, et les chairs crues répondirent à ces mugissements. Épouvantés de ce prodige, les matelots s’embarquèrent ; mais il s’éleva au même instant une si terrible tempête, qu’elle brisa les vaisseaux et fit périr ceux qui les montaient. Ulysse seul, qui n’avait point eu de part au sacrilège fut épargné : les dieux lui avaient ménagé un fragment de gouvernail qui fut son sauveur.</p>
           <p>Les vents le poussèrent dans l’île d’Ogygie<note place="bottom"><hi rend="i">Ogygie</hi>, petite île que l’on croit située près de l’île de Malte.</note>, où régnait la nymphe <hi rend="i">Calypso</hi>, fille de l’Océan, qui le reçut avec les démonstrations de la plus vive joie, et lui offrit l’immortalité s’il consentait à oublier Ithaque, et à finir ses jours dans son île. Des mois, des années s’écoulèrent, et Ulysse séjournait encore dans les demeures magiques de cette reine opulente, dont l’admiration et l’attachement pour son hôte croissaient de jour en jour. Les dieux intervinrent : Mercure le rappela à ses devoirs de père, d’époux et de roi.</p>
           <p>Parti de chez Calypso, il voguait vers sa patrie, où il se flattait d’arriver sain et sauf, lorsque Neptune, qui se souvenait de la blessure faite à Polyphème son fils, bouleversa les flots par un ouragan. Le navire d’Ulysse fut coulé à fond, et ce ne fut qu’avec beaucoup de peine et d’efforts qu’il aborda à la nage dans l’île des Phéaciens, dont le roi <hi rend="i">Alcinoüs</hi> l’accueillit, et lui accorda même un vaisseau pour continuer sa navigation. (Voyez les deux articles qui suivent.)</p>
@@ -1059,9 +1059,9 @@
           <head>§ 7. Clytie.</head>
           <p><hi rend="sc">Clytie</hi>, nymphe de l’océan, fut aimée d’Apollon, qui l’abandonna pour s’attacher à Leucothoé, fille d’Orchame roi de Babylone. Clytie inconsolable des froideurs du dieu, se retira dans le désert, où elle se nourrissait des plus grossiers aliments : couchée sur le sable la nuit et le jour, les cheveux en désordre et le visage baigné de larmes, elle tournait continuellement ses regards vers le soleil. Apollon par pitié la changea en <hi rend="i">héliotrope</hi> (ou tournesol), plante qui, selon l’opinion commune, regarde toujours l’astre de la lumière<note place="bottom">Quelques-uns disent qu’on a donné à cette plante le nom d’<hi rend="i">héliotrope</hi> ou <hi rend="i">tournesol</hi>, parce qu’elle fleurit pendant les grandes chaleurs, lorsque le soleil est dans le <hi rend="i">tropique</hi> du Cancer.</note>. Ainsi malgré sa métamorphose, Clytie montre encore l’amour qu’elle conserve pour Apollon.</p>
           <p>
-            <seg >§ </seg>
-            <seg >8. Ath</seg>
-            <seg >amas et Ino.</seg>
+            <seg>§ </seg>
+            <seg>8. Ath</seg>
+            <seg>amas et Ino.</seg>
           </p>
           <p><hi rend="sc">Athamas</hi>, roi de Thèbes, épousa Néphélé, qui le rendit père d’un fils et d’une fille (Phryxus et Hellé), célèbres dans la fable. Ces deux enfants vivaient tranquilles à la cour, lorsque <hi rend="i">Athamas</hi>, d’un caractère léger et d’une humeur inconstante, se dégoûta de sa femme qu’il prétendait atteinte de folie, la répudia, et épousa <hi rend="sc">Ino</hi>, princesse illustre, fille de Cadmus. Les noces en furent célébrées avec une pompe extraordinaire. Athamas pouvait se dire le plus fortuné des époux ; et deux fils, Léarque et Mélicerte, issus de ce nouveau mariage, ajoutaient encore à son bonheur. Mais ce bonheur devait être aussi fugitif qu’un songe ; car Ino, jalouse des enfants du premier lit, auxquels revenait de droit l’empire de Thèbes, ne cessait de leur être hostile, et d’exercer sur eux de barbares traitements. Déjà même elle se familiarisait avec l’idée d’un double attentat, et en tramait le complot, lorsque Phryxus et Hellé, avertis à temps, montèrent sur un <hi rend="i">bélier</hi> ailé et à toison d’or que possédait le riche Athamas, et s’enfuirent au travers des airs en Colchide.</p>
           <p>Ino triomphait ; Ino restait seule l’objet des hommages : un trône attendait ses fils. Mais <hi rend="i">Junon</hi>, qui détestait la famille de Cadmus depuis que Jupiter avait enlevé Europe, sœur de ce prince, ne put voir avec indifférence la prospérité et les joies d’Ino, et, dans l’excès de son dépit, elle forma le plus infâme des projets. Elle appelle Tisiphone, et lui dit : « Je veux que la maison d’Athamas soit réduite en cendres, et que tu engages ce prince dans un crime dont l’univers frémisse d’horreur. » — « Vous serez obéie, grande reine : retournez au ciel. » A ces mots Tisiphone revêt sa robe ensanglantée, arme sa main droite de serpents, prend de la gauche une torche incendiaire, et sort des enfers.</p>
@@ -1147,9 +1147,9 @@
             <l>En nageant disait à l’orage :</l>
             <l>« Laissez-moi gagner le rivage ;</l>
             <l>« Ne me noyez qu’à mon retour. »</l>
+            <bibl>
+              <author>Voltaire</author>, <title>à l’âge de 15 ans</title>.</bibl>
           </quote>
-          <bibl>
-            <author>Voltaire</author>, <title>à l’âge de 15 ans</title>.</bibl>
         </div>
         <div>
           <head>§ 3. Hypermnestre.</head>
@@ -1201,7 +1201,7 @@
           <p>Les <hi rend="sc">Sirènes</hi>, sorte de fées musiciennes, étaient filles de Calliope et du fleuve Achéloüs, et habitaient ensemble une île voisine du cap Pélore, en Sicile. Quoique nymphes des eaux, elles avaient des <hi rend="i">ailes</hi>, avec un visage de jeune fille. On varie sur leur nombre, que quelques-uns fixent à trois, d’autres à cinq, d’autres à huit.</p>
           <p>Un murmure harmonieux annonçait leur présence : leur chant était une magie. Leurs voix suaves allaient au cœur des matelots, qui, pour les mieux entendre, se penchaient, s’approchaient insensiblement de la surface de la mer, s’y plongeaient enfin, et ne revenaient plus. Mais il était décrété que quand un homme aurait passé devant les Sirènes sans se précipiter vers elles, ces filles des eaux périraient. Ulysse amena leur jour fatal. Tout son équipage se boucha les oreilles avec de la cire ; pour lui, les oreilles libres, il se fit attacher à son grand mât. Le navire traversa ainsi le parage mélodieux sans qu’il arrivât d’accident. Les matelots étaient privés de l’usage de l’ouïe, le chef de l’usage de de ses jambes ; les uns n’avaient aucune envie de s’élancer vers les cantatrices marines, qu’ils n’entendaient pas ; l’autre suppliait à grands cris ses compagnons de le délier, mais il suppliait et criait en pure perte. Une des Sirènes, <hi rend="i">Parthénope</hi>, noyée après le triomphe d’Ulysse fut jetée par la vague sur les sables de la côte d’Italie et enterrée avec honneur. A son tombeau succéda un temple ; au temple, un village, que d’heureuses circonstances transformèrent en une ville capitale. Cette ville est la fameuse <hi rend="i">Naples</hi>, appelée anciennement <hi rend="i">Parthénope</hi>.</p>
           <p>Les Lamies ont certains points de ressemblance avec les Sirènes. Séduisantes et enchanteresses comme elles, leur corps se terminait en queue de poisson, et au lieu de mains elles avaient des <hi rend="i">griffes</hi>. Quand les voyageurs, attirés par la douce mélodie de leurs chants, s’approchaient pour les admirer, elles se relevaient subitement, couraient sur eux et les étouffaient.</p>
-          <p><seg >§ </seg><seg >11. Céphale et Procris</seg>.<note place="bottom"><hi rend="i">Procris</hi> était fille d’Érechthée roi d’Athènes, et sœur d’Orithyie, dont nous avons parlé, page 78 [= section II, § 16].</note></p>
+          <p><seg>§ </seg><seg>11. Céphale et Procris</seg>.<note place="bottom"><hi rend="i">Procris</hi> était fille d’Érechthée roi d’Athènes, et sœur d’Orithyie, dont nous avons parlé, page 78 [= section II, § 16].</note></p>
           <p><hi rend="sc">Céphale</hi>, roi de Thessalie, chasseur habile et infatigable, parcourait dès le point du jour les forêts, les vallons, les montagnes, et ne rentrait que le soir dans son palais. Procris, sa femme, d’un caractère jaloux, voyait avec inquiétude ses longues absences, et ne pouvait croire que la chasse seule captivât ses goûts. Pour s’en éclaircir, elle s’avisa de le suivre secrètement, et de se tenir cachée dans les taillis. Céphale, épuisé de fatigue et de chaleur, vint par hasard se reposer sous un arbre voisin, et, d’un accent passionné, appela le souffle rafraîchissant du zéphyr : « Viens, douce Brise, viens ! Je ne suis rien sans toi ; sans toi je succombe, et je péris. Viens, Brise tant désirée, viens à moi ! » Sa femme qui entend des paroles si tendres, croit qu’elles sont adressées à une rivale, tressaille, et agite le feuillage. Céphale tourne la tête à ce bruit, croit à son tour qu’une bête fauve se glisse dans le buisson, et il y dirige son javelot. Un cri humain s’en échappe… Il reconnaît Procris, qui, blessée mortellement, se reproche sa coupable défiance, et expire entre les bras de son époux.</p>
         </div>
         <div>
@@ -1250,9 +1250,9 @@
             <l>Un seul coup de son bras mit tout l’ouvrage en poudre ;</l>
             <l>Et le monarque impie, environné d’éclairs,</l>
             <l>Avec son char brûlant tomba dans les enfers.</l>
+            <bibl>
+              <author>Delille</author>.</bibl>
           </quote>
-          <bibl>
-            <author>Delille</author>.</bibl>
         </div>
         <div>
           <head>§ 20. Les Oracles.</head>
