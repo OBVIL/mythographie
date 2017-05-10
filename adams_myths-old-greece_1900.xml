@@ -107,7 +107,8 @@
             <l>What greatness perished long ago.</l>
           </quote>
           <bibl>
-            <author>William Cullen Bryant</author>. <lb/><title>Permission of D. Appleton &amp; Co., publishers of Bryant’s complete works.</title></bibl>
+            <author>William Cullen Bryant</author>. <lb/></bibl>
+            <p>Permission of D. Appleton &amp; Co., publishers of Bryant’s complete works.</p>
         </div>
       </div>
       <div>
@@ -263,7 +264,7 @@
             <l>   “Love, eat with me this parting day</l>
             <l>Then bids them fetch the coal-black steeds —</l>
             <l>   “
-              <author>Demeter’s d</author>aughter, wouldst away?”</l>
+              Demeter’s daughter, wouldst away?”</l>
             <l>   The gates of Hades set her free;</l>
             <l>   “She will return full soon,” saith he —</l>
             <l>   “My wife, my wife Persephone.”</l>
