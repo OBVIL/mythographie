@@ -1,8 +1,8 @@
 import.xml
 toc/
 article/
-*.php
+conf.php
 *.sqlite
 .htaccess
 ~$*
-test.csv
+test*
