@@ -55,7 +55,7 @@
         <p>The Greek accounts of the early history of the world, like the Roman ones, are incomplete and contradictory among themselves, and if in any detail of our rendering we have invented a significance whose existence it would not be easy to warrant as classic, it is hoped that the judicious will still not disapprove of the use made of the material on the subject.</p>
         <p>The poetry selected for this, as for the other books of the series, is suitable to the prose. As far as it was practicable, the poems are given in full, but a few fragmentary passages of beauty and interest are also included.</p>
         <p>After consideration, it seemed best not to indicate pronunciation in the body of the book. Instead, an index of the proper names has been placed at the end.</p>
-        <p>For copyright selections in this volume, acknowledgements are due as follows: to Messrs. D. Appleton &amp; Co., publishers of <author>Bryant’s</author> complete works, for permission to use the selection from “<title>The Greek Boy</title>”; to Messrs. Houghton, Mifflin &amp; Co., the only authorized publishers of <author>Longfellow’s</author> works, for permission to use the selection from “<title>Pegasus in Pound</title>.”</p>
+        <p>For copyright selections in this volume, acknowledgements are due as follows: to Messrs. D. Appleton &amp; Co., publishers of <author key="W. Bryant">Bryant’s</author> complete works, for permission to use the selection from “<title>The Greek Boy</title>”; to Messrs. Houghton, Mifflin &amp; Co., the only authorized publishers of <author key="Longfellow">Longfellow’s</author> works, for permission to use the selection from “<title>Pegasus in Pound</title>.”</p>
         <figure>
           <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img008.png"/>
         </figure>
@@ -312,7 +312,7 @@
             <l>   “O fateful flower beside the rill —</l>
             <l>   The daffodil, the daffodil.”</l>
           </quote>
-          <bibl> <author>Jean Ingelow</author>.</bibl>
+          <bibl> <author key="Ingelow">Jean Ingelow</author>.</bibl>
         </div>
       </div>
       <div>
@@ -403,7 +403,7 @@
             <l>And our wild bees lend their rainbow wings</l>
             <l>   To glitter on Delphi’s shrine.</l>
           </quote>
-          <bibl> <author>Thomas Moore</author>.</bibl>
+          <bibl> <author key="Th. Moore">Thomas Moore</author>.</bibl>
         </div>
       </div>
       <div>
@@ -462,7 +462,7 @@
             <l>How must the heart, ah, Cupid! be,</l>
             <l>The hapless heart that’s stung by thee!”</l>
           </quote>
-          <bibl> <author>Thomas Moore</author>.</bibl>
+          <bibl> <author key="Th. Moore">Thomas Moore</author>.</bibl>
         </div>
       </div>
       <div>
@@ -633,7 +633,7 @@
             <l>Which saw thus young Beauty</l>
             <l>   Embellish’d by Power.</l>
           </quote>
-          <bibl> <author>Thomas Moore</author>.</bibl>
+          <bibl> <author key="Th. Moore">Thomas Moore</author>.</bibl>
         </div>
       </div>
       <div>
@@ -724,7 +724,7 @@
             <l>Wake, woman’s heart, from peace to strife,</l>
             <l>   To love, to joy, to pain!”</l>
           </quote>
-          <bibl> <author>Andrew Lang</author>.</bibl>
+          <bibl> <author key="Lang">Andrew Lang</author>.</bibl>
           <p><hi rend="sc">Note</hi>. — Pygmalion was a sculptor of the isle of Cyprus. He is said to have made an image of a maiden which was so beautiful that he fell deeply in love with it. He prayed to Venus (called by the Greeks Aphrodite) to give life to the image. By her grace, accordingly, it was made into a live woman, whom, then, Pygmalion married.</p>
         </div>
       </div>
@@ -945,7 +945,7 @@
             <l>“I die, I die,” was all she said,</l>
             <l>   While Echo murmur’d “I die, I die!”</l>
           </quote>
-          <bibl> <author>Thomas Moore</author>.</bibl>
+          <bibl> <author key="Th. Moore">Thomas Moore</author>.</bibl>
         </div>
       </div>
       <div>

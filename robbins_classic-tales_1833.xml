@@ -173,7 +173,7 @@
         <p><hi rend="i">Mother.</hi> I think so. Many beside you think so. The Italian painters like it very much. I gave it you because I thought you might see prints of it, which you would better understand if you knew the story.
           <author>Sir James Edward Smith</author>, an English traveller, saw this whole story painted in a palace in Italy; he says, in <title>a journal of his travels</title>,
           <quote>“The Farnesina, a little palace on the Tiber, belonging to the king of Naples, is adorned with beautiful fresco paintings by </quote>
-          <author>Raphael</author>
+          <author key="Raffaello">Raphael</author>
           <quote>. The walls of the palace are embellished with a representation of the story of Cupid and Psyche in twenty-four compartments. Never was a story better exhibited.”</quote></p>
         <p><hi rend="i">Ann.</hi> Have you any more stories like this of Psyche for me to read?</p>
         <p><hi rend="i">Mother.</hi> Yes, I have many; and the next I will give you shall be one about Proserpine, who gave Psyche the box.</p>
@@ -370,7 +370,7 @@
           <l>With widow’s tears may live to bury me,</l>
           <l>Nor weeping I, with withered arms, may bear</l>
           <l>My breathless Baucis to the sepulchre.”<note place="bottom">
-            <author>Dryden</author>.</note></l>
+            <author key="J. Dryden">Dryden</author>.</note></l>
         </quote>
         <p>Jupiter granted their request, and for a few years they dwelt in the precincts of his temple, and assisted in his worship. But one day, as they stood at the gate discoursing with some strangers who had come thither, and were relating the transformation of their cottage, old Philemon perceived his good dame to be covered with leaves, of tender green; and old Baucis saw his lengthened arms putting forth branches; roots sprung from their feet and penetrated the ground; their bodies, suddenly enclosed with bark, assumed the form of a tree’s trunk, and an encroaching rind closed up their lips, as they uttered the fond words, “Farewell, faithful husband!” “Farewell, beloved wife!”</p>
         <p>Philemon became a vigorous oak, and Baucis a shady linden. Their story was told far and wide, and their virtues were held in respect. Worshippers who resorted to the temple, brought garlands there, and hung upon the branches of the trees, which stood side by side. The votaries prayed that their wives might be helpers and comforters like Baucis, and their husbands constant till death, like Philemon.</p>
@@ -406,7 +406,7 @@
         <p><hi rend="i">Mother.</hi> Now you see one of the uses of classical fables.</p>
         <p><hi rend="i">Ann.</hi> I see that they serve to explain the <title>Bible</title> sometimes. I never beard a nightingale sing; have you?</p>
         <p><hi rend="i">Mother.</hi> The nightingale is not known in America. She has been celebrated in all ages. She is a native of the southern countries of Europe, and it may be of Western Asia. She is called in poetry, Philomela, from that fable you have been reading. The fable might be concluded by saying, that Philomela bewailed her misfortunes in sweet melancholy music, which she made chiefly in the night. That is what the nightingale does. You shall read part of Mr.
-          <author>Keats’s</author> sweet description of this poetic warbler.</p>
+          <author key="Keats">Keats’s</author> sweet description of this poetic warbler.</p>
         <p>(Her mother gives her a book, and Ann reads.)</p>
         <quote>
           <l>“Thou wast not born for death, immortal bird!</l>
@@ -471,7 +471,7 @@
         <p><hi rend="i">Mother.</hi> What we call his character. He was endowed with wings, was quick in flight, and was eloquent and watchful over the affairs of mortals. Celerity, or quick motion; eloquence, or ready speech; vigilance, or watchfulness, were his attributes. He assisted thieves and orators, and carried messages for the gods; such was his function, or business. Do you understand me?</p>
         <p><hi rend="i">Ann.</hi> Very well. What was the caduceus?</p>
         <p><hi rend="i">Mother.</hi> It was a wand, or stick, round which serpents were twined. As a stick inflicts blows, and may defend a man, may prevent others from injuring him, or punish them if they do — a stick, or thick rod of wood, shows that the person bearing it is powerful. Such a rod in a king’s hand is a sceptre. In the hand of a god, or witch, or pretended prophet, it is a wand; and with it, fables say, the god, or witch, calls up absent or dead persons, and does other wonders, which he could not do without it Mercury’s caduceus, when he touched people with it, made them wake, or fall asleep, just as he chose.
-          <author>Homer</author> describes it as</p>
+          <author key="Homère">Homer</author> describes it as</p>
         <quote>
           <l>“The wand which causes sleep to fly,</l>
           <l>Or in soft slumber seals the wakeful eye.”</l>
@@ -743,7 +743,7 @@
         <p>Æolus had shut up the winds in their prison, the night was tranquil, and Perseus being delivered from the king of Mauritania, fell into a refreshing sleep. Nature reposed in quiet, till Lucifer, the morning star, shedding silvery light upon the couch of the shepherd and the ploughman, admonished them that the hour to commence their daily labour had arrived. Perseus still slumbered, but Aurora unbarred the gates of day, and roused him from his rest. He rose with renewed vigour, and pursued his way, like some migratory bird, through immeasurable fields of ether, leaving, in his flight, nations and cities behind him.</p>
         <p>The next descent of Perseus was into the dominions of Cepheus, king of Ethiopia. Here he beheld Andromeda, the king’s daughter, chained to a rock, where she was expecting, in unspeakable anguish, to be devoured by a sea monster.</p>
         <p>Andromeda’s mother was a vain, silly woman. She boasted of her own beauty, and said that she was handsomer than Juno or the Nereides. Neptune, as god of the sea, had a great regard for the Nereides. They were fifty daughters of the sea-god Nereus, and had their habitation in the ocean.
-          <author>Milton</author> calls them
+          <author key="Milton">Milton</author> calls them
           <quote>the “blue-haired” deities</quote>.</p>
         <p>Neptune was offended with Cassiope, and because she was a queen, laid her whole kingdom under water. The poor people, to escape from the inundation, climbed upon house-tops, and the highest branches of trees; some were drowned and others starved, and a great sea monster came up and devoured many.</p>
         <p>Cepheus, in this calamity, resorted to the oracle of Jupiter Ammon. This oracle was in Lybia, nine days journey from Alexandria. There was a temple to Jupiter and in it the figure of a ram, with large horns; and so he was sometimes called “horned Ammon.” Cepheus entreated the oracle to instruct him what he should do to satisfy the angry Neptune.</p>
@@ -844,7 +844,7 @@
         <p><hi rend="i">Mother.</hi> It was necessary for me to explain to you folly the <hi rend="i">term</hi>, or word <hi rend="i">association</hi>, before I could make you understand that <hi rend="sc">many associations</hi> belong to the story of Apollo and the Python.</p>
         <p><hi rend="i">Ann.</hi> What are some of them?</p>
         <p><hi rend="i">Mother.</hi> After he had killed the Python, he was sometimes called Pythias. The Greeks built a temple in honour of Apollo at Delphi, and
-          <author>Homer</author> calls it
+          <author key="Homère">Homer</author> calls it
           <quote>“rocky Pytho.”</quote> They instituted an oracle there, and the priestess was called the Pythia. They said that the tripod on which this priestess sat was covered with the skin of the Python. And they celebrated the death of the Python in certain games, called the Pythian.</p>
         <p><hi rend="i">Ann.</hi> What was a tripod?</p>
         <p><hi rend="i">Mother.</hi> It was sometimes a stool with <hi rend="i">three</hi> feet. The Greeks were very fond of tripods; I mean the form of a tripod was very fashionable among them. They used them for many purposes, and they were sometimes used to burn perfumes, or to set lamps upon. Here is one with an <hi rend="i">antique</hi> lamp on it. There was a street at Athens called the street of the Tripods.</p>

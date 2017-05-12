@@ -70,7 +70,7 @@
         <p>I have avoided the use of an undue number of proper names, those stumbling-blocks in the pathway of a young reader. Just enough have been given to hold the reader’s interest and to make him familiar with the chief characters in the mythical play, characters that he will meet again and again in literature and art. The pronouncing list on page 8 includes all these names, and with a little help here and there from the teacher they need cause the pupil no difficulty.</p>
         <p>Following many of the stories there are poems bearing directly on the subjects. These have been selected with the utmost care. They are designed not merely to introduce the children to some of our greatest authors, but also to cultivate a taste for what is purest and best in literature.</p>
         <p>The illustrations are intended to serve an educative purpose similar to that of the poems. They are reproductions of famous paintings and sculptures by the foremost artists of all ages, and it is hoped that they may awaken the true artistic sense.</p>
-        <p>The poems by <author>Longfellow</author>, <author>Lowell</author>, <author>Phœbe Cary</author>, and <author>Edith M. Thomas</author> are printed by permission of, and arrangement with, their publishers, Houghton, Mifflin, and Co.; and the poems by <author>William Cullen Bryant</author> and <author>Fitz-Greene Halleck</author> by permission of D. Appleton and Co. Thanks are due also to the Century Co., in whose publication, <hi rend="i">St. Nicholas</hi>, the poem <title>“Invitation to Echo,”</title> first appeared.</p>
+        <p>The poems by <author key="Longfellow">Longfellow</author>, <author key="Lowell">Lowell</author>, <author>Phœbe Cary</author>, and <author key="Thomas">Edith M. Thomas</author> are printed by permission of, and arrangement with, their publishers, Houghton, Mifflin, and Co.; and the poems by <author>William Cullen Bryant</author> and <author>Fitz-Greene Halleck</author> by permission of D. Appleton and Co. Thanks are due also to the Century Co., in whose publication, <hi rend="i">St. Nicholas</hi>, the poem <title>“Invitation to Echo,”</title> first appeared.</p>
         <signed>G. H. K.</signed>
       </div>
       <div>
@@ -423,7 +423,7 @@
           <l>To escape your prison can you find no way?</l>
           <l>                                        (No way!)</l>
         <bibl>
-            <author><hi rend="sc">Edith M. Thomas</hi></author>.</bibl></quote>
+            <author key="Thomas"><hi rend="sc">Edith M. Thomas</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>How Narcissus Loved His Own Image</head>
@@ -534,7 +534,7 @@
           <l>How must the heart, ah, Cupid, be,</l>
           <l>The hapless heart that’s stung by thee?”</l>
         <bibl>
-            <author><hi rend="sc">Thomas Moore</hi></author>.</bibl></quote>
+            <author key="Th. Moore"><hi rend="sc">Thomas Moore</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>The Story of a Sweet Singer</head>
@@ -648,7 +648,7 @@
           <l>                    The horn the horn!</l>
           <l>Oh, the sound of all sounds is the hunter’s horn!</l>
         <bibl>
-            <author><hi rend="sc">Barry Cornwall</hi></author>.</bibl></quote>
+            <author key="Cornwall"><hi rend="sc">Barry Cornwall</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>The Story of Perseus</head>
@@ -816,8 +816,8 @@
           <l>Ever honored, ever young,</l>
           <l>Thus great Pan is ever sung.</l>
         <bibl>
-            <author><hi rend="sc">Beaumont</hi></author><hi rend="sc">and</hi>
-            <author><hi rend="sc">Fletcher</hi></author>.</bibl></quote>
+            <author key="Beaumont,"><hi rend="sc">Beaumont</hi></author><hi rend="sc">and</hi>
+            <author key="Fletcher"><hi rend="sc">Fletcher</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>How a Mother’s Pride Was Humbled</head>

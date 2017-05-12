@@ -57,15 +57,15 @@
         <p>Before the glorious splendour of truth beamed forth from the <title>Gospel of Christ</title>, upon the darkened world, the pollutions of licentiousness were intermingled even with religious rites and compositions.</p>
         <p>Passions so degrading, and actions so shameful, were attributed by the Heathens to the false divinities whom their deluded imaginations had devised, that from the contemplation of such a spectacle, the delicate mind must turn away with disgust; so that, without some modification, such histories are utterly improper to be presented to the attention of youth. The following introduction to Pagan Mythology was intended to obviate this difficult;</p>
         <p>In the successive editions of this work which the approbation of to the Public has called for, to the Grecian and Roman Mythology, illustrated by selections from
-          <author>Homer</author> and
-          <author>Virgil</author>, have been added brief accounts of the Buddhic, Indian, Persian, Egyptian, Scythian, Celtic, Arabian, and Canaanitish systems, diversified likewise by quotations from various poets; to which is subjoined a slight sketch of the Mexican and Peruvian religious fables and ceremonies.</p>
+          <author key="Homère">Homer</author> and
+          <author key="Virgile">Virgil</author>, have been added brief accounts of the Buddhic, Indian, Persian, Egyptian, Scythian, Celtic, Arabian, and Canaanitish systems, diversified likewise by quotations from various poets; to which is subjoined a slight sketch of the Mexican and Peruvian religious fables and ceremonies.</p>
         <p>The Mythology of the Greeks and Romans is evidently drawn from that of the Oriental nations.</p>
         <p>Orpheus, Pythagoras, Thales, and other founders of Grecian philosophy and mythology, studied in Egypt; and having learned the doctrines of its priests, introduced them, modelled agreeably to their own ideas, into their own country. As this is the case, it might have appeared more natural to the source before the stream; to introduce the young student, first, to Eastern mythology, and afterwards duct him to its corrupt but elegant offspring. Yet as the mythology of Greece and Rome occurs so much more frequently in those books which are most commonly, and most early, used in education, it has been deemed preferable to retain the order generally adopted in works of this kind.</p>
         <p>The information given concerning the Oriental Mythology is borrowed principally from
           <author>Maurice</author>’s <title>Indian Antiquities</title>, and the <title>Asiatic Researches</title>; from
           <author>Faber</author>’s excellent work on the <title>Pagan Mythology</title>; and from the <title>Cyclopædia</title> of
-          <author>Dr. Rees</author>. The Author acknowledges, likewise, his obligations to
-          <author>Dr. Prichard</author>, for the information and pleasure he has received from his scientific work on <title>Egyptian Mythology and Chronology</title>.</p>
+          <author key="Rees">Dr. Rees</author>. The Author acknowledges, likewise, his obligations to
+          <author key="Prichard">Dr. Prichard</author>, for the information and pleasure he has received from his scientific work on <title>Egyptian Mythology and Chronology</title>.</p>
         <p>Finally, the Author presumes to hope that, improved by some few alterations, and by considerable additions, the New Pantheon may be found to possess a juster claim to that favour which it has already experienced, may continue to enjoy that support which it has hitherto found, and may meet with still more extensive patronage.</p>
         <dateline><hi rend="sc">Cork</hi>, January, 1824.</dateline>
       </div>
@@ -135,8 +135,8 @@
             <l>Inspir’d by thee, the combat I require,</l>
             <l>My bosom kindles, and my soul’s on fire.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -181,7 +181,7 @@
           <p>In their extreme blindness, the heathens, though ascribing to him power, wisdom, and justice, yet intermingled, in his character, many shameful vices and weaknesses of mortality. In his real history, as an earthly monarch, he would have been a truly illustrious Prince, had he not been excessively addicted to pleasure, and indulgent to his vicious passions.</p>
           <q>In what manner was Jupiter represented?</q>
           <p>Jupiter was generally represented seated on a throne, under the figure of a majestic man, with a venerable beard. In his right-hand, holding the thunder; in his left, a sceptre made of cypress wood, expressive of durability, and the image of victory; treading the Titans under his feet, and having an eagle near him with extended wings. The upper part of his body was naked, the lower part clothed. The throne denoted the stability of his empire; the upper part of his body, being uncovered, signified that he was visible to superior beings, and the celestial regions, while the long garments robing the lower part, expressed his invisibility to mortals. The sceptre was emblematical of his irresistible power; and the eagle with outstretched wings, of his sovereignty over the heavens.
-            <author>Homer</author> describes him with black eyebrows and curling hair; his head surrounded with clouds, and shaking the heavens with his nod; the eagle placed at his feet; the winged thunderbolt in his hand; by his side, respect and equity; before him, two urns of good and evil, which he distributes at pleasure to mankind. His thunderbolt was composed of hail, rain, fire, and wind, intermixed with lightning, terror, noise, and wrath.</p>
+            <author key="Homère">Homer</author> describes him with black eyebrows and curling hair; his head surrounded with clouds, and shaking the heavens with his nod; the eagle placed at his feet; the winged thunderbolt in his hand; by his side, respect and equity; before him, two urns of good and evil, which he distributes at pleasure to mankind. His thunderbolt was composed of hail, rain, fire, and wind, intermixed with lightning, terror, noise, and wrath.</p>
           <quote>
             <l>He whose all conscious eyes the world behold,</l>
             <l>Th’ eternal Thunderer sits enthron’d in gold.</l>
@@ -193,8 +193,8 @@
             <l>High heav’n, with trembling, the dread signal takes,</l>
             <l>And all Olympus to the centre shakes.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
           <quote>
             <l>Then spake th’ almighty Father as he sate</l>
@@ -204,8 +204,8 @@
             <l>Earth to the centre shakes; high heav’n is awed,</l>
             <l>And all th’ immortal pow’rs stand trembling at the God.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
           <quote>
             <l>Great Jove himself, whom dreadful darkness shrouds,</l>
@@ -219,8 +219,8 @@
             <l>Thick fall the rains; the wind redoubled roars;</l>
             <l>The God now smites the woods, and now the sounding shores.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -263,8 +263,8 @@
             <l>Herself, impatient, to the ready car</l>
             <l>The coursers joins, and breathes revenge and war.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
           <q>What were the offices of Hebe?</q>
           <p>She was the blooming Goddess of youth; and was cup-bearer to Jupiter, until by an unfortunate fall, having displeased him, she was deprived of that honour. Ganymede, the beautiful son of Tros, king of Troy, was substituted in her place.</p>
@@ -304,8 +304,8 @@
             <l>Invoking Ceres; and in solemn lays,</l>
             <l>Exalt your rural queen’s immortal praise.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -364,7 +364,7 @@
             <l>With winged speed, outstrip the eastern wind,</l>
             <l>And leave the breezes of the morn behind.</l>
             <bibl>
-              <author>Ovid</author>’s <title>Metamorphoses</title>,</bibl>
+              <author key="Ovide">Ovid</author>’s <title>Metamorphoses</title>,</bibl>
           </quote>
           <q>Who were the children of the Sun?</q>
           <p>The Sun was supposed to have many children; the most celebrated of whom were, Aurora, Circe, and Phaeton. Aurora, every morning, opens the gates of heaven, precedes her father, and announces his return. She petitioned the Gods to bestow immortality upon Tithonus, son of Laomedon, king of Troy, whom she had married, forgetting to request perpetual youth to be granted with it. Consequently, Tithonus was burthened with all the infirmities of old age, while Aurora still flourished in full bloom. He intreated Aurora to obtain a reversion of this fatal gift, and permission to die.</p>
@@ -396,7 +396,7 @@
             <l>Till on the Po his blasted corpse was hurl’d,</l>
             <l>Far from his country in the western world.</l>
             <bibl>
-              <author>Ovid</author>’s <title>Met.</title></bibl>
+              <author key="Ovide">Ovid</author>’s <title>Met.</title></bibl>
           </quote>
           <q>What was the history of Circe?</q>
           <p>Circe was a most skilful sorceress, who poisoned her husband, a king of the Sarmatians. For this horrible action, she was banished by her subjects, and flying into Italy, established herself upon the promontory Circeum. She fell in love with Glaucus, a sea god, who, preferring a sea nymph, called Scylla, Circe transformed her into a sea monster, by poisoning the water, in which she was accustomed to bathe. She is said to have changed men into beasts, and to have drawn down the stars from heaven, by her powerful incantations. Circe was the emblem of voluptuousness; which, by this allegory the poets taught, degraded those into brute beasts who became its slaves, although their genius and talents might have been bright, as the stars in the firmament.</p>
@@ -427,8 +427,8 @@
             <l>Still curst with sense, their minds remain alone,</l>
             <l>And their own voice affrights them when they groan.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Odyssey</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Odyssey</title>.</bibl>
           </quote>
           <quote>
             <l>Now by rich Circe’s coast they bend their way,</l>
@@ -444,8 +444,8 @@
             <l>These once were men; But Circe’s charms confine,</l>
             <l>In brutal shapes, the human form divine.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -482,8 +482,8 @@
             <l>‘Deep horror seizes ev’ry Grecian breast,</l>
             <l>Their force is humbled, and their fear confest.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
           <quote>
             <label>Apollo inflicting a pestilence upon the Greeks.</label>
@@ -498,8 +498,8 @@
             <l>On mules and dogs, the infection first began;</l>
             <l>And last the vengeful arrows fixed on man.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
         </div>
         <div>
@@ -581,14 +581,14 @@
             <l>Each field replete, with blushing autumn, glow,</l>
             <l>And in deep tides, by thee, the foaming vintage flow.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
           <q>What appears to be the true history of Bacchus?    </q>
           <p>The best historians,
-            <author>Herodotus</author>,
-            <author>Plutarch</author>, and
-            <author>Diodorus Siculus</author>, assert that he was born in Egypt, and educated at Nysa, a city in Arabia Felix; whither he had been sent by his father, Jupiter Ammon. From them it appears that the Bacchus of the Greeks was no other than the famous Osiris, conqueror of India. This Bacchus is supposed, by many learned men, to be Moses. Both are represented as born in Egypt, and exposed in their infancy upon the Nile. Bacchus was educated at Nissa or Nysa, in Arabia, and in the same country Moses passed forty years. Bacchus, when persecuted, retired to the borders of the Red Sea; and Moses fled with the Israelites, from the Egyptian bondage, beyond the same sea. The numerous army of Bacchus, composed of men and women, passed through Arabia in their journey to India. The army of the Jewish legislator, composed of men, women, and children, was obliged to wander in the desert, long before they arrived in Palestine, which, as well as India, is part of the continent of Asia. The fable represents Bacchus with horns, which may be supposed to allude to the light that is said to have shone around the countenance of Moses, who, in old engravings, is frequently represented with horns. Moses received the Jewish law on Mount Sinai. Bacchus was brought up on Mount Nysa. Bacchus, armed with his thyrsus, defeated the giants. The miraculous rod of Moses was the means of destroying the descendants of the giants. Jupiter was said to have sent Bacchus into India to exterminate a sinful nation; and it is recorded, that Moses was commanded, by the true God, to do the same in Palestine. The god Pan gave Bacchus a dog to accompany him in his travels; Caleb, which, in Hebrew, signifies a dog, was the name of the faithful companion of Moses. Bacchus, by striking the earth with his thyrsus, produced rivers of wine. Moses, by striking the rock with his miraculous rod, caused water to gush out to satisfy the raging thirst of the Israelites. Others have regarded Bacchus as being the
+            <author key="Hérodote">Herodotus</author>,
+            <author key="Plutarque">Plutarch</author>, and
+            <author key="Diodore de Sicile">Diodorus Siculus</author>, assert that he was born in Egypt, and educated at Nysa, a city in Arabia Felix; whither he had been sent by his father, Jupiter Ammon. From them it appears that the Bacchus of the Greeks was no other than the famous Osiris, conqueror of India. This Bacchus is supposed, by many learned men, to be Moses. Both are represented as born in Egypt, and exposed in their infancy upon the Nile. Bacchus was educated at Nissa or Nysa, in Arabia, and in the same country Moses passed forty years. Bacchus, when persecuted, retired to the borders of the Red Sea; and Moses fled with the Israelites, from the Egyptian bondage, beyond the same sea. The numerous army of Bacchus, composed of men and women, passed through Arabia in their journey to India. The army of the Jewish legislator, composed of men, women, and children, was obliged to wander in the desert, long before they arrived in Palestine, which, as well as India, is part of the continent of Asia. The fable represents Bacchus with horns, which may be supposed to allude to the light that is said to have shone around the countenance of Moses, who, in old engravings, is frequently represented with horns. Moses received the Jewish law on Mount Sinai. Bacchus was brought up on Mount Nysa. Bacchus, armed with his thyrsus, defeated the giants. The miraculous rod of Moses was the means of destroying the descendants of the giants. Jupiter was said to have sent Bacchus into India to exterminate a sinful nation; and it is recorded, that Moses was commanded, by the true God, to do the same in Palestine. The god Pan gave Bacchus a dog to accompany him in his travels; Caleb, which, in Hebrew, signifies a dog, was the name of the faithful companion of Moses. Bacchus, by striking the earth with his thyrsus, produced rivers of wine. Moses, by striking the rock with his miraculous rod, caused water to gush out to satisfy the raging thirst of the Israelites. Others have regarded Bacchus as being the
             same with Nimrod, the first ambitious conqueror, and enslaver of men; that mighty hunter before the Lord.</p>
         </div>
         <div>
@@ -648,8 +648,8 @@
             <l>The sounding hinges ring: on either side</l>
             <l>The gloomy volumes, pierc’d with light, divide.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
         </div>
         <div>
@@ -690,8 +690,8 @@
             <l>The nations bleed where’er her steps she turns,</l>
             <l>The groan still deepens, and the combat burns.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
           <quote>
             <label>Mars wounded.</label>
@@ -718,8 +718,8 @@
             <l>In such a cloud the God from combat driv’n</l>
             <l>High o’er the dusty whirlwind scales the heav’n.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
         </div>
         <div>
@@ -752,10 +752,10 @@
             <l>Unguents which charm the Gods: She, last, assumes</l>
             <l>Her splendid robes; and full the Goddess blooms.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>, and
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Odyssey</title>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>, and
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Odyssey</title>.</bibl>
           </quote>
           <quote>
             <label>Venus wounded.</label>
@@ -776,8 +776,8 @@
             <l>Pure emanation! uncorrupted flood:</l>
             <l>Unlike our gross, diseas’d terrestrial blood.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
           <q>Who was Cupid?</q>
           <p>An allegorical representation, or emblem, of the passion of love. He was generally painted as a beautiful winged boy, with a bow and arrows, and very often with a bandage over his eyes. Ancient statues and intaglios sometimes represent him bestriding the back of a lion, and playing on a lyre; whilst the fierce savage turning his head, seems to listen to its harmonious chords.</p>
@@ -793,7 +793,7 @@
           </figure>
           <q><hi rend="sc">Who</hi> was Vulcan?</q>
           <p>It appears that there were three of the name of Vulcan. The first was Tubalcain, mentioned by
-            <author>Moses</author> as the inventor of forging metals. The second was one of the Egyptian kings, or rather, their first divinity. The third, the Grecian Vulcan, was a Titan prince, son of Jupiter, obliged, by disgrace, to take refuge in the Isle of Lemnos, where he established the art of working iron and brass.</p>
+            <author key="Moïse">Moses</author> as the inventor of forging metals. The second was one of the Egyptian kings, or rather, their first divinity. The third, the Grecian Vulcan, was a Titan prince, son of Jupiter, obliged, by disgrace, to take refuge in the Isle of Lemnos, where he established the art of working iron and brass.</p>
           <q>What was his poetical history?</q>
           <p>He was said by the poets to be the son of Jupiter and Juno. For having made the formidable thunderbolts, which Jupiter hurled at the giants attempting to scale the celestial region, Venus was bestowed upon him as a wife. Afterwards, misbehaving himself, Jupiter, with one kick of his foot, precipitated him from heaven. He fell upon the island of Lemnos, and was crippled by his fall. In the caves of that isle, and in the immense subterraneans of Mount Etna, he was supposed to follow his profession, assisted by the Cyclops, Giants with only one eye, and that in the middle of their foreheads.</p>
           <quote>
@@ -819,8 +819,8 @@
             <l>To whom were voice, and sense, and science giv’n</l>
             <l>Of works divine (such wonders are in heav’n!)</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
           <q>What eminent works were ascribed to him?</q>
           <p>He was the God of fire; the inventor and patron of the art of fabricating arms and utensils from metals. The famous palace of the Sun, the armour of Achilles and Eneas; the elegant necklace of Hermione; the beautiful crown of Ariadne; an animated brazen dog, and a woman of the same metal, who was likewise endowed with life by the fire which Prometheus stole from the chariot of the sun; these, all, were works of his art.</p>
@@ -860,8 +860,8 @@
             <l>The mass they temper’d thick with livid rays,</l>
             <l>Fear, Wrath, and Terror, and the lightning’s blaze.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -889,8 +889,8 @@
             <l>Then shoots from heav’n to high Pieria’s steep,</l>
             <l>And stoops incumbent on the rolling deep.</l>
             <bibl>
-              <author>Homer</author>’s <title>Odyssey</title> —
-              <author>Pope</author>.</bibl>
+              <author key="Homère">Homer</author>’s <title>Odyssey</title> —
+              <author key="Pope">Pope</author>.</bibl>
           </quote>
           <quote>
             <label>Mercury and Atlas.</label>
@@ -915,8 +915,8 @@
             <l>Out-spread, his mighty shoulders heave below</l>
             <l>The hoary piles of everlasting snow,</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -964,8 +964,8 @@
             <l>And pour in light on Pluto’s drear abodes,</l>
             <l>Abhorred by men and dreadful ev’n to Gods.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Iliad</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Iliad</title>.</bibl>
           </quote>
           <quote>
             <label>Juno, Neptune, and Pallas, overthrowing Troy.</label>
@@ -985,8 +985,8 @@
             <l>Then, fell proud Ilion’s bulwarks, tow’rs, and spires;</l>
             <l>Then, Troy, though rais’d by Neptune, sunk in fires.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
           <q>Who were the children of Neptune?</q>
           <p>The most remarkable of them were, Polyphemus, one of the Cyclops; a dreadful giant, who resided in Sicily, and devoured those human beings who were so unfortunate as to fall into his hands; Phorcus, father of the terrible Gorgons; Proteus, and Triton.</p>
@@ -1009,8 +1009,8 @@
             <l>Then, stalks enormous through the midmost tides,</l>
             <l>And scarce the topmost surges reach his sides.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -1075,8 +1075,8 @@
               <quote>A tree and well dissembled foliage wears.</quote>
             </l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Odyssey</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Odyssey</title>.</bibl>
           </quote>
           <q>Who were Glaucus, Portumnus, Saron, Egeon, Ino, and Palemon?</q>
           <p>They were mortals changed into sea Gods, by some extraordinary influence. Egeon is spoken of, as a formidable giant, who issued from the sea, to assist the Titans against Jupiter, but being vanquished by Neptune, was forced to take refuge in the deepest recesses of the ocean.</p>
@@ -1107,8 +1107,8 @@
             <l>In the wide dungeon, she devours her food,</l>
             <l>And the flesh trembles, while she churns the blood.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Odyssey</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Odyssey</title>.</bibl>
           </quote>
           <q>What were the Halcyons?</q>
           <p>Sea birds, who were supposed to build their nests upon the waves, and to calm their violence by their presence. Halcyone, wife of Ceyx, king of Trachinia, seeing the corpse of her husband (who had been shipwrecked on his return from consulting the oracle of Delphi) driven on shore by the tide, threw herself into the sea. The Gods, pitying their unhappy fate, changed them into the birds called Halcyons, and imparted to them the power of stilling the waves.</p>
@@ -1192,7 +1192,7 @@
           <p>Gods presiding over empires, cities, highways, houses, and individuals. Among these Divinities, were ranked the souls of them who had faithfully served the state; and families placed among them the spirits of their departed friends and relations. They were esteemed as the guardians of houses. They were worshiped, under the figure of small images of human form, and were kept in the most retired part of the edifices. Lamps, the symbols of vigilance, were consecrated to them, and that faithful domestic animal, the dog, was their sacrifice. When infants quitted one of their first ornaments, called the Bulla, it was deposited before the feet of these domestic Deities. During the public feasts of these Lares and Penates, small waxen images were suspended in the streets, and they were intreated, upon these alone, to lay the weight of their displeasure, if offended. The Romans supposed them to be descendants of Jupiter and Larmida.</p>
           <q>What were the Genii?</q>
           <p>They were likewise ranked in the number of these domestic Divinities. Every man was supposed to have two, accompanying him; one, the author of his happiness, the other, of his misery. They were represented as young men, holding, in one hand, a drinking vessel, and in the other, a horn of plenty. Sometimes they were depicted under the form of serpents. The forehead was peculiarly consecrated to them. It was the universal custom to invoke these Genii on birth-days. The ground was strewed with flowers; and wine was offered to them in cups. The opinion prevailed that the universe abounded in spirits, presiding over its various parts and movements.
-            <author>Plato</author> speaks of Gnomes, Sylphs, and Salamanders, the first inhabiting the earth; the second, the air; the third, the fire.</p>
+            <author key="Platon">Plato</author> speaks of Gnomes, Sylphs, and Salamanders, the first inhabiting the earth; the second, the air; the third, the fire.</p>
         </div>
         <div>
           <head>Chap XXIV. [Infernal Regions.]</head>
@@ -1268,8 +1268,8 @@
           <p>When the souls left the bodies which they animated, they were conducted by Mercury, either to Tartarus, or the Elysian fields; the wicked to the former, the virtuous to the latter.</p>
           <p>It was almost universally believed, that after remaining a thousand years in that abode, the souls returned to earth, and animated other bodies, either of men or animals. Before they quitted the infernal regions, they drank of the waters of Lethe, which made them forget all past events.</p>
           <p>This idea was derived likewise from the Egyptians, and in imitation of them,
-            <author>Orpheus</author>,
-            <author>Homer</author>, and other poets, introduced it into their writings.</p>
+            <author key="Orphée">Orpheus</author>,
+            <author key="Homère">Homer</author>, and other poets, introduced it into their writings.</p>
         </div>
         <div>
           <head>Chap. XXVI. [Judges of the Infernal Regions, Furies, Fates, Nemesis, Manes, Nox, Somnus, Mors.]</head>
@@ -1278,11 +1278,11 @@
           <q>Who were the Furies?</q>
           <p>They were three in number; Tisiphone<note place="bottom">
             <quote><label> Tisiphone.</label><l>Now to the left, Æneas darts his eyes,</l><l>Where lofty walls with triple ramparts rise.</l><l>There rolls fierce Phlegethon, with thund’ring sound,</l><l>His broken rocks, and whirls his surges round.</l><l>On mighty columns rais’d sublime, are hung</l><l>The massy gates, impenetrably strong.</l><l>In vain would men, in vain would Gods essay,</l><l>To hew the beams of adamant away.</l><l>Here rose an iron tow’r: before the gate,</l><l>By night and day, a wakeful fury sate,</l><l>The pale Tisiphone; a robe she wore,</l><l>With all the pomp of horror, dy’d in gore.</l><l>Here the loud scourge, and louder voice of pain,</l><l>The crashing fetter, and the rattling chain,</l><l>Strike the great hero with the frightful sound,</l><l>The hoarse, rough, mingled din, that thunders round.</l><bibl>
-            <author>Pitt</author>’s
-            <author>Virgil</author>.</bibl> </quote></note>, Megæra, and Alecto<note place="bottom">
+            <author key="Pitt">Pitt</author>’s
+            <author key="Virgile">Virgil</author>.</bibl> </quote></note>, Megæra, and Alecto<note place="bottom">
             <quote><label> Alecto.</label><l>This said, to earth th’ impetuous goddess flies</l><l>Inflam’d with rage and vengeance, from the skies</l><l>Looks down, and, bending o’er the baneful cell,</l><l>Calls dire Alecto from the realms of hell.</l><l>Crimes, frauds, and murders, are the fiend’s delight,</l><l>The rage of death, and slaughters of the fight.</l><l>So fierce her looks! such terrors from her eyes!</l><l>Round her grim front such monstrous serpents rise!</l><l>She scares ev’n Pluto, her immortal sire.</l><l>Her sister furies, tremble and retire.</l><bibl>
-            <author>Pitt</author>’s
-            <author>Virgil</author>.</bibl> </quote></note>. They were accounted to be the daughters of Acheron and Nox. Their names signify rage, slaughter, and envy. They are represented with torches in their hands: their heads covered with snakes instead of hair, and holding whips of serpents or scorpions; and funeral robes bound round their waists with girdles of snakes. The Greeks named them Diræ, Erinnes, Disturbers of the Mind. They were also called Eumenides, or the Mild, when supposed to be appeased by Minerva.</p>
+            <author key="Pitt">Pitt</author>’s
+            <author key="Virgile">Virgil</author>.</bibl> </quote></note>. They were accounted to be the daughters of Acheron and Nox. Their names signify rage, slaughter, and envy. They are represented with torches in their hands: their heads covered with snakes instead of hair, and holding whips of serpents or scorpions; and funeral robes bound round their waists with girdles of snakes. The Greeks named them Diræ, Erinnes, Disturbers of the Mind. They were also called Eumenides, or the Mild, when supposed to be appeased by Minerva.</p>
           <q>Who were the Fates?</q>
           <p>The Fates or Parcæ were three in number, daughters of Necessity. They were supposed to spin and cut the thread of human life and destiny. Clotho held the distaff; Lachesis turned the spindle; Atropos cut the thread. Happy days were spun out of gold and silver, while the thread of sorrow was of black worsted. The Fates are represented as three women bending under the weight of years. Clotho wore a robe of various colours, and a crown composed of seven stars. Her distaff reached from heaven to earth. The robe of Lachesis was spangled with stars, and near her lay a number of spindles. Atropos, clothed in black, held the fatal shears, ready to cut the thread of life.</p>
           <q>Who was Nemesis?</q>
@@ -1311,8 +1311,8 @@
             <l>Again the restless orb his toil renews,</l>
             <l>Dust mounts in clouds, and sweat descends in dews.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>’s <title>Odyssey</title>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>’s <title>Odyssey</title>.</bibl>
           </quote>
           <p>Phlegyas, a son of Mars, for having set fire to the temple of Apollo, at Delphi, sees, with terror, a vast stone suspended over his head, perpetually threatening to fall and crush him beneath its weight.</p>
           <p>The giant Tityus, a son of Jupiter, whose body covers nine acres, was slain by the arrow of Apollo, because he dared to insult Diana, and was thrown into Tartarus, where vultures unceasingly prey upon his liver, which is continually renewed.</p>
@@ -1385,8 +1385,8 @@
             <l>Hail mighty chief, advanc’d to heav’n’s abodes,</l>
             <l>Hail son of Jove, a God amongst the Gods.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
           <q>Who was Theseus?</q>
           <p>Son of Egeon, king of Athens; a hero who, like Hercules, went about destroying oppressors and combating wild beasts. Pirithous, king of the Lapithæ, a people of Thessaly, was his friend, and his companion in many of his enterprises. The poets relate a number of extravagant tales of them both.</p>
@@ -1412,8 +1412,8 @@
             <l>Her pitchy nostrils flaky flames expire;</l>
             <l>Her gaping throat emits infernal fire.</l>
             <bibl>
-              <author>Pope</author>’s
-              <author>Homer</author>.</bibl>
+              <author key="Pope">Pope</author>’s
+              <author key="Homère">Homer</author>.</bibl>
           </quote>
           <q>What were the Harpies and the Gorgons?</q>
           <p>The Harpies were fierce winged animals, with the faces of virgins, the bodies of birds, the claws of lions.</p>
@@ -1429,8 +1429,8 @@
             <l>While proof to steel, their hides and plumes remain,</l>
             <l>We strike th’ impenetrable fiends in vain.</l>
             <bibl>
-              <author>Pitt</author>’s
-              <author>Virgil</author>.</bibl>
+              <author key="Pitt">Pitt</author>’s
+              <author key="Virgile">Virgil</author>.</bibl>
           </quote>
           <p>The Gorgons were the three daughters of Phorcus and Cete. Instead of hair, their heads were covered with vipers. So dreadful was their appearance, as to turn into stone all who beheld them. They had the faces and breasts of women, and the tails of serpents. The head of one of these monsters, cut off by Perseus, was fixed in the formidable shield of Minerva, called the Egis.</p>
           <q>Who was Prometheus?</q>
@@ -1443,11 +1443,11 @@
           <p>Second. The temple of Diana, at Ephesus, a work of astonishing magnificence. It was supported by 127 pillars, each sixty feet high. It took 220 years to finish it. It was designedly set on fire on the day that Alexander the Great was born.</p>
           <p>Third. The Mausoleum, a most beautiful sepulchre of marble, built by Artemisia, queen of Caria, in honour of her deceased husband, Mausolus.</p>
           <p>Fourth. A statue of Jupiter, in his temple, in the city of Olympia, formed with wonderful art by
-            <author>Phidias</author>, of ivory and gold, and of prodigious size.</p>
+            <author key="Phidias">Phidias</author>, of ivory and gold, and of prodigious size.</p>
           <p>Fifth. The walls of Babylon, built by Semiramis, whose circumference was sixty miles, and whose breadth was so great, that six chariots could drive upon them abreast.</p>
           <p>Sixth. The pyramids of Egypt, three of which still remain to astonish mankind. The largest of them is 143 feet long, and 1000 high. It is constructed of enormous stones, thirty feet thick. It is recorded that 360,000 men were employed in building it, during the space of twenty years. The other two are smaller. It is supposed they were intended as sepulchres for the kings of Egypt.</p>
           <p>Seventh. The Palace of Cyrus, king of Persia, which is recorded to have been a most splendid edifice, of which the stones were cemented with gold. It was built with equal skill and magnificence by an architect, named
-            <author>Menon</author>.</p>
+            <author key="Ménon">Menon</author>.</p>
         </div>
       </div>
       <div>
@@ -1486,7 +1486,7 @@
             <l>To Him no high, no low, no great, no small;</l>
             <l>He fills, he bounds, connects, and equals all.”</l>
             <bibl>
-              <author>Pope</author>.</bibl>
+              <author key="Pope">Pope</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -1557,7 +1557,7 @@
             <l>Openings of heaven, and streams that flash at night</l>
             <l>In fitful splendour, through the northern sky.</l>
             <bibl>
-              <author>Southey</author>’s <title>Kehama</title>.</bibl>
+              <author key="Southey">Southey</author>’s <title>Kehama</title>.</bibl>
           </quote>
           <p>Seshanaga, the Sovereign of Patala, or the infernal regions; the king of serpents. He is thus described in the <title>Bhagavat</title>, a sacred Hindû poem.
             <quote>His appearance is gorgeous and brilliant. He has a thousand heads; and on each of them, is a crown set with resplendent gems. His neck, tongues, and body, are black. His eyes gleam like torches. The skirts of his robes are yellow. A sparkling jewel is hung on each one of his ears. His arms are extended, and adorned with rich bracelets. His hands bear the holy shell, the radiated weapon, the war-mace, and the lotos.</quote></p>
@@ -1595,7 +1595,7 @@
           <p>Mariatale, the favouring Goddess of the Parias, the lowest and miserably despised Caste, or division of the Hindûs; rejected by their countrymen, and condemned to perform all the most laborious and degrading offices of life.</p>
           <q>Do the Hindûs pay adoration to the sun and moon?</q>
           <p>The worship of the sun appears to have been the very source and fountain of idolatry in India. That luminary is adored by the Hindûs, under the name of Surya, and the sect amongst them which is peculiarly addicted to his worship is called Saura. Surya is represented as riding in a chariot, drawn by seven green horses, guided by his charioteer Arun, or the dawn.
-            <author>A very ancient traveller in India</author> gives the following account of a temple of the Sun, which he, there, saw:
+            <author key="Maurice">A very ancient traveller in India</author> gives the following account of a temple of the Sun, which he, there, saw:
             <quote>“The walls were of red marble, interspersed with streaks of gold. On the pavement was an image of the radiant Divinity, hardly inferior to himself in splendour; his rays being imitated by a boundless profusion of rubies, pearls, and diamonds of inestimable value, arranged in a most judicious manner, and diffusing a lustre scarcely endurable by the sight.”</quote> In the Hindû work, called the <title>Ayeen Akbery</title>, is another description of a temple of the Sun.
             <quote>“Near to Juggernaut, is the temple of the Sun, in the erecting of which was expended the whole revenue of Orissa for twelve years. The wall which surrounds the edifice, is one hundred and fifty cubits high, and nineteen cubits thick; having three entrances. At the eastern gate are two very fine figures of elephants, each with a man upon his trunk. On the west are two surprising figures of horsemen completely armed, who, having killed two elephants, are seated upon them. In front of that gate is an octagonal pillar of black stone, fifty cubits high. Nine flights of steps lead to an extensive inclosure, in which is a large dome, constructed of stone, upon which are carved the sun and the stars; and round them is a border, on which is represented a variety of human figures, expressive of different passions; some kneeling, others prostrate; together with a number of strange imaginary animals.”</quote> The vestiges of this superstition are still evident in all the sacred rites, and various ceremonies of the Hindû priests. At their first assuming the Zennar, or sacred cord of three threads, the mystic symbol of their faith, they learn the Gayteree, ox invocation of praise to the sun. At sun-rise, they turn to the east, and filling the palms of their hands with water, and at the same time, repeating a prayer, they throw it towards that luminary. They preserve, constantly burning, a kind of sacred fire, kindled by the friction of two pieces of palass wood, with which they perform the Howm, or burnt sacrifice. The new-born babe of a Brahmin is exposed to the solar beam. They worship God in the Sun and in Fire.</p>
           <p>The Hindûs regard the Moon as a male Deity, to whom they give the name of Chandra, and whom their poets describe as sitting in a splendid chariot, drawn by two antelopes, and holding in the right hand a rabbit. Fountains are by them dedicated to this Divinity.</p>
@@ -1663,9 +1663,9 @@
           <q>Is there any other account given of the Egyptian Mercury?</q>
           <p>Yes. Some writers assert that two sages of the name of Hermes, or Mercury, lived at the interval of an age from each other. The first of these existed in the earlies period of Egyptian history, when the country was divided into several governments, each having its own monarch. At that time Egypt had no foreign commerce, but confined her attention to agriculture, and the pastoral life. Her shepherds were true heroes; her kings, philosophers.</p>
           <p>In the midst of a brilliant constellation of learned and virtuous men, the first Hermes shone with peculiar lustre; he penetrated into the profoundest depths of natural history and theology; and invented, or compiled, their system of Mythology. In the second age of Egyptian history, when the shepherd kings, from Asia, had inundated the country with their barbarous multitudes, and totally changed the face of things, with respect to customs, manners, and taste, and had introduced gross idolatry, the second
-            <author>Hermes, surnamed Trismegistus</author>, arose. He was the restorer of the ancient religion, and of the laws and sciences of the preceding Mercury, collecting them into forty-two volumes, which were called, “<title>The Treasure of Remedies for the Soul</title>.”</p>
+            <author key="Hermès Trismégiste">Hermes, surnamed Trismegistus</author>, arose. He was the restorer of the ancient religion, and of the laws and sciences of the preceding Mercury, collecting them into forty-two volumes, which were called, “<title>The Treasure of Remedies for the Soul</title>.”</p>
           <p>
-            <author>Trismegistus</author> designated the virtues and the emotions of the soul, by the figures of animals, of insects, of plants, of stars, and many other symbolical characters; concealing the mysteries of religion under hieroglyphics and allegories, whence arose the figures of cows, of oxen, dogs, cats, crocodiles, and smaller reptiles, reverenced by the Egyptians, and which are, now, found engraven on their ancient obelisks and temple walls.</p>
+            <author key="Hermès Trismégiste">Trismegistus</author> designated the virtues and the emotions of the soul, by the figures of animals, of insects, of plants, of stars, and many other symbolical characters; concealing the mysteries of religion under hieroglyphics and allegories, whence arose the figures of cows, of oxen, dogs, cats, crocodiles, and smaller reptiles, reverenced by the Egyptians, and which are, now, found engraven on their ancient obelisks and temple walls.</p>
           <q>Who was Eilethyia?</q>
           <p>The same as the Grecian Lucina. To her was dedicated a city in the Thebaid, called after her name. She was ranked among the ancient or elder divinities. Every third day, in each lunation, was consecrated to her; and her images had the form of a female vulture, with the wings spread, and composed of precious stones.</p>
           <q>Who was Tithrambo?</q>
@@ -1704,11 +1704,11 @@
           <p>The priests who had the charge of this fire; of conducting the simple religious rites, and of giving moral and philosophical instruction, were named Magi, and were justly held in high estimation. But this comparatively pure religion did not remain a long time uncorrupted; it soon degenerated into Sabism, the adoration of the sun, moon, and other celestial bodies. Temples were dedicated to them; images of them were formed, and magnificent festivals were instituted to their honour.</p>
           <p>Mahabad, one of fourteen beings of that name destined to appear in human shape, for the government of the world, was supposed to have received from the Supreme a sacred book in a heavenly language. Cayumers, the reputed great-grandson of Noah, produced a partial reformation. The complicated system of Polytheism was rejected; but the regulations of Mahabad were retained, with a superstitious veneration for the sun, the planets, and fire.</p>
           <p>The Persian Mythology was finally restored, in some degree, to its primitive simplicity, by Zeratush, or
-            <author>Zoroaster</author>, who visited India to receive instruction from the Brahmins.</p>
+            <author key="Zarathushtra">Zoroaster</author>, who visited India to receive instruction from the Brahmins.</p>
           <q>What was the Mythology of the Persian religion, as reformed by
-            <author>Zoroaster</author><hi rend="i">;</hi> and what was the name of his sacred book?</q>
+            <author key="Zarathushtra">Zoroaster</author><hi rend="i">;</hi> and what was the name of his sacred book?</q>
           <p>The book containing the Persian Mythology, as reformed and arranged by
-            <author>Zoroaster</author>, was called the <title>Zend-Avesta</title>, and is till extant. The <title>Zend-Avesta</title> divides the period of the work of creation into six intervals. It asserts that in the sixth of these, man alone was created; and that he mysteriously consisted of two characters, or persons, distinguished from each other, as the Man, and the Man-Bull; that these were the first of beings formed by the immediate hand of the Supreme. The Man was called Kaiomorts, and the Bull, Aboudad, and they were combined together, constituting one being; so that the man was the pure and holy soul of the Man-Bull. For some time after the production of this intelligent creature, there was a season of happiness, and the Man-Bull resided in an elevated region, which the Deity had assigned him. At last, an evil being, named Ahriman, or Arimanius, corrupted the world. After having dared to visit heaven, he descended to the earth, assumed the form of a serpent, and introduced a number of evil demons or spirits, whom he had seduced from obedience to the great Deity. By his venom, the Man-Bull was poisoned, and died. But after he was dead, from his left arm issued a being called Goschoraun, who, approaching the Creator God, raised a cry louder than the shout of a thousand armies, complaining of the power of Ahriman and the prevalence of evil; and supplicating a deliverer. In the mean time, a universal opposition to the will of the Supreme was raised by Ahriman, when a second Man-Bull appeared, named Taschter, to whom was committed the charge of producing a universal deluge. This personage is spoken of as a star, or a sun, and as existing upon earth, under three forms. During this period, a conflict took place between the author of good, and Ahriman the producer of evil, in which the latter was subdued. Taschter’s light shone on high for thirty days and thirty nights. He is represented as having three bodies, of a man, a horse, and a bull; from each of which
+            <author key="Zarathushtra">Zoroaster</author>, was called the <title>Zend-Avesta</title>, and is till extant. The <title>Zend-Avesta</title> divides the period of the work of creation into six intervals. It asserts that in the sixth of these, man alone was created; and that he mysteriously consisted of two characters, or persons, distinguished from each other, as the Man, and the Man-Bull; that these were the first of beings formed by the immediate hand of the Supreme. The Man was called Kaiomorts, and the Bull, Aboudad, and they were combined together, constituting one being; so that the man was the pure and holy soul of the Man-Bull. For some time after the production of this intelligent creature, there was a season of happiness, and the Man-Bull resided in an elevated region, which the Deity had assigned him. At last, an evil being, named Ahriman, or Arimanius, corrupted the world. After having dared to visit heaven, he descended to the earth, assumed the form of a serpent, and introduced a number of evil demons or spirits, whom he had seduced from obedience to the great Deity. By his venom, the Man-Bull was poisoned, and died. But after he was dead, from his left arm issued a being called Goschoraun, who, approaching the Creator God, raised a cry louder than the shout of a thousand armies, complaining of the power of Ahriman and the prevalence of evil; and supplicating a deliverer. In the mean time, a universal opposition to the will of the Supreme was raised by Ahriman, when a second Man-Bull appeared, named Taschter, to whom was committed the charge of producing a universal deluge. This personage is spoken of as a star, or a sun, and as existing upon earth, under three forms. During this period, a conflict took place between the author of good, and Ahriman the producer of evil, in which the latter was subdued. Taschter’s light shone on high for thirty days and thirty nights. He is represented as having three bodies, of a man, a horse, and a bull; from each of which
             he caused rain to pour down in drops as large as the head of an ox. The earth was covered with water, and all the Kharfesters, the mischievous genii, were destroyed. At length, the creating God drove back the waters from the face of the earth by a mighty wind. Another bull was then formed, who became the author of all abundance, and from whom is derived the second race of men. According to the <title>Zend-Avesta</title>, when the waters retired from the surface of the globe, the summit of mount Albordi was the first land that became visible. The sun and the moon then appeared upon its summit; and the latter of these is said to have received, preserved, and purified the offspring of the Man-Bull. The moon is declared to have caused every thing to be produced, when the world was renewed after the general deluge. She is celebrated as the common mother, from whom proceed all the various descriptions of animals. Zoroaster retained the custom, still practised by a tribe called Sagnicas, near Benares, that whosoever enters upon the sacerdotal office, lights a fire by rubbing together two pieces of a hard wood named Semi, which he keeps lighted through life, for the nuptial ceremony, for the performance of solemn sacrifices, the obsequies of departed ancestors, and his own funeral pile. The reformed religion of Persia continued in force till that country was subdued by the Mussulmans, who by violence, established Islamism, or Mahommedanism, which is the prevalent system, at present; though numbers still preserve their ancient faith. These are called Parsees, or Guebres.</p>
           <q>Who was the Ormuzd, or Orosmades, or Oromazes of the Persian Mythology?</q>
           <p>Ormuzd, Oromasdes, Orosmades, or Oromazes, was the name given to the Supreme Creator, by the Persian Mythology. He was adored as the author and principle of good, He was supposed to have produced the good spirits and genii residing in the stars; and to have included them in an egg, which was broken by Ahriman, whence proceeded confusion, and the mixture of evil with good. It was imagined that an incessant struggle is maintained between him and the evil principle, till the latter shall be finally destroyed. Zoroaster described Orosmades, as residing in the midst of a pure and divine fire which fills the immensity of space: and by means of which, not only bodies, but spirits also, axe rendered visible; as being the first principle of all things; as diffused throughout the universe, but as making the most brilliant manifestation of his presence, in that fine and subtle ether. The ancient Persians regarded it as impious to pretend to form visible images of him, or to erect temples to his honour, with the idea of his making them his dwelling-place. They venerated fire as his sacred emblem; the sun as his image; and their worship of him consisted in bloodless sacrifices, and simple rites.</p>
@@ -1755,7 +1755,7 @@
             <l>But, yet at last, shall Arimanius fall</l>
             <l>Before his might, and evil be no more.</l>
             <bibl>
-              <author>Glover</author>’s <title>Leonidas</title>.</bibl>
+              <author key="Glover">Glover</author>’s <title>Leonidas</title>.</bibl>
           </quote>
         </div>
         <div>
@@ -1767,7 +1767,7 @@
           <p>The religion of the ancient Germans, Gauls, and Britons, and other Celtic nations. This, like almost all the other systems of Paganism, in its primitive simplicity, taught the existence of one great Supreme Being, the universal Creator and Ruler. To him was given the name of Teutates, compounded of the two British words Deu-tatt, signifying God the Parent, or Creator. When these ancient nations sunk into idolatry, Teutates was degraded into the sovereign of the infernal world, and worshiped with the most abominable and cruel rites. The priests of this religion were called Druids, and they had the entire direction of all theological concerns. By them, as the favourites of the Gods, and depositaries of their counsels, the people offered all their sacrifices and prayers. To them was intrusted the education of the youth. They were honoured in the highest degree, and determined all controversies, whether public or individual. Whoever refused submission to their decrees was interdicted by them from the sacrifices. This interdiction was a most severe punishment, since they against whom it was directed were held in universal detestation as impious and execrable. They were rendered incapable of any trust, or honour; were put out of the protection of the laws, and exposed to insult and injury. The Druids were exempted from taxes and military service. It was esteemed unlawful to commit their religious doctrines to writing. They were taught and transmitted entirely by tradition, and by poems, which the Druids learnt and recited, at the expense of great labour. Amongst their leading doctrines, were those of the immortality of the soul, and its transmigration through various bodies. Their acknow-leged divinities were, Teutates, Hesus, the god of war; Dis, or Pluto; Andate, the goddess of victory, and many of the Grecian deities. Like the Scythians, they performed their religious ceremonies in sacred groves, and paid peculiar respect to the oak, and superstitious
             reverence to the misletoe, growing upon that tree. When any was discovered, the Druids went in pompous procession to gather it. Every thing being prepared for the sacrifice, and the banquet under the oak, they began the ceremony by-tying two white bulls to it by the horns. Then one of the Druids, cloathed in white garments, ascended the tree, and with a golden hook, cut off the misletoe; which was received into a white sagum, or cloak. The sacred groves were surrounded by a ditch or a mound. In their centre was a circular area, inclosed with one or two rows of large stones. This was the temple. Close to that were the Carnedde, or consecrated mount; and the Cromlech, or stone of sacrifice. Human victims were frequently offered by those who laboured under disease, or were about to go to battle. Upon important public occasions, the Druids constructed colossal images of wicker work; filled them with human beings, and consumed them, together, by fire. Criminals were deemed the offerings most acceptable to the Gods; but when these were wanting, innocent persons were frequently immolated.</p>
           <p>The poet
-            <author>Lucan</author> has thus described a druidical grove:</p>
+            <author key="Lucain">Lucan</author> has thus described a druidical grove:</p>
           <quote>
             <l>“Not far away, for ages past had stood</l>
             <l>An old unviolated sacred wood;</l>
@@ -1823,7 +1823,7 @@
             <l>Slow breathing from the hollow stone</l>
             <l>In witching notes and solemn tone.</l>
             <bibl>
-              <author>Herbert</author>’s <title>Helga</title>.</bibl>
+              <author key="Herbert">Herbert</author>’s <title>Helga</title>.</bibl>
           </quote>
           <p>The Dog of darkness, similar to the Grecian Cerberus, guarded the entrance.</p>
           <quote>
@@ -1838,7 +1838,7 @@
             <l>Hoarse he bays with hideous din,</l>
             <l>Eyes that glow and fangs that grin.</l>
             <bibl>
-              <author>Gray</author>’s <title>Descent of Odin</title>.</bibl>
+              <author key="D. Gray">Gray</author>’s <title>Descent of Odin</title>.</bibl>
           </quote>
           <p>Here was the principal abode of Loke, the cruel, cunning, and malicious enemy of Gods and men. Here resided Hela, the dreadful Goddess of death, daughter of the evil genius Loke, and the giantess Angherbode, or messenger of ill she was described as occupying an immense palace; where her hall was Sorrow; her table, Famine; her knife, Hunger; her Servants, Slowness and Delay; her gate, Precipice; her vestibule, Languor; her bed, Malady and Leanness; her tent, Malediction. One half of her body was of the colour of putrid, and the other of living, flesh. In this region of horrors roamed the wolf Fenris, a monster dreaded by the Gods, as destined to be one instrument of their destruction; and the equally formidable serpent.</p>
           <q>Who were the Valkyries?</q>
@@ -1884,7 +1884,7 @@
           <quote>
             <label>The Song of Vala.</label>
             <bibl>(From
-              <author>Herbert</author>’s <title>Helga</title>.)</bibl>
+              <author key="Herbert">Herbert</author>’s <title>Helga</title>.)</bibl>
             <l>Silence all ye sons of glory!</l>
             <l>    Silence all ye powers of light!</l>
             <l>While I sing of ancient story,</l>
@@ -2000,7 +2000,7 @@
             <l>To the viper brood, nor to the eagle’s shape</l>
             <l>Carve out his mangled form.</l>
             <bibl>
-              <author>Southey</author>.</bibl>
+              <author key="Southey">Southey</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -2008,7 +2008,7 @@
           <q><hi rend="sc">What</hi> was the nature of the Arabian Mythology?</q>
           <p>The primitive Arabian religion admitted the existence of one Supreme God, the Maker and Lord of the Universe, who was denominated Allah Taala, that is, the Most High God. But the Arabians soon degenerated, and fell into the error of adoring the heavenly bodies; and, by degrees, gross idolatry was introduced among the common people, worshiped among particular tribes. Of the angels or intelligences which the Arabians to reside in them, and to govern the world under the Supreme Deity. These they reverenced as inferior divinities, and implored their intercession with the greatest God. Seven celebrated temples were dedicated to the seven planets, and statues were erected to their honour. Besides the stars, which were general objects of worship throughout Arabia, there were some that were peculiarly They worshiped the fixed stars and the planets: and the angels, whom they supposed venerated, the <title>Coran</title> mentions three, Allat, Al-Uzzah, and Manah. These were called goddesses, and the daughters of God; and this appellation was conferred, not only on the angels, but on their images likewise, which they believed to be animated by those angels. Allat was the idol of the tribe Thakif, and to him was consecrated a temple, at a place named Nakhlah. Al-Uzzah was the idol of the tribes of Koreish and Kenanah. But according to some writers, this idol was an acacia tree, over which was built a chapel. Manah was the object of worship to the tribes of Hodhail and Khozaah, who occupied the country between Mecca and Medina. Manah is supposed to have been represented by the black stone placed in the Caaba, the temple at Mecca; which has been so reverenced by the Mahometans, as being one of the precious stones of Paradise that fell down to the earth with Adam; and being taken up again, or, otherwise preserved at the deluge, was brought back by the angel Gabriel, to Abraham, when he was building the Caaba. This stone is set in silver, and fixed in the south-east
             angle of that sacred edifice, which is a building so ancient, that its original use, and the period of its erection, are totally unknown. It was built, probably, by some of the earliest descendants of Ishmael, and intended for religious purposes. It was held in great veneration long before the birth of
-            <author>Mahomet</author>. The Arabian writers describe five antediluvian idols, who are said to have been men of exemplary virtue and high reputation. Their statues were, at first, only testimonies of civil honour, which, in process of time, was heightened into religious reverence. The Arabians had, likewise, a great number of other idols; each tribe and family maintaining its own appropriate deity.</p>
+            <author key="Mahomet">Mahomet</author>. The Arabian writers describe five antediluvian idols, who are said to have been men of exemplary virtue and high reputation. Their statues were, at first, only testimonies of civil honour, which, in process of time, was heightened into religious reverence. The Arabians had, likewise, a great number of other idols; each tribe and family maintaining its own appropriate deity.</p>
           <q>What was the character of the Babylonian Superstition?</q>
           <p>The Babylonian Mythology gave rise to almost all the idolatrous superstitions that spread among the neighbouring nations, and is charged with having introduced the abominable custom of human sacrifices, to appease, or to conciliate their false deities.</p>
           <p>Their mythology was much blended with their science; as the Chaldeans were not only their priests, but also their philosophers. They were greatly addicted to astrology, and ascribed powerful influence to the stars and planets. Belus, the supposed founder of the Assyrian and Babylonian empires, became the principal object of worship among the later Babylonians, and was, in fact, their Jupiter. A temple was erected to him, in Babylon, and a tower, which was used by the Chaldeans as an observatory. The temple consisted of eight towers, raised one above the other. In an apartment of one of them was placed a magnificent bed, and a golden table near it; but without any image. Here the God was supposed to come to repose himself; hence it has been inferred that the Babylonians regarded him as the Supreme God. Beneath this was another apartment, in which was a gigantic statue of Belus, made of solid gold, and a throne of the same metal. This image, supposed to be the great Pul, or Belus, who was deified by his son Tiglathpileser, being situated below the Supreme Deity, seems to have implied, that Belus divided the empire of the universe with him; that as the former was the God of heaven, so the latter was a delegated God on earth. Some have thought, that by their superior deity, the Babylonians meant the sun.</p>
@@ -2017,7 +2017,7 @@
           <head>Chap X. [Idol deities of the Canaanites, Philistines, Syrians, &amp;c. — and of the Mexicans and Peruvians.]</head>
           <q><hi rend="sc">What</hi> were the idol deities of the Canaanites, Philistines, Syrians, and other tribes, the hostile neighbours of the Israelites?</q>
           <p>Baal, a mere title, denoting lord, and Moloch, Molech, or Malek, which signifies king, were variously combined to express various attributes of the idols known by those names. Thus, Baal-Peor, who was the idol of the Moabites, whose rites were most detestable and cruel; and who is regarded as being the same as Typhon; means lord of the opening. Baal-Zebub, lord of flies; Baal-Berith, Addra, Malek, Ana-Malek, and Melchom, signifying the burning king. The chief god of the Philistines was Dagon, whose statue was compounded of the figures of a man and a fish; his name signifies the sun worshiped under the form of a fish. Moloch, the same as the Saturn of the Carthaginians, was the chief deity of the Phenicians, and other neighbouring nations; in honour of whom, human victims, principally children, were immolated. Adonis, or Thammuz, was worshiped throughout Phrygia and Syria, under that name, or the appellation of Attis or Atys, and his supposed death by the tusk of a wild boar was annually lamented with solemn ceremonies. Rimmon and Astarte, queen of heaven, the Moon, distinguished by her silver crescent, were likewise, objects of worship, amongst those nations. These our sublime poet
-            <author>Milton</author> notices.</p>
+            <author key="Milton">Milton</author> notices.</p>
           <quote>
             <l>Next, Moloch, horrid king besmear’d with blood</l>
             <l>Of human sacrifice, and parents’ tears;</l>
@@ -2092,7 +2092,7 @@
         <q>What did the Ethiopians call Jupiter?</q>
         <q>Who was the wife of Saturn?</q>
         <q>Repeat
-          <author>Homer</author>’s account of Jupiter.</q>
+          <author key="Homère">Homer</author>’s account of Jupiter.</q>
         <q>Which of her sons did Cybele conceal and educate?</q>
         <q>Which of the Muses was the patroness of light and airy poetry?</q>
         <q>On what account was Janus represented with a double face?</q>
@@ -2101,7 +2101,7 @@
         <q>Which Muse presided over miscellaneous poetry?</q>
         <q>Whence, and by whom, were the Lares and Penates, which were kept in the temple of Vesta, brought to Rome?</q>
         <q>Repeat
-          <author>Virgil</author>’s account of Jupiter.</q>
+          <author key="Virgile">Virgil</author>’s account of Jupiter.</q>
         <q>Which was the Comic Muse, and how was she depicted?</q>
         <q>By whom were Saturn and Cybele confined, and by whom were they released?</q>
         <q>By what name was Jupiter known among the Gauls?</q>
@@ -2114,14 +2114,14 @@
         <q>Who taught the art of tilling the earth, raising corn, and making bread?</q>
         <q>In what city was Juno principally worshiped?</q>
         <q>What is the description which
-          <author>Homer</author> gives of Jupiter?</q>
+          <author key="Homère">Homer</author> gives of Jupiter?</q>
         <q>Who forged the thunderbolts of Jove, and of what materials did the Poets make them to consist?</q>
         <q>What animals were generally sacrificed to Juno?</q>
         <q>What was Proserpine considered to be, and of what was her history emblematical?</q>
         <q>Who was the attendant and messenger of Juno?</q>
         <q>Who was the patroness of instrumental music?</q>
         <q>Repeat
-          <author>Homer</author>’s description of Juno’s chariot.</q>
+          <author key="Homère">Homer</author>’s description of Juno’s chariot.</q>
         <q>What were the names of the horses of the Sun, and what did they signify?</q>
         <q>What was the history of Aurora and Tithonus, and of what was it emblematical?</q>
         <q>Who were the Heliades, and what was their fate?</q>
@@ -2131,7 +2131,7 @@
         <q>Of what was Circe the emblem?</q>
         <q>Where was Esculapius principally worshiped, and under what form?</q>
         <q>Repeat
-          <author>Virgil</author>’s lines on Ceres.</q>
+          <author key="Virgile">Virgil</author>’s lines on Ceres.</q>
         <q>What was the name of the winged horse of the Muses, and what did he produce by a blow of his foot?</q>
         <q>Of what is Diana figurative?</q>
         <q>What animals were sacred to Mars?</q>
@@ -2172,7 +2172,7 @@
         <q>Who were the Oreades?</q>
         <q>Of what colour were the chariot and horses of Pluto, and what property did his helmet possess?</q>
         <q>Repeat
-          <author>Virgil</author>’s account of Mercury.</q>
+          <author key="Virgile">Virgil</author>’s account of Mercury.</q>
         <q>Who were the Dryades and Hamadryades?</q>
         <q>What was the imagined quality of the waters of the river Lethe?</q>
         <q>What was the form of the god Pan; what was his musical instrument, and how were his priests named?</q>
@@ -2189,7 +2189,7 @@
         <q>Of Ixion?</q>
         <q>Of Tantalus?</q>
         <q>Repeat
-          <author>Homer</author>’s account of Scylla and Charybdis.</q>
+          <author key="Homère">Homer</author>’s account of Scylla and Charybdis.</q>
         <q>Who was the leader, and who were the principal heroes engaged in the expedition to gain the Golden Fleece?</q>
         <q>What was the name of their ship, and the general name by which they were called?</q>
         <q>Who was Chiron?</q>
@@ -2236,7 +2236,7 @@
         <q>What is the <title>Bhagavat</title>?</q>
         <q>What account is given of Mariatale?</q>
         <q>What is the name of the Hindû God of Death, and what account does
-          <author>Southey</author> give of him?</q>
+          <author key="Southey">Southey</author> give of him?</q>
         <q>Who is Seraswatti, and what description is given of her?</q>
         <q>What vestiges of the worship of the Sun are discernible in the Hindû worship?</q>
         <q>Under what name is the Sun worshiped by the Hindûs?</q>
@@ -2301,7 +2301,7 @@
         <q>What degree of influence and power, and what privileges, did the Druids enjoy?</q>
         <q>What kind of worship was celebrated in the sacred groves of the Druids?</q>
         <q>Repeat
-          <author>Lucan</author>’s description of a druidical grove.</q>
+          <author key="Lucain">Lucan</author>’s description of a druidical grove.</q>
         <q>What was the nature of the Scandinavian Mythology?</q>
         <q>What are the names of the sacred books of the Scandinavian Mythology?</q>
         <q>Which of the Scandinavian Divinities formed their supreme council?</q>
@@ -2319,7 +2319,7 @@
         <q>Who were the Valkyries?</q>
         <q>What was the Valhalla?</q>
         <q>What does
-          <author>Southey</author> say of Odin’s temple?</q>
+          <author key="Southey">Southey</author> say of Odin’s temple?</q>
         <q>Who was Sleipner?</q>
         <q>Of what nature was the ancient Arabian Mythology; and what name did it assign to the Supreme Deity?</q>
         <q>What were the Allat, the Al-Uzzah, and the Manah of the Arabians?</q>
@@ -2336,7 +2336,7 @@
         <q>Who was Astarte?</q>
         <q>What is the meaning of the words Baal and Moloch?</q>
         <q>How does
-          <author>Milton</author> describe the Canaanitish gods?</q>
+          <author key="Milton">Milton</author> describe the Canaanitish gods?</q>
         <q>Who was Baal Peor?</q>
         <q>Who was the principal Deity of the Philistines, and how is he described?</q>
         <q>Who were the Gods of the Mexicans and Peruvians?</q>

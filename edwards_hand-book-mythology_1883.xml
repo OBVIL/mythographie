@@ -55,16 +55,16 @@
         <p>The early races expressed by their religious legends their opinions on the origin and destiny of man, their motives for the performance of what they considered duty, and their ground of hope for the hereafter.</p>
         <p>It has been fully proved that mythology is simply a phase in the growth of language, the study of which has explained many things in mythology which hitherto appeared contradictory.</p>
         <p>
-          <author>Cox</author> says, “
+          <author key="G. W. Cox">Cox</author> says, “
           <quote>The task of analyzing and comparing the myths of the Aryan nations has opened to me a source of unqualified delight. I feel bound to avow the conviction that it has done more. It has removed not a few perplexities, and has solved not a few difficulties which press hard on many thinkers. It has raised and strengthened my faith in the goodness of God, and has justified the wisdom which has chosen to educate mankind through impressions produced by the phenomena of the outside world.”</quote></p>
         <p>In this little work advantage has been taken of modern research, and
-          <author>Müller</author>,
-          <author>Cox</author>,
+          <author key="F. M. Müller">Müller</author>,
+          <author key="G. W. Cox">Cox</author>,
           <author>Berens</author>,
           <author>Brinton</author>,
           <author>Seemann</author>,
           <author>Keightley</author>,
-          <author>Bulfinch</author>, and others have been consulted, and when quoted, proper credit has been given.</p>
+          <author key="T. Bulfinch">Bulfinch</author>, and others have been consulted, and when quoted, proper credit has been given.</p>
         <p>Accents have been marked, so that pupils will have no difficulty in pronouncing names.</p>
       </div>
       <div>
@@ -171,7 +171,7 @@
           <p>“When the sun shone with a pleasant warmth, they spoke of him as the friend of men; when his scorching heat brought a drought, they said that the sun was slaying his children, or that someone else, who knew not how to guide them, was driving the horses of his chariot through the sky. As they looked on the dark clouds which rested on the earth without giving any rain, they said that the terrible being whom they named the snake or dragon was shutting up the waters in a prison-house. When the thunder rolled, they said that this hateful monster was uttering his hard riddles; and when, at last, the rain burst forth, they said that the bright sun had slain his enemy, and brought a stream of life for the thirsting earth.</p>
           <p>“Now, so long as men remained in the same place, there was no fear that the words which they spoke would be misunderstood; but as time went on they scattered, and it came to pass that they kept the names which they had given to the sun, the clouds, and all other things when their original meaning had been quite forgotten. Thus, mythology, as we call it now, is simply a collection of the sayings by which men once described whatever they saw and heard in the countries where they lived. This key which has unlocked almost all the secrets of mythology was given us by Professor Max Müller, who has done more than all other writers to bring out the exquisite and touching poetry that underlies these ancient legends.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         <quote>
           <p>“Language has been called ‘a map of the science and manners of the people who speak it.’ Philology, or the study of language, has assisted students of mythology in two ways; first, by tracing the names of objects of worship to their root-forms, and thus showing their meaning and revealing the thought that lay at the root of the worship. Secondly, by proving the identity between gods of different nations whose names, apparently different, have been resolved into the same root-word, or to a root of the same meaning.</p>
           <p>“Philology has enabled us to read the primitive thoughts of mankind. A large number of the names of Greek gods and heroes have no meaning in the Greek language, but their names occur in Sanskrit with plain, physical meanings.”</p>
@@ -183,7 +183,7 @@
           <p>“The essence of all Paganism is a recognition of the forces of Nature as godlike, stupendous, personal Agencies, as gods and demons.</p>
           <p>“The close resemblance which runs through the legends of different lands leads us to the conclusion that all these legends have a common source, namely, the words or phrases used by the most ancient tribes in speaking of the things which they saw, heard, or felt in the world around them.”</p>
         <bibl>
-            <author>Cox</author>.</bibl></quote>
+            <author key="G. W. Cox">Cox</author>.</bibl></quote>
         <quote>
           <p>“The study of mythology is a benefit because, by revealing to us the absurd ceremonies and impious maxims of Paganism, it may inspire us with new respect for the majesty of the Christian religion, and for the sanctity of its morals.</p>
           <p>“It also enables us to understand the works of various authors as well as paintings, coins, statues, etc.</p>
@@ -193,13 +193,13 @@
           <p>“<hi rend="i">II. It has an ethical character</hi>, and represents in its history the moral dealings of God with man. Thus, Apollo is, first, physically the sun contending with darkness, but, morally, the power of divine life contending with corruption. Athene is physically the light of daybreak, morally the breathing of the divine spirit of wisdom. Poseidon*<note place="bottom">[NdE] L’astérisque indique les mots accentués dans le texte. Voir la table des noms accentués.</note> is physically the sea; morally, the supreme power of passion.</p>
           <p>“<hi rend="i">III. It has a personal character</hi>, and is realized in the minds of its worshipers as a living spirit with whom men may speak face to face as a man speaks with his friend.”</p>
         <bibl>
-            <author><hi rend="i">Ruskin</hi></author>.</bibl></quote>
+            <author key="Ruskin"><hi rend="i">Ruskin</hi></author>.</bibl></quote>
         <p>The Greek poets believed the earth to be flat and circular, their own country occupying the middle of it, the central point being either Mt. Olympus, the abode of the gods, or Delphi, so famous for its oracle.</p>
         <p>The circular disk of the earth was crossed from west to east, and divided into two equal parts by the <hi rend="i">Sea</hi> as they called the Mediterranean, and its continuation the Euxine.</p>
         <p>Around the earth flowed the <hi rend="i">River Ocean</hi>, its course being from south to north on the western side of the earth, and in a contrary direction on the eastern side. It flowed in a steady, equable current, unvexed by storm or tempest. The sea, and all the rivers on earth, received their waters from it.</p>
         <p>The northern portion of the earth was supposed to be inhabited by a happy race named the Hyperboreans*, dwelling in everlasting bliss and spring beyond the lofty mountains, whose caverns were supposed to send forth the piercing blasts of the north wind, which chilled the people of Hellas, Greece.</p>
         <p>Their country was inaccessible by land or sea. They lived exempt from disease or old age, from toils and warfare.
-          <author>Moore</author> has given us the “<title>Song of the Hyperborean</title>,” beginning, —</p>
+          <author key="Th. Moore">Moore</author> has given us the “<title>Song of the Hyperborean</title>,” beginning, —</p>
         <quote>
           <l>“I come from a land in the sun-bright deep,</l>
           <l>Where golden gardens glow;</l>
@@ -213,7 +213,7 @@
         </figure>
         <p>We thus see that the Greeks of the early ages knew little of any people except those to the east and south of their own country, or near the coast of the Mediterranean. Their imagination peopled the western portion of this sea with giants, monsters, and enchantresses; while they placed around the disk of the earth nations enjoying the peculiar favor of the gods, and blessed with happiness and longevity.</p>
         <p>The Dawn, the Sun, and the Moon were supposed to rise out of the Ocean, and to drive through the air, giving light to gods and men. The stars also, except those forming Charles’s Wain, or Bear, rose out of and sunk into the stream of Ocean. There the sun-god embarked in a winged boat, which conveyed him round by the northern part of the earth, back to his place of rising in the east.
-          <author>Milton</author> alludes to this in his “<title>Comus</title>.”</p>
+          <author key="Milton">Milton</author> alludes to this in his “<title>Comus</title>.”</p>
         <quote>
           <l>“Now the gilded car of day</l>
           <l>His golden axle doth allay</l>
@@ -226,10 +226,10 @@
           <quote><p>“The ancient Greeks believed their gods to be of the same shape and form as themselves, but of far greater beauty, strength, and dignity. They also regarded them as being of much larger size than men, for in those times great size was esteemed a perfection both in man and woman, and consequently was supposed to be an attribute of their divinities, to whom they ascribed all perfections. A fluid named <hi rend="i">Ichor</hi> supplied the place of blood in the veins of the gods. They were not capable of death, but they might be wounded or otherwise injured. They could make themselves visible or invisible to men as they pleased, and assume the forms of men or of animals as it suited their fancy. Like men, they stood in daily need of food and sleep. The food of the gods was called Ambrosia, their drink Nectar. The gods when they came among men often partook of their food and hospitality.</p>
           <p>“Like mankind, the gods were divided into two sexes, — namely, gods and goddesses. They married and had children, just as mortals do. To make the resemblance between gods and men more complete, the Greeks ascribed to their deities all human passions, both good and evil. They were capable of love, friendship, gratitude; of envy, jealousy, and revenge.</p>
           <p>“The abode of the gods, as described by the more ancient Grecian poets, such as
-            <author>Homer</author>* and
-            <author>Hesiod</author>*, was on the summit of the snow-clad mountains of Olympus, in Thessaly. A gate of clouds, kept by the goddesses named Horæ* (the seasons), unfolded its valves to permit the passage of the Celestials to the earth, and to receive them on their return. The gods had their separate dwellings; but all, when summoned, repaired to the palace of Zeus, as did also those deities whose usual abode was the earth, the waters, or the under-world. It was also in the great hall of the palace of the Olympian king that the gods feasted each day on ambrosia and nectar, the latter being handed around by the lovely goddess Hebe*. Here they conversed of the affairs of heaven and earth; and, as they quaffed their nectar, Apollo, the god of music, delighted them with the tones of his lyre, to which the Muses sung in responsive strains.</p>
+            <author key="Homère">Homer</author>* and
+            <author key="Hésiode">Hesiod</author>*, was on the summit of the snow-clad mountains of Olympus, in Thessaly. A gate of clouds, kept by the goddesses named Horæ* (the seasons), unfolded its valves to permit the passage of the Celestials to the earth, and to receive them on their return. The gods had their separate dwellings; but all, when summoned, repaired to the palace of Zeus, as did also those deities whose usual abode was the earth, the waters, or the under-world. It was also in the great hall of the palace of the Olympian king that the gods feasted each day on ambrosia and nectar, the latter being handed around by the lovely goddess Hebe*. Here they conversed of the affairs of heaven and earth; and, as they quaffed their nectar, Apollo, the god of music, delighted them with the tones of his lyre, to which the Muses sung in responsive strains.</p>
           <p>“The following lines from the <title>Odyssey</title> will show how
-            <author>Homer</author> conceived of Olympus: —</p></quote>
+            <author key="Homère">Homer</author> conceived of Olympus: —</p></quote>
         <quote>  
         <l>‘So saying, Minerva, goddess azure-eyed,</l>
           <l>Rose to Olympus, the reputed seat</l>
@@ -239,12 +239,12 @@
           <l>There the inhabitants divine rejoice</l>
           <l>Forever’</l>
         <bibl>
-            <author><hi rend="i">Cowper</hi></author>.</bibl></quote>
+            <author key="Cowper"><hi rend="i">Cowper</hi></author>.</bibl></quote>
         <quote>
           <p>“Such were the abodes of the gods as the Greeks conceived them. The Romans, before they knew the Greek poetry, seem to have had no definite imagination of such an assembly of gods. But the Roman and Etruscan races were by no means irreligious. They venerated their departed ancestors, and in each family the worship of these ancestors was an important duty. Their images were kept in a sacred place, and each family observed, at fixed times, memorial rites in their honor, and for these and other religious observances the family hearth was consecrated.</p>
           <p>“When the Greeks first settled in Italy, they found there a mythology belonging to the Celtic inhabitants, which, according to the Greek custom of paying reverence to all gods, known or unknown, they readily adopted, selecting and appropriating those divinities which had the greatest affinity to their own; and thus they formed a religious belief which naturally bore the impress of its ancient Greek source. As the primitive Celts, however, were a less civilized people than the Greeks, their mythology was of a more barbarous character, and this circumstance, combined with the fact that the Romans were not gifted with the vivid imagination of their Greek neighbors, leaves its mark on the Roman mythology, which is far less fertile in fanciful conceits, and deficient in all those fairy-like stories and wonderfully poetic ideas which so strongly characterize that of the Greeks.”</p>
         <bibl>
-            <author><hi rend="i">Bulfinch</hi></author>.</bibl></quote>
+            <author key="T. Bulfinch"><hi rend="i">Bulfinch</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>Cosmogony and Theogony.</head>
@@ -254,7 +254,7 @@
         <p>In mythology, <hi rend="i">effects</hi> are called children.</p>
         <p>Gæa then brought forth Uranus* (the heavens), Pontus* (the sea), and Oure* (the mountains).</p>
         <p><hi rend="b">The Race of Uranus.</hi> — The children of Uranus, according to
-          <author>Hesiod</author>, were the Titans, the Cyclopes*, and the Hecatoncheires*. There were twelve Titans: six males, Chronos*, Oceanus*, Cœus*, Crius*, Hyperion*, and Iapetus*; and six females, Thea*, Rhea*, Themis*, Mnemosyne*, Phœbe*, and Tethys*. The interpretation of these divinities is somewhat difficult, but they doubtless represented the elementary forces of nature.</p>
+          <author key="Hésiode">Hesiod</author>, were the Titans, the Cyclopes*, and the Hecatoncheires*. There were twelve Titans: six males, Chronos*, Oceanus*, Cœus*, Crius*, Hyperion*, and Iapetus*; and six females, Thea*, Rhea*, Themis*, Mnemosyne*, Phœbe*, and Tethys*. The interpretation of these divinities is somewhat difficult, but they doubtless represented the elementary forces of nature.</p>
         <p>The Cyclopes were three in number, Brontes* (thunder), Steropes* (forked-lightning), Arges* (sheet-lightning): these we can clearly see refer to the phenomena of the storm.</p>
         <p>The Hecatoncheires (Centimani*, or Hundred-handed) were Briareus* (hurricane), Gyges* (earthquake), and Cottus* (volcano).</p>
         <p><hi rend="b">The Race of Pontus*.</hi> — By Pontus, Gæa became the mother of the fabulous sea-deities — Nereus*, Thaumas*, Phorcys*, Ceto*, and Eurybia*. Nereus represents the sea in its quiet state. Thaumas represents the majesty of the sea. He is the father of Iris* (the rainbow) and of the Harpies (storm-winds). Phorcys and Ceto, from whose union the frightful Gorgons* and Grææ* proceeded, typify the dangers and terrors of the sea.</p>
@@ -292,7 +292,7 @@
         <p>Nyx was the daughter of Chaos, and sister of Erebus, to whom she bore Hemera and Æther. She is said then to have produced without a sire Mœræ* (Parcæ*, or Fates), Thanatos* (Death), Hypnos* (Sleep), Oneiros* (Dreams), Momus (Laughter), Cocytos* (Woe), Nemesis* (Vengeance), Eris* (Strife), the Hesperides*, and several other deities.</p>
         <p>It is a principle of all cosmogony that darkness preceded light, which sprung from it; a truth here expressed by making Night the parent of Day and Æther.</p>
         <p>Nyx, with her two sons, Thanatos and Hypnos, dwelt in a cave which
-          <author>Hesiod</author> places in the west,
+          <author key="Hésiode">Hesiod</author> places in the west,
           <quote>“behind where Atlas supports the heavens.”</quote> Hemera shared this abode, and she and Nyx rode forth alternately to minister to the world.</p>
         <div>
           <head>Representations.</head>
@@ -308,8 +308,8 @@
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Helios*; <hi rend="i">Roman</hi>, Sol*; <hi rend="i">Persian</hi>, Mithras* or Mithra*; <hi rend="i">Chaldean</hi>, Baal* or Bel*; <hi rend="i">Canaanite</hi>, Moloch*; <hi rend="i">Egyptian</hi>, Ra*, Osiris*, Horus*, Pthah*.</p>
         <p>The office of Helios was to give light to men and gods during the day. He is described as rising every morning in the east, preceded by his sister Eos, who, with her rosy fingers, paints the tips of the mountains, and draws aside the misty veil through which her brother is about to appear. When he has burst forth in all the glorious light of day, Eos disappears, and Helios drives his flame-darting chariot along the accustomed track. This chariot, which is of burnished gold, is drawn by four fire-breathing steeds, behind which the young god stands erect with flashing eyes, his head surrounded with rays, holding in one hand the reins of those fiery coursers which in all hands save his are unmanageable. When towards evening he descends the curve in order to cool his burning forehead in the waters of the sea, he is followed closely by his sister Selene, who is now prepared to take charge of the world and illumine the dusky night.</p>
         <p>
-          <author>Homer</author> and
-          <author>Hesiod</author> give no explanation of the manner in which Helios reaches the east in the morning after having disappeared in the west. In later times poets invented the fiction that when Helios had finished his daily course, a winged boat, or cup, which had been made for him by Hephæstus* (Vulcan), conveyed him, with his glorious equipage, to the east, where he recommenced his bright career.</p>
+          <author key="Homère">Homer</author> and
+          <author key="Hésiode">Hesiod</author> give no explanation of the manner in which Helios reaches the east in the morning after having disappeared in the west. In later times poets invented the fiction that when Helios had finished his daily course, a winged boat, or cup, which had been made for him by Hephæstus* (Vulcan), conveyed him, with his glorious equipage, to the east, where he recommenced his bright career.</p>
         <p>Helios, as the god whose eye surveys all things, was invoked as a witness to solemn oaths.</p>
         <p>Sun-worship was one of the first and most natural forms of idolatry. The island of Rhodes was sacred to Helios. Here was erected his celebrated colossal statue. He was represented on coins of the Rhodians by the head of a young man crowned with rays.</p>
         <p>Sacrifices offered to Helios were honey, lambs, goats, white rams, and white horses.</p>
@@ -319,7 +319,7 @@
         <p>“One who cannot guide the fiery horses sits in the chariot of the sun.” So ran the phrase which, scarcely disguised in the myth of Phaethon, rose naturally to the lips of men when all herbage was scorched and withered in times of drought.</p>
         <p><hi rend="b">Clytie</hi>* was a water-nymph, and in love with the Sun-god, who made her no return. She pined away, nine days she sat on the ground and tasted neither food nor drink. She gazed on the sun when he rose, and as he passed through his daily course to his setting; she saw no other object, her face turned constantly on him. At last, it is said, her limbs rooted in the ground, her face became a sun-flower, which turns on its stem so as always to face the sun throughout its daily course.</p>
         <p>The sun-flower is a favorite emblem of constancy.
-          <author>Moore</author> uses it:</p>
+          <author key="Th. Moore">Moore</author> uses it:</p>
         <quote>
           <l>“The heart that has truly loved never forgets,</l>
           <l>    But as truly loves on to the close;</l>
@@ -424,9 +424,9 @@
         <p>To Zeus all the aërial phenomena, such as the thunder and lightning, the wind, the clouds, the snow, and the rainbow, are ascribed, and he sends them either as signs and warnings, or to punish the transgressions of men. Zeus is called the “father of gods and men;” his power over both is represented as supreme. In his palace on Olympus, Zeus was supposed to live after the fashion of a Grecian prince in the midst of his family.</p>
         <p>Zeus was the earliest national god of the Greeks. His worship extended throughout the whole of Greece, though some of his shrines had a special importance. The most ancient of them was that of Dodona*, where the Pelasgian* Zeus was worshiped at a time prior to the existence of any temple in Greece. Mountain-tops were the earliest seats of his worship. He was represented in the celebrated form of the sacred oak, in the rustling of whose branches the deity revealed himself to the faithful. Later, near the temple at Dodona were two columns. On one was a brazen vase, on the other the figure of a child holding a whip with three brass chains, each chain having a knot at the end. The constant winds of Dodona caused these chains to frequently strike the brazen vase, and upon the longer or shorter duration of the sounds the priestess based her predictions.</p>
         <p>But all the earlier shrines were overshadowed by the great national seat of the worship of Hellenic* Zeus at Olympia*, on the northern bank of the river Alpheus*, in Elis*, where the renowned Olympian games were celebrated. The magnificent statue of Zeus, by
-          <author>Phidias</author>*, was an additional inducement to devotees, who flocked thither from every quarter. The Olympic games tended to the promotion of physical beauty and strength, the cultivation of heroic poetry, and the deepening of fraternal feeling. Rewards were crowns of olive leaves. Sacrifices offered were bulls and rams, accompanied with offerings of frankincense, wheat, and honey, with libations of wine.</p>
+          <author key="Phidias">Phidias</author>*, was an additional inducement to devotees, who flocked thither from every quarter. The Olympic games tended to the promotion of physical beauty and strength, the cultivation of heroic poetry, and the deepening of fraternal feeling. Rewards were crowns of olive leaves. Sacrifices offered were bulls and rams, accompanied with offerings of frankincense, wheat, and honey, with libations of wine.</p>
         <p>The worship of Jupiter was no less extensive in Italy. The most renowned of all his shrines was undoubtedly the temple erected by Tarquin* on the Capitol at Rome. This, after being nearly destroyed by fire in the time of Sulla, was restored to more than its pristine splendor. The original earthen image was replaced by a statue of gold and ivory, the work of the Greek artist
-          <author>Apollonius</author>*, after the model of the Olympian Zeus.</p>
+          <author key="Apollonios de Rhodes">Apollonius</author>*, after the model of the Olympian Zeus.</p>
         <p>Capitolini Ludi* were games yearly celebrated at Rome in honor of Jupiter, who was believed to have preserved the Capitol from the Gauls. The Capitol was the temple of Jupiter at Rome.</p>
         <p>The earliest wife of Zeus was Metis*, a daughter of Oceanus. Zeus devoured her, fearing that she should beget a son, who would deprive him of the empire it had cost him so much to attain. Soon after this, feeling violent pains in his head, he sent for Hephæstus* (Vulcan), and ordered him to open it with an axe. His command was obeyed, and forth sprung Pallas Athene* (Minerva), fully armed. His second goddess-wife was Themis*, who was the mother of the Horæ* (Seasons) and Mœræ* (Fates). Dione* appears as the wife of Zeus of Dodona, and the mother of Aphrodite* (Venus), while Arcadian Zeus was wedded to Maia*, whose son was Hermes* (Mercury). Persephone* (Proserpine) was the daughter of Zeus and Demeter* (Ceres). Zeus and Eurynome* were the parents of the Charites* (Graces); Zeus and Mnemosyne*, of the Muses; Zeus and Leto* (Latona), of Apollo and Artemis* (Diana). Hera* (Juno) was recognized as his only legitimate queen. She was the mother of Ares* (Mars), Hephæstus* (Vulcan), and Hebe*.</p>
         <p>In the union of Zeus with most of his immortal wives, we shall find that an allegorical meaning is conveyed. His marriage with Metis represents supreme power allied to wisdom and prudence. His union with Themis typifies the bond which exists between divine majesty and justice, law and order. Eurynome supplied the refining and harmonizing influences of grace and beauty, whilst his marriage with Mnemosyne typifies the union of genius with memory.</p>
@@ -445,7 +445,7 @@
         <quote>
           <p>“Europa is the morning with its broad-spreading light, born in the Phœnician, or purple land of the dawn. She is the child of Telephassa, — the being who shines from afar. But she is soon taken from her beautiful home. In Hindu myths, the bull Indra shatters the car of Daphne*; in the Greek tale, the bull carries Europa over seas and mountains, journeying always, like the sun, from east to west. The Dawn has been taken from the sky, but her mother follows her, until at length she sinks to sleep in the Thessalian plain in the evening, just as the pale and tender light which precedes the sun’s rising re-appears only to die out in the western heavens at eventide.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         <p>Zeus and Ægina* were the parents of Æacus*, so renowned for his justice that he was made one of the judges in the lower world.</p>
         <p>Io*, daughter of the river-god Inachus, was a priestess of Hera. Her great beauty attracted the notice of Zeus. On remarking this, Hera, in her jealousy, changed lo into a white heifer, and set the hundred-eyed Argus* to watch her. When asleep, he closed only two eyes at a time. Hermes*, however, by the command of Zeus, succeeded in putting all his eyes to sleep with the sound of his magic lyre, and then, taking advantage of his helpless condition, slew him. It is related that Hera placed his eyes on the tail of the peacock. Hera avenged herself by sending a gadfly to torment lo, who, in her madness, wandered through Europe and Asia, until she at length found rest in Egypt, where, touched by the hand of Zeus, she recovered her original form and gave birth to a son, who was called Epaphus*. He afterwards became king of Egypt, and built Memphis.</p>
         <quote>
@@ -454,7 +454,7 @@
             <author><hi rend="i">Seemann</hi></author>.</bibl></quote>
         <p>Callisto*, the daughter of Lycaon*, king of Arcadia, was a huntress in the train of Artemis, devoted to the pleasures of the chase, who had made a vow never to marry, but Zeus, under the form of the huntress-goddess, succeeded in gaining her affections. Artemis drove the guiltless offender from her society. Callisto was mother of a son named Arcas*. Hera being extremely jealous changed her into a bear. Her son, when he grew up, meeting her in the woods, was about to kill her, when Zeus, transporting both mother and son to the skies, made them the constellations of the two bears, Ursa Major and Ursa Minor. Hera induced Oceanus and Tethys to forbid them from coming into their waters, and consequently the two constellations of the Great and Little Bears move round and round in heaven, but never sink, as the other stars seem to do, beneath the ocean.</p>
         <p>Prometheus, in
-          <author>Lowell</author>’s poem, says:</p>
+          <author key="Lowell">Lowell</author>’s poem, says:</p>
         <quote>
           <l>“One after one the stars have risen and set,</l>
           <l>Sparkling upon the hoar-frost of my chain;</l>
@@ -491,7 +491,7 @@
         <p>Hera was the mother of Ares, Hephæstus, Hebe, and Ilithyia*.</p>
         <p>Hera resented with great severity any infringement on her rights as queen of heaven, or any apparent slight on her personal appearance.</p>
         <p>At the marriage of Peleus* and Thetis*, all the deities were present except Eris*. Indignant at not being invited, she determined to cause dissension, and threw into the midst of the guests a golden apple, with the inscription on it “For the Fairest.” The claims of all others were obliged to yield to those of Hera, Pallas Athene, and Aphrodite, and the decision was left to Paris, son of Priam, King of Troy, who, ignorant of his noble birth, was at that time feeding flocks on Mount Ida. Hermes conducted the rival beauties to the young shepherd. Hera promised Paris extensive dominions if he would award the prize to her; Athené promised fame in war; Aphrodite promised the fairest of women. The queen of beauty was awarded the apple, and Paris<note place="bottom">Read
-          <author>Tennyson</author>’s “<title>Œnone</title>.”</note> soon afterwards carried off Helen, the wife of Menelaus*, King of Sparta. Hera was so indignant that she persecuted not only him, but all the family of Priam, whose dreadful sufferings and misfortunes during the Trojan war were attributed to her influence.</p>
+          <author key="A. Tennyson">Tennyson</author>’s “<title>Œnone</title>.”</note> soon afterwards carried off Helen, the wife of Menelaus*, King of Sparta. Hera was so indignant that she persecuted not only him, but all the family of Priam, whose dreadful sufferings and misfortunes during the Trojan war were attributed to her influence.</p>
         <p>At one time Hera, being deeply offended with Zeus, determined to separate herself from him, and she accordingly took up her abode in Eubœa. Zeus effected a reconciliation by artifice. Cithæron*, King of Platea*, advised him to dress an image in bridal attire, place it in a chariot, and announce that this was Platea, his future wife. Hera, incensed at the idea of a rival, flew in great anger to meet the procession, and seizing the supposed bride, she furiously dragged off her nuptial attire. Her delight on discovering the deception was so great that a reconciliation took place, and committing the image to the flames, with joyful laughter she seated herself in its place and returned to Olympus.</p>
         <p>It is probable that this story was invented to explain the ceremonies of the Dædala.</p>
         <p>Juno, the Roman divinity, supposed to be identical with the Greek Hera, differed from her in important characteristics. Hera invariably appears as the haughty, unbending queen of heaven; Juno is revered and beloved as the type of a matron. Juno was believed to watch over and guard the life of every woman from her birth to her death.</p>
@@ -541,7 +541,7 @@
         <p>The Greek name Pluton, or Pluto, as well as the Latin name Dis, signifies wealth, because our wealth comes from the lowest parts of the earth.</p>
         <quote>
           <p>“The early Greeks regarded Aides as their greatest foe, and
-            <author>Homer</author> tells us that he was ‘of all the gods the most detested,’ being in their eyes the grim robber who stole from them their nearest and dearest, and eventually deprived each of them of his share in the terrestrial existence.</p>
+            <author key="Homère">Homer</author> tells us that he was ‘of all the gods the most detested,’ being in their eyes the grim robber who stole from them their nearest and dearest, and eventually deprived each of them of his share in the terrestrial existence.</p>
           <p>“This conception was subsequently supplanted by one of a less dismal nature, in which the other side of his character is brought into prominence. From this point of view he is represented not only as sending nourishment to plants from the deep bosom of the earth, but also as offering unbounded riches to mankind in the shape of precious metals, which lie in his subterraneous passages and chambers.</p>
           <p>“But though the original dismal conception of this deity as the inexorable god of death was much diminished in course of time, yet Hades, nevertheless, always conveyed to the Greek mind an idea of something mysterious and grim. He can, in fact, scarcely be said to have had a place in the public worship of the Greeks.”</p>
         <bibl>
@@ -556,7 +556,7 @@
         <p>The Feralia* was a festival in honor of the dead, held in February, accompanied with a solemn expiation or purification of the city. This expiation was called “februatio,” whence the name of the month. It continued from the eighteenth to the end of the month, during which time presents were carried to the graves of deceased friends and relatives, the living held feasts of love and reconciliation, and the temples of the gods were closed.</p>
         <p>Erebus* was a general term comprehending the palace and domain of Pluto, also Tartarus*, a place of imprisonment.</p>
         <p>The souls of those who had lived a virtuous life were sent to the Elysian Fields.
-          <author>Homer</author> locates them in the “Isles of the Blessed” in the ocean.</p>
+          <author key="Homère">Homer</author> locates them in the “Isles of the Blessed” in the ocean.</p>
         <p>Later poets mention various entrances to Hades; the most celebrated was in Italy, near Lake Avernus, over which it was said no bird could fly, so noxious were its exhalations.</p>
         <p>Old Age, Disease, and Hunger — avengers of guilt — were supposed to dwell in caves near the entrance of Hades.</p>
         <p>Field of Asphodel* was a place where spirits waited for those whose fate had not been decided.</p>
@@ -591,16 +591,16 @@
           <p>“The story of Tantalus means that the sun, when he glared too fiercely, killed the fruits which his warmth was ripening, and dried up the streams over which he passed.</p>
           <p>“The stone of Sisyphus is an emblem of the indestructibility of hope. It symbolizes the sun, which, daily after reaching the highest point, seems to drop down again.</p>
           <p>“Ixion means the sun at mid-day, whose four-spoked wheel, in the words of
-            <author>Pindar</author>, is seen whirling in the heavens.</p>
+            <author key="Pindare">Pindar</author>, is seen whirling in the heavens.</p>
           <p>“Sieve of the Danaides, or perforated cask, means the rainy sky.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>Mœræ*.</head>
         <p>The Fates were called Mœræ* in Greek and Parcæ* in Latin. Either term signifies <hi rend="i">a share</hi>, in the sense of allotting to every man his share. Some mythologists call them the daughters of Nyx, others of Zeus and Themis. They were three in number — Clotho*, Lachesis*, and Atropos*. To them was intrusted the management of the thread of life. Clotho drew the thread, Lachesis turned the wheel, and Atropos cut the thread with a pair of scissors. That is, Clotho gives life or brings us into the world, Lachesis determines the fortunes that shall befall us here, and Atropos concludes our lives.</p>
         <p>
-          <author>Homer</author> speaks of one Mœræ only, the daughter of Night, who represents the moral force by which the universe is governed, and to whom both mortals and immortals were forced to submit, Zeus himself being powerless to avert her decrees; but in later times this conception of one inexorable, all-conquering fate became amplified by the poets into that described above.</p>
+          <author key="Homère">Homer</author> speaks of one Mœræ only, the daughter of Night, who represents the moral force by which the universe is governed, and to whom both mortals and immortals were forced to submit, Zeus himself being powerless to avert her decrees; but in later times this conception of one inexorable, all-conquering fate became amplified by the poets into that described above.</p>
         <p>It was considered the function of the Mœræ to indicate to the Erinnys* (Furies) the precise torture which the wicked should undergo for their crimes.</p>
         <p>They had sanctuaries in many parts of Greece. The sacrifices offered were ewes, flowers, and honey.</p>
         <div>
@@ -619,7 +619,7 @@
         <bibl>
             <author><hi rend="i">Fiske</hi></author>.</bibl></quote>
         <p>According to
-          <author>Hesiod</author>, they sprung from the blood of Uranus when he was wounded by Chronos, and were hence supposed to be the embodiment of all the terrible imprecations which the defeated deity called down upon the head of his rebellious son.</p>
+          <author key="Hésiode">Hesiod</author>, they sprung from the blood of Uranus when he was wounded by Chronos, and were hence supposed to be the embodiment of all the terrible imprecations which the defeated deity called down upon the head of his rebellious son.</p>
         <p>Their place of abode was the lower world, where they were employed by Aides and Persephone to chastise and torment those shades who, during their earthly career, had committed crimes, and had not been reconciled to the gods before descending to Hades.</p>
         <p>They appeared upon earth as the avenging deities who relentlessly pursued and punished murderers, perjurers, those who had failed m duty to their parents, in hospitality to strangers, or in the respect due to old age.</p>
         <p>The early representations depicted them as beings of terrific appearance, with snakes instead of hair. They were sometimes winged. They were clad in black and carried a torch, a sword, a knife, a whip, or a serpent.</p>
@@ -638,7 +638,7 @@
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Demeter*; <hi rend="i">Roman</hi>, Ceres*.</p>
         <p>Demeter (from Ge-meter, earth-mother) was a daughter of Chronos and Rhea. She was the goddess of agriculture, and represented that portion of Gæa (the whole solid earth) which we call the earth’s crust, and which produces all vegetation. It is necessary to keep clearly in view the distinctive difference between the three great earth-goddesses Gæa, Rhea, and Demeter. Gæa represents the earth as a whole, with its mighty subterranean forces; Rhea is that productive power which causes vegetation to spring forth, thus sustaining men and animals; Demeter, by presiding over agriculture, directs and utilizes Rhea’s productive powers. The thriving of the crops was ascribed to her influence. She was regarded as the patroness of all those arts which are connected with agriculture, by means of which men were rescued from the lower grades of hunters and shepherds, and brought into subjection to law and morality. She thus becomes that
           <quote>“bountiful daughter of Heaven”</quote> who, as
-          <author>Schiller</author> sings in his “<title>Lay of the Bell</title>:”</p>
+          <author key="Schiller">Schiller</author> sings in his “<title>Lay of the Bell</title>:”</p>
         <quote>
           <l>                                                        “Of old</l>
           <l>Called the wild man from waste and wold,</l>
@@ -690,7 +690,7 @@
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Ares*; <hi rend="i">Roman</hi>, Mars.</p>
         <quote>
           <p>“Ares, the son of Zeus and Hera, represents war from its fatal and destructive side, by which he is clearly distinguished from Athene, the wise disposer of battles. He was, probably, originally a personification of the angry, clouded sky. His home, according to
-            <author>Homer</author>, was in Thrace, the land of boisterous wintry storms, among whose warlike inhabitants he was held in high esteem, but his worship was not so extensive in Greece.”</p>
+            <author key="Homère">Homer</author>, was in Thrace, the land of boisterous wintry storms, among whose warlike inhabitants he was held in high esteem, but his worship was not so extensive in Greece.”</p>
         <bibl>
             <author><hi rend="i">Seemann</hi></author>.</bibl></quote>
         <quote>
@@ -726,7 +726,7 @@
         <p>Athene was said to have been produced from the head of Zeus, which Hephæstus had been ordered to cleave open. The goddess of war, in full armor, sprung forth, while a great commotion both on sea and land announced the event to the world. She is also the goddess of wisdom, and as such is the protectress of states; all that their welfare requires in peace or war proceeds from her. Thus she appears as goddess of peace as well as of war. It was she who first taught mankind to manage the horse, to build ships and chariots, and to use the rake and the plough. By later writers she is represented as the patroness of every branch of science, art, and manufacture.</p>
         <p>Parthenos* (virgin) was one of Athene’s names, whence the temple of Athens, where she was most religiously worshiped, was called the Parthenon*<note place="bottom">The “Elgin* Marbles,” now in the British Museum, are portions of the statues and reliefs of the Parthenon.</note> (Virgin’s Shrine).</p>
         <p>
-          <author>Aristotle</author> calls Pallas Athene the moon. On the coins of Attica there was a moon as well as an owl and olive branch. It could scarcely have been from any other cause than that of her being regarded as the moon that the owl, whose broad, full eyes shine so brightly in the dark, was consecrated to her. The shield with the Gorgon’s* head on it seems to represent the full-orbed moon, and the title Glaucopis* (from the blueness of her eyes) is given to both Selene and Athene.</p>
+          <author key="Aristote">Aristotle</author> calls Pallas Athene the moon. On the coins of Attica there was a moon as well as an owl and olive branch. It could scarcely have been from any other cause than that of her being regarded as the moon that the owl, whose broad, full eyes shine so brightly in the dark, was consecrated to her. The shield with the Gorgon’s* head on it seems to represent the full-orbed moon, and the title Glaucopis* (from the blueness of her eyes) is given to both Selene and Athene.</p>
         <p>The sacred olive-tree, which Athene had caused to grow at the time of her contest with Poseidon about naming the city of Athens, was shown in the temple of Erechtheus* on the Acropolis,<note place="bottom">The Acropolis was a fortified hill at Athens, entered through a magnificent temple-gate called the Propylæa*.</note> and it possessed such a wonderful vitality that, when burned by the Persians, it immediately put forth a fresh shoot.</p>
         <p>Theseus gave political unity to the twelve towns of Attica, and established the general worship at Athens. The Athenæa*, which had been instituted by Erechthonius* (a serpent-legged son of Gæa and Hephæstus), were thereafter called Panathenæa*, and were celebrated every fifth year. Citizens from all parts of Attica assembled at Athens, bringing sacrifices consisting of oxen that had never been under the yoke, rams, cows, and lambs. The prizes in the athletic, musical, and literary contests were crowns of olive, and painted vases filled with oil made from the sacred olive-tree.</p>
         <p>The Panathenaic* Procession was world-renowned. Its object was to bear a newly-wrought peplos to the Erechtheum*<note place="bottom">Erechtheum*, a temple north of the Parthenon.</note> and place it upon the olive-wood statue of Athene, which was said to have fallen from heaven. The procession formed on the plains of Eleusis, and was composed of various classes of people, all crowned with flowers. The central object of this grand array was a ship moved automatically. It bore for a sail the sacred peplos, upon which young daughters of the noblest families had embroidered in gold the triumphs of Athene.</p>
@@ -769,7 +769,7 @@
           <l>Dropped from the zenith, like a falling star,</l>
           <l>On Lemnos, the Ægean isle.”</l>
         <bibl>
-          <author><hi rend="i">Milton</hi></author>’s “<title>Paradise Lost</title><title>,” Book I</title>.</bibl></quote>
+          <author key="Milton"><hi rend="i">Milton</hi></author>’s “<title>Paradise Lost</title><title>,” Book I</title>.</bibl></quote>
         <p>The same fundamental idea lies at the foundation of these legends, namely, that fire first came down from heaven in the form of lightning. He was worshiped by the Greeks as the god who had mastered the mighty element and compelled it to do grand service for man. Volcanoes were believed to be his workshops and the Cyclopes his workmen.</p>
         <p>It is said that the first work of Hephæstus was a throne of gold, with secret springs, which he presented to Hera. When seated, she found herself unable to move, and all the efforts of the gods to extricate her were unavailing. Dionysus* induced Hephæstus to return to Olympus, where, after having released the queen of heaven from her undignified position, he became reconciled to his parents. He built for himself on Olympus a palace of gold. With the assistance of the Cyclopes, he forged for Zeus his thunderbolts. He constructed the palaces in which the gods resided, made the golden shoes with which they trod the air or water, built for them their wonderful chariots, and shod with brass the horses of celestial origin. He also made the tripods which moved automatically, and formed for Zeus the far-famed Ægis*. He also made various wonderful things for his favorites, or those of Zeus among men. Among these were the golden dogs which guarded the house of Alcinous*, king of the Phæacians*, the brass-footed, fire-breathing bull which guarded the Golden Fleece. He formed for Minos*. King of Crete, a brazen man named Talos*, who compassed the island three times a day to guard it from invasion. He destroyed people by making himself red-hot in the fire, and then embracing them. Hephæstus also made the armor of Achilles*, that of Æneas*, the shield of Heracles*, a collar given to Hermione, and the sceptre of Agamemnon.</p>
         <p>Hephæstus was held in great esteem at Athens, also by the Greeks in Campania and Sicily.</p>
@@ -795,7 +795,7 @@
         <p>The dove, swan, swallow, sparrow, the myrtle, and the rose were sacred to Aphrodite.</p>
         <p>The Venus of Milo is now in the Louvre at Paris. It was found in the year 1820, on the Island of Milo, hence its name. It is noted for the dignified expression of the head.</p>
         <p>The Venus de Medici is so called from its having been in the possession of the princes of that name in Rome when it first attracted attention, about two hundred years ago. There is a story that the artist was employed by public authority to make a statue exhibiting the perfection of female beauty, and to aid him in his task, the most perfect forms the city (Athens) could supply were furnished him for models. It is to this
-          <author>Thomson</author> alludes in his “<title>Summer</title>.”</p>
+          <author key="Thomson">Thomson</author> alludes in his “<title>Summer</title>.”</p>
         <quote>
           <l>“So stands the statue that enchants the world;</l>
           <l>So bending tries to veil the matchless boast,</l>
@@ -892,7 +892,7 @@
         <quote>
           <p>“The story of Daphne indicates the love of the Sun for the Dawn, who flees at his approach, and at length, as he draws nearer to her, vanishes away.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         <figure>
           <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_091.png"/>
         </figure>
@@ -900,11 +900,11 @@
         <quote>
           <p>“Eurydice stung by a serpent means that the evening twilight dies out before the coming night. Eurydice lost on her return means the early light which appears in the morning, but is seen no more when the sun is risen.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         <p>Cassandra*, a daughter of Priam*, king of Troy, was beloved by Apollo. She promised to marry him if he would confer upon her the gift of prophecy; but having received the boon, she refused to comply with the conditions upon which it had been granted. Unable to recall his gift, he rendered it useless by causing her predictions to fail in gaining credence, so, although she always prophesied correctly, no one believed her.</p>
         <p>Apollo carried off Cyrene* to that part of Libya afterwards named for her. Their son was Aristæus, who discovered the culture of the olive and the mode of managing bees.</p>
         <p>Apollo afterwards married Coronis*. One day, his favorite bird, the raven, flew to him with the intelligence that his wife had transferred her affections to another. Apollo instantly destroyed her with one of his death-bringing darts. He repented when too late. He punished the raven for its garrulity by changing its color from white to black.<note place="bottom">Read
-          <author>Saxe</author>’s “<title>How the Raven became Black</title>.”</note></p>
+          <author key="Saxe">Saxe</author>’s “<title>How the Raven became Black</title>.”</note></p>
         <figure>
           <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_093.png"/>
         </figure>
@@ -940,7 +940,7 @@
         <quote>
           <p>“The beauty of the children of Niobe is the beauty of clouds flushed with the light of the morning, which are scattered from before the face of the morning sun. Her tears are the rain-drops which turn to ice on the mountain-summits, where men fancy they see her form hardened into stone.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         <p>The Diana of the Romans was identified with the Greek Artemis. A temple was dedicated to her on the Aventine hill by Servius Tullius, who is said to have introduced the worship of this divinity into Rome.</p>
         <p>The Nemoralia, or Grove Festivals, were celebrated in her honor on the 13th of August.</p>
         <div>
@@ -958,11 +958,11 @@
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Hermes*; <hi rend="i">Roman</hi>, Mercury*; <hi rend="i">Hindu</hi>, Sarameyas; <hi rend="i">Egyptian</hi>, Thoth* (as god of letters and wisdom), Anubis (as conductor of souls to the lower world).</p>
         <p>Hermes was the son of Zeus and Maia* (one of the daughters of Atlas). He was the god that presided over commerce, eloquence, wrestling, thieving, and everything that required skill and ingenuity. He was messenger of Zeus, and conductor of souls to the underworld; as the latter he was called Psychopompos*. He was also god of the fertilizing rain. Later poets make him the inventor of the alphabet, and of the art of interpreting languages.</p>
         <p>He was born in a cavern in Mount Cyllene, in Arcadia. The story is that four hours after his birth he set forth to steal some of the cattle of the gods which fed in Pieria, at the foot of Mount Olympus, under the care of Apollo. At the door of the cavern he found a tortoise-shell, from which he formed the lyre.<note place="bottom">Read “<title>The Finding of the Lyre</title>.” — 
-          <author>Lowell</author>.</note> Arriving in Pieria, he drove off fifty cows, and took them to Arcadia unseen by any but a man named Battus*. Apollo, pursuing, came to the cave of the nymph Maia, and threatened the babe severely if he did not restore the oxen. Hermes denied the charge, and pleaded his extreme youth as proof of his innocence. At last Apollo carried him to the throne of Zeus to have their quarrel decided. Zeus ordered Hermes to restore the cattle. When the divine shepherd heard the music of the lyre, the chords of which Hermes touched as if by chance, he was so entranced that he gladly offered his oxen in exchange for this new instrument, and promised to give Hermes full dominion over flocks and herds. The offer was accepted. Apollo also gave Hermes the Caduceus*, or golden wand. This wand was surmounted by wings. Wishing to prove the truth of the assertion made by Apollo, that it had the power of uniting all beings divided by hate, Hermes threw it down between two snakes which were fighting. They curled around the staff and remained ever after permanently attached to it. The wand typified power; the wings, diligence; the serpents, wisdom or prudence.</p>
+          <author key="Lowell">Lowell</author>.</note> Arriving in Pieria, he drove off fifty cows, and took them to Arcadia unseen by any but a man named Battus*. Apollo, pursuing, came to the cave of the nymph Maia, and threatened the babe severely if he did not restore the oxen. Hermes denied the charge, and pleaded his extreme youth as proof of his innocence. At last Apollo carried him to the throne of Zeus to have their quarrel decided. Zeus ordered Hermes to restore the cattle. When the divine shepherd heard the music of the lyre, the chords of which Hermes touched as if by chance, he was so entranced that he gladly offered his oxen in exchange for this new instrument, and promised to give Hermes full dominion over flocks and herds. The offer was accepted. Apollo also gave Hermes the Caduceus*, or golden wand. This wand was surmounted by wings. Wishing to prove the truth of the assertion made by Apollo, that it had the power of uniting all beings divided by hate, Hermes threw it down between two snakes which were fighting. They curled around the staff and remained ever after permanently attached to it. The wand typified power; the wings, diligence; the serpents, wisdom or prudence.</p>
         <quote>
           <p>“The story of Hermes sprung from the varying actions of the wind, which he personified. He was simply air in motion, which in one hour may breathe as softly as a child in its cradle, and in the next may tear up forests in its rage. The music which he produced was the melody of the winds. The cows which he stole were the bright clouds driven across the heaven.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         <p>It was in his character of wind-god that Hermes was believed to bear away the souls of the dead. The ancients believed that the wind carried away the souls of the dead, and this superstition still prevails in some parts of Europe.</p>
         <p>As the patron of commerce, Hermes was supposed to be the promoter of intercourse between nations; hence he is the god of travelers, over whose safety he presided, and he severely punished those that refused assistance o the lost or weary wayfarer. He was also guardian of streets and roads, and his statues, called Hermæ* (pillars of stone surmounted by a head of Hermes), were placed at cross-roads and in streets.</p>
         <p>Zeus presented to Hermes a winged cap (Petasus) and winged shoes (Talaria). The wings were emblematic of the wings which language gives to the thoughts of men.</p>
@@ -981,7 +981,7 @@
           <l>Than I again must clasp them, and depart</l>
           <l>Upon some foolish errand.”</l>
         <bibl>
-            <author><hi rend="i">Longfellow</hi></author>.</bibl></quote>
+            <author key="Longfellow"><hi rend="i">Longfellow</hi></author>.</bibl></quote>
         <div>
           <head>Representations.</head>
           <p>In his statues Hermes is represented as a beardless youth, with broad chest and graceful but muscular limbs.</p>
@@ -999,7 +999,7 @@
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Dionysus*; <hi rend="i">Roman</hi>, Bacchus*, <hi rend="i">or</hi> Liber*; <hi rend="i">Hindu</hi>, Schiva; <hi rend="i">Egyptian</hi>, Osiris*.</p>
         <quote>
           <p>“Dionysus was called Bacchus both by the Greeks and Romans; that is, noisy or riotous god. It was originally a mere surname, and does not occur until after the time of
-            <author>Herodotus</author>.”</p>
+            <author key="Hérodote">Herodotus</author>.”</p>
         <bibl>
             <author><hi rend="i">Dwight</hi></author>.</bibl></quote>
         <p>Dionysus was the son of Zeus and Semele*, and he was snatched by Zeus from the devouring flames in which his mother perished when Zeus appeared to her in all the splendor of his divine glory Hera had visited Semele in the form of her nurse (Beroe*), and had persuaded her to request Zeus to appear to her in the full majesty of his divine form. He had sworn by the Styx to grant whatever she desired, so, as she refused to withdraw her foolish request, her death was the consequence.</p>
@@ -1027,7 +1027,7 @@
         <div>
           <head>Representations.</head>
           <p>In the Medici gallery at Florence is a fine statue of Bacchus by
-            <author>Michael Angelo</author>. He is crowned with ivy and vine tendrils, and holds in his right hand a cnp, and in his left a cluster of grapes, of which a little satyr is endeavoring to take a taste.</p>
+            <author key="Michelangelo">Michael Angelo</author>. He is crowned with ivy and vine tendrils, and holds in his right hand a cnp, and in his left a cluster of grapes, of which a little satyr is endeavoring to take a taste.</p>
           <p>In earlier art he was generally depicted as majestic and grave. In later art he became more youthful. The statues of this period are distinguished by the almost feminine expression of face. His soft hair, which falls about his shoulders in delicate ringlets, is generally intertwined with a garland of vine-leaves, or ivy.</p>
           <p><hi rend="b">Epithets.</hi> — Dionysus was called Dithyrambos*, from the odes of that name, or from a story of his double birth; he was also called Muse-leader, bull-headed, fire-born, dance-rouser, mountain-rover, sleep-giver.</p>
         </div>
@@ -1045,7 +1045,7 @@
         </figure>
         <quote>
           <p>“The parents of the nine Muses were Zeus and Mnemosyne* (Memory).
-            <author>Pindar</author> gives the following account of their origin: ‘After the defeat of the Titans, the celestials besought Zeus to create some beings who might perpetuate in song the mighty deeds of the gods. It was in answer to this prayer that the Muses were created. Tliey sing of the past, present, and future, while Apollo’s lute accompanies their sweet strains, which gladden the hearts of the gods as they sit assembled in the lofty palace of Father Zeus, on Mount Olympus.’ Looked at in connection with nature, there is little doubt but that the Muses were originally nymphs of the fountains. The veneration of the Muses first arose in Pieria, a district on the eastern declivity of Mount Olympus, in Thessaly, from whose steep and rocky heights a number of sweet rippling brooks descend to the plains. The perception of this natural music led to a belief in the existence of such song-loving goddesses. Originally, the Muses were only goddesses of song, though they are sometimes represented on vases holding musical instruments. In early times, too, they appeared only as a chorus, or company; but at a later period a separate function was assigned to each of them.”</p>
+            <author key="Pindare">Pindar</author> gives the following account of their origin: ‘After the defeat of the Titans, the celestials besought Zeus to create some beings who might perpetuate in song the mighty deeds of the gods. It was in answer to this prayer that the Muses were created. Tliey sing of the past, present, and future, while Apollo’s lute accompanies their sweet strains, which gladden the hearts of the gods as they sit assembled in the lofty palace of Father Zeus, on Mount Olympus.’ Looked at in connection with nature, there is little doubt but that the Muses were originally nymphs of the fountains. The veneration of the Muses first arose in Pieria, a district on the eastern declivity of Mount Olympus, in Thessaly, from whose steep and rocky heights a number of sweet rippling brooks descend to the plains. The perception of this natural music led to a belief in the existence of such song-loving goddesses. Originally, the Muses were only goddesses of song, though they are sometimes represented on vases holding musical instruments. In early times, too, they appeared only as a chorus, or company; but at a later period a separate function was assigned to each of them.”</p>
         <bibl>
             <author><hi rend="i">Seemann</hi></author>.</bibl></quote>
         <quote>
@@ -1238,12 +1238,12 @@
         <p>The usual offerings to Pan were milk and honey. Cows, lambs, and rams were also offered to him.</p>
         <p>When Pan was wooing the nymph Pitys, Boreas, who was his rival, blew the nymph down from a rock and killed her. Pan changed her into a pine-tree.</p>
         <p>Professor
-          <author>Müller</author> explains that Boreas is the Greek for north wind, Pitys for pine-tree, and Pan, a deity representing the wind in its less destructive character. A Greek poet would tell his children of the wonders of the forest, and of poor Pitys, the pine-tree wooed by Pan, the gentle wind, and struck down by jealous Boreas, the north wind.</p>
+          <author key="F. M. Müller">Müller</author> explains that Boreas is the Greek for north wind, Pitys for pine-tree, and Pan, a deity representing the wind in its less destructive character. A Greek poet would tell his children of the wonders of the forest, and of poor Pitys, the pine-tree wooed by Pan, the gentle wind, and struck down by jealous Boreas, the north wind.</p>
         <p>As the nymph Syrinx* was one day returning from the chase. Pan fell in love with her, and pursued her to the banks of the river Ladon, when, feeling escape impossible, she called on the gods for assistance. They transformed her into a reed just as Pan was about to seize her. While he was lamenting his unfortunate fate, the winds gently swayed the reeds and produced a low musical sound. Pan cut seven of them of unequal length, joined them together, and succeeded in producing the instrument called syrinx, or Pandean pipes.</p>
         <quote>
           <p>“Here mythology has simply inverted history and while, in an account of the invention of musical instruments, one should probably be told that the wind whistling through the river reeds led to the invention of the shepherd’s pipe, the poet tells us that Pan, the wind, played with Syrinx, and that she was changed into a reed.”</p>
         <bibl>
-            <author><hi rend="i">Müller</hi></author>.</bibl></quote>
+            <author key="F. M. Müller"><hi rend="i">Müller</hi></author>.</bibl></quote>
         <p>The Romans had an old Italian deity called Faunus*, who, as the god of shepherds, was identified with the Greek Pan. He is called Lupercus*, or the one that wards off wolves.</p>
       </div>
       <div>
@@ -1335,7 +1335,7 @@
         </quote>
         <p>At the time of the Panathenaic* festival, in the evening, was a torch-race in honor of Prometheus. A torch, lighted at the altar of that deity, was passed from one competitor to another, and he who succeeded in longest preserving it lighted while he ran, was successful.</p>
         <p>
-          <author>Æschylus</author> wrote <title>three tragedies on the subjects of the confinement, the release, and the worship of Prometheus at Athens</title>.</p>
+          <author key="Eschyle">Æschylus</author> wrote <title>three tragedies on the subjects of the confinement, the release, and the worship of Prometheus at Athens</title>.</p>
       </div>
       <div>
         <head>Ages of the World.</head>
@@ -1389,7 +1389,7 @@
             <p>“This legend has localized a number of phrases which described originally some phenomena of the outer world. There must have existed in ancient languages a large number of names for the sun, the sky, the dawn, and the earth. The sun (Œdipus) is the child of the darkness (Laius), and he is doomed to slay his father. He is also the child of the dawn (Jocasta), whose soft, violet hues tint the clouds of early morning. When the evening comes, these violet hues re-appear; so Œdipus weds Jocasta. The tender light of evening is suddenly blotted out by the vapors, the light of the sun is quenched in gloom. In other words, Jocasta dies, and Œdipus tears out his eyes.</p>
             <p>“Antigone is the light which looks forth from the east when the sun sinks down in the west.”</p>
           <bibl>
-              <author><hi rend="i">Max Müller</hi></author>.</bibl></quote>
+              <author key="F. M. Müller"><hi rend="i">Max Müller</hi></author>.</bibl></quote>
         </div>
         <div>
           <head>The Theban Wars.</head>
@@ -1422,7 +1422,7 @@
           <p>“Medusa is the starlit night, solemn in its beauty, and doomed to die when the sun rises; her sisters represent the absolute darkness which it was supposed the sun could not penetrate.</p>
           <p>“The Grææ* represent the twilight or gloaming, or else the graymists which are seen at the mouth of caverns near the sea-shore.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         <p>Perseus occupies a prominent position in Greek art. There is in the Capitoline Museum at Eome a marble relief depicting the rescue of Andromeda.</p>
         <p>His common attributes are the winged sandals, the sickle with which he slew Medusa, and the helmet of Aides. In bodily form, as well as in costume, he closely resembles Hermes.</p>
       </div>
@@ -1439,7 +1439,7 @@
           <p>“There was a burning mountain in Lycia called Chimæra, whose top was the resort of lions on account of its desolate wilderness; the middle, which was fruitful, was covered with goats, and at the base the marshy ground abounded with serpents. Bellerophon was said to have conquered the Chimæra, because he was the first to make his habitation on that mountain.”</p>
           <p>“In the story of Bellerophon, the reference to the sun is obvious. He was called the son of Poseidon, who was sometimes called Glaucus. None could appreciate this genealogy better than the Corinthians, who daily saw the sun rise out of the sea. The fall of Bellerophon is the rapid descent of the sun towards evening, and the plain over which he wandered is the broad expanse of somber light through which the sun is sometimes seen to travel sullenly and alone to his setting. The contest of Bellerophon with the Chimæra may be a representation of the drying up, by means of the sun’s rays, of the furious mountain torrents which flood the cornfields.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
       </div>
       <div>
         <head>Heracles* (Hercules).</head>
@@ -1493,7 +1493,7 @@
             <p>“Darkness of night is meant by the serpents killed by Heracles. Iole, the violet-colored clouds that are seen at sunrise and sunset. The ‘golden apples,’ the golden-colored clouds which are grouped around the sun as he sinks in the western sky.</p>
             <p>“The death-scene in the story of Heracles is the last incident in what has been called the ‘Tragedy of Nature’ — the battle of the sun with the clouds, which gather around him at his setting like mortal enemies. As he sinks, the fiery mists embrace him, and the purple vapors rush across the sky like the streams of blood which gush from the hero’s body, while the violet-colored evening clouds seem to cheer him in his dying agony.”</p>
           <bibl>
-              <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+              <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         </div>
       </div>
       <div>
@@ -1588,7 +1588,7 @@
         <p>Ilus was directed by the oracle to follow a spotted cow, and build a town where she should lie down. He followed the cow until she came to the hill of Ate* (Mischief), where he built the town named Ilion, from himself, and Troy from his father. He prayed to Zeus to bestow upon him some sign of favor. The next morning he found in front of his tent the celebrated Palladium* — an image of Pallas Athene carved in wood, and the oracle declared that the safety of Troy depended upon its preservation.</p>
         <p>After the death of Ilus, his son Laomedon* became king of Troy, and he was succeeded by Priam, who was king at the time of the Trojan War. He was married to Hecuba*, and the most renowned of their children were the valiant Hector*, the prophetess Cassandra*, and Paris, the cause of the Trojan war.</p>
         <p>When Paris was born, it was predicted that he would prove the ruin of his country; and the soothsayer recommended that he should be exposed on the mountain, to perish. This was accordingly done; but the servant who had left him, found five days later that a bear had taken care of the infant. Surprised at the incident, he took the child, named him Paris, and reared him as his own son. Paris afterwards distinguished himself by his strength and courage in repelling robbers from the flocks, and the shepherds then gave him the name of Alexander (man-aider). He married the nymph Œnone*,<note place="bottom">Read
-          <author>Tennyson</author>’s “<title>Œnone</title>.”</note> whom Rhea had taught prophecy. It was about this time that Paris gave his famous decision in favor of the beauty of Aphrodite.</p>
+          <author key="A. Tennyson">Tennyson</author>’s “<title>Œnone</title>.”</note> whom Rhea had taught prophecy. It was about this time that Paris gave his famous decision in favor of the beauty of Aphrodite.</p>
         <p>Soon after this event, Priam proposed a contest among his sons and other princes, promising to reward the conqueror with one of the finest bulls from Mount Ida. On sending to procure the animal, it was found in the possession of Paris, who reluctantly allowed it to be taken away. Desirous of recovering his favorite, he went to Troy, and entered the list of combatants.</p>
         <p>Paris proved successful, and gained advantage over Hector himself. A strife followed, which would have ended in bloodshed but for the appearance of Cassandra, who told them that the young shepherd was their brother Paris. Priam acknowledged his son, the prediction was forgotten, and Paris enjoyed all the privileges of a prince of Troy.</p>
         <p>Hesione, sister of Priam, had been carried away captive by Heracles, and given in marriage to Telamon*. Although she lived happily with her husband, her brother Priam had never ceased to regret her loss, and it was now proposed that Paris should take the command of an expedition to demand the restoration of Hesione.</p>
@@ -1632,7 +1632,7 @@
         <div>
           <head>The Death of Memnon*.</head>
           <p>Memnon was the son of Eos (Aurora) and Tithonus. He was king of the Ethiopians, and came with his warriors to assist the kindred of his father. King Priam received him with great honors. The day after his arrival, Memnon led his troops to the field. Antilochus*, the brave son of Nestor, fell by his hand, and the Greeks were put to flight, when Achilles appeared, and restored the battle. A long and doubtful contest ensued; at length Memnon fell, and the Trojans fled in dismay. When Aurora saw him fall, she directed his brothers, the Winds, to convey his body to Paphlagonia. In the evening she came, accompanied by the Hours and Pleiades, and wept and lamented over her son. Night, in sympathy with her grief, spread the heavens with clouds. The Ethiopians raised his tomb in the grove of the Nymphs. Zeus caused the sparks and cinders of his funeral pyre to be turned into birds, which fight continually over the tomb of Memnon.<note place="bottom">On the banks of the river Nile, in Egypt, are two colossal statues, one of which is said to be the statue of Memnon. Ancient writers record that when the first rays of the rising sun fall upon this statue, a sound, like the breaking of a harpstring, is heard to issue from it.
-            <author>Sir Gardner Wilkinson</author> examined the statue, and discovered it to be hollow, and that
+            <author key="J. G. Wilkinson">Sir Gardner Wilkinson</author> examined the statue, and discovered it to be hollow, and that
             <quote>“in the lap is a stone, which, on being struck, emits a metallic sound, that might still be made use of to deceive a visitor who was predisposed to believe its powers.”</quote></note> Eos remains inconsolable for the loss of her son. Her tears still flow, and may be seen at early morning, in the form of dew-drops, on the grass.</p>
         </div>
         <div>
@@ -1657,16 +1657,16 @@
           <p>The gates being too low to admit the horse, a breach was made in the walls, and it was conveyed in triumph into the heart of the city. The Trojans, believing that the siege had been abandoned, and that they now had a sacred object in the place of the Palladium, abandoned themselves to festivities, until, exhausted, they were sunk in deep sleep.</p>
           <p>The Greek fleet quietly approached the shore at a signal from Sinon. The heroes who were hidden in the horse descended and opened the gates to the Greek host, who rushed into the doomed city. A terrible scene of plunder and carnage ensued, the Trojans, in their dismay and confusion, offering no resistance. Priam perished before the altar of Zeus. The men were put to death; the women and children, with the rich booty, were carried off, the former being destined to a lot of slavery. Among them was the aged queen Hecuba, with all her daughters and daughters-in-law. Helen, the cause of all this misfortune, professed penitence, was received by Menelaus, and returned with him to Greece.</p>
           <p>The tradition of the siege remained among the inhabitants of the country, though even in Roman times learned men had begun to declare that “Old Troy” must have had another site. Now, when the very existence of
-            <author>Homer</author>’s Troy had been declared a fable, the palace and the traces of the conflagration have been found. Dr. Schliemann has excavated the legendary site. We can scarcely tell at present the full importance of these discoveries.</p>
+            <author key="Homère">Homer</author>’s Troy had been declared a fable, the palace and the traces of the conflagration have been found. Dr. Schliemann has excavated the legendary site. We can scarcely tell at present the full importance of these discoveries.</p>
           <p>Professor
-            <author>Max Müller</author> says,
+            <author key="F. M. Müller">Max Müller</author> says,
             <quote>“the siege of Troy is a repetition of the daily siege of the East by the solar powers that every evening are robbed of their brightest treasures in the West.”</quote></p>
           <quote>
             <p>« The great conflict of the <title>Iliad</title> is the battle of the powers of light and darkness. Paris represents the night fighting with the children of day.”</p>
             <p>“That the story of the Trojan war is almost wholly mythical, has been conceded by even the most obstinate champions of
               Homeric unity. That it contains some few grains of actual history is all they venture to urge.”</p>
           <bibl>
-              <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+              <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         </div>
       </div>
       <div>
@@ -1740,7 +1740,7 @@
             <p>“‘The chief seizes his bow,’ the hidden sun darts his ray through the cloud-rift, and scatters the heavy vapors which had gathered round the dawn-hght.</p>
             <p>“‘Penelope’ is the <hi rend="i">weaver</hi> but her web, though often begun, cannot be finished until Odysseus returns, because the web of morning clouds reappears only at sundown.”</p>
           <bibl>
-              <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+              <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         </div>
         <div>
           <head>Æneas*.</head>
@@ -1896,10 +1896,10 @@
         <p><hi rend="b">Typhon</hi>* was the common enemy of all the other gods; his emblems were the pig, the ass, and the hippopotamus.</p>
         <p>It was related that Osiris once went about the earth doing good, and that on his return he was slain by Seb (Typhon), his brother. A temple of surpassing magnificence was erected in his honor at Philoe, which became ever after the great burial-place of the nation, and the spot to which pilgrimages were made from all parts of the country.</p>
         <p>The soul of Osiris was supposed to exist in some way in the sacred bull Apis*, of which Serapis* is probably another name.
-          <author>Herodotus</author>* says,
+          <author key="Hérodote">Herodotus</author>* says,
           <quote>“Apis is a young bull whose hair is black, on his forehead a white triangle, on his back an eagle, a beetle under his tongue, and the hair of his tail double.”</quote>
-          <author>Ovid</author>* says he is of various colors.
-          <author>Plutarch</author> says he has a crescent on his right side. These superstitions varied from age to age. Apis was worshiped with the greatest reverence by the Egyptians.</p>
+          <author key="Ovide">Ovid</author>* says he is of various colors.
+          <author key="Plutarque">Plutarch</author> says he has a crescent on his right side. These superstitions varied from age to age. Apis was worshiped with the greatest reverence by the Egyptians.</p>
         <p>As soon as a bull with the marks above described was found by those in search of him, he was placed in a building facing the east, and was fed with milk for four months. At the expiration of this time the priests repaired, at new moon, with great pomp, to his habitation, and saluted him “Apis.” He was placed in a vessel magnificently decorated, and conveyed down the Nile to Memphis, where a temple with two chapels, and a court for exercise, were assigned to him. Sacrifices were made to him, and once every year, about the time when the Nile began to rise, a golden cup was thrown into the river, and a grand festival was held to celebrate his birthday. The people believed that during this festival the crocodiles became harmless.</p>
         <p>Apis was not allowed to live more than twenty-five years. If he lived to that age, the priests drowned him in the sacred cistern, and then buried him in the temple of Serapis*. On the death of this bull, whether it occurred in the course of nature or by violence, the whole land was filled with sorrow and lamentations, which lasted until his successor was found.</p>
         <p>A new Apis was found as late as the reign of Hadrian*. A mummy of one of the Sacred Bulls may be seen in the Egyptian collection of the Historical Society of New York.</p>
@@ -1934,7 +1934,7 @@
           <p>“The religious rites of the ancient Persians were very simple. They used neither temples, altars, nor statues, and performed their sacrifices on the tops of mountains. They adored fire, light, and the sun, as emblems of Ormuzd, the source of all light and purity, but did not regard them as independent deities. The rites and ceremonies were regulated by the priests, who were called Magi*. The learning of the Magi was connected with astrology and enchantment, in which they were so celebrated that their name was applied to all orders of magicians and enchanters.</p>
           <p>“The religion of Zoroaster continued to flourish even after the introduction of Christianity, and in the third century was the dominant faith of the East till the rise of the Mahometan power and the conquest of Persia by the Arabs in the seventh century, who compelled the greater part of the Persians to renounce their ancient faith. Those who refused to abandon the religion of their ancestors fled to the deserts of Kerman and to Hindustan, where they still exist under the name of Parsees*, a name derived from Pars, the ancient name of Persia. At Bombay, the Parsees are at this day a very active, intelligent, and wealthy class. They are noted for their purity of life, honesty, and conciliatory manners. They have numerous temples to Fire, which they adore as the symbol of the divinity.</p>
           <p>“The Persian religion is the subject of the finest tale in
-            <author>Moore</author> <title>Lalla Rookh</title>, the ‘Fire Worshipers.’”</p>
+            <author key="Th. Moore">Moore</author> <title>Lalla Rookh</title>, the ‘Fire Worshipers.’”</p>
         <bibl>
             <author><hi rend="i">Bullfinch</hi></author>.</bibl></quote>
       </div>
@@ -1946,7 +1946,7 @@
         <quote>
           <p>“The Vedic, or earliest Hindu mythology, is especially valuable as furnishing a key to that of the Persians, Greeks, Latins, Romans, and other races. The names by which the Greeks denoted different gods and heroes are in the <title>Vedas</title> mere epithets, the meaning of which cannot be mistaken; and the most complicated legends can be traced to their germ in some phrase which, in these most ancient of all poems, simply described some incident or phenomenon in the course of the outward world.”</p>
         <bibl>
-            <author><hi rend="i">Cox</hi></author>.</bibl></quote>
+            <author key="G. W. Cox"><hi rend="i">Cox</hi></author>.</bibl></quote>
         <p>In the <title>Veda</title>, Arjuni*, Brisaya*, Dahana*, Ushas*, Sarama*, and Saranyu* are names for the morning light.</p>
         <p>The Greeks regarded them as separate beings, whom they knew as Argynnis*, Briseis*, Daphne*, Eos*, Helen, and Erinnys. In the same way the <title>Vedas</title> spoke of the Panis* as tempting Sarama to be unfaithful; with the Greeks this phrase grew into the stealing of Helen by Paris, and the legend of the Trojan war.</p>
         <p>The chief deities mentioned in the ancient hymns are Varuna*, Agni*, and Indra*.</p>
@@ -1987,7 +1987,7 @@
         <p>None were admitted to Valhalla but heroes who had fallen in battle. Women, children, and all who had died a peaceful death were excluded. The joys of Valhalla consisted in eating, drinking, and fighting. They feasted on the flesh of the boar Schrimnir, which was cooked every day, and became whole again every night. The goat Heidrun* supplied them with never-failing draughts of mead, which they drank from the skulls of their slaughtered enemies. For pastime, they fought and cut one another in pieces. When the hour for feasting came, they recovered from their wounds, and were whole as before.</p>
         <p>Odin’s name was sometimes written Woden*, and from this was derived the name of the fourth day of the week, Wednesday. The wife of Odin was Frigga*, whose name remains in our Friday. She presided over marriage.</p>
         <p><hi rend="b">Thor</hi><note place="bottom">
-          <author>Longfellow</author>’s “<title>Tales of a Wayside Inn</title>.”</note> was Odin’s eldest son, and was god of thunder. His mighty strength depended upon three things — his hammer, his belt of strength, and his iron gloves. The hammer when thrown returned to his hand of its own accord. When he girded the belt around him, his strength was doubled. Whenever he put on his iron gloves, he could use his hammer efliciently. From Thor’s name was derived our name Thursday.</p>
+          <author key="Longfellow">Longfellow</author>’s “<title>Tales of a Wayside Inn</title>.”</note> was Odin’s eldest son, and was god of thunder. His mighty strength depended upon three things — his hammer, his belt of strength, and his iron gloves. The hammer when thrown returned to his hand of its own accord. When he girded the belt around him, his strength was doubled. Whenever he put on his iron gloves, he could use his hammer efliciently. From Thor’s name was derived our name Thursday.</p>
         <p><hi rend="b">Loki</hi>* was a malevolent deity described as the great serpent that encircles the earth, and as the father of Hela, the queen of the regions below the earth.</p>
         <p><hi rend="b">Baldur</hi> was the most beautiful of all the dwellers in Valhalla; but, although all the other gods had sworn not to hurt him, no oath had been taken from Loki, who destroyed him with the mistletoe.</p>
         <p><hi rend="b">The Elves</hi> were beautiful spirits clothed in delicate garments. They loved the light and were kindly disposed towards mankind. The country of the Elves was called Alfheim*, and was the domain of Freyr, the god of the sun, in whose light they were always sporting.</p>
@@ -2028,7 +2028,7 @@
         <p>The Druids observed two festivals in each year. The Baltane, or “fire of God,” took place in the beginning of May. On this occasion a large fire was kindled on some elevated spot, in honor of the sun, whose returning beneficence they thus welcomed after the gloom and desolation of winter.</p>
         <p>The other great festival of the Druids was called “Samhin,” or the “fire of peace,” and was held on Hallow-eve (last of October). On this occasion the Druids assembled in the most central part of the district to discharge the judicial functions of their order. All questions, whether public or private, all crimes against persons or property, were at this time brought before them for adjudication. With these judicial acts were combined certain superstitious usages, especially the kindling of the sacred fire, from which the fires in the district — which had all been extinguished — might be relighted. This custom of kindling fires on Hallow-eve lingered in the British Isles long after the establishment of Christianity.</p>
         <p>The Druids were in the habit of observing the full moon, and also the sixth day of the moon. On the latter they sought the mistletoe, which grew on their favorite tree, the oak. The discovery of it was an occasion of rejoicing and solemn worship.
-          <author>Pliny</author> says,
+          <author key="Pline l'Ancien">Pliny</author> says,
           <quote>“They call it by a word in their language which means ‘heal-all,’ and having made solemn preparation for feasting and sacrifice under the tree, they drive thither two milk-white bulls, whose horns are then for the first time bound. The priest, robed in white, ascends the tree, and cuts off the mistletoe with a golden sickle. It is caught in a white mantle, after which they proceed to slay the victims, at the same time praying that God will render his gift prosperous to those to whom He has given it. They drink the water in which it has been infused, and think it a remedy for all diseases. The mistletoe is a parasitic plant, and is not always found on the oak, so that when it is found, it is the more precious.”</quote></p>
         <p>Amber was valued for certain mysterious properties. It was manufactured into beads by the Druids, and given as charms to warriors going to battle; such beads are sometimes found in their tombs.</p>
         <p>Druidism was suppressed in Graul by the Roman conquerors, who built temples and introduced the worship of their own gods. Druidism found a temporary refuge in the German forests and in Armorica. It was suppressed in Britain during the reign of Nero. The persecuted Druids took refuge in the island of Mona or Anglesea, whence they were driven by the Roman troops with great slaughter. They found a last asylum in the island of Iona, where they maintained an influence until the latter part of the sixth century, when the inhabitants of the island were converted by the preaching of St. Columba, a native of Ireland, where Christianity had been established for nearly a century.</p>

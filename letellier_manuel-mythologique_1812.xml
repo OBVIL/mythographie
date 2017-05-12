@@ -75,7 +75,7 @@
             <l>Et par ses desirs et ses craintes</l>
             <l>L’homme aveugle compta ses dieux.</l>
           <bibl>(
-            <author>La Motte</author>.)</bibl>
+            <author key="La Motte">La Motte</author>.)</bibl>
 </quote>
           <p>D. A quoi peut nous servir la connoissance des fables du paganisme ?</p>
           <p><hi rend="i">R.</hi> Cette connoissance nous est très-utile. Elle nous apprend quelle étoit la croyance religieuse des peuples les plus célèbres de l’antiquité. Elle nous facilite l’intelligence des anciens écrivains, et sur-tout celle des poëtes. Elle nous fait comprendre l’intention qu’ont eue les peintres et les sculpteurs dans une infinité de leurs ouvrages. La fable est l’ame de la poésie, qui ne dit rien naturellement, mais relève tout par des images et un langage surnaturel. Ici, les bergers sont des satyres, ou des faunes ; les bergères, des nymphes ; les hommes à cheval, des centaures ; les vaisseaux, tantôt des chevaux ailés, comme dans l’histoire de Bellérophon ; tantôt des dragons, comme dans celle de Médée ; on appela les oranges, des pommes d’or. L’or fut regardé comme une pluie de ce précieux métal, comme dans la fable de Danaé ; les flèches passèrent pour des foudres et des carreaux ; etc. Écoutons Boileau à ce sujet :</p>
@@ -97,12 +97,12 @@
           </quote>
           <p>D. Les anciens reconnoissoient-ils un grand nombre de dieux ?</p>
           <p><hi rend="i">R.</hi> Oui.
-            <author>Varron</author> en compte jusqu’à trente mille ; et
-            <author>Juvénal</author> nous représente <hi rend="i">Atlas</hi> gémissant sous le poids du ciel, à cause du grand nombre de dieux qu’on y avoit placés.</p>
+            <author key="Varron">Varron</author> en compte jusqu’à trente mille ; et
+            <author key="Juvénal">Juvénal</author> nous représente <hi rend="i">Atlas</hi> gémissant sous le poids du ciel, à cause du grand nombre de dieux qu’on y avoit placés.</p>
           <p>D. En combien de classes les anciens partageoient-ils leurs dieux ?</p>
           <p><hi rend="i">R.</hi> Ils les partageoient en quatre classes. La première comprenoit les <hi rend="i">dieux suprêmes</hi>, ou les <hi rend="i">grands dieux</hi> ; ils étoient au nombre de vingt, dont douze seulement étoient admis au conseil céleste : c’étoient Jupiter, Junon, Neptune, Cérès, Mercure, Minerve, Vesta, Apollon, Diane, Vénus, Mars et Vulcain. Les huit autres étoient le Destin, Saturne, Génius, Pluton, Bacchus, l’Amour, Cybèle et Proserpine.</p>
           <p>La seconde classe renfermoit les <hi rend="i">dieux subalternes</hi>, qui veilloient aux champs, aux fleurs, aux fontaines, aux arbres, etc. ; tels que Pan, Pomone, Vertumne, et une multitude d’autres, qu’
-            <author>Ovide</author> appelle la
+            <author key="Ovide">Ovide</author> appelle la
             <quote><hi rend="i">populace des dieux</hi></quote>.</p>
           <p>On plaçoit dans la troisième classe les <hi rend="i">demi-dieux</hi>, ainsi nommés, parce qu’ils étoient nés d’un dieu et d’une mortelle, ou d’un homme et d’une déesse, tels que Hercule, Castor et Pollux ; etc.</p>
           <p>Enfin, la quatrième classe contenoit les <hi rend="i">héros</hi>, c’est-à-dire, les rois et les guerriers illustres que les anciens poëtes ont célébrés ; tels que Agamemnon, Achille, Ulysse, etc.</p>
@@ -114,7 +114,7 @@
             <p><hi rend="sc">Demande</hi>. Qu’est-ce que le Destin ?</p>
             <p><hi rend="i"><hi rend="sc">Réponse</hi></hi>. Le <hi rend="i">Destin</hi> étoit une divinité aveugle qui gouvernoit toutes choses par une nécessité inévitable. Les autres dieux et Jupiter lui-même, étoient soumis à ses décrets. Il avoit son culte et ses oracles. Il passoit pour être fils de la Nuit. On le représente avec un bandeau sur les jeux, tenant l’urne qui renferme le sort des humains, et un livre où l’avenir est écrit d’une manière immuable. Les dieux alloient consulter ce livre, mais ils ne pouvoient y rien changer.</p>
             <p>
-              <author>Dorat</author> décrit ainsi le temple du Destin :</p>
+              <author key="Dorat">Dorat</author> décrit ainsi le temple du Destin :</p>
             <quote>
               <l>Loin de la sphère où grondent les orages,</l>
               <l>Loin des soleils, par-delà touts les cieux,</l>
@@ -152,7 +152,7 @@
             </quote>
             <p>D. Le Temps est donc chargé d’exécuter les ordres du Destin ?</p>
             <p><hi rend="i">R.</hi> Oui ; et
-              <author>Voltaire</author> nous l’apprend pareillement dans sa <title>Henriade</title>. Voici ce qu’il raconte de Saint Louis, au chant septième.</p>
+              <author key="Voltaire">Voltaire</author> nous l’apprend pareillement dans sa <title>Henriade</title>. Voici ce qu’il raconte de Saint Louis, au chant septième.</p>
             <quote>
               <l>Comme il disoit ces mots d’une voix gémissante,</l>
               <l>Le palais des destins devant lui se présente :</l>
@@ -226,7 +226,7 @@
             <p><hi rend="i">R.</hi> Il se réfugia en Italie, où Janus, roi du pays Latin, l’accueillit, et partagea son trône avec lui. Cette contrée fut ensuite appelée le <hi rend="i">Latium</hi>, d’un mot latin qui signifie <hi rend="i">se cacher</hi>, parce qu’elle avoit servi de retraite à Saturne.</p>
             <p>D. Comment se comporta Saturne dans le Latium ?</p>
             <p><hi rend="i">R.</hi> Il enseigna aux hommes l’agriculture, et fit fleurir les arts et la vertu. Tout le temps qu’il passa dans cette contrée, fut appelé l’âge <hi rend="i">d’or</hi>. Voici la description que
-              <author>Boileau</author> nous a donnée de ce siècle où les hommes furent si heureux :</p>
+              <author key="Boileau">Boileau</author> nous a donnée de ce siècle où les hommes furent si heureux :</p>
             <quote>
               <l>Touts les plaisirs couroient au-devant de leurs vœux :</l>
               <l>La faim aux animaux ne faisoit point la guerre ;</l>
@@ -243,7 +243,7 @@
             <p>D. Quels sont les attributs de Saturne ?</p>
             <p><hi rend="i">R.</hi> Saturne étoit regardé comme le <hi rend="i">Temps</hi>, divinité allégorique, représentée sous la figure d’un vieillard, tenant une faux de la main droite, et de l’autre un serpent qui se mord la queue. On lui donne des ailes, et l’on place près de lui un sablier. La faux indique que le temps moissonne tout ; le serpent qui forme un cercle, désigne l’éternité, qui n’a ni commencement ni fin. Le sablier indique la mesure du temps, et les ailes sa rapidité.</p>
             <p>Voici le beau portrait que le poëte
-              <author>Rousseau</author> nous en a laissé :</p>
+              <author key="J.-B. Rousseau">Rousseau</author> nous en a laissé :</p>
             <quote>
               <l>Ce vieillard, qui d’un vol agile,</l>
               <l>Fuit sans jamais être arrêté,</l>
@@ -296,7 +296,7 @@
               <l>De son auguste front le calme s’est troublé ;</l>
               <l>Et la terre, et les mers, et les cieux ont tremblé.</l>
             <bibl>(
-              <author>Ovide</author>, <title>trad. de</title>
+              <author key="Ovide">Ovide</author>, <title>trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>D. Comment Jupiter fut-il élevé ?</p>
@@ -315,7 +315,7 @@
               <l>Et les débris d’Ossa haussé sur Pélion</l>
               <l>Ecrasèrent l’orgueil de leur rébellion.</l>
             <bibl>(
-              <author>Ovide</author>, <title>trad. de</title>
+              <author key="Ovide">Ovide</author>, <title>trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>D. Jupiter put-il tout seul venir à bout de tant d’ennemis ?</p>
@@ -435,7 +435,7 @@
               <l>» Suis-je encore Junon ? et qui d’un vain encens</l>
               <l>» Fera fumer encor mes autels impuissants ? »</l>
             <bibl>(<title>Énéide</title>, <title>trad. de</title> M. 
-              <author>Delille</author>.)</bibl>
+              <author key="Delille">Delille</author>.)</bibl>
 </quote>
             <p>D. Quelle peine terrible Junon infligea-t-elle aux Prœtides ?</p>
             <p><hi rend="i">R.</hi> Les <hi rend="i">Prœtides</hi>, filles de Prœtus, roi d’Argos, étoient fort belles. Elles eurent la hardiesse de comparer leur beauté à celle de Junon. La déesse, indignée de ce téméraire orgueil, rendit les Prœtides si furieuses, qu’elles s’imaginèrent être changées en vaches, et couroient en mugissant dans les forêts voisines :</p>
@@ -559,7 +559,7 @@
               <l>Rien ne peut assouvir sa faim insatiable ;</l>
               <l>Plus il veut l’apaiser, plus elle est implacable.</l>
             <bibl>(
-              <author>Ovide</author>, <title>trad. de</title>
+              <author key="Ovide">Ovide</author>, <title>trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>D. Comment Cérès est-elle représentée ?</p>
@@ -618,7 +618,7 @@
               <l>Pour égayer les moissonneurs</l>
               <l>Danse à midi sur la fougère.</l>
             <bibl>(
-              <author>Bernis</author>.)</bibl>
+              <author key="Bernis">Bernis</author>.)</bibl>
 </quote>
           </div>
           <div>
@@ -631,7 +631,7 @@
             <p><hi rend="i">R.</hi> Elle étoit fille de l’Océan et de la nymphe Doris. Comme elle avoit formé le projet de ne point se marier, elle rejeta d’abord la demande de Neptune. Mais le dieu des eaux lui envoya un dauphin qui la trouva au pied du mont Atlas, et vainquit sa résistance. C’est ainsi qu’Amphitrite devint déesse de la mer. Neptune, pour récompenser le dauphin, le plaça parmi les astres. Amphitrite, et Neptune eurent ensemble Triton, qui servoit de trompette à son père, usant pour cet effet d’une coquille ou d’une conque en forme de trompette. Il avoit la partie supérieure du corps semblable à l’homme, et le reste semblable à un poisson. La plupart des dieux marins sont aussi appelés Tritons, et sont représentés de la même manière avec des coquillages.</p>
             <p>D. Quels sont les principaux d’entre les autres dieux marins ?</p>
             <p><hi rend="i">R.</hi> Nous nommerons d’abord l’<hi rend="i">Océan</hi>, beau-père de Neptune, qui paroît avoir eu plusieurs femmes, savoir <hi rend="i">Doris</hi>, mère d’Amphitrite, et <hi rend="i">Téthys</hi>, qui donna le jour à un grand nombre de nymphes appelées <hi rend="i">Océanitides</hi> ou <hi rend="i">Océanides</hi>, du nom de leur père. Il ne faut pas confondre cette <hi rend="i">Téthys</hi> avec <hi rend="i">Thétis</hi>, mère d’Achille. Quelquefois Téthys est prise pour la déesse de la mer, et pour la mer elle-même : ainsi,
-              <author>Virgile</author>, dans ses <title>Géorgiques</title>,
+              <author key="Virgile">Virgile</author>, dans ses <title>Géorgiques</title>,
               <quote>dit à Auguste que Téthys achetteroit au prix de toutes ses eaux l’honneur de l’avoir pour gendre</quote> ; et
               <author>madame Deshoulières</author> dit, en parlant du soleil, que,
               <quote><hi rend="i">sans doute las d’éclairer le monde, il va chez Téthys rallumer dans l’onde ses feux amortis</hi></quote>. Téthys est ordinairement représentée sur un char en forme de coquille, traîné par des dauphins.</p>
@@ -655,7 +655,7 @@
               <l>S’efforce d’échapper à la vue incertaine</l>
               <l>          Des mortels indiscrets.</l>
             <bibl>(
-              <author>Rousseau</author>.)</bibl>
+              <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
 </quote>
             <p>D. Les poëtes ne nomment-ils pas encore quelques autres divinités maritimes ?</p>
             <p><hi rend="i">R.</hi> Ils en nomment plusieurs, telles que Éole, les Sirènes, les Harpies, Ino et Mélicerte, Glaucus, Scylla et Charybde.</p>
@@ -691,8 +691,8 @@
               <l>» Dispersez sur les mers ou noyez leurs vaisseaux,</l>
               <l>» Et de leurs corps épars couvrez au loin les eaux. »</l>
             <bibl>(<title>Énéide</title><title> de</title>
-              <author>Virgile</author><title>, liv.</title> i<hi rend="sup">er</hi><title>, trad. de</title> M. 
-              <author>Delille</author>.)</bibl>
+              <author key="Virgile">Virgile</author><title>, liv.</title> i<hi rend="sup">er</hi><title>, trad. de</title> M. 
+              <author key="Delille">Delille</author>.)</bibl>
 </quote>
             <p>D. Quels étoient les principaux vents ?</p>
             <p><hi rend="i">R.</hi> Les Romains reconnoissoient quatre vents principaux : Eurus, ou le vent d’orient, Borée, ou le vent du septentrion ou de bise ; Auster ou Notus, le vent du sud ou du midi, et Zéphire, le vent d’Ouest ou du couchant. Les Latins donnent pour femme à Zéphire la déesse Flore. On le peint sous la figure d’un jeune homme qui a l’air doux et serein, avec des ailes de papillon, et une couronne composée de toute sorte de fleurs, pour désigner son influence bienfaisante sur la nature.</p>
@@ -746,7 +746,7 @@
               <l>Et le vieux Océan efface, à sa prière,</l>
               <l>Ce que j’eus de mortel sous ma forme première.</l>
             <bibl>(
-              <author>Ovide</author>, <title>trad. de</title>
+              <author key="Ovide">Ovide</author>, <title>trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>D. Que nous direz-vous de Scylla et de Charybde ?</p>
@@ -770,12 +770,12 @@
             <p><hi rend="i">R.</hi> Il avoit été en effet dévoré par Saturne ; mais Jupiter fit prendre à son père un breuvage qui le força de rejeter Pluton de son sein. C’est ainsi que ce dieu revit le jour. Il eut pour son partage la région des enfers. Il épousa Proserpine qu’il avoit enlevée. On le représente ordinairement sur un char d’ébène, traîné par des chevaux noirs. Il est couronné d’ébène, de narcisses ou de cyprès. Sa main droite est armée d’une longue fourche ; l’autre tient la clef qui ferme la porte de l’éternité.</p>
             <p>D. Décrivez-nous la cour de Pluton.</p>
             <p><hi rend="i">R.</hi>
-              <author>Fénelon</author>, dans le dix-huitième livre de <title>Télémaque</title>, décrit ainsi cette cour :</p>
+              <author key="Fénelon">Fénelon</author>, dans le dix-huitième livre de <title>Télémaque</title>, décrit ainsi cette cour :</p>
             <quote>
               <p>« Au pied du trône étoit la Mort, pâle et dévorante, avec sa faux tranchante, qu’elle aiguisoit sans cesse. Autour d’elle voloient les noirs soucis ; les cruelles défiances ; les vengeances toutes dégouttantes de sang et couvertes de plaies ; les haines injustes ; l’avarice qui se ronge elle-même ; le désespoir qui se déchire de ses propres, mains ; l’ambition forcenée qui renverse tout ; la trahison qui veut se repaître de sang, et qui ne peut jouir des maux qu’elle a faits ; l’envie qui verse son venin mortel autour d’elle et qui se tourne en rage, dans l’impuissance où elle est de nuire ; l’impiété qui se creuse elle-même un abyme sans fond, où elle se précipite sans espérance ; les spectres hideux, les fantômes qui représentent les morts pour épouvanter les vivants ; les songes affreux ; les insomnies aussi cruelles que les tristes songes. Toutes ces images funestes environnoient le fier Pluton, et remplissoient le palais où il habite. »</p>
             </quote>
             <p>Nous lisons cette même description dans le sixième livre de l’<title>Énéide</title><hi rend="i"> de</hi>
-              <author>Virgile</author>.</p>
+              <author key="Virgile">Virgile</author>.</p>
             <quote>
               <l>Devant le vestibule, aux portes des enfers,</l>
               <l>Habitent les Soucis et les Regrets amers,</l>
@@ -790,10 +790,10 @@
               <l>Et la Discorde enfin, qui, soufflant la tempête,</l>
               <l>Tresse en festons sanglants les serpents de sa tête.</l>
             <bibl>(<title>Trad. de M.</title> 
-              <author>Delille</author>.)</bibl>
+              <author key="Delille">Delille</author>.)</bibl>
 </quote>
             <p>
-              <author>Voltaire</author> a imité ces deux descriptions dans le chant septième de sa <title>Henriade</title>. Il feint que Saint-Louis transporte Henri IV aux enfers.</p>
+              <author key="Voltaire">Voltaire</author> a imité ces deux descriptions dans le chant septième de sa <title>Henriade</title>. Il feint que Saint-Louis transporte Henri IV aux enfers.</p>
             <quote>
               <l>Henri, dans ce moment, d’un vol précipité,</l>
               <l>Est, par un tourbillon, dans l’espace emporté</l>
@@ -837,8 +837,8 @@
               <l>Il tient l’urne terrible en ses fatales mains,</l>
               <l>Et jugé sans retour touts les pâles humains.</l>
             <bibl>(
-              <author>Virgile</author>, <title>trad. de</title> M. 
-              <author>Delille</author>.)</bibl>
+              <author key="Virgile">Virgile</author>, <title>trad. de</title> M. 
+              <author key="Delille">Delille</author>.)</bibl>
 </quote>
             <p>D. Comment Minos mérita-t-il de devenir le président du tribunal des enfers ?</p>
             <p><hi rend="i">R. Minos</hi>, fils de Jupiter et d’Europe, étoit roi de Crète. Il donna à ses sujets des lois qui subsistèrent jusqu’au temps de Platon. C’est la sagesse de ses lois, et sur-tout son équité, qui lui ont fait donner, après sa mort, la fonction de juge souverain des enfers. Il ne faut pas le confondre avec <hi rend="i">Minos</hi>, son petit-fils et père d’Androgée.</p>
@@ -853,7 +853,7 @@
               <l>Les Parques, d’une même soie,</l>
               <l>Ne dérident pas touts nos jours.</l>
             <bibl>(
-              <author>Malherbe</author>.)</bibl>
+              <author key="Malherbe">Malherbe</author>.)</bibl>
 </quote>
             <p>D. Quelles sont les autres divinités qu’on peut encore mettre au nombre des divinités infernales ?</p>
             <p><hi rend="i">R.</hi> Ce sont la Nuit, le Sommeil, la Mort et les dieux Manes.</p>
@@ -868,7 +868,7 @@
               <l>L’Amour, dans les airs, se balance</l>
               <l>Sur l’aile humide des zéphyrs.</l>
             <bibl>(
-              <author>Bernard</author>.)</bibl>
+              <author key="Bernard">Bernard</author>.)</bibl>
 </quote>
             <p>D. Qu’est-ce que le Sommeil ?</p>
             <p><hi rend="i">R.</hi> Le <hi rend="i">Sommeil</hi> est fils de l’Érèbe et de la Nuit, et père des Songes. Il a son palais dans un antre impénétrable aux rayons du soleil. Jamais les chiens, les coqs, ni les oies n’en troublent la tranquillité. Le <hi rend="i">Fleuve d’oubli</hi> roule doucement ses eaux autour de ce palais. A l’entrée, croissent des pavots et d’autres herbes assoupissantes. Le dieu repose sur un lit d’ébène fermé de rideaux noirs. Amour de lui dorment, nonchalamment étendus, les <hi rend="i">Songes</hi> ses enfants. Son principal ministre veille pour empêcher qu’on ne fasse du bruit.</p>
@@ -906,13 +906,13 @@
               <l>Peuple nombreux, égal aux feuilles des forêts,</l>
               <l>Aux sables du rivage, aux épis des guérets.</l>
             <bibl>(
-              <author>Ovide</author><title>, trad. de</title>
+              <author key="Ovide">Ovide</author><title>, trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>D. Qu’est-ce que la Mort ?</p>
             <p><hi rend="i">R.</hi> La <hi rend="i">Mort</hi> est fille de l’Érèbe et de la Nuit. Une faux sanglante arme sa main décharnée ; une robe noire, parsemée d’étoiles, couvre les os luisants de son squelette livide. On lui consacroit l’if, le cyprès, et le coq, parce que le chant de cet oiseau semble troubler le silence qui doit régner dans les tombeaux. La Mort est une divinité inexorable, sourde aux vœux et aux prières des humains, n’ayant aucun égard aux rangs et aux talents,
-              <author>Malherbe</author> a dit, d’après
-              <author>Horace</author> :</p>
+              <author key="Malherbe">Malherbe</author> a dit, d’après
+              <author key="Horace">Horace</author> :</p>
             <quote>
               <l>La Mort a des rigueurs à nulle autre pareilles :</l>
               <l>                 On a beau la prier,</l>
@@ -924,7 +924,7 @@
               <l>                 N’en défend pas nos rois.</l>
             </quote>
             <p>
-              <author>Thomas</author>, dans son <title>épître au peuple</title>, s’exprime ainsi :</p>
+              <author key="A. L. Thomas">Thomas</author>, dans son <title>épître au peuple</title>, s’exprime ainsi :</p>
             <quote>
               <l>Sur l’univers entier la Mort étend ses droits ;</l>
               <l>Tout périt, les héros, les ministres, les rois.</l>
@@ -961,7 +961,7 @@
             </quote>
             <p>D. Qui étoit le nautonnier des enfers ?</p>
             <p><hi rend="i">R.</hi> C’étoit <hi rend="i">Caron</hi>, fils de l’Érèbe et de la Nuit ; il passoit les ombres dans une barque pour une pièce de monnoie ; de là vient que les Grecs et les Romains mettoient une obole dans la bouche de leurs morts. Ceux qui n’avoient pas reçu, sur la terre, les honneurs de la sépulture, erroient cent ans sur le rivage, avant que d’être admis dans la barque. Voici la peinture que
-              <author>Virgile</author> fait de Caron.</p>
+              <author key="Virgile">Virgile</author> fait de Caron.</p>
             <quote>
               <l>De là vers le Tartare un noir chemin conduit ;</l>
               <l>Là l’Achéron bouillonne, et, roulant à grand bruit,</l>
@@ -978,7 +978,7 @@
               <l>Mais, à sa verte audace, à son œil plein de feu,</l>
               <l>On reconnoît d’abord la vieillesse d’un dieu.</l>
             <bibl>(Trad. de M. 
-              <author>Delille</author>.)</bibl>
+              <author key="Delille">Delille</author>.)</bibl>
 </quote>
             <p>D. Quels sont les plus fameux scélérats que la fable place dans le Tartare ?</p>
             <p><hi rend="i">R.</hi> Elle nomme entr’autres Phlégyas, Sisyphe, Salmonée, Ixion, Titye, Tantale et les Danaïdes.</p>
@@ -1008,7 +1008,7 @@
               <l>Et par l’une et l’autre ouverture</l>
               <l>L’onde entre et fuit à flots égaux.</l>
             <bibl>(
-              <author>La Motte</author>.)</bibl>
+              <author key="La Motte">La Motte</author>.)</bibl>
 </quote>
             <p>D. Comment représente-t-on Pluton ?</p>
             <p><hi rend="i">R.</hi> On le représente communément sur un char traîné par des chevaux noirs, portant une couronne d’ébène sur la tête, et des clefs à la main.</p>
@@ -1032,7 +1032,7 @@
             <p><hi rend="i">R.</hi> Oui ; et il étoit lui-même un voleur très-habile. Il déroba un jour à Apollon sa lyre, ses armes, et le troupeau qu’il gardoit pour le roi Admète. Un berger, nommé <hi rend="i">Battus</hi>, fut le seul témoin de ce larcin. Mercure, craignant qu’il ne le décelât, lui donna la plus belle des vaches qu’il avoit prises. Battus promit le secret. Mercure, pour s’assurer de sa discrétion, revint bientôt après, sous la forme d’un paysan, et offrit un bœuf et une vache, s’il vouloit dire où étoit le troupeau volé. Battus, tenté par une plus forte récompense, trahit Mercure, qui, pour le punir, le changea en pierre de touche. Cette pierre sert à éprouver les différents métaux.</p>
             <p>D. Quelles inventions attribue-t-on à Mercure ?</p>
             <p><hi rend="i">R.</hi> II enseigna, dit-on, l’arpentage et l’usage des poids et mesures.
-              <author>Homère</author> lui attribue l’invention de la lyre. Mercure trouva une tortue sur le sable du Nil ; il la vida avec un ferrement, fit plusieurs trous à la coquille, colla du cuir à l’entour, y mit deux cornes, et la monta de cordes de fil de lin. Ces cordes étoient au nombre de neuf, en l’honneur des Muses. Mercure fit présent à Apollon de cet instrument.</p>
+              <author key="Homère">Homère</author> lui attribue l’invention de la lyre. Mercure trouva une tortue sur le sable du Nil ; il la vida avec un ferrement, fit plusieurs trous à la coquille, colla du cuir à l’entour, y mit deux cornes, et la monta de cordes de fil de lin. Ces cordes étoient au nombre de neuf, en l’honneur des Muses. Mercure fit présent à Apollon de cet instrument.</p>
           </div>
           <div>
             <head>Minerve.</head>
@@ -1054,7 +1054,7 @@
             </figure>
             <p>D. De qui Mars étoit-il fils ?</p>
             <p><hi rend="i">R. Mars</hi> étoit fils de Junon, qui lui donna seule le jour par l’attouchement d’une fleur des champs d’Olène. Ce dieu présidoit à la guerre.
-              <author>De la Noue</author> nous a tracé son caractère dans les vers suivants :</p>
+              <author key="De la Noue">De la Noue</author> nous a tracé son caractère dans les vers suivants :</p>
             <quote>
               <l>Loin devant lui la farouche Terreur,</l>
               <l>D’un bras sanglant, d’une voix menaçante,</l>
@@ -1102,7 +1102,7 @@
             <p><hi rend="i">R. Psyché</hi> étoit une princesse si belle, qu’elle fut aimée de l’Amour même. Ce dieu la fit transporter dans un palais somptueux, où elle étoit servie par des nymphes invisibles. Il venoit la visiter pendant la nuit, et se retiroit à la pointe du jour, pour éviter d’en être aperçu. Il lui recommandoit de ne point chercher à le connoître. Mais Psyché, entraînée par une funeste curiosité, se lève adroitement pendant le sommeil de son époux, prend une lampe, s’approche du lit, et voit Cupidon. Malheureusement, une goutte d’huile brûlante tombe sur le sein du dieu qui se réveille et s’enfuit sans retour. Vénus, déjà jalouse de la beauté de Psyché, fut bien plus irritée encore, lorsqu’elle sut que cette princesse lui avoit enlevé son fils. Elle la persécuta si cruellement qu’elle la fit mourir. Mais Jupiter lui rendit la vie, et lui donna l’immortalité, en faveur de Cupidon.</p>
             <p>D. Qu’étoit-ce que la ceinture de Vénus ?</p>
             <p><hi rend="i">R.</hi> Cette ceinture, dont on raconte tant de merveilles, étoit un tissu mystérieux qui renfermoit toutes les grâces, et faisoit infailliblement aimer la personne qui le portoit. Venus prêta un jour cette ceinture à Junon, et la fière épouse du maître des dieux, parut plus belle aux yeux de Jupiter.
-              <author>Homère</author> nous a laissé une magnifique description de <hi rend="i">la ceinture de Vénus</hi>.</p>
+              <author key="Homère">Homère</author> nous a laissé une magnifique description de <hi rend="i">la ceinture de Vénus</hi>.</p>
             <p>D. En quels lieux Vénus étoit-elle particulièrement honorée ?</p>
             <p><hi rend="i">R.</hi> Elle étoit particulièrement honorée dans l’île de Chypre, d’où lui est venu le nom de <hi rend="i">Cypris</hi>. Elle avoit, dans cette île, plusieurs temples superbes. Les plus célèbres sont ceux de Paphos, d’Amathonte, et d’Idalie. Elle avoit aussi des temples à Cythère, à Gnide, etc. Tout le monde connoît la belle description du temple de l’Amour, qui commence le neuvième chant de la <title>Henriade</title>.</p>
             <quote>
@@ -1111,7 +1111,7 @@
             </quote>
             <p>D. Qu’étoit-ce que le saut de Leucate ?</p>
             <p><hi rend="i">R. Leucate</hi> étoit un promontoire dans l’île de Leucade. On prétendoit que ceux qui se précipitoient du haut de la roche Leucadienne, étoient infailliblement guéris de leur amour. La fameuse
-              <author>Sapho</author>, poëte pleine de grâces, s’exposa à cette aventure, afin d’éteindre sa malheureuse passion pour Phaon,</p>
+              <author key="Sappho">Sapho</author>, poëte pleine de grâces, s’exposa à cette aventure, afin d’éteindre sa malheureuse passion pour Phaon,</p>
             <p>D. Comment Vénus est-elle représentée ?</p>
             <p><hi rend="i">R.</hi> Elle est ordinairement représentée sur un char traîné par des colombes ou par des cygnes, ou par des moineaux. On place à côté d’elle, son fils Cupidon. La <hi rend="i">rose</hi> lui étoit consacrée, comme ayant été teinte du sang d’Adonis, ou de Vénus elle-même blessée par une des épines de cette fleur. C’est ainsi que la rose, qui auparavant étoit blanche, changea de couleur et devint rouge.</p>
           </div>
@@ -1127,7 +1127,7 @@
               <l>Avec tout d’appareil du souverain des dieux,</l>
               <l>Tel qu’aux yeux de Junon il paroît dans les cieux.</l>
             <bibl>(
-              <author>La Motte</author>.)</bibl>
+              <author key="La Motte">La Motte</author>.)</bibl>
 </quote>
             <p>Sémélé fit en effet promettre à son amant de lui accorder la grâce qu’elle alloit lui demander. Jupiter jura par le Styx de faire ce qu’elle vouloit. La princesse s’expliqua, et Jupiter fut contraint malgré lui d’accomplir son serment. Sémélé fut brûlée par la foudre ; le maître des dieux prit le petit Bacchus dont elle étoit enceinte, et l’enferma dans sa cuisse jusqu’au temps marqué pour sa naissance.</p>
             <p>D. Par qui Bacchus fut-il élevé ?</p>
@@ -1180,7 +1180,7 @@
               <l>Son corps affreux et livide</l>
               <l>Grossit les flots indignés.</l>
             <bibl>(
-              <author>Rousseau</author>.)</bibl>
+              <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
 </quote>
             <p>D. A quelle occasion Apollon fut-il banni du Ciel ?</p>
             <p><hi rend="i">R.</hi> Esculape, fils d’Apollon, avoit appris de son père et du centaure Chiron l’art de la médecine. Il y devint si habile, qu’il rendit la vie à Hippolyte, fils de Thésée, que des monstres marins avoient mis en pièces. Jupiter, indigné qu’un mortel empiétât sur ses droits, foudroya le téméraire médecin. Apollon, ne pouvant se venger contre Jupiter même, tua à coups de flèches les cyclopes qui avoient forgé la foudre. Le maître des dieux en fut si irrité, qu’il chassa Apollon du ciel.</p>
@@ -1190,7 +1190,7 @@
               <l>Aux plus savants auteurs, comme aux plus grands guerriers</l>
               <l>Apollon ne promet qu’un nom et des lauriers.</l>
             <bibl>(
-              <author>Boileau</author>.)</bibl>
+              <author key="Boileau">Boileau</author>.)</bibl>
 </quote>
             <p>D. Apollon ne fut-il pas aussi malheureux dans ses amitiés que dans ses amours ?</p>
             <p><hi rend="i">R.</hi> Oui. Il aimoit beaucoup le jeune Hyacinthe ; mais un jour, en jouant avec lui au palet, il eut le malheur de le tuer. Il le changea en une fleur qui porté son nom. Le père et la mère d’Hyacinthe voulurent venger sur Apollon la mort de leur fils. Apollon s’enfuit dans la Troade, où Laomédon l’employa avec Neptune à bâtir les murs de Troie.</p>
@@ -1208,7 +1208,7 @@
               <l>      Tout brûle, tout rit, tout enchante,</l>
               <l>      Dans les lieux où vous revenez,</l>
             <bibl>(
-              <author>Quinault</author>.)</bibl>
+              <author key="Quinault">Quinault</author>.)</bibl>
 </quote>
             <p>D. Quels sont les enfants du Soleil ?</p>
             <p><hi rend="i">R.</hi> Il en eut plusieurs, dont les plus célèbres sont l’Aurore et Phaéton.</p>
@@ -1222,7 +1222,7 @@
             <p><hi rend="i">R.</hi> Ce fut <hi rend="i">Memnon</hi>, qui fut tué par Achille, au siége de Troie. Jupiter, pour consoler l’Aurore de la mort de ce fils chéri, lui promit que quand on brûleroit le corps de Memnon, les cendres seroient changées en oiseaux. Ces oiseaux s’appelèrent <hi rend="i">Memnonides</hi>. On érigea une statue à Memnon, dans la ville de Thèbes en Égypte. Quand le soleil levant touchoit cette statue de ses rayons, elle rendoit un son agréable. Le soir, lorsque le soleil alloit éclairer un autre hémisphère, elle rendoit un son lugubre. Ainsi, cette statue sembloit se réjouir du retour de l’Aurore, et s’attrister de son départ.</p>
             <p>D. Quelles sont les aventures de Phaéton ?</p>
             <p><hi rend="i">R. Phaéton</hi> eut un différent avec Epaphus qui lui reprocha de n’être pas le fils du Soleil, comme il s’en vantoit. Phaéton alla se plaindre à sa mère, qui le renvoya au Soleil pour apprendre de sa propre bouche la vérité de sa naissance. Phaéton se rendit donc au palais du Soleil.
-              <author>Ovide</author> nous a laissé une superbe description de ce palais.</p>
+              <author key="Ovide">Ovide</author> nous a laissé une superbe description de ce palais.</p>
             <quote>
               <l>Sur cent colonnes d’or, circulaire portique,</l>
               <l>S’élève du Soleil le palais magnifique.</l>
@@ -1270,7 +1270,7 @@
               <l>Et, puni du délit de son stupide organe,</l>
               <l>Midas, le roi Midas, a des oreilles d’âne.</l>
             <bibl>(
-              <author>Ovide</author>, <title>trad. de</title>
+              <author key="Ovide">Ovide</author>, <title>trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>Le roi ne put cacher sa honteuse difformité à son barbier. Midas lui promit de grandes récompenses, s’il gardoit le secret ; et le menaça des plus terribles châtiments, s’il le violoit. Le barbier, embarrassé de son secret, fit un trou dans la terre, en approcha la bouche, et dit à voix basse, que son maître avoit des oreilles d’âne. Des roseaux crûrent en cet endroit ; et, agités par le vent, ils faisoient entendre ces sons : <hi rend="i">Midas a des oreilles d’âne</hi>.</p>
@@ -1307,7 +1307,7 @@
               <l>Il s’écrie : ô Bacchus ! pardonne un vœu coupable ;</l>
               <l>Délivre-moi d’un bien qui me rend misérable.</l>
             <bibl>(
-              <author>Ovide</author>, <title>trad. de</title>
+              <author key="Ovide">Ovide</author>, <title>trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>Bacchus, touché du repentir de Midas lui ordonna, pour se délivrer de cette vertu fatale, de se baigner dans les eaux du Pactole. Ce fleuve, qui traverse la Lydie<note place="bottom">Province de l’Asie Mineure.</note>, roule depuis ce temps un sable d’or avec ses flots.</p>
@@ -1373,7 +1373,7 @@
               <l>         Au redoutable nom d’Hécate,</l>
               <l>Le sévère Pluton rompt lui-même ses lois.</l>
             <bibl>(
-              <author>Fontenelle</author>.)</bibl>
+              <author key="Fontenelle">Fontenelle</author>.)</bibl>
 </quote>
             <p>D. Comment Diane étoit-elle considérée sur la terre ?</p>
             <p><hi rend="i">R.</hi> Elle étoit considérée comme la déesse des chasseurs. Elle habitoit les bois et les forêts avec une troupe de nymphes qu’elle occupoit toujours à la chasse. On l’appelle la <hi rend="i">chaste Diane</hi>, parce qu’elle ne voulut jamais se marier. Elle avoit même tant de pudeur, qu’elle changea en cerf le chasseur Actéon qui avoit eu la témérité de la regarder dans le bain. Actéon fut dévoré par ses propres chiens. On dit cependant que Diane aima le berger Endymion ; mais alors elle est regardée comme divinité céleste.</p>
@@ -1412,7 +1412,7 @@
                 <l>Pan règne sur nos bois ; il aime nos prairies :</l>
                 <l>C’est le dieu des bergers et de leurs bergeries.</l>
               <bibl>(
-                <author>Gresset</author>.)</bibl>
+                <author key="Gresset">Gresset</author>.)</bibl>
 </quote>
               <p>On le représentoit avec des cornes sur la tête, une face rubiconde et tenant en main une espèce de flûte composée de plusieurs tuyaux, qu’on appeloit <hi rend="i">syrinx</hi>.</p>
               <p>D. Racontez l’origine de cette flûte.</p>
@@ -1450,7 +1450,7 @@
                 <l>Et quand le fuseau tourne entre leurs mains légères,</l>
                 <l>Ne blesse pas les doigts de nos jeunes bergères.</l>
               <bibl>(
-                <author>Delille</author>.)</bibl>
+                <author key="Delille">Delille</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1490,7 +1490,7 @@
                 <l>Qui, suspendus en grappes éclatantes,</l>
                 <l>Sucent des fleurs les esprits éthérés.</l>
               <bibl>(
-                <author>Léonard</author>.)</bibl>
+                <author key="Léonard">Léonard</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1546,7 +1546,7 @@
                 <l>Et la campagne brille encor</l>
                 <l>Des douces couleurs de l’Aurore.</l>
               <bibl>(
-                <author>Bernis</author>.)</bibl>
+                <author key="Bernis">Bernis</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1574,7 +1574,7 @@
                 <l>Si mon troupeau s’accroît, j’ornerai ta statue,</l>
                 <l>Et dans touts nos jardins nous chérirons ta loi.</l>
               <bibl>(
-                <author>Gresset</author>.)</bibl>
+                <author key="Gresset">Gresset</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1591,7 +1591,7 @@
                 <l>Alte-là, mon voisin, voisin insatiable,</l>
                 <l>      C’est là ton champ, et c’est ici le mien.</l>
               <bibl>(
-                <author>Ovide</author>, <title>trad. libre</title>.)</bibl>
+                <author key="Ovide">Ovide</author>, <title>trad. libre</title>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1644,7 +1644,7 @@
                 <l>Le chasseur presse et frappe un cerf imaginaire,</l>
                 <l>Le guerrier d’un vain bronze affronte le tonnerre.</l>
               <bibl>(
-                <author>Legouvé</author>.)</bibl>
+                <author key="Legouvé">Legouvé</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1669,7 +1669,7 @@
                 <l>Son front porte ce diadème</l>
                 <l>Que Tireur prend pour un bandeau.</l>
               <bibl>(
-                <author>La Motte</author>.)</bibl>
+                <author key="La Motte">La Motte</author>.)</bibl>
 </quote>
               <p>D. Qu’étoit Astrée ?</p>
               <p><hi rend="i">R. Astrée</hi>, fille de Jupiter et de Thémis, est regardée comme la <hi rend="i">justice</hi>, et souvent confondue avec sa mère. Elle descendit du ciel, dans l’âge d’or, pour habiter la terre. Mais les crimes des hommes la formèrent de quitter successivement les villes, puis les campagnes. Elle retourna au ciel, où les poëtes disent qu’elle forma le signe de la <hi rend="i">Vierge</hi> dans le zodiaque.</p>
@@ -1700,7 +1700,7 @@
                 <l>A l’univers surpris incessamment raconte</l>
                 <l>La vérité, l’erreur, et la gloire, et la honte.</l>
               <bibl>(
-                <author>Virgile</author>, <title>trad. de</title>
+                <author key="Virgile">Virgile</author>, <title>trad. de</title>
                 <author>M. Delille</author>.)</bibl>
 </quote>
               <quote>
@@ -1732,7 +1732,7 @@
                 <l>Entourent la déesse en nouveautés féconde ;</l>
                 <l>Et ses yeux sont ouverts sur touts les coins du monde.</l>
               <bibl>(
-                <author>Ovide</author>, <title>trad. de</title>
+                <author key="Ovide">Ovide</author>, <title>trad. de</title>
                 <author>Saintange</author>.)</bibl>
 </quote>
               <quote>
@@ -1753,7 +1753,7 @@
                 <l>Va chez touts les peuples du monde ;</l>
                 <l>Semer le bruit et la terreur.</l>
               <bibl>(
-                <author>Rousseau</author>.)</bibl>
+                <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1770,7 +1770,7 @@
                 <l>Le seul remède à ses caprices,</l>
                 <l>C’est de s’y tenir préparé.</l>
               <bibl>(
-                <author>Rousseau</author>.)</bibl>
+                <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1787,7 +1787,7 @@
                 <l>El nous lui répondons des éloges coupables</l>
                 <l>              Qui nous sont adressés.</l>
               <bibl>(
-                <author>Rousseau</author>.)</bibl>
+                <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1807,7 +1807,7 @@
                 <l>Elle sèche, et périt de leurs succès brillants,</l>
                 <l>Veut leur nuire, et se nuit…</l>
               <bibl>(
-                <author>Ovide</author>, <title>trad. de</title>
+                <author key="Ovide">Ovide</author>, <title>trad. de</title>
                 <author>Saintange</author>.)</bibl>
 </quote>
               <quote>
@@ -1816,7 +1816,7 @@
                 <l>Le jour blesse ses yeux dans l’ombre étincelant ;</l>
                 <l>Triste amante des morts, elle hait les Vivants.</l>
               <bibl>(
-                <author>Voltaire</author>.)</bibl>
+                <author key="Voltaire">Voltaire</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1824,7 +1824,7 @@
               <p>D. Dites ce qu’étoit la Discorde ?</p>
               <p><hi rend="i">R.</hi> La <hi rend="i">Discorde</hi> étoit une divinité malfaisante à laquelle on attribuoit les guerres et les querelles qui divisent les hommes. Jupiter l’exila du ciel, parce qu’elle ne cessoit de brouiller les dieux. On lui donne une chevelure hérissée de serpents, et attachée avec des bandelettes sanglantes. Elle a la bouche écumante, les yeux abattus ; elle grince des dents, et distille de sa langue un venin infect. Elle tient à la main un poignard ou un flambeau.</p>
               <p>D. Quel portrait
-                <author>Voltaire</author> a-t-il fait de la Discorde ?</p>
+                <author key="Voltaire">Voltaire</author> a-t-il fait de la Discorde ?</p>
               <p><hi rend="i">R.</hi> Il dépeint ainsi cette affreuse déesse :</p>
               <quote>
                 <l>Ce monstre impérieux, sanguinaire, inflexible,</l>
@@ -1849,7 +1849,7 @@
                 <l>Tout, sans distinction, sous ses coups elle abat,</l>
                 <l>Et n’épargne pas plus le chef que le soldat.</l>
               <bibl>(
-                <author>Gilbert</author>.)</bibl>
+                <author key="Gilbert">Gilbert</author>.)</bibl>
 </quote>
             </div>
           </div>
@@ -1866,7 +1866,7 @@
             <p><hi rend="i">R.</hi> Les <hi rend="i">Gorgones</hi> étoient trois sœurs, filles de Phorcus, dieu marin, et de Céto. Elles s’appeloient <hi rend="i">Méduse, Euryale</hi> et <hi rend="i">Sthénée</hi>. Elles n’avoient à elles trois qu’un œil et une dent dont elles se servoient tour à tour. Mais c’étoit une dent plus longue que les défenses des plus forts sangliers. Leurs mains étoient d’airain, et leurs cheveux hérissés de serpents. De leurs seuls regards elles pétrifioient les hommes. Persée, favorisé des dieux, obtint, pour cette expédition, le bouclier de Minerve, le casque de Pluton, les ailes et les talonnières de Mercure. Il vainquit les Gorgones, et coupa la tête de Méduse. Il porta depuis cette tête avec lui dans toutes ses entreprises, et s’en servit pour pétrifier ses ennemis. Du sang de Méduse naquit, dit-on, le cheval Pégase.</p>
             <p>D. Contre qui Persée essaya-t-il d’abord le pouvoir de la tête de Méduse ?</p>
             <p><hi rend="i">R.</hi> Ce fut contre <hi rend="i">Atlas</hi>, roi de Mauritanie. Ce prince avoit appris d’un oracle de Thémis, qu’un fils de Jupiter devoit lui ravir des pommes d’or qu’il faisoit garder par un dragon. Il refusa l’hospitalité à Persée qui, pour s’en venger, lui montra la tête de Méduse, et le changea en montagne. Les poëtes ont feint qu’Atlas soutient le ciel sur ses épaules, soit parce que le mont Atlas est fort élevé, soit parce qu’il avoit existé un célèbre astronome de ce nom.
-              <author>Ovide</author> raconte ainsi la métamorphose d’Atlas :</p>
+              <author key="Ovide">Ovide</author> raconte ainsi la métamorphose d’Atlas :</p>
             <quote>
               <l>A cet aspect hideux, d’horreur inanimé,</l>
               <l>En un mont sourcilleux Atlas est transformé :</l>
@@ -1921,7 +1921,7 @@
               <l>Et pour en délivrer la terre,</l>
               <l>Le foudre est moins fort que son bras.</l>
             <bibl>(
-              <author>La Motte</author>.)</bibl>
+              <author key="La Motte">La Motte</author>.)</bibl>
 </quote>
             <p>D. Pourquoi Cacus fut-il mis à mort par Hercule ?</p>
             <p><hi rend="i">R. Cacus</hi>, fils de Vulcain, demi-homme et demi-satyre, avoit une taille colossale. Il vomissoit des tourbillons de flammes et de fumée. Il habitoit une caverne au pied du mont Aventin. Il déroba des bœufs à Hercule, et, pour n’être point trahi par les traces de leurs pas, il les traîna dans son antre, à reculons, en les tirant par la queue. Mais ces bœufs poussèrent des mugissements, lorsque le reste du troupeau passa. Hercule enfonça la porte de la caverne, et assomma le brigand.</p>
@@ -1974,7 +1974,7 @@
               <l>J’enchaînerai Cerbère ; et, plus digne des cieux,</l>
               <l>Je reverrai Castor, et mon père et les dieux.</l>
             <bibl>(
-              <author>Bernard</author>.)</bibl>
+              <author key="Bernard">Bernard</author>.)</bibl>
 </quote>
             <p><seg>Esculape</seg>.</p>
             <p>D. De qui Esculape étoit-il fils ?</p>
@@ -2270,8 +2270,8 @@
               <l>Comme un nuage épais dans les airs se répandent,</l>
               <l>Et sur l’arbre voisin en grappes se suspendent.</l>
             <bibl>(
-              <author>Virgile</author>, <title>trad. de M.</title> 
-              <author>Delille</author>.)</bibl>
+              <author key="Virgile">Virgile</author>, <title>trad. de M.</title> 
+              <author key="Delille">Delille</author>.)</bibl>
 </quote>
           </div>
         </div>
@@ -2287,7 +2287,7 @@
               <l>J’entrepris de venger et d’affranchir la terre</l>
               <l>De monstres, de méchants échappés au tonnerre.</l>
             <bibl>(
-              <author>Racine</author>.)</bibl>
+              <author key="Racine">Racine</author>.)</bibl>
 </quote>
             <p>D. Racontez les grandes actions de Thésée.</p>
             <p><hi rend="i">R. Phalaris</hi>, tyran d’Agrigente en Sicile, avoit fait forger un taureau d’airain, dans lequel il enfermoit des hommes tout vivants, pour les y brûler à petit feu. Il prenoit un cruel plaisir à les entendre pousser des cris qui imitoient les mugissements d’un bœuf. Pérille, auteur d’une si horrible invention, en fit le premier essai. Le tyran l’y fit enfermer, au lieu de lui payer le salaire qu’il lui avoit promis. Thésée extermina Phalaris.</p>
@@ -2320,7 +2320,7 @@
               <l>Les yeux au labyrinthe, et les mains vers les oiseaux</l>
               <l>Au secours de Thésée elle appelle les dieux.</l>
             <bibl>(
-              <author>La Motte</author>.)</bibl>
+              <author key="La Motte">La Motte</author>.)</bibl>
 </quote>
             <p>D. Donnez-nous quelques détails sur le labyrinthe.</p>
             <p><hi rend="i">R.</hi> Le labyrinthe de Crète, si célèbre parmi les poëtes, est souvent appelé le <hi rend="i">Dédale</hi>, du nom de celui qui l’avoit bâti. C’étoit un composé de bosquets et de bâtiments disposés avec tant d’art, qu’il n’étoit plus possible d’en sortir dès qu’on y étoit entré. Dédale fut la première victime de son invention : car Minos le fit enfermer dans le labyrinthe, avec son fils Icare. Mais Dédale fabriqua des ailes artificielles qu’il attacha à ses épaules et à celles de son fils. Il recommanda bien à Icare de ne voler ni trop haut, ni trop bas, de peur que le soleil ne fondît la cire qui attachoit ses ailes, ou que les vapeurs de la mer ne rendissent les plumes trop humides.</p>
@@ -2379,7 +2379,7 @@
               <l>En voyant ces mortels voyager dans les cieux,</l>
               <l>S’étonne, les admire, et les prend pour des dieux.</l>
             <bibl>(
-              <author>Ovide</author>, <title>trad. de</title>
+              <author key="Ovide">Ovide</author>, <title>trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>D. Icare suivit-il exactement les avis de Dédale, son père ?</p>
@@ -2406,7 +2406,7 @@
               <l>Lui dresse dans une île un tombeau de gazon ;</l>
               <l>Et cette île<note place="bottom"><hi rend="i">Nicaria</hi> ou <hi rend="i">Icaria</hi>, île de l’Archipel.</note> depuis a conservé son nom.</l>
             <bibl>(
-              <author>Ovide</author>, <title>trad. de</title>
+              <author key="Ovide">Ovide</author>, <title>trad. de</title>
               <author>Saintange</author>.)</bibl>
 </quote>
             <p>D. Quel chagrin éprouva Thésée, à son retour de l’expédition de la Crète ?</p>
@@ -2423,7 +2423,7 @@
               <l>Mais qu’il n’a pu sortir de ce triste séjour,</l>
               <l>Et repasser les bords qu’on passe sans retour.</l>
             <bibl>(
-              <author>Racine</author>.)</bibl>
+              <author key="Racine">Racine</author>.)</bibl>
 </quote>
             <p>Pirithoüs fut dévoré par Cerbère ; mais Thésée fut délivré par Hercule, lorsque celui-ci descendit aux Enfers.</p>
             <p>D. Quelle guerre Hercule et Thésée firent-ils ensemble ?</p>
@@ -2440,7 +2440,7 @@
               <l>Je t’implore aujourd’hui. Venge un malheureux père :</l>
               <l>J’abandonne ce traître à toute ta colère.</l>
             <bibl>(
-              <author>Racine</author>.)</bibl>
+              <author key="Racine">Racine</author>.)</bibl>
 </quote>
             <p>D. Les vœux de Thésée furent-ils exaucés par Neptune ?</p>
             <p><hi rend="i">R.</hi> Ils ne le furent que trop. Neptune suscita un monstre marin qui effaroucha les chevaux d’Hippolyte. Le malheureux prince fut renversé de son char, et périt, traîné par ses propres chevaux.</p>
@@ -2520,7 +2520,7 @@
               <l>Triste objet où des dieux triomphe la colère,</l>
               <l>Et que méconnoîtroit l’œil même de son père.</l>
             <bibl>(
-              <author>Racine</author>.)</bibl>
+              <author key="Racine">Racine</author>.)</bibl>
 </quote>
             <p>D. Quelle fut la fin de Thésée ?</p>
             <p><hi rend="i">R.</hi> Hippolyte fut ressuscité par Esculape. Phèdre, bourrelée de remords, se pendit de désespoir. Les sujets de Thésée se révoltèrent contre ce prince et le chassèrent de ses états. Thésée se retira dans l’île de Scyros, pour y achever tranquillement ses jours, dans une vie privée. Mais le roi Lycomède, jaloux de sa réputation, ou corrompu par ses ennemis, le fit précipiter du haut d’un rocher, où il l’avoit attiré sous prétexte de lui montrer la campagne. Longtemps après, les Athéniens, pour réparer leur ingratitude envers Thésée, rendirent des honneurs à ses cendres, et lui élevèrent des autels.</p>
@@ -2544,7 +2544,7 @@
               <l>Et montrons ce que peut la valeur d’un héros,</l>
               <l>Lorsque le ciel la favorise.</l>
             <bibl>(
-              <author>Gresset</author>.)</bibl>
+              <author key="Gresset">Gresset</author>.)</bibl>
 </quote>
             <p>D. Qu’étoit-ce que la toison d’or ?</p>
             <p><hi rend="i">R.</hi> C’étoit la toison d’un bélier dont les dieux avoient fait présent à Athamas, roi de Thèbes. La toison de ce bélier étoit dorée. Phryxus, fils d’Athamas, et Hellé, sœur du jeune prince, ayant pris la résolution de s’enfuir de la maison paternelle, pour se dérober aux persécutions de Néphèle, leur belle-mère, emmenèrent le bélier, et montèrent dessus pour traverser le bras de mer qui sépare l’Europe de l’Asie. Hellé, effrayée du bruit des vagues, se laissa tomber dans la mer qui pour cette raison fut appelée l’<hi rend="i">Hellespont</hi><note place="bottom">C’est aujourd’hui le détroit des Dardanelles.</note>.</p>
@@ -2557,7 +2557,7 @@
               <l>Vous de qui la valeur, et l’amour et l’adresse</l>
               <l>                      Ont conquis la toison.</l>
             <bibl>(
-              <author>Voltaire</author>.)</bibl>
+              <author key="Voltaire">Voltaire</author>.)</bibl>
 </quote>
             <p>D. Quelles difficultés présentoit l’expédition des Argonautes ?</p>
             <p><hi rend="i">R.</hi> Cette expédition présentoit des difficultés insurmontables. La toison étoit gardée par des taureaux à gueules enflammées et par un horrible dragon. Il falloit, suivant l’ordre du destin, mettre sous le joug ces taureaux, présent de Vulcain, puis les attacher à une charrue, et leur faire labourer le champ consacré à Mars ; semer dans ce champ les dents d’un dragon d’où devoient naître des hommes armés qu’il falloit exterminer jusqu’au dernier ; enfin, tuer le monstre qui veilloit à la conservation du précieux dépôt. C’est par le secours de Médée, fille d’Aëte, et qui excelloit dans l’art des enchantements, que Jason surmonta toutes ces difficultés. Il enleva la toison, et Médée abandonna son père pour s’enfuir avec le héros auquel elle avoit prêté son secours. L’expédition des Argonautes eut lieu 79 ans avant la prise de Troie.</p>
@@ -2650,9 +2650,9 @@
             <p>D. Faites-nous connoître Arion.</p>
             <p><hi rend="i">R. Arion</hi>, cet illustre rival d’Amphion et d’Orphée, étoit né à Méthymne, dans l’île de Lesbos. Il jouit long-temps de la faveur de Périandre, roi de Corinthe. Il passa ensuite en Italie où il exerça ses talents d’une manière utile à sa fortune. Il s’embarqua au port de Tarente pour revenir dans sa patrie. Les matelots formèrent le dessein de le tuer pour s’emparer de ses richesses. Arion demanda, pour toute grâce, qu’il lui fut permis de toucher encore une fois sa lyre avant que de recevoir la mort. Il l’obtint, se retira sur la poupe du vaisseau, et fit retentir l’air des accents les plus touchants. Bientôt après, il se précipita dans la mer. Plusieurs dauphins, sensibles aux charmes de sa mélodie, s’étoient rassemblés autour de son vaisseau. Un d’eux le reçut sur son dos, et le porta jusqu’au cap Ténare, en Laconie, d’où il se rendit à Corinthe. Périandre fut ravi de le revoir ; il fit punir de mort les pirates, et éleva un cénotaphe au dauphin qui avoit sauvé Arion.</p>
             <p>D. Comment
-              <author>Campistron</author> a-t-il décrit les prodiges attribués par les poëtes à la lyre d’Amphion et à celle d’Arion ?</p>
+              <author key="Campistron">Campistron</author> a-t-il décrit les prodiges attribués par les poëtes à la lyre d’Amphion et à celle d’Arion ?</p>
             <p><hi rend="i">R.</hi> Voici les vers de
-              <author>Campistron</author> :</p>
+              <author key="Campistron">Campistron</author> :</p>
             <quote>
               <l>Songez par quel prodige on connoît Amphion,</l>
               <l>Quel miracle la Grèce a chanté d’Arion :</l>
@@ -2669,7 +2669,7 @@
             </quote>
             <p>D. Par qui fut ruinée la ville de Thèbes ?</p>
             <p><hi rend="i">R.</hi> Cette ville fut ruinée par Alexandre le Grand, qui n’en épargna que la maison et la famille du poëte
-              <author>Pindare</author> qui y avoit pris naissance.</p>
+              <author key="Pindare">Pindare</author> qui y avoit pris naissance.</p>
             <quote>
               <l>Viens servir l’ardeur qui m’inspire :</l>
               <l>Déesse, prête-moi la lyre,</l>
@@ -2678,7 +2678,7 @@
               <l>Au milieu de Thèbes en cendre,</l>
               <l>     Respecta la postérité.</l>
             <bibl>(
-              <author>Rousseau</author>.)</bibl>
+              <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
 </quote>
             <p>Il y eut en Egypte une autre ville de <hi rend="i">Thèbes</hi>, renommée pour ses cent portes. Le pays dans lequel elle étoit située, se nommoit <hi rend="i">Thébaïde</hi>.</p>
           </div>
@@ -2734,7 +2734,7 @@
               <l>           En voyant les hommes, hélas !</l>
               <l>           Il m’en souvient bien davantage. »</l>
             <bibl>(
-              <author>La Fontaine</author>.)</bibl>
+              <author key="La Fontaine">La Fontaine</author>.)</bibl>
 </quote>
             <p>D. Qu’est-ce que les poëtes nous apprennent des Hespérides ?</p>
             <p><hi rend="i">R.</hi> Les <hi rend="i">Hespérides</hi> étoient filles d’Hesper, frère d’Atlas. Ou en compte ordinairement trois, <hi rend="i">Églé, Aréthuse</hi>, et <hi rend="i">Hypéréthuse</hi>. Elles avoient des jardins dans lesquels étoient des pommes d’or, gardées par un dragon qui avoit cent têtes, et qui poussoit à la fois cent sortes de sifflements. Ce fut avec une de ces pommes, que la Discorde brouilla les trois déesses. Ce fut avec ce même fruit qu’Hippomène vainquit Atalante. Hercule enleva les pommes du jardin des Hespérides.</p>
@@ -2769,7 +2769,7 @@
               <l>Sous le nom de son fils vous fûtes élevé</l>
               <l>Par cette même main qui vous avoit sauvé.</l>
             <bibl>(
-              <author>Voltaire</author>.)</bibl>
+              <author key="Voltaire">Voltaire</author>.)</bibl>
 </quote>
             <p>D. Que fît Œdipe, lorsqu’il fut devenu grand ?</p>
             <p><hi rend="i">R.</hi> Il apprit qu’il n’étoit pas fils de Polybe. Il consulta l’oracle sur sa destinée, et reçut cette réponse : « Œdipe sera le meurtrier de son père, et l’époux de sa mère, et mettra au monde une race détestable. » Pour éviter d’accomplir cette horrible prédiction, Œdipe s’exila de Corinthe, et réglant sa marche sur les astres, il prit le chemin de la Phocide. Il rencontra Laïus dans un sentier étroit qui conduisoit à Delphes. Laïus, monté sur son char, et escorté seulement de cinq personnes, ordonna à Œdipe d’un ton de hauteur de lui laisser le passage libre ; ils en vinrent aux mains sans se connoître, et Laïus fut tué.</p>
@@ -2785,7 +2785,7 @@
               <l>Le monstre chaque jour, dans Thèbe épouvantée,</l>
               <l>Proposoit une énigme avec art concertée.</l>
             <bibl>(
-              <author>Voltaire</author>.)</bibl>
+              <author key="Voltaire">Voltaire</author>.)</bibl>
 </quote>
             <p>D. Quelle étoit l’énigme proposée par le Sphinx ?</p>
             <p><hi rend="i">R.</hi> Le monstre demandoit : « Quel est l’animal qui a quatre pieds le matin, d’eux à pieds, et trois le soir ? » La destinée du Sphinx portoit qu’il perdroit la vie, dès qu’on auroit satisfait à sa question. Créon, frère de Jocaste, qui, depuis la mort de Laïus, tenoit les rênes du gouvernement à Thèbes, fit publier dans toute la Grèce, qu’il donneroit la couronne et la main de Jocaste à celui qui expliqueroit l’énigme. Œdipe se présenta, et fut assez heureux pour la deviner. Il dit au monstre, que son animal étoit l’homme lui-même qui, dans son enfance, se traîne sur les pieds et sur les mains, ensuite, parvenu à un âge plus avancé, marche debout sur les deux pieds seulement, et, dans la vieillesse, s’appuie sur un bâton qui lui sert de troisième pied. Le Sphinx, outré de dépit de se voir deviné, se cassa la tête contre un rocher, Œdipe fut proclamé roi de Thèbes, et épousa la reine Jocaste.</p>
@@ -2795,7 +2795,7 @@
               <l>Du roc s’élança en bas et s’écrasa lui-même.</l>
               <l>La reine tint parole, et j’eus le diadème.</l>
             <bibl>(
-              <author>Corneille</author>.)</bibl>
+              <author key="Corneille">Corneille</author>.)</bibl>
 </quote>
             <p>D. Comment Œdipe reconnut-il qu’il étoit coupable de touts les crimes que l’oracle lui avoit annoncé qu’il commettroit ?</p>
             <p><hi rend="i">R.</hi> Les premières années du règne d’Œdipe furent heureuses. Mais ensuite le royaume fut désolé par une peste cruelle. L’oracle, consulté de nouveau, répondit que le fléau ne cesseroit que quand le meurtrier de Laïus auroit été puni. Œdipe fit des recherches pour découvrir ce meurtrier. Le berger par qui il avoit été exposé sur le mont Cithéron, lui révéla le mystère de sa naissance. Bientôt Œdipe se reconnoît coupable des deux crimes horribles qu’il a voulu éviter. Il apprend qu’il a tué son père, et qu’ils épousé sa mère.</p>
@@ -2824,7 +2824,7 @@
               <l>J’irai de mon supplice épouvanter les ombres ;</l>
               <l>Viens, je te suis.</l>
             <bibl>(
-              <author>Voltaire</author>.)</bibl>
+              <author key="Voltaire">Voltaire</author>.)</bibl>
 </quote>
             <p>D. Achevez le récit des malheurs d’Œdipe.</p>
             <p><hi rend="i">R.</hi> Ce malheureux prince, saisi horreur à la vue de ses forfaits, s’arracha les yeux, et s’exila lui-même. Jocaste, son épouse et sa mère, se pendit de désespoir. Antigone, fille, d’Œdipe, modèle de piété filiale, servit de guide à son père aveugle, et l’accompagna dans son exil.</p>
@@ -2843,7 +2843,7 @@
               <l>Vous montâtes au trône, il n’en fut point jaloux ;</l>
               <l>Et vous ne voulez point qu’il y monte après vous.</l>
             <bibl>(
-              <author>Racine</author>.)</bibl>
+              <author key="Racine">Racine</author>.)</bibl>
 </quote>
             <p>D. Comment se termina la guerre de Thèbes ?</p>
             <p><hi rend="i">R.</hi> Comme la victoire ne se déclaroit pour aucun des deux partis, les deux frères s’appelèrent à un combat singulier. Ils s’entre-tuèrent l’un l’autre, en présence des deux armées. La mort même ne put éteindre leur haine implacable. Car, lorsque leurs corps furent mis sur le même bûcher pour être brûlés, la flamme se divisa d’elle-même, et fit voir que leur mutuelle aversion subsistoit encore après leur trépas.</p>
@@ -2903,7 +2903,7 @@
               <l>Son visage où la mort a répandu ses traits,</l>
               <l>Demeure plus terrible et plus fier que jamais.</l>
             <bibl>(
-              <author>Racine</author>.)</bibl>
+              <author key="Racine">Racine</author>.)</bibl>
 </quote>
             <p>D. Que raconte-t-on d’Antigone, sœur d’Étéocle et de Polynice ?</p>
             <p><hi rend="i">R.</hi> Après la mort d’Étéocle et de Polynice, Créon, leur oncle, succéda à la couronne. Il fit retirer du bûcher le corps de Polynice, et lui refusa la sépulture, parce que ce prince avoit armé des étrangers contre sa patrie. Mais <hi rend="i">Antigone</hi> revint à Thèbes, pour rendre les derniers devoirs à son frère. Créon, instruit qu’on avoit transgressé ses ordres, fit veiller la nuit suivante auprès du corps. On surprit Antigone qui venoit pleurer son frère. Créon la condamna à être enterrée toute vive. <hi rend="i">Ismène</hi>, autre sœur d’Étéocle et de Polynice, déclara qu’elle avoit aidé Antigone à donner la sépulture à Polynice, et voulut subir le même supplice.</p>
@@ -2919,7 +2919,7 @@
               <l>Qui, privé du tombeau, réclamoit son appui,</l>
               <l>Et, pour l’ensevelir, elle meurt avec lui.</l>
             <bibl>(
-              <author>Legouvé</author>.)</bibl>
+              <author key="Legouvé">Legouvé</author>.)</bibl>
 </quote>
             <p><seg>Pélops</seg>.</p>
             <p>D. Racontez l’histoire de Pélops.</p>
@@ -3050,8 +3050,8 @@
               <l>Ils massacrent la garde, ouvrent toutes les portes,</l>
               <l>Et la mort dans nos murs entre avec leurs cohortes.</l>
             <bibl>(<title>Énéide</title> de
-              <author>Virgile</author>, <title>trad. de M.</title> 
-              <author>Delille</author>.)</bibl>
+              <author key="Virgile">Virgile</author>, <title>trad. de M.</title> 
+              <author key="Delille">Delille</author>.)</bibl>
 </quote>
             <p>D. Quels furent les principaux chefs de l’armée grecque ?</p>
             <p><hi rend="i">R.</hi> Ce furent <hi rend="i">Agamemnon</hi> et <hi rend="i">Ménélas</hi>, qu’on appeloit les <hi rend="i">Atrides</hi> ; <hi rend="i">Achille</hi> ; <hi rend="i">Patrocle</hi>, son ami ; <hi rend="i">Pyrrhus</hi>, son fils ; les deux <hi rend="i">Ajax</hi> ; <hi rend="i">Diomède</hi> ; <hi rend="i">Philoctète</hi> ; <hi rend="i">Ulysse, Nestor</hi> ; <hi rend="i">Calchas</hi>, très-habile devin ; <hi rend="i">Epéus</hi>, excellent ingénieur qui fabriqua le fameux cheval de bois ; <hi rend="i">Machaon</hi> et <hi rend="i">Podalire</hi>, célèbres médecins, fils d’Esculape ; etc.</p>
@@ -3074,7 +3074,7 @@
               <p>D. Quel chef élurent les rois Grecs, ligués contre la ville de Troie ?</p>
               <p><hi rend="i">R.</hi> Ils mirent à leur tête Agamemnon. La flotte combinée se rassembla dans l’Elide, où elle fut long-temps retenue par des vents contraires. Le devin <hi rend="i">Calchas</hi> déclara que Diane, irritée contre le roi d’Argos de ce qu’il avoit tué une biche qui lui étoit consacrée, refusoit aux Grecs un vent favorable, et que la déesse ne pouvoit être apaisée que par le sang d’une princesse de la famille d’Agamemnon. Le roi hésita long-temps, et accorda enfin sa fille aux sollicitations des princes confédérés. Ulysse s’offrit pour l’aller retirer, sous quelque prétexte spécieux, d’entre les bras de sa mère. On disposa tout pour le sacrifice ; mais Diane, apaisée par cette soumission, mit à la place d’Iphigénie une biche qui lui fut immolée, et transporta cette princesse dans la Tauride, pour en faire sa prêtresse.</p>
               <p>Dans la tragédie d’<title>Iphigénie en Aulide</title>, par
-                <author>Racine</author>, Agamemnon attend sa fille à l’autel pour l’immoler aux dieux. Mais, comme elle tarde trop long-temps à paroître, il vient lui-même la demander. Il la trouve avec sa mère, qui l’avoit retenue auprès d’elle. Ne croyant point que Clytemnestre et sa fille soient instruites du sacrifice qui se prépare, il presse Iphigénie de se rendre à l’autel, sous prétexte de l’unir à Achille. Mais il ne peut se méprendre aux larmes que laissent échapper les princesses.
+                <author key="Racine">Racine</author>, Agamemnon attend sa fille à l’autel pour l’immoler aux dieux. Mais, comme elle tarde trop long-temps à paroître, il vient lui-même la demander. Il la trouve avec sa mère, qui l’avoit retenue auprès d’elle. Ne croyant point que Clytemnestre et sa fille soient instruites du sacrifice qui se prépare, il presse Iphigénie de se rendre à l’autel, sous prétexte de l’unir à Achille. Mais il ne peut se méprendre aux larmes que laissent échapper les princesses.
                 <quote>« Arcas, s’écrie-t-il, Arcas, tu m’as trahi. »</quote></p>
               <quote>
                 <label>Iphigénie, <hi rend="i">à Agamemnon.</hi></label>
@@ -3236,7 +3236,7 @@
                 <l>Prétextant, pour couvrir sa lâche perfidie,</l>
                 <l>Qu’elle vengeoit sur lui le sang d’Iphigénie.</l>
               <bibl>(
-                <author>La Grange-Chancel</author>.)</bibl>
+                <author key="La Grange-Chancel">La Grange-Chancel</author>.)</bibl>
 </quote>
               <p>D. Quel fut le sort de la famille d’Agamemnon ?</p>
               <p><hi rend="i">R.</hi> La sensible <hi rend="i">Electre</hi>, sa fille, ne cessa de pleurer la mort de son père. Elle sauva son frère <hi rend="i">Oreste</hi> de la fureur d’Egysthe qui vouloit le faire périr. Oreste vengea la mort de son père Agamemnon, en tuant Egysthe, et même Clytemnestre, sa propre mère. Depuis ce parricide, il fut tourmenté par les <hi rend="i">Furies</hi> qui lui représentoient continuellement l’horreur de son crime.</p>
@@ -3334,7 +3334,7 @@
                 <l>» J’ai vu tomber Patrocle ; Hector me l’a ravi :</l>
                 <l>» Vous perdez votre fils, et je perds un ami. »</l>
               <bibl>(
-                <author>Voltaire</author>.)</bibl>
+                <author key="Voltaire">Voltaire</author>.)</bibl>
 </quote>
               <p>D. Comment mourut Achille ?</p>
               <p><hi rend="i">R.</hi> Achille, pendant une trêve, avoit vu <hi rend="i">Polyxène</hi>, fille de Priam, et en étoit devenu amoureux. Il la fit demander en mariage, et elle lui fut accordée. On choisit pour le lieu de la cérémonie un temple d’Apollon, qui étoit entre la ville de Troie et le camp des Grecs. A peine étoit-on assemblé, que le lâche Pâris lança une flèche empoisonnée dans le talon d’Achille. Le héros mourut sur le champ. Apollon, dit-on, avoit dirigé la flèche. Polyxène fut inconsolable d’avoir été la cause innocente de la mort d’un guerrier qu’elle aimoit. Après la prise de Troie, les Grecs immolèrent cette princesse sur le tombeau d’Achille.</p>
@@ -3347,7 +3347,7 @@
               <p><hi rend="i">R.</hi> Ce fut <hi rend="i">Andromaque</hi>, veuve d’Hector. Pyrrhus l’aima jusqu’à la préférer à son épouse <hi rend="i">Hermione</hi>, fille de Ménélas et d’Hélène. Cet amour fut cause de la mort de Pyrrhus. Car ce prince étant allé à Delphes, pour offrir un sacrifice à Apollon, fut tué dans le temple même par Oreste. Hermione, transportée de jalousie, avoit excité à ce meurtre Oreste dont elle avoit été aimée autrefois, et auquel il avoit promis de l’épouser, s’il vouloit la venger.</p>
               <quote>
                 <label>Scène entre Oreste et Hermione, <lb/>(<hi rend="i">Dans la tragédie d’</hi><title>Andromaque</title>, <hi rend="i">par</hi>
-                  <author>Racine</author>.)</label>
+                  <author key="Racine">Racine</author>.)</label>
                 <label>Oreste.</label>
                 <l>Madame, c’en est fait, et vous êtes servie :</l>
                 <l>Pyrrhus rend à l’autel son infidelle vie.</l>
@@ -3478,7 +3478,7 @@
               <p>D. Comment Philoctète fut-il tiré de l’île de Lemnos ?</p>
               <p><hi rend="i">R.</hi> Après la mort d’Achille, les Grecs, voyant qu’ils ne pouvoient s’emparer de la ville, sans les flèches que Philoctète avoit gardées avec lui à Lemnos, chargèrent Pyrrhus d’aller trouver ce héros, et de l’amener devant Troie. Il étoit question de surprendre Philoctète justement irrité contre les Grecs, et de le déterminer à s’embarquer, sous prétexte de retourner en Grèce, tandis qu’on le conduiroit sur la côte d’Asie. Pyrrhus feignit d’être mécontent des Grecs, qui lui avoient refusé les armes d’Achille son père ; il dit qu’il s’en retournoit à Scyros. Philoctète le conjure de l’emmener avec lui, et déjà il a confié au jeune prince ses armes et ses flèches pour les porter au vaisseau. Le fils d’Achille sent un remords secret de tromper un malheureux : son cœur n’est point fait aux artifices : il soupire : il avoue son projet à Philoctète, lui rend ses armes, et le laisse libre. Ulysse, quoique ennemi mortel de Philoctète, se chargea de l’aller chercher, et de le ramener ; ce qu’il exécuta en effet. Philoctète, arrivé au camp, blessa Pâris d’une de ses flèches, et lui donna la mort. Bientôt Ilion fut réduit en cendres. Machaon et Podalire, fils d’Esculape, guérirent Philoctète de sa blessure.</p>
               <p>D. Récitez les beaux vers de
-                <author>La Harpe</author> sur les malheurs de Philoctète.</p>
+                <author key="La Harpe">La Harpe</author> sur les malheurs de Philoctète.</p>
               <p><hi rend="i">R.</hi> Philoctète raconte ainsi à Pyrrhus comment les Grecs l’ont abandonné, et quels maux il a soufferts<note place="bottom">L’auteur de <title>Télémaque</title> a aussi décrit très-éloquemment les douleurs de Philoctète, sur la fin de son 15<hi rend="sup">e</hi> livre.</note>.</p>
               <quote>
                 <l>Nous touchons à Lemnos : accablé du voyage</l>
@@ -3560,8 +3560,8 @@
                 <l>Égorge Polydore, et saisit son trésor ;</l>
                 <l>Et la terre cacha sa victime sanglante.</l>
               <bibl>(
-                <author>Virgile</author>, <title>trad. de M.</title> 
-                <author>Delille</author>.)</bibl>
+                <author key="Virgile">Virgile</author>, <title>trad. de M.</title> 
+                <author key="Delille">Delille</author>.)</bibl>
 </quote>
               <p>D. Que fit Ulysse, après son premier naufrage ?</p>
               <p><hi rend="i">R.</hi> Il se remit en mer, et fut porté par les vents au rivage des Lotophages, en Afrique. Ces peuples sont ainsi appelés de l’arbre <hi rend="i">lotos</hi> qui croît dans leur pays, et dont le fruit est si agréable, qu’il fait oublier aux étrangers leur propre patrie, ce qui fut cause qu’Ulysse y perdit quelques-uns de ses compagnons ; mais les autres, reprenant leur navigation, passèrent avec lui en Sicile, où de nouveaux dangers les attendoient.</p>
@@ -3571,7 +3571,7 @@
               <p><hi rend="i">R.</hi> Ulysse et ses compagnons, fuyant adroitement les longs bras étendus du Cyclope, se tenoient cachés parmi ses moutons, qui, comme leur maître, étoient beaucoup plus grands que les autres animaux de leur espèce. Ulysse ayant remarqué que le monstre, en marchant à tâtons, ne portoit la main que sur le dos de ses brebis, attacha sous le ventre de chacune un de ses guerriers, et s’attacha lui-même sous le bélier. Dès le point du jour, Polyphème, placé à l’ouverture de son antre, fit sortir un à un tout son troupeau. Chaque mouton, en passant entre ses jambes et sous ses mains, emporta un soldat grec, et le chef passa le dernier. Polyphème, rentré dans sa caverne, avec la soif du carnage et l’espoir de la vengeance, la trouva déserte, et frémit de fureur, lorsqu’il entendit au loin, dans la plaine, Ulysse et ses compagnons qui couroient vers le rivage. Le monstre, écumant de rage, les poursuivit, et leur lança à tout hasard, un rocher d’une grosseur énorme. Les Grecs l’évitèrent aisément, et s’embarquèrent, après n’avoir perdu que quatre d’entr’eux, que le géant avoit dévorés.</p>
               <p>D. Que racontent les poëtes des amours de Polyphème ?</p>
               <p>R ; <hi rend="i">Polyphème</hi>, malgré sa férocité, devint amoureux de la nymphe <hi rend="i">Galatée</hi>, éprise elle-même du berger <hi rend="i">Acis</hi>. Polyphème, jaloux de cette préférence, observa les deux amants, et les ayant surpris ensemble, écrasa d’un rocher le jeune Acis, qui fut transformé en fleuve. Galatée se jeta dans la mer, et rejoignit les Néréides ses sœurs. Cette nymphe parle ainsi, dans
-                <author>Ovide</author> :</p>
+                <author key="Ovide">Ovide</author> :</p>
               <quote>
                 <l>O Vénus ! quelle est donc la puissance invincible ?</l>
                 <l>Ce géant redouté, ce Cyclope terrible,</l>
@@ -3612,12 +3612,12 @@
                 <l>Descendre au tombeau de Laërte,</l>
                 <l>Qu’être immortel dans un exil.</l>
               <bibl>(
-                <author>Gresset</author>.)</bibl>
+                <author key="Gresset">Gresset</author>.)</bibl>
 </quote>
               <p>D. Ulysse n’éprouva-t-il plus de malheurs après son départ de l’île d’Ogygie ?</p>
               <p><hi rend="i">R.</hi> Il eut beaucoup de peine à gagner l’île des Phéaciens<note place="bottom">C’est l’île de Corcyre, autrement Corfou.</note>, où régnoit Alcinoüs. Les jardins d’Alcinoüs sont très-célèbres dans l’antiquité.
                 <quote>« Jamais, dit </quote>
-                <author>Homère</author>
+                <author key="Homère">Homère</author>
                 <quote>, les arbres ne sont sans fruits, un doux zéphyr entretient leur vigueur et leur sève ; et pendant que les fruits mûrissent, il en naît toujours de nouveaux. La poire prête à cueillir, en laisse voir une autre qui commence à paroître. La grenade et l’orange déjà mûres, en montrent de nouvelles qui vont mûrir. L’olive est poussée par une autre olive, et la figue ridée fait place à une autre qui la suit. La vigne y porte des raisins en toute saison ; pendant que les uns sèchent au soleil, on coupe les autres, et on foule dans le pressoir ceux que le soleil a déjà préparés. »</quote> Ulysse resta quelque temps à la cour voluptueuse et brillante d’Alcinoüs, et jouit des délices de ces lieux enchantés. Il en partit, chargé de présents, et arriva enfin à Ithaque, après une absence de vingt ans.</p>
               <p>D. Comment Ulysse fut-il reçu à Ithaque ?</p>
               <p><hi rend="i">R.</hi> Ulysse se déguisa, pour se dérober aux piéges des amants de Pénélope : il alla descendre chez son fidelle serviteur <hi rend="i">Eumée</hi>. A la porte de son palais, il fut reconnu par un chien qu’il avoit laissé en partant, et qui mourut de joie d’avoir retrouvé son maître. Il se découvrit à Télémaque, puis à Pénélope. Cette vertueuse épouse lui raconta comment elle avoit éludé la poursuite de ses amants, en leur promettant d’épouser l’un d’eux, lorsqu’une tapisserie qu’elle avoit commencée, seroit finie. Elle défaisoit la nuit ce qu’elle avoit fait le jour. Mais, ne pouvant plus obtenir de nouveaux délais, elle s’étoit engagée à prendre pour époux celui qui le lendemain pourroit tendre l’arc d’Ulysse, et faire passer le premier sa flèche dans plusieurs bagues disposées de suite. Ulysse approuva cette résolution, dans l’espérance d’y trouver un moyen de se venger des prétendants. Touts essayèrent en vain de tendre l’arc. Ulysse, après eux, demanda qu’il lui fût permis d’essayer ses forces. Il banda l’arc très-aisément, et tira sur les poursuivants qu’il tua, avec le secours de son fils et de ses serviteurs.</p>
@@ -3625,8 +3625,8 @@
               <p><hi rend="i">R.</hi> Ce prince régnoit paisiblement dans son île, lorsque Télégone, qu’il avoit eu de Circé, vint à Ithaque pour voir son père. Pendant qu’on le repoussoit comme un inconnu, il s’éleva quelque tumulte à la porte du palais. Ulysse accourut pour voir ce qui se passoit. Dans le désordre, il fut atteint malheureusement par Télégone d’une flèche empoisonnée : Tirésias lui avoit prédit qu’il mourroit de la main de son fils. Minerve ordonna à Télégone d’épouser Pénélope, et de ce mariage naquit <hi rend="i">Italus</hi>, qui donna son nom à l’Italie.</p>
               <p>D. Par qui les aventures d’Ulysse nous ont-elles été transmises ?</p>
               <p><hi rend="i">R.</hi> Par
-                <author>Homère</author>, le père de la poésie grecque. Il florissoit vers l’an 300 après la prise de Troie. Il a chanté les voyages et les malheurs d’Ulysse, dans un poëme épique appelé l’<title>Odyssée</title>. Il avoit fait auparavant un autre poëme encore plus beau, dans lequel il a célébré la colère d’Achille, si pernicieuse aux Grecs, et la ruine de la ville de Troie. Ce poëme a pour titre l’<title>Iliade</title><hi rend="i">…</hi> L’immortel
-                <author>Fénelon</author> a décrit les aventures de <title>Télémaque</title>, fils d’Ulysse, dans un ouvrage qui renferme toutes les grandes beautés des anciens.</p>
+                <author key="Homère">Homère</author>, le père de la poésie grecque. Il florissoit vers l’an 300 après la prise de Troie. Il a chanté les voyages et les malheurs d’Ulysse, dans un poëme épique appelé l’<title>Odyssée</title>. Il avoit fait auparavant un autre poëme encore plus beau, dans lequel il a célébré la colère d’Achille, si pernicieuse aux Grecs, et la ruine de la ville de Troie. Ce poëme a pour titre l’<title>Iliade</title><hi rend="i">…</hi> L’immortel
+                <author key="Fénelon">Fénelon</author> a décrit les aventures de <title>Télémaque</title>, fils d’Ulysse, dans un ouvrage qui renferme toutes les grandes beautés des anciens.</p>
             </div>
             <div>
               <head>Ajax.</head>
@@ -3635,7 +3635,7 @@
               <p>D. Faites-nous connoître l’autre Ajax.</p>
               <p><hi rend="i">R.</hi> Le second <hi rend="i">Ajax</hi> étoit fils de Télamon, roi de Salamine. Il fut, après Achille, le plus vaillant des Grecs. Mais il étoit, comme lui, brutal, emporté. Après la mort d’Achille, Ajax et Ulysse se disputèrent les armes de ce héros. Ulysse l’emporta. Ajax en devint si furieux, que, pendant la nuit, il massacra touts les troupeaux du camp, croyant tuer son rival et les capitaines de l’armée. Revenu de son délire, il fut si honteux, qu’il se perça d’une épée dont Hector lui avoit fait présent. Son sang fut changé en hyacinthe.</p>
               <p>
-                <author>Ovide</author> raconte ainsi la dispute d’Ajax et d’Achille :</p>
+                <author key="Ovide">Ovide</author> raconte ainsi la dispute d’Ajax et d’Achille :</p>
               <quote>
                 <l>Touts les chefs sont assis : le soldat en silence</l>
                 <l>Les entoure debout, appuyé sur sa lance ;</l>
@@ -3674,7 +3674,7 @@
               <head>Nestor</head>
               <p>D. Qui étoit Nestor ?</p>
               <p><hi rend="i">R. Nestor</hi>, fils de Nélée et de Chloris, étoit roi de Pylos. Il échappa seul au fer d’Hercule qui donna la mort à touts ses frères, parce qu’ils avoient pris parti pour Augias. Il fit le voyage de la Colchide avec les Argonautes. Il se trouva aux noces de Pirithoüs, et combattit contre les Centaures, Il étoit déjà fort vieux, lorsqu’il se rendit au siége de Troie, Il fut très-utile aux Grecs par la sagesse de ses conseils. Agamemnon disoit que s’il avoit dix Nestor dans son armée, il prendroit la ville en peu de temps, Son éloquence étoit si douce et si touchante, qu’
-                <author>Homère</author> dit que
+                <author key="Homère">Homère</author> dit que
                 <quote>le miel couloit de ses lèvres, quand il parloit</quote>.
                 <author>Le même poëte</author> ajoute qu’
                 <quote>il vécut trois siècles d’homme</quote>.</p>
@@ -3726,7 +3726,7 @@
               <head>Diomède.</head>
               <p>D. Que raconte-t-on de Diomède ?</p>
               <p><hi rend="i">R. Diomède</hi>, fils de Tydée, étoit roi d’Etolie. Il partit avec les princes grecs pour la guerre de Troie. Ses exploits l’y firent regarder comme le plus brave de toute l’armée, après Achille, et Ajax fils de Télamon.
-                <author>Homère</author> représente ce prince comme le favori de Pallas. Cette déesse le suit par-tout. C’est par son secours, qu’il tue plusieurs rois de sa main, qu’il soutient des combats singuliers contre Hector, Énée, et les autres princes troyens ; qu’il se saisit des chevaux de Rhésus, qu’il enlève le palladium ; enfin, qu’il blesse le dieu Mars, et Vénus même, qui venoit secourir son fils Énée. La déesse en conçut un tel dépit, qu’elle inspira à sa femme Égiale une violente passion pour un autre. Diomède, instruit de cet affront, ne voulut point retourner dans sa patrie. Il alla aborder sur les côtes d’Apulie ou de la Pouille, et y bâtit plusieurs villes.</p>
+                <author key="Homère">Homère</author> représente ce prince comme le favori de Pallas. Cette déesse le suit par-tout. C’est par son secours, qu’il tue plusieurs rois de sa main, qu’il soutient des combats singuliers contre Hector, Énée, et les autres princes troyens ; qu’il se saisit des chevaux de Rhésus, qu’il enlève le palladium ; enfin, qu’il blesse le dieu Mars, et Vénus même, qui venoit secourir son fils Énée. La déesse en conçut un tel dépit, qu’elle inspira à sa femme Égiale une violente passion pour un autre. Diomède, instruit de cet affront, ne voulut point retourner dans sa patrie. Il alla aborder sur les côtes d’Apulie ou de la Pouille, et y bâtit plusieurs villes.</p>
             </div>
             <div>
               <head>Palamède.</head>
@@ -3737,7 +3737,7 @@
               <head>Thersite.</head>
               <p>D. Dites qui étoit Thersite.</p>
               <p><hi rend="i">R. Thersite</hi> étoit le plus laid et le plus lâche de touts les Grecs.
-                <author>Homère</author> dit qu’
+                <author key="Homère">Homère</author> dit qu’
                 <quote>il faisoit un bruit horrible</quote> : il disoit toute sorte de grossièretés et d’injures, et ne parloit d’Agamemnon et des autres rois, qu’avec une insolence cynique. Achille, piqué de ses injures, le tua d’un coup de poing. Thersite a donné lieu à une espèce de proverbe : quand on veut parler d’un homme mal fait, lâche et insolent, on dit : <hi rend="i">c’est un Thersite</hi>.</p>
             </div>
             <div>
@@ -3838,8 +3838,8 @@
                 <l>Dans la foule des morts tristement confondu,</l>
                 <l>Hélas ! et sans honneur sur le sable étendu.</l>
               <bibl>(<title>Énéide</title> de
-                <author>Virgile</author>, <title>trad. de M.</title> 
-                <author>Delille</author>.)</bibl>
+                <author key="Virgile">Virgile</author>, <title>trad. de M.</title> 
+                <author key="Delille">Delille</author>.)</bibl>
 </quote>
               <p>D. Quel fut le sort d’Hécube ?</p>
               <p><hi rend="i">R. Hécube</hi>, épouse de Priam, étoit sœur de Théano, prêtresse d’Apollon. Elle eut cinquante fils, qui périrent presque touts sous les yeux de leur mère. Après la prise de la ville, on la chercha long-temps sans la trouver ; mais enfin, Ulysse la surprit parmi les tombeaux de ses enfants, et en fit son esclave. Avant que de partir, elle avala les cendres d’Hector. Ayant arraché les yeux à Polymnestor, roi de Thrace, elle fut poursuivie à coups de pierres par les sujets de ce prince. Hécube mordoit de rage les pierres qu’on lui lançoit ; elle fut métamorphosée en chienne.</p>
@@ -3912,9 +3912,9 @@
               <p><hi rend="i">R. Andromaque</hi>, privée d’un époux qu’elle aimoit tendrement, vit bientôt réduire en cendres la ville dont Hector étoit le principal appui. Elle vit son fils Astyanax précipité du haut des murailles de Troie par le cruel Pyrrhus. Elle tomba en partage à ce même Pyrrhus, fils du meurtrier de son mari, et auteur de la mort de son fils. Pyrrhus l’emmena en Épire, et l’épousa.</p>
               <p>Elle eut pour troisième époux Hélénus, frère de son premier mari, qui régna en Epire, après la mort de Pyrrhus. Elle regretta toujours Hector, auquel elle fit construire un magnifique monument.</p>
               <p>Quelques auteurs ont prétendu qu’un enfant supposé fut précipité du haut des murs de la ville, au lieu d’Astyanax, et que ce jeune prince suivit sa mère en Épire. C’est cette tradition, que
-                <author>Racine</author> a suivie dans sa belle tragédie d’<title>Andromaque</title>. Le poëte a feint qu’Andromaque ne se décidoit à épouser Pyrrhus, que pour sauver la vie à son fils.</p>
+                <author key="Racine">Racine</author> a suivie dans sa belle tragédie d’<title>Andromaque</title>. Le poëte a feint qu’Andromaque ne se décidoit à épouser Pyrrhus, que pour sauver la vie à son fils.</p>
               <p>D. Rapportez les belles scènes où
-                <author>Racine</author> peint les combats d’Andromaque, entre la crainte de perdre son fils, et l’horreur de donner sa main à Pyrrhus.</p>
+                <author key="Racine">Racine</author> peint les combats d’Andromaque, entre la crainte de perdre son fils, et l’horreur de donner sa main à Pyrrhus.</p>
               <p><hi rend="i">R.</hi> Céphise, confidente d’Andromaque, engage cette princesse à sauver son fils, en cédant aux vœux de Pyrrhus.</p>
               <quote>
                 <label>Céphise.</label>
@@ -4025,7 +4025,7 @@
                 <l>Et qu’enfin Jupiter, qui n’osa les juger,</l>
                 <l>Fit dépendre ce droit de l’arrêt d’un berger.</l>
               <bibl>(
-                <author>La Motte</author>.)</bibl>
+                <author key="La Motte">La Motte</author>.)</bibl>
 </quote>
               <p>D. A quelle occasion Pâris vint-il à la cour de Priam, son père ?</p>
               <p><hi rend="i">R.</hi> Priam fit célébrer des jeux à sa cour. Pâris s’y rendit, combattit contre ses frères, et les vainquit. Hector, indigné d’avoir été défait par un berger, le poursuivit, et vouloit lui donner la mort. Mais Pâris se fit reconnoître de son frère qui le présenta à Priam. Le roi reçut son fils avec joie, oublia les fatales prédictions, et lui donna un appartement dans son palais. Bientôt après, il l’envoya à Salamine, pour redemander Hésione. C’est dans ce voyage, que Pâris enleva la belle Hélène, et donna lieu à la guerre qui amena la ruine de Troie. Durant la traversée, le vieux Nérée lui prédit les malheurs qui seroient la suite de ce funeste enlèvement.</p>
@@ -4039,12 +4039,12 @@
               <p>D. Qui étoit Laocoon ?</p>
               <p><hi rend="i">R. Laocoon</hi>, fils de Priam et d’Hécube, étoit prêtre d’Apollon et de Neptune. II fit touts ses efforts pour empêcher les Troyens d’introduire le cheval de bois dans leurs murs. Il regardoit cette machine comme une ruse qui devoit être fatale à la ville. Il lança sa javeline dans les flancs du cheval, et l’on entendit retentir le bruit des armes qui y étoient renfermées. Mais les Troyens aveuglés, ne voulurent point écouter les sages conseils de Laocoon. Ils l’accusèrent d’impiété, pour avoir violé un don offert à Minerve. Le ciel même parut bientôt punir Laocoon de sa témérité. Deux affreux serpents, sortis de la mer, vinrent droit à l’autel, où sacrifioit Laocoon, se jetèrent sur ses deux fils, et après les avoir déchirés impitoyablement, saisirent Laocoon lui-même qui venoit à leur secours, et le firent périr misérablement.</p>
               <p>Cette aventure a donné lieu à un des plus beaux morceaux de sculpture grecque, que nous possédions. Ce chef-d’œuvre est de la main de
-                <author>Polydore</author>, d’
-                <author>Athénodore</author> et d’
-                <author>Agésandre</author>, trois excellents maîtres de Rhodes, qui le taillèrent de concert d’un seul bloc de marbre.</p>
+                <author key="Polydore de Rhodes">Polydore</author>, d’
+                <author key="Athénodore">Athénodore</author> et d’
+                <author key="Agésandre">Agésandre</author>, trois excellents maîtres de Rhodes, qui le taillèrent de concert d’un seul bloc de marbre.</p>
               <p>D. Récitez les beaux vers dans lesquels M. 
-                <author>Deguerle</author> décrit, d’après
-                <author>Pétrone</author>, les malheurs de Laocoon et de ses enfants.</p>
+                <author key="Deguerle">Deguerle</author> décrit, d’après
+                <author key="Pétrone">Pétrone</author>, les malheurs de Laocoon et de ses enfants.</p>
               <p><hi rend="i">R.</hi> Les voici :</p>
               <quote>
                 <l>Pergame, après dix ans de siége, de carnage,</l>
@@ -4162,13 +4162,13 @@
               <p><hi rend="i">R.</hi> Dans la nuit de l’embrasement de Troie, <hi rend="i">Créuse</hi> étoit réunie à son époux Énée, et au vieillard Anchise, qui ne pouvoient se fixer sur le parti qu’ils devoient prendre. Anchise ne se décidoit point à quitter la ville. Mais une flamme légère voltigea tout à coup autour de la tête d’Ascagne, sans brûler ses cheveux ; le tonnerre se fit entendre en même temps à gauche. Ces augures leur parurent favorables. Ils prirent la résolution d’aller chercher un établissement dans les pays étrangers. Créuse partit avec eux ; mais, arrivé au lieu qu’il avoit désigné à ses compagnons, Énée s’aperçut que son épouse étoit absente. Il revint à la ville, et la chercha vainement. L’ombre de Créuse lui apparut, et lui révéla que Cybèle l’avoit enlevée pour la soustraire aux insultes du vainqueur.</p>
               <p>D. Quel poëte célèbre a chanté les malheurs d’Énée ?</p>
               <p><hi rend="i">R.</hi> C’est
-                <author>Virgile</author>, poëte latin, qui vivoit sous Auguste. Son <title>Énéide</title> est le plus beau monument qui nous reste de l’antiquité.
-                <author>Virgile</author> trace exactement le cours de la navigation d’Énée. Il feint qu’après le départ du héros troyen, Junon va trouver le roi des vents, et lui demande d’exciter une tempête pour faire périr le fils de Vénus et ses compagnons. Éole cède aux desirs de la reine des dieux. La flotte d’Énée auroit été submergée dans les flots, si Neptune n’eût calmé l’orage, et fait rentrer les vents dans leur antre. Cependant Vénus s’adresse à Jupiter, et lui rappelle ses promesses en faveur du pieux Énée. Jupiter assure de nouveau à Vénus que son fils arrivera heureusement en Italie, où sa postérité doit régner. Mercure est envoyé à Carthage pour disposer la reine <hi rend="i">Didon</hi> à recevoir favorablement Énée. Le prince passe quelque temps à la cour de cette reine ; il lui fait le récit du siége et de la ruine de Troie. Didon s’efforce de retenir Énée auprès d’elle. Mais Jupiter ordonne au héros de partir et de continuer sa route. Il relâche à Drépane en Italie, où il célèbre des jeux funèbres sur la tombe de son père Anchise. Il descend ensuite aux enfers, conduit par la Sibylle. Anchise lui révèle sa destinée et celle de ses descendants. De retour des enfers, il vient camper sur les bords du Tibre. Là, l’accomplissement des oracles lui fait connoître que ses courses sont terminées.</p>
+                <author key="Virgile">Virgile</author>, poëte latin, qui vivoit sous Auguste. Son <title>Énéide</title> est le plus beau monument qui nous reste de l’antiquité.
+                <author key="Virgile">Virgile</author> trace exactement le cours de la navigation d’Énée. Il feint qu’après le départ du héros troyen, Junon va trouver le roi des vents, et lui demande d’exciter une tempête pour faire périr le fils de Vénus et ses compagnons. Éole cède aux desirs de la reine des dieux. La flotte d’Énée auroit été submergée dans les flots, si Neptune n’eût calmé l’orage, et fait rentrer les vents dans leur antre. Cependant Vénus s’adresse à Jupiter, et lui rappelle ses promesses en faveur du pieux Énée. Jupiter assure de nouveau à Vénus que son fils arrivera heureusement en Italie, où sa postérité doit régner. Mercure est envoyé à Carthage pour disposer la reine <hi rend="i">Didon</hi> à recevoir favorablement Énée. Le prince passe quelque temps à la cour de cette reine ; il lui fait le récit du siége et de la ruine de Troie. Didon s’efforce de retenir Énée auprès d’elle. Mais Jupiter ordonne au héros de partir et de continuer sa route. Il relâche à Drépane en Italie, où il célèbre des jeux funèbres sur la tombe de son père Anchise. Il descend ensuite aux enfers, conduit par la Sibylle. Anchise lui révèle sa destinée et celle de ses descendants. De retour des enfers, il vient camper sur les bords du Tibre. Là, l’accomplissement des oracles lui fait connoître que ses courses sont terminées.</p>
               <p>D. Didon et Énée ont-ils vécu réellement dans le même temps ?</p>
               <p><hi rend="i">R.</hi> Non. Énée vivoit plus de 500 ans avant Didon.
-                <author>Virgile</author> n’a imaginé la passion de Didon pour Énée, qu’afin de décrire les fameux intérêts qui ont si long-temps divisé <hi rend="i">Rome</hi> et <hi rend="i">Carthage</hi>.</p>
+                <author key="Virgile">Virgile</author> n’a imaginé la passion de Didon pour Énée, qu’afin de décrire les fameux intérêts qui ont si long-temps divisé <hi rend="i">Rome</hi> et <hi rend="i">Carthage</hi>.</p>
               <p><hi rend="i">Didon</hi>, fille de Bélus, roi de Tyr, avoit épousé <hi rend="i">Sichée</hi>, le plus riche de touts les Phéniciens. Pygmalion, frère de Didon, entraîné par la passion des richesses, assassina Sichée au pied des autels. Il cacha long-temps son crime à sa sœur. Mais Sichée, privé des honneurs de la sépulture, apparut à Didon, lui révéla le crime de Pygmalion, et l’engagea à prendre la fuite. Didon rassembla touts ceux qui haïssoient ou craignoient le tyran, et partit avec les richesses de Sichée et celles de l’avare Pygmalion. Elle aborda en Afrique, et y bâtit Carthage. Lorsqu’Énée l’eut quittée, elle s’abandonna au désespoir, et se donna la mort. Tel est le récit de
-                <author>Virgile</author>, qui a donné lieu à une épigramme du poëte latin
+                <author key="Virgile">Virgile</author>, qui a donné lieu à une épigramme du poëte latin
                 <author>Ausone</author>, ainsi traduite en vers françois :</p>
               <quote>
                 <l>Pauvre Didon, ou t’a réduite</l>
@@ -4177,7 +4177,7 @@
                 <l>L’autre, en fuyant cause ta mort.</l>
               </quote>
               <p>D. Récitez-nous les beaux vers dans lesquels le traducteur de
-                <author>Virgile</author> a si bien rendu les fureurs de Didon après le départ d’Énée, et la haine qui doit diviser à jamais Rome et Carthage.</p>
+                <author key="Virgile">Virgile</author> a si bien rendu les fureurs de Didon après le départ d’Énée, et la haine qui doit diviser à jamais Rome et Carthage.</p>
               <p><hi rend="i">R.</hi> Les voici :</p>
               <quote>
                 <l>L’Aurore abandonnoit la couche de Tithon,</l>
@@ -4251,7 +4251,7 @@
                 <l>» Que ses derniers neveux s’arment contre les miens !</l>
                 <l>» Que mes derniers neveux s’acharnent sur les siens ! »</l>
               <bibl>(<title>Trad. de M.</title> 
-                <author>Delille</author>.)</bibl>
+                <author key="Delille">Delille</author>.)</bibl>
 </quote>
             </div>
           </div>
@@ -4273,7 +4273,7 @@
                 <l>Ce temple, ces jardins dans les airs soutenus,</l>
                 <l>Ce vaste mausolée où repose Ninus ?</l>
               <bibl>(
-                <author>Voltaire</author>.)</bibl>
+                <author key="Voltaire">Voltaire</author>.)</bibl>
 </quote>
               <p>D. Qu’est-ce que les jardins de Babylone avoient de remarquable ?</p>
               <p><hi rend="i">R.</hi> Ils étoient d’une beauté surprenante, très-vastes, et soutenus en l’air par des colonnes.</p>
@@ -4285,7 +4285,7 @@
               <head>Le phare d’Alexandrie.</head>
               <p>D. Faites-nous connoître le phare d’Alexandrie.</p>
               <p><hi rend="i">R.</hi> C’étoit un superbe édifice qui fut élevé par le célèbre architecte
-                <author>Sostrate</author>, natif de Gnide, d’après l’ordre de Ptolomée Philadelphe, roi d’Égypte. Ce monument, dont il ne reste plus aujourd’hui que quelques débris, consistoit en un palais de marbre blanc, au-dessus duquel s’élevoit à une hauteur prodigieuse, une tour carrée, aussi de marbre blanc, avec des galeries placées les unes au-dessus des autres et formées par de belles colonnes. Au haut de la tour, on allumoit touts les soirs un fanal pour éclairer l’entrée du port. Quelques-uns prétendent que de là l’on découvroit touts les vaisseaux qui abordoient à l’île de Rhodes, éloignée de deux cents lieues.</p>
+                <author key="Sostrate">Sostrate</author>, natif de Gnide, d’après l’ordre de Ptolomée Philadelphe, roi d’Égypte. Ce monument, dont il ne reste plus aujourd’hui que quelques débris, consistoit en un palais de marbre blanc, au-dessus duquel s’élevoit à une hauteur prodigieuse, une tour carrée, aussi de marbre blanc, avec des galeries placées les unes au-dessus des autres et formées par de belles colonnes. Au haut de la tour, on allumoit touts les soirs un fanal pour éclairer l’entrée du port. Quelques-uns prétendent que de là l’on découvroit touts les vaisseaux qui abordoient à l’île de Rhodes, éloignée de deux cents lieues.</p>
             </div>
             <div>
               <head>Le Mausolée.</head>
@@ -4300,14 +4300,14 @@
               <p><hi rend="i">R.</hi> Il fut renversé par un tremblement de terre, cinquante-six ans après qu’il eut été construit. Un calife des Sarrasins vendit les débris à un marchand juif, qui en chargea neuf cents chameaux.</p>
               <p>D. Par qui le colosse de Rhodes avoit-il été élevé ?</p>
               <p><hi rend="i">R.</hi> Par
-                <author>Charès</author>, sculpteur lydien, disciple de
-                <author>Lysippe</author>. Il y employa douze ans.</p>
+                <author key="Charès">Charès</author>, sculpteur lydien, disciple de
+                <author key="Lysippe">Lysippe</author>. Il y employa douze ans.</p>
             </div>
             <div>
               <head>Le temple de Diane.</head>
               <p>D. Par qui fut bâti le temple de Diane ?</p>
               <p><hi rend="i">R.</hi> Il fut bâti par
-                <author>Ctésiphon</author>, architecte grec, et par
+                <author key="Ctésiphon">Ctésiphon</author>, architecte grec, et par
                 <author>Métagène</author> son fils. II étoit soutenu par cent vingt-sept colonnes de soixante pieds, dont chacune avoit été donnée par un souverain. La charpente étoit de cèdre, et les portes de cyprès. Après qu’il eut été brûlé par Erostrate, il fut remplacé par un autre qui avoit quatre cent vingt-cinq pieds de longueur sur deux cent vingt de largeur, et qui surpassoit, dit-on, le premier en magnificence. Il reste de ce temple quelques fragments qui donnent l’idée d’une sculpture riche et de bon goût.</p>
             </div>
             <div>
@@ -4316,7 +4316,7 @@
               <p><hi rend="i">R.</hi> C’est la statue de ce dieu, qui étoit placée dans le temple d’Olympie, ville d’Élide, située entre le mont Ossa et le mont Olympe.</p>
               <p>D. Qui avoit fait cette statue ?</p>
               <p><hi rend="i">R.</hi>
-                <author>Phidias</author>, sculpteur d’Athènes, fit cette statue qui fut regardée comme un prodige. Il n’oublia rien pour lui donner la dernière perfection. Avant que de l’achever entièrement, il l’exposa aux yeux du public, se tenant caché derrière une porte, d’où il entendoit le jugement des connoisseurs ou de ceux qui croyoient l’être. Il profita de toutes les critiques judicieuses, persuadé que plusieurs yeux valent mieux qu’un seul.</p>
+                <author key="Phidias">Phidias</author>, sculpteur d’Athènes, fit cette statue qui fut regardée comme un prodige. Il n’oublia rien pour lui donner la dernière perfection. Avant que de l’achever entièrement, il l’exposa aux yeux du public, se tenant caché derrière une porte, d’où il entendoit le jugement des connoisseurs ou de ceux qui croyoient l’être. Il profita de toutes les critiques judicieuses, persuadé que plusieurs yeux valent mieux qu’un seul.</p>
               <p>D. Faites-nous la description de ce monument.</p>
               <p><hi rend="i">R.</hi> La statue étoit d’or et d’ivoire, haute de soixante pieds et d’une grosseur proportionnée. Elle représentoit le dieu assis sur un trône d’or et d’ivoire enrichi de pierres précieuses. Il portoit sur la tête une couronne qui sembloit être de branches d’olivier. Il tenoit à la main droite une victoire d’or et d’ivoire ; à la gauche, un sceptre surmonté d’un aigle. La chaussure et le manteau étoient d’or.</p>
               <p>Le temple pouvoit lui-même passer pour une merveille. Il étoit enrichi de tout ce que la peinture et la sculpture pouvoient offrir de plus rare et de plus précieux ; les plus beaux marbres, le bronze, l’or et l’ivoire décoroient l’intérieur de ce superbe édifice.</p>
@@ -4331,25 +4331,25 @@
             <head>Les sept sages de la Grèce.</head>
             <p><hi rend="sc">Demande</hi>. Dites-nous les noms des sept sages de la Grèce.</p>
             <p><hi rend="i"><hi rend="sc">Réponse</hi></hi>. Le premier étoit
-              <author>Thalès</author> ; le deuxième
-              <author>Chilon</author> ; le troisième
-              <author>Solon</author> ; le quatrième
-              <author>Cléobule</author>, le cinquième
-              <author>Pittacus</author> ; le sixième
-              <author>Bias</author> ; le septième Périandre.</p>
+              <author key="Thalès">Thalès</author> ; le deuxième
+              <author key="Chilon">Chilon</author> ; le troisième
+              <author key="Solon">Solon</author> ; le quatrième
+              <author key="Cléobule">Cléobule</author>, le cinquième
+              <author key="Pittacos">Pittacus</author> ; le sixième
+              <author key="Bias">Bias</author> ; le septième Périandre.</p>
             <div>
               <head>
-                <author>Thalès</author>
+                <author key="Thalès">Thalès</author>
                 <num>.</num>
               </head>
               <p>D. Faites connoître
-                <author>Thalès</author>.</p>
+                <author key="Thalès">Thalès</author>.</p>
               <p><hi rend="i">R.</hi>
-                <author>Thalès</author>, le premier des sept sages de la Grèce, naquit à Milet, vers l’an 640 avant Jésus-Christ, d’une famille illustre. Pour profiter des lumières de ce qu’il y avoit alors de plus habiles gens, il fit plusieurs voyages, selon la coutume des anciens. Il s’arrêta long-temps en Égypte, où il étudia, sous les prêtres de Memphis, la géométrie, l’astronomie, et la philosophie. Il fonda une secte de philosophes, appelée la secte <hi rend="i">Ionique</hi>.</p>
+                <author key="Thalès">Thalès</author>, le premier des sept sages de la Grèce, naquit à Milet, vers l’an 640 avant Jésus-Christ, d’une famille illustre. Pour profiter des lumières de ce qu’il y avoit alors de plus habiles gens, il fit plusieurs voyages, selon la coutume des anciens. Il s’arrêta long-temps en Égypte, où il étudia, sous les prêtres de Memphis, la géométrie, l’astronomie, et la philosophie. Il fonda une secte de philosophes, appelée la secte <hi rend="i">Ionique</hi>.</p>
               <p>Il recommandoit sans cesse à ses disciples de vivre dans une douce union.
                 <quote>« Ne vous haïssez point, leur disoit-il, parce que vous pensez différemment les uns des autres ; mais aimez-vous plutôt, parce qu’il est impossible que, dans cette variété de sentiments, il n’y ait quelque point fixe ou touts les hommes viennent se réunir. »</quote></p>
               <p>On attribue à
-                <author>Thalès</author>, plusieurs sentences dont les principales sont :</p>
+                <author key="Thalès">Thalès</author>, plusieurs sentences dont les principales sont :</p>
               <quote>
                 <p>I. Il ne faut rien dire à personne dont il puisse se servir pour nous nuire ; il faut vivre avec nos amis, comme s’ils pouvoient devenir nos ennemis.</p>
                 <p>II. Ce qu’il y a de plus ancien, c’est <hi rend="i">Dieu</hi>, car il est incréé ; de plus beau, le <hi rend="i">monde</hi>, parce qu’il est l’ouvrage de Dieu ; de plus grand, l’<hi rend="i">espace</hi>, car il contient tout ce qui a été créé ; de plus prompt, l’<hi rend="i">esprit</hi> ; de plus fort, la <hi rend="i">nécessité</hi> ; de plus sage, le <hi rend="i">temps</hi>, car il apprend à le devenir ; de plus constant, l’<hi rend="i">espérance</hi>, qui reste seule à l’homme, quand il a tout perdu ; de meilleur, la <hi rend="i">vertu</hi>, sans laquelle il n’y a rien de bon,</p>
@@ -4358,19 +4358,19 @@
                 <p>V. La félicité du corps consiste dans la <hi rend="i">santé</hi>, et celle de l’esprit dans le <hi rend="i">savoir</hi>.</p>
               </quote>
               <p>
-                <author>Thalès</author> mourut à quatre-vingt-dix ans, sans avoir été marié. Sa mère le pressa en vain de prendre une femme. Il lui répondit, lorsqu’il étoit encore jeune :
+                <author key="Thalès">Thalès</author> mourut à quatre-vingt-dix ans, sans avoir été marié. Sa mère le pressa en vain de prendre une femme. Il lui répondit, lorsqu’il étoit encore jeune :
                 <quote><hi rend="i">Il n’est pas encore temps</hi></quote> ; et lorsqu’il fut sur le retour :
                 <quote><hi rend="i">Il n’est plus temps.</hi></quote></p>
             </div>
             <div>
               <head>
-                <author>Chilon</author>
+                <author key="Chilon">Chilon</author>
                 <num>.</num>
               </head>
               <p>D. Que sait-on de
-                <author>Chilon</author> ?</p>
+                <author key="Chilon">Chilon</author> ?</p>
               <p><hi rend="i">R.</hi>
-                <author>Chilon</author> étoit éphore de Sparte, vers l’an 556 avant Jésus-Christ. Il mena une vie toujours conforme à ses préceptes : il pensoit avec une grande justesse. Il répondit à quelqu’un qui lui demandoit ce qu’il y avoit, de plus difficile : — 
+                <author key="Chilon">Chilon</author> étoit éphore de Sparte, vers l’an 556 avant Jésus-Christ. Il mena une vie toujours conforme à ses préceptes : il pensoit avec une grande justesse. Il répondit à quelqu’un qui lui demandoit ce qu’il y avoit, de plus difficile : — 
                 <quote><hi rend="i">Garder le secret, savoir employer le temps, et souffrir les injures sans murmurer</hi></quote>.</p>
               <p>Il avoit coutume de dire que,
                 <quote>« comme les pierres de touche servent à éprouver l’or, de même l’or répandu parmi les hommes, étoit la pierre de touche des gens de bien et des méchants. »</quote></p>
@@ -4381,46 +4381,46 @@
               <p>C’est lui qui fit graver en lettres d’or ces maximes au temple de Delphes :
                 <quote><hi rend="i">Connois-toi toi-même, et ne desire rien de trop avantageux.</hi></quote></p>
               <p>On dit que
-                <author>Chilon</author> mourut de joie, en embrassant soit fils qui avoit remporté le prix du ceste aux jeux olympiques.</p>
+                <author key="Chilon">Chilon</author> mourut de joie, en embrassant soit fils qui avoit remporté le prix du ceste aux jeux olympiques.</p>
             </div>
             <div>
               <head>
-                <author>Solon</author>
+                <author key="Solon">Solon</author>
                 <num>.</num>
               </head>
               <p>D. Que nous apprendrez-vous de
-                <author>Solon</author> ?</p>
+                <author key="Solon">Solon</author> ?</p>
               <p><hi rend="i">R.</hi>
-                <author>Solon</author> naquit à Athènes vers l’an 639 avant Jésus-Christ. Après avoir acquis les connoissances nécessaires à un philosophe et à un politique, il se mit à voyager dans toute la Grèce. De retour dans sa patrie, il la trouva déchirée par la guerre civile. Athènes tourna les yeux sur
-                <author>Solon</author>, et le nomma archonte et souverain législateur. Il publia alors ces lois que la postérité a toujours regardées comme le plus beau monument d’Athènes.</p>
+                <author key="Solon">Solon</author> naquit à Athènes vers l’an 639 avant Jésus-Christ. Après avoir acquis les connoissances nécessaires à un philosophe et à un politique, il se mit à voyager dans toute la Grèce. De retour dans sa patrie, il la trouva déchirée par la guerre civile. Athènes tourna les yeux sur
+                <author key="Solon">Solon</author>, et le nomma archonte et souverain législateur. Il publia alors ces lois que la postérité a toujours regardées comme le plus beau monument d’Athènes.</p>
               <p>Les gens de bien devroient avoir continuellement dans le cœur et sur les lèvres cette maxime de
-                <author>Solon</author> :
+                <author key="Solon">Solon</author> :
                 <quote><hi rend="i">Laissons-en partage au reste des mortels les richesses ; mais que les vertus soient le nôtre.</hi></quote></p>
               <p>
-                <author>Solon</author>, voyant un de ses amis plongé dans une mortelle tristesse, le mena sur la citadelle d’Athènes, et l’invita à promener ses yeux sur touts les bâtiments de la ville.
+                <author key="Solon">Solon</author>, voyant un de ses amis plongé dans une mortelle tristesse, le mena sur la citadelle d’Athènes, et l’invita à promener ses yeux sur touts les bâtiments de la ville.
                 <quote>« Figurez-vous maintenant, lui dit-il, si vous le pouvez, combien de deuils et de chagrins logèrent autrefois sous ces toits, combien il y en séjourne aujourd’hui, et combien dans la suite des siècles il y en doit habiter. Cessez donc de pleurer vos disgrâces, comme si elles vous étoient particulières, puisqu’elles vous sont communes avec touts les hommes »</quote></p>
             </div>
             <div>
               <head>
-                <author>Cléobule</author>
+                <author key="Cléobule">Cléobule</author>
                 <seg>.</seg>
               </head>
               <p>D. Quand vécut
-                <author>Cléobule</author> ?</p>
+                <author key="Cléobule">Cléobule</author> ?</p>
               <p><hi rend="i">R.</hi>
-                <author>Cléobule</author>, fils d’Evagoras, étoit contemporain et ami de
-                <author>Solon</author>. On ne le connoît guère que par ses maximes. Il recommandoit
+                <author key="Cléobule">Cléobule</author>, fils d’Evagoras, étoit contemporain et ami de
+                <author key="Solon">Solon</author>. On ne le connoît guère que par ses maximes. Il recommandoit
                 <quote>de ne point s’enorgueillir dans la prospérité ; de ne point s’abattre dans l’affliction ; d’obliger ses amis pour se rattacher davantage, et ses ennemis pour en faire des amis</quote>. Il dit aussi :
                 <quote><hi rend="i">Heureux le prince qui ne croit rien de ce que lui disent les courtisans</hi> !</quote></p>
               <p>Il mourut vers l’an 560 avant Jésus-Christ, dans sa soixante-dixième année.</p>
             </div>
             <div>
               <head>
-                <author>Pittacus</author>
+                <author key="Pittacos">Pittacus</author>
                 <num>.</num>
               </head>
               <p>D. Qu’est-ce que l’histoire nous raconte de
-                <author>Pittacus</author> ?</p>
+                <author key="Pittacos">Pittacus</author> ?</p>
               <p><hi rend="i">R.</hi> Il étoit de Mytilène, ville de l’île de Lesbos. Il chassa de sa patrie le tyran Méléagre. Ses concitoyens lui donnèrent la souveraineté de leur ville. Il les gouverna en philosophe et en père, leur donna des lois sages qu’il mit en vers, et se démit ensuite du souverain pouvoir.</p>
               <p>Ses maximes étoient celles-ci :</p>
               <quote>
@@ -4431,17 +4431,17 @@
                 <p>V. Tel vous serez envers votre père, tels seront envers vous vos enfants</p>
               </quote>
               <p>
-                <author>Pittacus</author> mourut l’an 579 avant Jésus-Christ, à soixante-dix ans.</p>
+                <author key="Pittacos">Pittacus</author> mourut l’an 579 avant Jésus-Christ, à soixante-dix ans.</p>
             </div>
             <div>
               <head>
-                <author>Bias</author>
+                <author key="Bias">Bias</author>
                 <num>.</num>
               </head>
               <p>D. Dans quelle ville
-                <author>Bias</author> étoit-il né ?</p>
+                <author key="Bias">Bias</author> étoit-il né ?</p>
               <p><hi rend="i">R.</hi>
-                <author>Bias</author> étoit né à Priène, ville de Carie. Il florissoit vers l’an 608 avant Jésus-Christ. Quelqu’un lui ayant demandé, ce qu’il y avoit de plus difficile à faire ? Il répondit que
+                <author key="Bias">Bias</author> étoit né à Priène, ville de Carie. Il florissoit vers l’an 608 avant Jésus-Christ. Quelqu’un lui ayant demandé, ce qu’il y avoit de plus difficile à faire ? Il répondit que
                 <quote><hi rend="i">c’étoit de supporter un revers de fortune</hi></quote>.</p>
               <quote>
                 <p>« L’espérance, disoit-il encore, est un pavot qui endort nos peines ; mais l’amour du gain les réveille. »</p>
@@ -4467,7 +4467,7 @@
         <p>D. Quelle est l’utilité de l’apologue ?</p>
         <p><hi rend="i">R.</hi> L’apologue a dû plaire, et a plu en effet en tout temps et en tout pays. L’amour propre est ménagé dans l’instruction, et l’esprit est exercé par l’allégorie. Les hommes n’aimant point les préceptes directs, on ne doit leur annoncer la vérité qu’avec précaution. La fable est donc une philosophie déguisée, qui ne badine que pour instruire, et qui instruit toujours d’autant mieux qu’elle amuse.</p>
         <p>
-          <author>Florian</author> nous a donné sur ce sujet une très-jolie fable que je vais rapporter ici :</p>
+          <author key="Florian">Florian</author> nous a donné sur ce sujet une très-jolie fable que je vais rapporter ici :</p>
         <quote>
           <label><title>La Fable et la Vérité</title>.</label>
           <l>                  La Vérité toute nue</l>
@@ -4506,33 +4506,33 @@
         </quote>
         <p>D. Quel doit être le style de la fable ?</p>
         <p><hi rend="i">R.</hi> Le style de la fable doit être simple, familier, riant, gracieux, naturel, et sur-tout naïf. C’est principalement par la naïveté du récit et du style, que
-          <author>La Fontaine</author> l’emporte tant sur les autres Fabulistes.
+          <author key="La Fontaine">La Fontaine</author> l’emporte tant sur les autres Fabulistes.
           <quote>« Non-seulement, dit </quote>
           <author>Marmontel</author>
           <quote>, </quote>
-          <author>La Fontaine</author>
+          <author key="La Fontaine">La Fontaine</author>
           <quote> a ouï dire ce qu’il raconte, mais il l’a vu, il croit le voir encore. Ce n’est pas un poëte qui imagine, ce n’est pas un conteur qui plaisante ; c’est un témoin présent à l’action, et qui veut vous y rendre présent vous-même : son érudition, son éloquence, sa philosophie, sa politique, tout ce qu’il a d’imagination, de mémoire, de sentiment, il met tout en œuvre de la meilleure foi du monde, pour vous persuader : et c’est cet air de bonne foi, c’est le sérieux avec lequel il mêle les plus grandes choses avec les plus petites, c’est l’importance qu’il attache à des jeux d’enfants, c’est l’intérêt qu’il prend pour un lapin et une belette, qui font qu’on est tenté de s’écrier à chaque instant : <hi rend="i">le bon homme</hi> ! »</quote></p>
         <p>D. Voulez-vous nous dire quels sont les plus célèbres Fabulistes ?</p>
         <p><hi rend="i">R.</hi> Les Fabulistes les plus célèbres sont, parmi les anciens,
           <author>Ésope</author>, esclave phrygien, qui passe pour l’inventeur des fables, et
           <author>Phèdre</author>, qui fut esclave aussi-bien qu’
           <author>Ésope</author> ; parmi les modernes,
-          <author>La Fontaine</author> tient le premier rang. On peut placer après lui, mais à une grande distance,
-          <author>La Motte</author>,
-          <author>Florian</author>,
-          <author>Le Monnier</author>,
-          <author>Dorat</author>, l’abbé
-          <author>Aubert</author> et quelques autres.</p>
+          <author key="La Fontaine">La Fontaine</author> tient le premier rang. On peut placer après lui, mais à une grande distance,
+          <author key="La Motte">La Motte</author>,
+          <author key="Florian">Florian</author>,
+          <author key="Le Monnier">Le Monnier</author>,
+          <author key="Dorat">Dorat</author>, l’abbé
+          <author key="Aubert">Aubert</author> et quelques autres.</p>
         <p>D. Les leçons de la fable peuvent-elles être pareillement utiles à la jeunesse ?</p>
         <p><hi rend="i">R.</hi> Oui ; les jeunes gens trouvent dans la fable des préceptes également propres à former l’esprit et le cœur.
-          <author>La Fontaine</author> nous dit :</p>
+          <author key="La Fontaine">La Fontaine</author> nous dit :</p>
         <quote>
           <l>Tout parle en mon ouvrage, et même les poissons.</l>
           <l>Ce qu’ils disent s’adresse à touts tant que nous sommes :</l>
           <l>Je me sers d’animaux pour instruire les hommes.</l>
         </quote>
         <p>Et
-          <author>La Motte</author> s’exprime ainsi :</p>
+          <author key="La Motte">La Motte</author> s’exprime ainsi :</p>
         <quote>
           <l>      Nous pouvons touts tant que nous sommes,</l>
           <l>Trouver ici de quoi corriger nos défauts,</l>
@@ -4540,7 +4540,7 @@
           <l>      En apprendre à devenir hommes.</l>
         </quote>
         <p>Ainsi, le paresseux peut lire ses devoirs dans la <title>fable de la Fourmi et de la Cigale</title> ; la nécessité du travail et le besoin d’acquérir des connoissances, se prouvent par l’apologue du différent survenu entre un savant et un ignorant. Écoutons
-          <author>La Fontaine</author> :</p>
+          <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
           <label><title>L’Avantage de la science</title>.</label>
           <l>        Entre deux bourgeois d’une ville</l>
@@ -4621,11 +4621,11 @@
           <l/>
           <l>En toute chose il faut considérer la fin.</l>
         <bibl>(
-          <author>La Fontaine</author>.)</bibl>
+          <author key="La Fontaine">La Fontaine</author>.)</bibl>
 </quote>
         <p>D. Le danger des mauvaises compagnies est donc bien à redouter pour la jeunesse ?</p>
         <p><hi rend="i">R.</hi> Oui.
-          <author>La Fontaine</author> nous dit encore à ce sujet :</p>
+          <author key="La Fontaine">La Fontaine</author> nous dit encore à ce sujet :</p>
         <quote>
           <l>Il faut faire aux méchants, guerre continuelle.</l>
         <bibl>(<title>Liv.</title> 3, <title>fab.</title> 12.)</bibl>
@@ -4634,7 +4634,7 @@
           <author>Raphaël</author> et de
           <author>Michel-Ange</author>, que les jeunes peintres s’enflamment et redoublent leurs efforts. De même, la jeunesse, en contemplant les modèles qu’une société choisie offrira sans cesse à ses yeux, sentira son cœur s’échauffer d’une douce émulation, et brûler du desir de les imiter.</p>
         <p>D. Dites-nous la fable dans laquelle
-          <author>Florian</author> nous enseigne très-ingénieusement le respect que nous devons à nos parents et à la vieillesse.</p>
+          <author key="Florian">Florian</author> nous enseigne très-ingénieusement le respect que nous devons à nos parents et à la vieillesse.</p>
         <p><hi rend="i">R.</hi> La voici.</p>
         <quote>
           <label><title>La Carpe et les Carpillons</title>.</label>
@@ -4752,7 +4752,7 @@
           <l>Le ciel n’a pas voulu qu’en ces heureux climats,</l>
           <l>Où m’attend, me dit-on, un destin plus prospère.</l>
         <bibl>(
-          <author>Delille</author>, <title>trad. de l’</title><title>Énéide</title>.)</bibl>
+          <author key="Delille">Delille</author>, <title>trad. de l’</title><title>Énéide</title>.)</bibl>
 </quote>
         <p>D. Quelles sont les obligations des jeunes gens envers les vieillards ?</p>
         <p><hi rend="i">R.</hi> Les jeunes gens doivent respecter et honorer les vieillards.</p>
@@ -4766,7 +4766,7 @@
           <author>Lacepède</author>, est un Dieu consolateur laissé au milieu de ses enfants pour y être une image vivante du Dieu qu’ils adorent, pour leur transmettre ses bénédictions, pour les aider par ses conseils, pour les soutenir par le secours de ses encouragements et de sa tendresse touchante, lorsqu’il reçoit de leur amour et de leur reconnoissance touts les secours que ses maux peuvent réclamer. Et quel est le cœur qui ne sera pas déchiré, si le v<hi rend="i">ieillard</hi> auguste et respectable est obligé de courber sa tête défaillante sons le poids de la misère ou sous celui de l’infortune ?</p>
         <p>Jeunes gens, faites l’aumône ; mais faites-la sur-tout aux vieillards.</p>
         <p>D. Récitez-nous le bel apologue de
-          <author>La Fontaine</author>, intitulé <title>le Vieillard et les trois Jeunes Hommes</title>.</p>
+          <author key="La Fontaine">La Fontaine</author>, intitulé <title>le Vieillard et les trois Jeunes Hommes</title>.</p>
         <p><hi rend="i">R.</hi> Le voici.</p>
         <quote>
           <l>           Un octogénaire plantoit.</l>
@@ -4817,7 +4817,7 @@
           <l>           Quelque chose qu’on puisse faire,</l>
           <l>           On ne sauroit le réformer.</l>
         <bibl>(
-          <author>La Fontaine</author>, <title>liv.</title> 2, <title>fab.</title> 16.)</bibl>
+          <author key="La Fontaine">La Fontaine</author>, <title>liv.</title> 2, <title>fab.</title> 16.)</bibl>
 </quote>
         <p>D. Les jeunes demoiselles ont-elles pareillement intérêt de s’appliquer à l’étude ; et l’instruction leur est-elle aussi nécessaire qu’aux garçons ?</p>
         <p><hi rend="i">R.</hi> L’instruction est le besoin de touts ; elle est nécessaire aux femmes comme aux hommes. L’éducation des personnes du sexe, dit l’
@@ -4857,7 +4857,7 @@
           <quote><hi rend="i">On doit le plus grand respect à un enfant</hi></quote>, a dit
           <author>un sage de l’antiquité</author>. Et cependant les parents confient leurs enfants à des domestiques corrompus et grossiers, qui leur communiquent bientôt touts leurs vices. Et cependant il se permettent à eux-mêmes devant leurs enfants des discours et des actions blâmables. Sur quoi, dit
           <author>Locke</author>, vous devez tenir pour une vérité constante, que quelques instructions que vous donniez à vos enfants, quelques maîtres que vous mettiez auprès d’eux, rien n’aura tant d’influence sur leurs actions, que les compagnies qu’ils fréquenteront, et les exemples que vous leur donnerez. Les enfants agissent par imitation, vous ne devez point faire devant eux ce que vous ne voulez point qu’ils fassent à votre exemple. C’est des parents mêmes, a dit le vertueux
-          <author>Rollin</author>, que vient le mal, par le mauvais exemple qu’ils donnent à leurs enfants. Ceux-ci voient touts les jours et entendent des choses qu’ils devroient ignorer toute leur vie. Tout cela passe en habitude, et bientôt après en nature ; et les pauvres enfants se trouvent vicieux avant que de savoir ce que c’est que le vice.</p>
+          <author key="Rollin">Rollin</author>, que vient le mal, par le mauvais exemple qu’ils donnent à leurs enfants. Ceux-ci voient touts les jours et entendent des choses qu’ils devroient ignorer toute leur vie. Tout cela passe en habitude, et bientôt après en nature ; et les pauvres enfants se trouvent vicieux avant que de savoir ce que c’est que le vice.</p>
         <p/>
         <p>Il faut donc éloigner de bonne heure les jeunes personnes d’un monde trop libre, dont le langage et la conduite ne peuvent que porter les plus fâcheuses atteintes à leur innocence<note place="bottom">Disons-le hautement. On ne remédie point à ce terrible inconvénient en mettant ses filles en pension, si on les fait ensuite venir chez soi toutes les semaines. L’innocence des mœurs et les progrès de l’instruction souffrent singulièrement de ce grand abus. Les sages institutrices en gémissent chaque jour, sans avoir les moyens de le réprimer, Les fréquentes sorties font perdre à leurs élèves tout le fruit de leurs soins. Mais comment faire entendre raison là-dessus aux trop foibles parents !</note>. C’est après avoir été formées à la vertu pendant plusieurs années dans les maisons d’éducation ; c’est après avoir été instruites des préceptes de la religion, et avoir contracté l’heureuse habitude d’en remplir les devoirs, qu’elles pourront reparoître dans la société avec moins de danger ; qu’elles se feront au contraire admirer, respecter par leur décence et leur sagesse.</p>
         <p>Enfin, l’éducation des pensions est plus favorable aux progrès de l’instruction. L’émulation est la mère des talents. Elle féconde le génie, et porte l’ame aux plus généreux efforts. Sans émulation, point d’études, point d’instruction. Or, l’émulation ne peut exister que dans les maisons d’éducation. Ce n’est que là qu’on peut attendre des enfants un travail constamment soutenu. Là seulement, la crainte des reproches, le desir des louanges, l’exemple der compagnes studieuses, les récompenses accordées au travail et au succès entretiennent l’ardeur des élèves.</p>
@@ -4865,7 +4865,7 @@
         <p>L’éducation des pensions doit donc être préférée pour les demoiselles à l’éducation particulière.</p>
         <p>D. Quelles sont les études auxquelles les jeunes personnes doivent particulièrement appliquer ?</p>
         <p><hi rend="i">R.</hi> Cette question n’est ni moins délicate, ni moins importante que la question précédente. Nous n’oserions point la résoudre d’après notre propre sentiment. Mais l’immortel
-          <author>Fénelon</author> a fait un <title>traité de l’éducation des filles</title>. Nous ne craindrons point de nous égarer en prenant pour guide le sage auteur de <title>Télémaque</title>. C’est donc sur cette grande autorité que sera fondée notre réponse.</p>
+          <author key="Fénelon">Fénelon</author> a fait un <title>traité de l’éducation des filles</title>. Nous ne craindrons point de nous égarer en prenant pour guide le sage auteur de <title>Télémaque</title>. C’est donc sur cette grande autorité que sera fondée notre réponse.</p>
         <quote>
           <p>« Apprenez à une fille à lire, à écrire correctement. Il est honteux, mais ordinaire, de voir des femmes qui ont de l’esprit et de la politesse, ne savoir pas bien prononcer ce qu’elles lisent ; ou elles hésitent, ou elles chantent en lisant, au lieu qu’il faut prononcer d’un ton simple et naturel, mais ferme et uni : elles manquent encore plus grossièrement pour l’orthographe, ou pour la manière de former ou de lier des lettres en écrivant. Au moins accoutumez-les à faire leurs lignes droites, à rendre leur caractère net et lisible. »</p>
         </quote>
@@ -4883,7 +4883,7 @@
           <p>« Donnez-leur des histoires grecques et romaines ; elles y verront des prodiges de courage et de désintéressement ; ne leur laissez pas ignorer l’histoire de France, qui a aussi ses beautés ; mêlez celle des pays voisins, et les relations des pays éloignés, judicieusement écrites. Tout cela sert à agrandir l’esprit, et à élever l’ame à de grands sentiments, pourvu qu’on évite la vanité et l’affectation. »</p>
         </quote>
         <p>La mémoire est la faculté qu’il faut cultiver la première dans les enfants. C’est pourquoi
-          <author>Fénelon</author> conseille de leur faire apprendre d’abord des fables, puis des histoires choisies. Il recommande sur-tout de leur faire apprendre les histoires saintes, et de leur en inspirer de bonne heure le goût. Il indique le <title>Catéchisme historique</title>, comme le meilleur livre sur cette matière. Plusieurs beaux traits de l’<title>Écriture-Sainte</title> ont été mis en vers, tels que l’histoire de <hi rend="i">Ruth</hi>, celle de <hi rend="i">Tobie</hi>, le sacrifice d’<hi rend="i">Abraham</hi>, etc. Les enfants retiendront plus aisément ces vers.
+          <author key="Fénelon">Fénelon</author> conseille de leur faire apprendre d’abord des fables, puis des histoires choisies. Il recommande sur-tout de leur faire apprendre les histoires saintes, et de leur en inspirer de bonne heure le goût. Il indique le <title>Catéchisme historique</title>, comme le meilleur livre sur cette matière. Plusieurs beaux traits de l’<title>Écriture-Sainte</title> ont été mis en vers, tels que l’histoire de <hi rend="i">Ruth</hi>, celle de <hi rend="i">Tobie</hi>, le sacrifice d’<hi rend="i">Abraham</hi>, etc. Les enfants retiendront plus aisément ces vers.
           <quote>« Les vers sont excellents, dit l’auteur de l’</quote><title>École des mœurs</title>
           <quote>, pour commencer à exercer la mémoire ; ils ont sur la prose l’avantage d’entrer plus facilement dans le dépôt de nos connoissances. Leur cadence et leur harmonie triomphent de la mémoire la plus dure et la plus obstinée. »</quote> On pourra donner aussi aux jeunes personnes d’autres morceaux de poésie à apprendre, pourvu que le choix en soit bien fait<note place="bottom">Nous ne saurions trop recommander le poème de la <title>Religion</title>, par <name type="author">Louis <hi rend="i">Racine</hi></name>. Nous en faisons toujours apprendre une bonne partie à nos élèves.</note>.</p>
         <p>Lorsqu’une demoiselle saura bien l’histoire sainte, que nous mettons au premier rang, parce qu’elle sert de base à notre religion, on devra lui donner successivement l’histoire <hi rend="i">grecque</hi>, l’histoire <hi rend="i">romaine</hi>, celle de <hi rend="i">France</hi>, et les autres histoires. Nous pensons que pour bien enseigner l’histoire d’un peuple, le professeur doit mettre entre les mains de ses élèves un livre élémentaire qui contienne les grandes divisions de cette histoire et les faits principaux. Il doit ensuite donner plus d’étendue au récit des événements, soit de mémoire, soit par la lecture, et exiger que les élèves fassent des extraits de ce qu’il aura lu ou raconté. Par là, les faits se gravent mieux dans la mémoire des jeunes personnes, et les rédactions qu’elles en font, les accoutument à mettre de l’ordre dans leurs idées et à écrire en leur langue avec facilité. Il n’est pas moins utile, lorsqu’on a lu un événement à un enfant, ou même lorsqu’il en a écrit l’extrait, d’exiger qu’il le raconte tout haut. On lui fait alors remarquer doucement la meilleure manière de faire une narration, qui est de la rendre courte., simple et naïve, par le choix des circonstances qui représentent mieux le naturel de chaque chose. On doit, en étudiant l’histoire, étudier la géographie et la chronologie, qui sont les <hi rend="i">deux yeux de l’histoire</hi>.</p>
@@ -4891,7 +4891,7 @@
           <p>« Je leur permettrois aussi, mais avec un grand choix, la lecture des ouvrages d’éloquence et de poésie. »</p>
         </quote>
         <p>Les femmes doivent connoître les éléments de la littérature françoise. Il faut qu’elles puissent lire avec goût nos bons auteurs. Cette lecture peut même, dit encore
-          <author>Fénelon</author>, exciter dans leur ame des sentiments vifs et sublimes pour la vertu.</p>
+          <author key="Fénelon">Fénelon</author>, exciter dans leur ame des sentiments vifs et sublimes pour la vertu.</p>
         <p>D. Vous ne nous avez point parlé des arts d’agrément. Dites-nous si les demoiselles doivent aussi s’y appliquer, et quels sont ceux qu’elles doivent cultiver de préférence.</p>
         <p><hi rend="i">R.</hi> On ne doit point interdire aux jeunes personnes les arts d’agrément. Mais il faut qu’elles ne s’y appliquent qu’avec précaution et réserve. La <hi rend="i">danse</hi> sert à développer leurs grâces ; cependant des parents sages ne permettront point que leur fille porte trop loin ses prétentions dans cet art. La <hi rend="i">musique</hi> est une ressource pour toute la vie. Celui qui n’a point appris la musique, ne sauroit en sentir toute la beauté. C’est le plus honnête et le plus pur de touts les plaisirs : il est de touts les âges, de touts les états, de touts les lieux, de presque touts les goûts. Une demoiselle doit donc apprendre la musique. Mais les parents ont encore besoin de mettre de sages bornes à cette étude. Combien d’années perdues sur des instruments dont on ne fait plus aucun usage deux mois après le mariage ! Ne vaudroit-il pas mieux, cultiver davantage la <hi rend="i">voix</hi>, qui est l’instrument que nous tenons de la nature ? Qu’une jeune personne sache ensuite jouer du <hi rend="i">piano</hi> assez bien pour s’accompagner lorsqu’elle chante, c’est tout ce que l’on peut desirer<note place="bottom">Je n’entends point parler ici des demoiselles qui, par le rang et la fortune de leurs parents, sont destinées à paroître avec éclat dans la société.</note>. Voulez-vous aller au-delà, prétendez-vous la faire briller dans les sociétés, vous n’y parviendrez qu’en lui faisant perdre beaucoup de temps ; et peut-être même cet avantage lui fera-t-il perdre et sa modestie et l’innocence de ses mœurs.</p>
         <p>Le <hi rend="i">dessin</hi> est très-utile : il apprend à bien juger d’un tableau, à crayonner une tête, une fleur, un arbuste. Mais on occupe trop les jeunes personnes à dessiner la figure. Il conviendroit mieux de les appliquer davantage à dessiner les fleurs, le paysage. Ce genre est plus conforme à celui de leurs occupations et de leurs goûts. Leurs progrès par conséquent y seroient plus grands.</p>
@@ -4899,7 +4899,7 @@
         <p>Nous ne parlons point de l’étude des <hi rend="i">langues étrangères</hi>. Quelques parents donnent à leurs filles des maîtres de langue angloise, de langue allemande, de langue italienne, etc. Si les jeunes personnes doivent avoir besoin un jour de la connoissance de ces langues, les parents ont raison de les leur faire apprendre. Dans le cas contraire, c’est une véritable perte de temps. Les enfants réussissent rarement à apprendre l’anglois, l’allemand ; et jamais ils ne parviennent à bien parler ces langues. L’italien est plus aisé à apprendre, peut-être plus agréable pour les demoiselles. Mais, disons-le franchement : avant que d’apprendre une langue étrangère, il faut d’abord bien connoître la langue nationale.</p>
         <p>D. Ne suffit-il pas à une jeune personne d’être belle ? La beauté ne peut-elle point lui tenir lieu d’instruction et de talents ?</p>
         <p><hi rend="i">R.</hi> Non ; et le bon
-          <author>La Fontaine</author> nous avertît de ne point nous laisser prendre aux apparences. Un renard voyant une belle tête :</p>
+          <author key="La Fontaine">La Fontaine</author> nous avertît de ne point nous laisser prendre aux apparences. Un renard voyant une belle tête :</p>
         <quote>
           <l>Belle tête, dit-il, mais de cervelle point !</l>
           <p>« La beauté, dit
@@ -4921,12 +4921,12 @@
         <p>La beauté est donc un trésor fragile, qui ne dispense point les jeunes personnes de faire provision de mérite. Les talents et les vertus ne vieillissent point.</p>
         <p>D. La fortune ne dispense-t-elle pas une jeune demoiselle d’acquérir du mérite ?</p>
         <p><hi rend="i">R.</hi> Non.
-          <author>Voltaire</author> dit :</p>
+          <author key="Voltaire">Voltaire</author> dit :</p>
         <quote>
           <l>Être riche n’est rien ; le tout est d’être heureux.</l>
         </quote>
         <p>Or, l’homme qui n’a que de la richesse, sans esprit, sans talents, ne peut être heureux. Il s’ennuie par-tout et ne sauroit trouver nulle part de vraies jouissances. Écoutons M. 
-          <author>Delille</author>.</p>
+          <author key="Delille">Delille</author>.</p>
         <quote>
           <l>Ce riche, qui d’avance usant touts ses plaisirs,</l>
           <l>Ainsi que son argent tourmente ses desirs,</l>
@@ -4952,7 +4952,7 @@
         <p>On peut tomber de l’opulence dans la détresse. Rappelons-nous l’<title>apologue du différent survenu entre le savant et l’ignorant</title>. Et combien de tristes exemples les derniers temps ne nous ont-ils point fournis de l’inconstance de la fortune ! Combien de personnes se sont trouvées dans la nécessité de tirer parti des connoissances et des talents qu’elles devoient au travail de leur jeunesse ! Et combien celles qui n’avoient aucune ressource en elles-mêmes ont dû être malheureuses ! Il importe donc de faire dans la jeunesse des provisions qui nous aident à supporter les revers que la fortune peut nous avoir destinés.</p>
         <p>D. Comment les jeunes personnes doivent elles se prémunir contre les louanges et la flatterie ?</p>
         <p><hi rend="i">R.</hi> Les jeunes personnes doivent penser sans cesse qu’elles sont environnées de piéges ; qu’on cherche à les tromper par des soins intéressés, de fausses louanges, une flatterie perfide. Leur amour propre est presque toujours d’intelligence avec le flatteur. Elles ne sauroient donc prendre trop de précautions pour ne pas devenir les victimes de la flatterie. Tout le monde connoît le charmant apologue de
-          <author>La Fontaine</author></p>
+          <author key="La Fontaine">La Fontaine</author></p>
         <quote>
           <label><title>Le Corbeau et le Renard</title>.</label>
           <l>   Maître Corbeau, sur un arbre perché,</l>
@@ -4990,7 +4990,7 @@
         </quote>
         <p>Cet apologue nous fait voir que la <hi rend="i">modestie</hi> est la compagne inséparable des autres vertus.</p>
         <p>D. Dans quel apologue
-          <author>La Fontaine</author> a-t-il montré aux femmes la nécessité de la discrétion ?</p>
+          <author key="La Fontaine">La Fontaine</author> a-t-il montré aux femmes la nécessité de la discrétion ?</p>
         <p><hi rend="i">R.</hi> C’est dans la fable intitulée : <title>Les Femmes et le Secret</title>. Voici le début :</p>
         <quote>
           <l>         Rien ne pèse tant qu’un secret :</l>
@@ -5016,9 +5016,9 @@
         </quote>
         <p>Les jeunes personnes doivent prendre de bonne heure l’habitude d’être scrupuleusement exactes à garder un secret confié. Cette exactitude doit être portée jusque dans les petites choses.</p>
         <p>D. Quelle horreur
-          <author>La Fontaine</author> cherche-t-il à inspirer de la fourberie ?</p>
+          <author key="La Fontaine">La Fontaine</author> cherche-t-il à inspirer de la fourberie ?</p>
         <p><hi rend="i">R.</hi>
-          <author>La Fontaine</author> s’exprime ainsi dans la <title>fable de l’Aigle, la Laie et la Chatte</title>.</p>
+          <author key="La Fontaine">La Fontaine</author> s’exprime ainsi dans la <title>fable de l’Aigle, la Laie et la Chatte</title>.</p>
         <quote>
           <l>Que ne sait point ourdir une langue traîtresse,</l>
           <l>            Par sa pernicieuse adresse ?</l>
@@ -5053,7 +5053,7 @@
           <l>            Qu’un bon ami qui m’égratigne.</l>
         </quote>
         <p>Celui qui s’est fait connoître une fois par quelque fourberie, mérite qu’on ne le croie pas, même quand il dit la vérité. La fourberie est souvent fatale à l’homme qui l’emploie.
-          <author>La Fontaine</author> a dit :</p>
+          <author key="La Fontaine">La Fontaine</author> a dit :</p>
         <quote>
           <l>La ruse la mieux ourdie</l>
           <l>Peut nuire à son inventeur ;</l>
@@ -5109,7 +5109,7 @@
         </quote>
         <p>D. Quelle idée les jeunes personnes doivent-elles se faire du mensonge ?</p>
         <p><hi rend="i">R.</hi> Elles doivent regarder le mensonge comme le plus bas et le plus honteux de touts les vices. La candeur est au contraire le plus bel ornement de l’ame. Voici un apologue de
-          <author>La Fontaine</author> à ce sujet.</p>
+          <author key="La Fontaine">La Fontaine</author> à ce sujet.</p>
         <quote>
           <label><title>Le Bûcheron et Mercure</title>.</label>
           <l>Un Bûcheron perdit son gagne-pain,</l>
@@ -5168,7 +5168,7 @@
           <author>Molière</author>, <title>Le Misanthrope</title>.)</bibl>
 </quote>
         <p>Rapportons ici la fable suivante de
-          <author>La Fontaine</author> :</p>
+          <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
           <label><title>La Besace</title>.</label>
           <l>Jupiter dit un jour : Que tout ce qui respire</l>
@@ -5213,7 +5213,7 @@
           <author>Lacepède</author> s’adresse en cette sorte à l’amitié :
           <quote>« Passion sublime, sentiment des grandes ames, bonheur du monde, devant lequel touts les maux disparoissent ou s’affoiblissent, et touts les biens s’embellissent et s’accroissent : ô divine <hi rend="i">amitié</hi> ! ton nom seul me rappelle touts les charmes de ma vie. Passion héroïque, dont le feu toujours pur est allumé par le sentiment et animé par l’intelligence ; vertu consolatrice, que le souverain Être a accordée à l’homme pour le dédommager des suites funestes d’une raison égarée ; sentiment bienfaisant, sans lequel il ne peut exister aucun bien pour nous ; c’est toi que nous avons maintenant à peindre. »</quote></p>
         <p>L’amitié sème de fleurs les routes de la vie ; elle embellit la prospérité, fournît des ressources dans le besoin, et des consolations dans le malheur. La véritable amitié est sincère, indulgente, généreuse.
-          <author>La Fontaine</author> nous fournit un beau modèle d’une parfaite amitié dans l’<title>apologue des deux Amis</title>.</p>
+          <author key="La Fontaine">La Fontaine</author> nous fournit un beau modèle d’une parfaite amitié dans l’<title>apologue des deux Amis</title>.</p>
         <quote>
           <l>Deux vrais amis vivoient au Monomotapa :</l>
           <l>L’un ne possédoit rien qui n’appartint à l’autre.</l>
@@ -5240,7 +5240,7 @@
           <author>Piron</author>.)</bibl>
 </quote>
         <p>Écoutons cet apologue de
-          <author>Boursault</author>.</p>
+          <author key="Boursault">Boursault</author>.</p>
         <quote>
           <label><title>La Colombe et la Fourmi</title>.</label>
           <l>           La Colombe, qui s’égayoit</l>
@@ -5270,7 +5270,7 @@
           <l>           Qu’un bienfait n’est jamais perdu.</l>
         </quote>
         <p>
-          <author>La Fontaine</author> a aussi traité ce sujet. Sa <title>fable du Lion et du Rat</title>, a encore le même but. Peu de gens sont reconnoissances.
+          <author key="La Fontaine">La Fontaine</author> a aussi traité ce sujet. Sa <title>fable du Lion et du Rat</title>, a encore le même but. Peu de gens sont reconnoissances.
           <author>Madame Deshoulières</author> dit :</p>
         <quote>
           <l>Que chacun parle bien de la reconnoissance !</l>
@@ -5289,13 +5289,13 @@
           <author>madame de Lambert</author>
           <quote>, ne doivent pas abandonner l’approbation publique, parce que du mépris de la réputation naît le mépris de la vertu.</quote> Il ne suffit donc pas à une femme de remplir ses devoirs ; il faut encore qu’on ne puisse pas même la soupçonner de s’en écarter. César répudia sa femme à cause de quelques bruits qui s’étoient répandus contre son honneur, parce que, disoit-il, <hi rend="i">la femme de César ne doit pas être soupçonnée</hi>.
           <quote>L’honneur, dit </quote>
-          <author>Bossuet</author>
+          <author key="Bossuet">Bossuet</author>
           <quote>, ressemble à l’œil, qui ne sauroit souffrir la moindre impureté sans s’altérer : c’est une pierre précieuse, dont le moindre défaut diminue beaucoup le prix.</quote></p>
         <quote>
           <l>L’honneur est comme une île escarpée et sans bords ;</l>
           <l>On n’y peut plus rentrer quand on en est dehors.</l>
         <bibl>(
-          <author>Boileau</author>.)</bibl>
+          <author key="Boileau">Boileau</author>.)</bibl>
 </quote>
         <p>La réputation, bonne ou mauvaise, dépend sur-tout du choix des personnes que l’on fréquente. On ne sauroit être trop circonspect dans ses liaisons.</p>
         <quote>
@@ -5304,7 +5304,7 @@
           <l>Elle eut le lendemain le parfum de l’œillet</l>
           <l>On ne peut que gagner en bonne compagnie.</l>
         <bibl>(
-          <author>Bérenger</author>.)</bibl>
+          <author key="Bérenger">Bérenger</author>.)</bibl>
 </quote>
         <p>D. Suffit-il à une femme, pour être estimable, de s’assujettir extérieurement aux bienséances, et d’échapper à la censure du monde ?</p>
         <p><hi rend="i">R.</hi> Non. Ce sont les sentiments qui forment le caractère, qui conduisent l’esprit, qui gouvernent la volonté, qui répondent de la réalité et de la durée de toutes les vertus des femmes.
@@ -5395,7 +5395,7 @@
         <quote>
           <l>Les orgueilleux ne prospèrent jamais.</l>
         <bibl>(
-          <author>Voltaire</author>, <title>Nanine</title>.)</bibl>
+          <author key="Voltaire">Voltaire</author>, <title>Nanine</title>.)</bibl>
 </quote>
         <p>D. Que nous direz-vous de la présomption ?</p>
         <p><hi rend="i">R.</hi> La <hi rend="i">présomption</hi> est fille de l’orgueil ; d’autres la disent fille de l’ignorance. Elle fait que nous nous flattons d’un vain espoir. Le <hi rend="i">présomptueux</hi> porte son espérance audacieuse jusqu’à la chimère. Hardi à entreprendre, il s’imagine pouvoir venir à bout de tout.</p>
@@ -5409,12 +5409,12 @@
           <l>Qu’attendre est, pour juger, la règle la meilleure,</l>
           <l>Et que l’arrêt public est le seul qui demeure.</l>
         <bibl>(
-          <author>Gresset</author>, <title>le Méchant</title>.)</bibl>
+          <author key="Gresset">Gresset</author>, <title>le Méchant</title>.)</bibl>
 </quote>
         <p>D. La vanité n’est-elle pas encore une fille de l’orgueil ?</p>
         <p><hi rend="i">R.</hi> Oui. La <hi rend="i">vanité</hi> est une seconde fille de l’orgueil. C’est l’amour propre qui se montre. Les passions les plus violentes-nous laissent quelquefois du relâche ; mais la <hi rend="i">vanité</hi> nous agite toujours.</p>
         <p>Écoutons
-          <author>La Fontaine</author> :</p>
+          <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
           <label><title>La Grenouille qui se veut faire aussi grosse que le bœuf</title>. <lb/>fable.</label>
           <l>           Une Grenouille vit un Bœuf</l>
@@ -5496,11 +5496,11 @@
           <l>                Régnez sur vos propres desirs ?</l>
           <l>                C’est le plus beau des diadèmes.</l>
         <bibl>(
-          <author>La Fontaine</author>, <title>Daphné</title>.)</bibl>
+          <author key="La Fontaine">La Fontaine</author>, <title>Daphné</title>.)</bibl>
 </quote>
         <p>D. En quoi l’avarice diffère-t-elle de l’ambition ?</p>
         <p><hi rend="i">R.</hi> L’<hi rend="i">avarice</hi> et l’ambition a différent en ce que l’une est agitée par l’espérance, et l’autre par la crainte. L’ambitieux espère de proche en proche parvenir à tout ; l’<hi rend="i">avare</hi> craint de tout perdre : ni l’un ni l’autre ne savent jouir.
-          <author>La Fontaine</author> nous a laissé sur la passion de l’avarice deux fables. Voici la première :</p>
+          <author key="La Fontaine">La Fontaine</author> nous a laissé sur la passion de l’avarice deux fables. Voici la première :</p>
         <quote>
           <label><title>Le Trésor et les deux hommes</title>.</label>
           <l>Un homme n’ayant plus ni crédit ni ressource,</l>
@@ -5594,7 +5594,7 @@
         <bibl>(<title>Liv.</title> 1, <title>fab.</title> 19.)</bibl>
 </quote>
         <p>Souvent l’avare, pour vouloir trop avoir, perd même ce qu’il a. C’est ce que nous prouve
-          <author>La Fontaine</author> dans l’apologue suivant :</p>
+          <author key="La Fontaine">La Fontaine</author> dans l’apologue suivant :</p>
         <quote>
           <label><title>La Poule aux œufs d’or</title>.</label>
           <l>L’avarice perd tout en voulant tout gagner.</l>
@@ -5623,7 +5623,7 @@
           <l>           Fait le bonheur du lendemain.</l>
         </quote>
         <p>
-          <author>La Fontaine</author> a dit :</p>
+          <author key="La Fontaine">La Fontaine</author> a dit :</p>
         <quote>
           <l>           Le soin de soulager les maux</l>
           <l>Est une <hi rend="i">charité</hi> que je préfère aux autres.</l>
@@ -5655,7 +5655,7 @@
         <p>On aime une personne douce, on la recherche, tout le monde seroit charmé de vivre avec elle. On évite, au contraire, celle qui a le caractère dur, violent, impérieux ou inflexible. La colère est peut-être de toutes les passions violentes, celle qui nuit le plus au corps même ; rien n’altère plus la santé que les emportements : ils corrompent le sang, bouleversent les humeurs, changent totalement la constitution, et conduisent précipitamment au tombeau. Les personnes sujettes à la colère, ne l’appellent que vivacité ; mais qu’importe quel nom on lui donne, si cette vivacité dégénère presque toujours en brusqueries et en boutades, et si elle porte à des excès de folie ou de fureur ?</p>
         <p>Les femmes qui sont nées vives et colères doivent s’appliquer encore plus que les hommes à corriger ce défaut. La nature leur a donné là douceur en partage : on diroit qu’une femme qui s’irrite, change de sexe. La colère ne fait pas seulement qu’elles deviennent odieuses et insupportables, elle les dénature et les rend hideuses. Si les femmes savoient combien les emportements défigurent les personnes les plus aimables, elles s’en garantiroient pour toujours.</p>
         <p>
-          <author>La Fontaine</author> nous recommande la douceur dans l’apologue ingénieux qui suit :</p>
+          <author key="La Fontaine">La Fontaine</author> nous recommande la douceur dans l’apologue ingénieux qui suit :</p>
         <quote>
           <label><title>Phébus et Borée</title>. <lb/>Fable.</label>
           <l>Borée et le Soleil virent un voyageur,</l>
@@ -5706,7 +5706,7 @@
           <author>Mademoiselle de Scudéri</author> a dit :
           <quote>la vie est si courte que ce n’est pas la peine de <hi rend="i">s’impatienter</hi></quote>.</p>
         <p>Voici un bel apologue de
-          <author>La Motte</author>.</p>
+          <author key="La Motte">La Motte</author>.</p>
         <quote>
           <l>Un Pêcher, les amours et l’espoir de son maître,</l>
           <l>           Du jardin l’arbre favori,</l>
@@ -5766,7 +5766,7 @@
         <p>D. Faites-nous connoître la nécessité de réprimer de bonne heure le penchant à la raillerie.</p>
         <p><hi rend="i">R.</hi> Il faut éviter la <hi rend="i">raillerie</hi> ; elle blesse souvent celui qui en est l’objet. Un railleur de profession est le fléau de la société ; tout le monde le redoute et le fuit. Ne sacrifiez personne à la fureur de dire un bon mot. Semblable à une flèche aiguë, ce mot perce le cœur de celui contre lequel il est lancé.</p>
         <p>Une raillerie fine et délicate est l’ame de la conversation, et en fait tout le sel ; mais combien peu de gens la savent manier, et qu’il est difficile de ne la pas pousser trop loin ! Voulez-vous une règle sûre à cet égard ? La voici. Dès que vous voyez que la plaisanterie déplaît à celui que vous attaquez, et qu’il commence à se fâcher, vous devez cesser sur le champ votre badinage. Souvenez-vous d’ailleurs de ne jamais hasarder la plaisanterie, même la plus permise, qu’avec des gens polis et qui ont de l’esprit. Les provinciaux et les sots sont toujours prêts à se fâcher, quand on les raille.
-          <author>La Fontaine</author> a dit :</p>
+          <author key="La Fontaine">La Fontaine</author> a dit :</p>
         <quote>
           <l>On cherche les rieurs, et moi je les évite ;</l>
           <l>Cet art veut sur tout autre un suprême mérite :</l>
@@ -5807,7 +5807,7 @@
         <bibl>(<title>Liv. 5, fab.</title> 17.)</bibl>
 </quote>
         <p>L’<hi rend="i">ironie</hi> est la manière de railler la plus piquante. Le style ironique marque ordinairement l’estime de soi-même et le mépris des autres.
-          <author>Gresset</author> a dépeint <title>son méchant</title> comme un homme qui ne parle que le langage de l’ironie.</p>
+          <author key="Gresset">Gresset</author> a dépeint <title>son méchant</title> comme un homme qui ne parle que le langage de l’ironie.</p>
         <quote>
           <l>……………… Au ton dont il s’explique,</l>
           <l>A son air, où l’on voit, dans un rire <hi rend="i">ironique</hi>,</l>
@@ -5844,7 +5844,7 @@
         <p>D. Quels sont les avantages que l’on retire de la lecture ?</p>
         <p><hi rend="i">R.</hi> La lecture est d’une nécessité indispensable : elle enrichit la mémoire, embellit l’imagination, rectifie le jugement, forme le goût, apprend à penser, élève l’ame, et inspire de nobles sentiments. Les livres nous offrent les richesses les plus précieuses de l’esprit humain, et les découvertes de touts les siècles. Ils sont une source d’agrément dans touts les états, dans toutes les situations de la vie : ils procurent mille plaisirs-dans touts les âges : ces plaisirs se renouvellent sans cesse, nous les trouvons par-tout, nous pouvons à touts les instants nous les procurer.</p>
         <p>Mais il importe extrêmement de faire un bon choix des livres qu’on veut lire. Il ne faut pas seulement écarter les livres qui attaquent la religion, ou qui blessent ouvertement les mœurs. Il faut encore rejeter les livres qui n’apprennent rien, les livres qui amollissent l’ame et l’énervent.
-          <author>Rousseau</author> dit que
+          <author key="J.-B. Rousseau">Rousseau</author> dit que
           <quote><hi rend="i">jamais fille chaste n’a lu de romans</hi></quote>. En effet, ces livres font perdre un temps précieux pour l’instruction ; ils ne présentent que des pensées fausses, des maximes qu’il seroit dangereux de suivre dans la pratique, et des exemples qu’on se repentiroit toute sa vie d’avoir imités. Les romans flattent les passions, gâtent le jugement, embellissent les préjugés, peignent le vice sous des couleurs agréables qui le déguisent, effacent par le brillant coloris des fausses vertus l’éclat des vertus réelles, et mettent un honneur chimérique à la place du véritable honneur.</p>
         <p>D. Ne faut-il pas inspirer à la jeunesse le goût du travail en même temps que celui de la lecture ?</p>
         <p><hi rend="i">R.</hi> Oui. L’homme est né pour le travail Le travail est le noble soutien de notre indépendance ; c’est le seul bien que l’injustice des hommes et l’inconstance de la fortune ne sauroient nous ravir. Il nous délivre du malheur de l’oisiveté, et nous fait goûter les douceurs du repos.</p>
@@ -5855,7 +5855,7 @@
           <author>Panard</author>.)</bibl>
 </quote>
         <p>Écoutons cet apologue de
-          <author>La Fontaine</author>.</p>
+          <author key="La Fontaine">La Fontaine</author>.</p>
         <quote>
           <label><title>Le Laboureur et ses enfants</title>. <lb/>Fable.</label>
           <l>       Travaillez, prenez de la peine,</l>
@@ -5880,18 +5880,18 @@
         <bibl>(<title>Liv.</title> 5, <title>fab.</title> 9.)</bibl>
 </quote>
         <p>D. Je vois que l’apologue nous fournit un cours de morale aussi complet qu’agréable. Voulez-vous terminer cet exercice, en nous récitant les vers de M. 
-          <author>Delille</author> sur l’apologue ?</p>
+          <author key="Delille">Delille</author> sur l’apologue ?</p>
         <p><hi rend="i">R.</hi> Volontiers ; les voici :</p>
         <quote>
           <l>Après les grands travaux de l’art brillant des vers,</l>
           <l>Des genres plus bornés savent encor nous plaire.</l>
           <l>Du Parnasse françois législateur sévère,</l>
           <l>
-            <author>Boileau</author> les peignit touts ; épigramme, sonnet,</l>
+            <author key="Boileau">Boileau</author> les peignit touts ; épigramme, sonnet,</l>
           <l>Madrigal, vaudeville, et jusqu’au triolet.</l>
           <l>Sa muse cependant, je l’avoue avec peine,</l>
           <l>Oublia l’<hi rend="i">Apologue</hi>, oublia
-            <author>La Fontaine</author>.</l>
+            <author key="La Fontaine">La Fontaine</author>.</l>
           <l>Ma muse, en le blâmant, contrainte à l’admirer,</l>
           <l>Peut venger son oubli, mais non le réparer.</l>
           <l>L’Imagination, dans cet auteur qu’elle aime,</l>
@@ -5911,7 +5911,7 @@
           <l>Il reçut le bon sens, l’élégante justesse ;</l>
           <l>Mais, né dans l’esclavage, il en eut la tristesse.</l>
           <l>
-            <author>La Fontaine</author> y jeta sa naïve gaieté.</l>
+            <author key="La Fontaine">La Fontaine</author> y jeta sa naïve gaieté.</l>
           <l>Quel instinct enchanteur ! quelle simplicité !</l>
           <l>Il ignore son art, et c’est son art suprême ;</l>
           <l>Il séduit d’autant plus qu’il est séduit lui-même.</l>
@@ -5922,7 +5922,7 @@
           <l>Dont peut être l’orgueil goûtoit peu la leçon</l>
           <l> Que reçoit dans ses vers l’orgueil du roi lion,</l>
           <l>Dédaigna
-            <author>La Fontaine</author>, et crut son art frivole.</l>
+            <author key="La Fontaine">La Fontaine</author>, et crut son art frivole.</l>
           <l>Chantre aimable ! ta muse aisément s’en console.</l>
           <l>Louis ne te fit point un luxe de sa cour ;</l>
           <l>Mais le sage t’accueille en son humble séjour ;</l>
@@ -5932,7 +5932,7 @@
           <l>Au lieu du nom de <hi rend="i">grand</hi>, un nom cent fois plus doux,</l>
           <l>Et qui voit ton portrait, le quittant avec peine,</l>
           <l>Se dit avec plaisir : C’est le <hi rend="i">bon</hi>
-            <author>La Fontaine</author>.</l>
+            <author key="La Fontaine">La Fontaine</author>.</l>
         <bibl>(<title>Poëme de l’Imagination</title>.)</bibl>
 </quote>
         <trailer>FIN.</trailer>

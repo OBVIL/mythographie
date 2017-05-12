@@ -237,7 +237,7 @@
           <l>And all Olympus to the centre shakes.</l>
           <bibl><title>Iliad</title>,
             <author key="Homère"/>
-            <author role="translator">Pope</author>'s translation.</bibl>
+            <author role="translator" key="Pope">Pope</author>'s translation.</bibl>
         </quote>
         <p>Jove’s peculiar habitation, and that of the other celestial gods, was supposed to be Olympus, a mountain of Greece; though
           <author key="Dr. Clarke">Dr. Clarke</author>, a very learned man, supposes Olympus to be a name common to high mountains in the ancient world. <hi rend="i">Fate</hi> signifies a fixed purpose of the gods, — a determination of the divine mind which could not be altered. When Jove <hi rend="i">nodded</hi>, or inclined his head, that motion expressed his unalterable will.</p>
@@ -271,7 +271,7 @@
           <l>The god now smit’^s the woods and now the sounding shores.</l>
           <bibl><title>Æneid</title>,
             <author key="Virgile"/>
-            <author role="translator">Pitt</author>'s translation.</bibl>
+            <author role="translator" key="Pitt">Pitt</author>'s translation.</bibl>
         </quote>
         <p>Rhodope was a mountain of Thrace, Athos of Upper Greece, and the Acroceraunian ridge may be seen in modern Turkey, north of Macedonia.</p>
         <p>Just, wise, and powerful as Jove was represented by the heathens, he had not the infinite purity of the true God, for his worshippers, in their blindness, admitted many vices in his character, and related concerning him many scandalous adventures.</p>
@@ -381,7 +381,7 @@
           <l>And stoops incumbent on the rolling deep.</l>
           <bibl>
             <author key="Homer">Homer</author>'s <title rend="i">Odyssey</title>. —
-            <author role="translator">Pope</author>. </bibl>
+            <author role="translator" key="Pope">Pope</author>. </bibl>
         </quote>
         <p>The Greek Mercury was the son of Jupiter and Maia. He was the god of eloquence, of arts and sciences, and the messenger of Jupiter. He was the inventor of weights and measures, and conducted departed souls to the world of spirits.</p>
         <p>Mercury is represented as a young man; wings were fastened to his sandals and to his cap, and in his hand he held the <hi rend="i">caduceus</hi>. This was a wand entwined with two serpents. The caduceus had a power to induce wakefulness, or to cause sleep. Mercury, besides his higher offices, was the god of thieves, of merchants, and of highways. Statues of Mercury were often placed in roads to point out the way to travellers.</p>
