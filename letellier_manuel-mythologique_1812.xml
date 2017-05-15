@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:07:21+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Le Tellier (1812)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Manuel mythologique de la jeunesse</title>
-        <author key="Letellier, Charles-Constant">Charles-Constant Letellier</author>
+        <author key="Le Tellier, Constant (1768-1846)">Charles-Constant Letellier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -243,7 +244,7 @@
             <p>D. Quels sont les attributs de Saturne ?</p>
             <p><hi rend="i">R.</hi> Saturne étoit regardé comme le <hi rend="i">Temps</hi>, divinité allégorique, représentée sous la figure d’un vieillard, tenant une faux de la main droite, et de l’autre un serpent qui se mord la queue. On lui donne des ailes, et l’on place près de lui un sablier. La faux indique que le temps moissonne tout ; le serpent qui forme un cercle, désigne l’éternité, qui n’a ni commencement ni fin. Le sablier indique la mesure du temps, et les ailes sa rapidité.</p>
             <p>Voici le beau portrait que le poëte
-              <author key="J.-B. Rousseau">Rousseau</author> nous en a laissé :</p>
+              <author key="Rousseau J.-B.">Rousseau</author> nous en a laissé :</p>
             <quote>
               <l>Ce vieillard, qui d’un vol agile,</l>
               <l>Fuit sans jamais être arrêté,</l>
@@ -655,7 +656,7 @@
               <l>S’efforce d’échapper à la vue incertaine</l>
               <l>          Des mortels indiscrets.</l>
             <bibl>(
-              <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
 </quote>
             <p>D. Les poëtes ne nomment-ils pas encore quelques autres divinités maritimes ?</p>
             <p><hi rend="i">R.</hi> Ils en nomment plusieurs, telles que Éole, les Sirènes, les Harpies, Ino et Mélicerte, Glaucus, Scylla et Charybde.</p>
@@ -1180,7 +1181,7 @@
               <l>Son corps affreux et livide</l>
               <l>Grossit les flots indignés.</l>
             <bibl>(
-              <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
 </quote>
             <p>D. A quelle occasion Apollon fut-il banni du Ciel ?</p>
             <p><hi rend="i">R.</hi> Esculape, fils d’Apollon, avoit appris de son père et du centaure Chiron l’art de la médecine. Il y devint si habile, qu’il rendit la vie à Hippolyte, fils de Thésée, que des monstres marins avoient mis en pièces. Jupiter, indigné qu’un mortel empiétât sur ses droits, foudroya le téméraire médecin. Apollon, ne pouvant se venger contre Jupiter même, tua à coups de flèches les cyclopes qui avoient forgé la foudre. Le maître des dieux en fut si irrité, qu’il chassa Apollon du ciel.</p>
@@ -1753,7 +1754,7 @@
                 <l>Va chez touts les peuples du monde ;</l>
                 <l>Semer le bruit et la terreur.</l>
               <bibl>(
-                <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1770,7 +1771,7 @@
                 <l>Le seul remède à ses caprices,</l>
                 <l>C’est de s’y tenir préparé.</l>
               <bibl>(
-                <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -1787,7 +1788,7 @@
                 <l>El nous lui répondons des éloges coupables</l>
                 <l>              Qui nous sont adressés.</l>
               <bibl>(
-                <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
 </quote>
             </div>
             <div>
@@ -2678,7 +2679,7 @@
               <l>Au milieu de Thèbes en cendre,</l>
               <l>     Respecta la postérité.</l>
             <bibl>(
-              <author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
 </quote>
             <p>Il y eut en Egypte une autre ville de <hi rend="i">Thèbes</hi>, renommée pour ses cent portes. Le pays dans lequel elle étoit située, se nommoit <hi rend="i">Thébaïde</hi>.</p>
           </div>
@@ -5844,7 +5845,7 @@
         <p>D. Quels sont les avantages que l’on retire de la lecture ?</p>
         <p><hi rend="i">R.</hi> La lecture est d’une nécessité indispensable : elle enrichit la mémoire, embellit l’imagination, rectifie le jugement, forme le goût, apprend à penser, élève l’ame, et inspire de nobles sentiments. Les livres nous offrent les richesses les plus précieuses de l’esprit humain, et les découvertes de touts les siècles. Ils sont une source d’agrément dans touts les états, dans toutes les situations de la vie : ils procurent mille plaisirs-dans touts les âges : ces plaisirs se renouvellent sans cesse, nous les trouvons par-tout, nous pouvons à touts les instants nous les procurer.</p>
         <p>Mais il importe extrêmement de faire un bon choix des livres qu’on veut lire. Il ne faut pas seulement écarter les livres qui attaquent la religion, ou qui blessent ouvertement les mœurs. Il faut encore rejeter les livres qui n’apprennent rien, les livres qui amollissent l’ame et l’énervent.
-          <author key="J.-B. Rousseau">Rousseau</author> dit que
+          <author key="Rousseau J.-B.">Rousseau</author> dit que
           <quote><hi rend="i">jamais fille chaste n’a lu de romans</hi></quote>. En effet, ces livres font perdre un temps précieux pour l’instruction ; ils ne présentent que des pensées fausses, des maximes qu’il seroit dangereux de suivre dans la pratique, et des exemples qu’on se repentiroit toute sa vie d’avoir imités. Les romans flattent les passions, gâtent le jugement, embellissent les préjugés, peignent le vice sous des couleurs agréables qui le déguisent, effacent par le brillant coloris des fausses vertus l’éclat des vertus réelles, et mettent un honneur chimérique à la place du véritable honneur.</p>
         <p>D. Ne faut-il pas inspirer à la jeunesse le goût du travail en même temps que celui de la lecture ?</p>
         <p><hi rend="i">R.</hi> Oui. L’homme est né pour le travail Le travail est le noble soutien de notre indépendance ; c’est le seul bien que l’injustice des hommes et l’inconstance de la fortune ne sauroient nous ravir. Il nous délivre du malheur de l’oisiveté, et nous fait goûter les douceurs du repos.</p>

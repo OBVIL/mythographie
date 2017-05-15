@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T16:51:34+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Kupfer (1897)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Stories of Long Ago in a New Dress</title>
-        <author key="Kupfer, Grace H.">Grace H. Kupfer</author>
+        <author key="Kupfer, Grace Harriet (1873-19..)">Grace H. Kupfer</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -70,7 +71,13 @@
         <p>I have avoided the use of an undue number of proper names, those stumbling-blocks in the pathway of a young reader. Just enough have been given to hold the reader’s interest and to make him familiar with the chief characters in the mythical play, characters that he will meet again and again in literature and art. The pronouncing list on page 8 includes all these names, and with a little help here and there from the teacher they need cause the pupil no difficulty.</p>
         <p>Following many of the stories there are poems bearing directly on the subjects. These have been selected with the utmost care. They are designed not merely to introduce the children to some of our greatest authors, but also to cultivate a taste for what is purest and best in literature.</p>
         <p>The illustrations are intended to serve an educative purpose similar to that of the poems. They are reproductions of famous paintings and sculptures by the foremost artists of all ages, and it is hoped that they may awaken the true artistic sense.</p>
-        <p>The poems by <author key="Longfellow">Longfellow</author>, <author key="Lowell">Lowell</author>, <author>Phœbe Cary</author>, and <author key="Thomas">Edith M. Thomas</author> are printed by permission of, and arrangement with, their publishers, Houghton, Mifflin, and Co.; and the poems by <author>William Cullen Bryant</author> and <author>Fitz-Greene Halleck</author> by permission of D. Appleton and Co. Thanks are due also to the Century Co., in whose publication, <hi rend="i">St. Nicholas</hi>, the poem <title>“Invitation to Echo,”</title> first appeared.</p>
+        <p>The poems by
+          <author key="Longfellow">Longfellow</author>,
+          <author key="Lowell">Lowell</author>,
+          <author>Phœbe Cary</author>, and
+          <author key="Thomas">Edith M. Thomas</author> are printed by permission of, and arrangement with, their publishers, Houghton, Mifflin, and Co.; and the poems by
+          <author>William Cullen Bryant</author> and
+          <author>Fitz-Greene Halleck</author> by permission of D. Appleton and Co. Thanks are due also to the Century Co., in whose publication, <hi rend="i">St. Nicholas</hi>, the poem <title>“Invitation to Echo,”</title> first appeared.</p>
         <signed>G. H. K.</signed>
       </div>
       <div>
@@ -126,7 +133,8 @@
           <l/>
           <l>Ah! you are so great, and I am so small,</l>
           <l>I tremble to think of you, world, at all</l>
-        <bibl>(<title>Lilliput Lectures</title>.)</bibl></quote>
+          <bibl>(<title>Lilliput Lectures</title>.)</bibl>
+        </quote>
       </div>
       <div>
         <head>The Great Bear and the Little Bear</head>
@@ -178,8 +186,9 @@
           <l>    On the dewy earth that smiles in his ray,</l>
           <l>On the leaping waters and gay young isles;</l>
           <l>    Ay, look, and he’ll smile thy gloom away.</l>
-        <bibl>
-            <author><hi rend="sc">William C. Bryant</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">William C. Bryant</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>A Story of the Springtime</head>
@@ -218,7 +227,9 @@
             <l>They are flinging spray o’er the forest boughs,</l>
             <l>They are bursting fresh from their sparry caves,</l>
             <l>And the earth resounds with the joy of waves.</l>
-          <bibl><author>Felicia Hemans</author>.</bibl></quote>
+            <bibl>
+              <author>Felicia Hemans</author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>Part II</head>
@@ -281,7 +292,9 @@
             <l>    Let my heart be</l>
             <l>Fresh, changeful, constant,</l>
             <l>    Upward like thee!</l>
-          <bibl><author>James Russell Lowell</author>.</bibl></quote>
+            <bibl>
+              <author>James Russell Lowell</author>.</bibl>
+          </quote>
         </div>
       </div>
       <div>
@@ -362,7 +375,9 @@
           <l>    To join the brimming river,</l>
           <l>For men may come, and men may go,</l>
           <l>    But I go on forever.</l>
-        <bibl><author>Alfred Tennyson</author>.</bibl></quote>
+          <bibl>
+            <author>Alfred Tennyson</author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>Echo and Narcissus</head>
@@ -422,8 +437,9 @@
           <l>            O sad Echo,</l>
           <l>To escape your prison can you find no way?</l>
           <l>                                        (No way!)</l>
-        <bibl>
-            <author key="Thomas"><hi rend="sc">Edith M. Thomas</hi></author>.</bibl></quote>
+          <bibl>
+            <author key="Thomas"><hi rend="sc">Edith M. Thomas</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>How Narcissus Loved His Own Image</head>
@@ -479,8 +495,9 @@
           <l>Whirling with the whirling spindle.</l>
           <l>Twist ye, twine ye! even so,</l>
           <l>Mingle human bliss and woe.</l>
-        <bibl>
-            <author><hi rend="sc">Walter Scott</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Walter Scott</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>The Story of the Laurel</head>
@@ -533,8 +550,9 @@
           <l>Thou feel’st the little wild bee’s touch,</l>
           <l>How must the heart, ah, Cupid, be,</l>
           <l>The hapless heart that’s stung by thee?”</l>
-        <bibl>
-            <author key="Th. Moore"><hi rend="sc">Thomas Moore</hi></author>.</bibl></quote>
+          <bibl>
+            <author key="Th. Moore"><hi rend="sc">Thomas Moore</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>The Story of a Sweet Singer</head>
@@ -572,8 +590,9 @@
           <l>    Hung their heads, and then lay by.</l>
           <l>    In sweet music is such art;</l>
           <l>    Killing care and grief of heart.</l>
-        <bibl>
-            <author><hi rend="sc">William Shakspeare</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">William Shakspeare</hi></author>.</bibl>
+        </quote>
         <quote>
           <label>Eurydice</label>
           <l><hi rend="sc">He</hi> came to call me back from death</l>
@@ -599,8 +618,9 @@
           <l>What have I done! what have I done!”</l>
           <l>And then I saw no more the sun,</l>
           <l>    And lost were life and love.</l>
-        <bibl>
-            <author><hi rend="sc">Francis W. Bourdillon</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Francis W. Bourdillon</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>The Queen Huntress and a Bold Hunter</head>
@@ -647,8 +667,9 @@
           <l>Of the bold, sweet sound of the hunter’s horn!</l>
           <l>                    The horn the horn!</l>
           <l>Oh, the sound of all sounds is the hunter’s horn!</l>
-        <bibl>
-            <author key="Cornwall"><hi rend="sc">Barry Cornwall</hi></author>.</bibl></quote>
+          <bibl>
+            <author key="Cornwall"><hi rend="sc">Barry Cornwall</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>The Story of Perseus</head>
@@ -694,8 +715,9 @@
           <l>Silver sails all out of the west</l>
           <l>    Under the silver moon.</l>
           <l>Sleep, my little one; sleep, my pretty one, sleep.</l>
-        <bibl>
-            <author><hi rend="sc">Alfred Tennyson</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Alfred Tennyson</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>How Perseus Went in Quest of Medusa’s Head</head>
@@ -815,9 +837,10 @@
           <l>            Ever holy,</l>
           <l>Ever honored, ever young,</l>
           <l>Thus great Pan is ever sung.</l>
-        <bibl>
+          <bibl>
             <author key="Beaumont,"><hi rend="sc">Beaumont</hi></author><hi rend="sc">and</hi>
-            <author key="Fletcher"><hi rend="sc">Fletcher</hi></author>.</bibl></quote>
+            <author key="Fletcher"><hi rend="sc">Fletcher</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>How a Mother’s Pride Was Humbled</head>
@@ -890,8 +913,9 @@
           <l>    That ever were sung or said;</l>
           <l>For ye are living poems,</l>
           <l>    And all the rest are dead.</l>
-        <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>A Mighty Hero of Olden Times</head>
@@ -1029,8 +1053,9 @@
           <l>On the mountain tops, on the billowy sea,</l>
           <l>On the leafy stems of the forest tree,</l>
           <l>How pleasant the life of a bird must be!</l>
-        <bibl>
-            <author><hi rend="sc">Mary Howitt</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Mary Howitt</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>A Cruel King</head>
@@ -1075,8 +1100,9 @@
           <l>    Or the hour will strike at last</l>
           <l>When, from dreams of a coming battle,</l>
           <l>    You may wake to find it past.</l>
-        <bibl>
-            <author><hi rend="sc">Adelaide Anne Procter</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Adelaide Anne Procter</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>A Lock of Purple Hair, and What Came of It</head>
@@ -1227,8 +1253,9 @@
           <l>On her lips, her eyes, her face,</l>
           <l>Till I come to take your place,</l>
           <l>          Kiss and kiss her, winds!</l>
-        <bibl>
-            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>The Story of the Golden Fleece</head>
@@ -1272,8 +1299,9 @@
             <l>    And the nursling of the Sky;</l>
             <l>I pass through the pores of the ocean and shores;</l>
             <l>    I change, but I cannot die.</l>
-          <bibl>
-              <author><hi rend="sc">Percy Bysshe Shelley</hi></author>.</bibl></quote>
+            <bibl>
+              <author><hi rend="sc">Percy Bysshe Shelley</hi></author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>II. The Sailing of the Ship Argo</head>
@@ -1310,8 +1338,9 @@
             <l>I found the arrow, still unbroke;</l>
             <l>And the song, from beginning to end,</l>
             <l>I found again in the heart of a friend.</l>
-          <bibl>
-              <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl></quote>
+            <bibl>
+              <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
+          </quote>
         </div>
         <div>
           <head>III. How the Fleece Was Brought Back to Greece</head>
@@ -1378,8 +1407,9 @@
           <l>    Broidered with leaf and blossom,</l>
           <l>And lay him tenderly to sleep</l>
           <l>    Dear Earth, upon thy bosom.</l>
-        <bibl>
-            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>A Sea God and a Wicked Enchantress</head>
@@ -1421,8 +1451,9 @@
           <l>    Come unto my great heart;</l>
           <l>My heart, and the sea, and the heaven</l>
           <l>    Are melting away with love!</l>
-        <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>A Youth Who Was Changed Into a Flower</head>
@@ -1462,8 +1493,9 @@
           <l>    Like thine, are laid in earth,</l>
           <l>There should a wreath be woven</l>
           <l>    To tell the world their worth.</l>
-        <bibl>
-            <author><hi rend="sc">Fitz-Greene Halleck</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Fitz-Greene Halleck</hi></author>.</bibl>
+        </quote>
       </div>
       <div>
         <head>A Wonderful Sculptor</head>
@@ -1537,8 +1569,9 @@
           <l>Sang of beauty, love, and longing;</l>
           <l>Sang of death and life undying</l>
           <l>In the land of the Hereafter.</l>
-        <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author> (<title>Hiawatha</title>)</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author> (<title>Hiawatha</title>)</bibl>
+        </quote>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_171.png"/>
           <desc>19. “He the best of all musicians. <lb/>He the sweetest of all singers.” <lb/><hi rend="sc">Apollo Citharaedus</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
@@ -1597,8 +1630,9 @@
           <l>For thy delight each May morning:</l>
           <l>If these delights thy mind may move,</l>
           <l>Then, live with me and be my love.</l>
-        <bibl>
-            <author><hi rend="sc">Christopher Marlowe</hi></author>.</bibl></quote>
+          <bibl>
+            <author><hi rend="sc">Christopher Marlowe</hi></author>.</bibl>
+        </quote>
       </div>
     </body>
   </text>

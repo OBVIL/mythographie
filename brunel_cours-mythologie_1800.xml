@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-11-21T18:35:10+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brunel (1800)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Cours de mythologie</title>
-        <author key="Brunel, Joseph">Joseph Brunel</author>
+        <author key="Brunel, Joseph (1746-1820)">Joseph Brunel</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -680,8 +681,8 @@
             <l>La grandeur de Pluton désarme sa fierté,</l>
             <l>           Son amour même est enfin écouté.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières]
-              <author key="Rousseau">Rousseau</author>. <title>Enlèvement de Proserpine. cant</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières]
+              <author key="Rousseau J.-B.">Rousseau</author>. <title>Enlèvement de Proserpine. cant</title>.</note>.</bibl>
           </quote>
           <p><hi rend="i">Voyez</hi><hi rend="sc"> Proserpine</hi>.</p>
         </div>
@@ -2067,7 +2068,7 @@
             <l>Cessons de craindre les peines</l>
             <l>Dont nous étions alarmés.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Diane. ch. I</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Diane. ch. I</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Les bois furent toujours l’école des guerriers,</l>
@@ -6618,7 +6619,7 @@
             <l>Mais si-tôt que l’Amour s’envole,</l>
             <l>Il ne connoît plus de retour.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Cantate VII</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Cantate VII</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -7818,7 +7819,7 @@
             <l>                      Et Pan qui soupire,</l>
             <l>                      Brise son haut-bois,</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Cantate II</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Cantate II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l><pb n="230" xml:id="p230"/>    D’Adonis expirant, pleurons, pleurons les charmes ;</l>
@@ -9167,7 +9168,7 @@
             <l>Sécher ces feuilles impures,</l>
             <l>Dont l’ombre donne la mort.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>ode V</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>ode V</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -10412,7 +10413,7 @@
             <l>Ton sceptre rend la Terre en délices féconde ;</l>
             <l>Le sien ne fait régner que les pleurs et les cris.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Ode à la Paix</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] Rousseau. <title>Ode à la Paix</title>.</note>.</bibl>
           </quote>
         </div>
         <div>

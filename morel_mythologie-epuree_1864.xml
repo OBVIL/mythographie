@@ -2,12 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-11-12T18:17:44+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Morel 1864">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Mythologie épurée à l’usage des maisons d’éducation pour les deux sexes (nouv. éd.)</title>
-        <author key="Morel, Emma">Emma Morel</author>
+        <author key="Morel, Emma (18.. ?-18..?)">Emma Morel</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

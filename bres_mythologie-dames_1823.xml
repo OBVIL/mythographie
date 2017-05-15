@@ -3,12 +3,12 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T15:39:01+01:00-->
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brès (1823)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Mythologie des dames</title>
-        <author key="Brès, Jean-Pierre">Jean-Pierre Brès</author>
+        <author key="Brès, Jean-Pierre (1782 – 1832)">Jean-Pierre Brès</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

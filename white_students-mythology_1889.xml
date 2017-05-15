@@ -2,12 +2,12 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-05-10T16:25:26+02:00-->
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="White (1889)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>The student’s mythology (2<hi rend="sup">e</hi> éd.)</title>
-        <author>Catherine Ann White</author>
+        <author key="White, Catherine Ann (1825-1878)">Catherine Ann White</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

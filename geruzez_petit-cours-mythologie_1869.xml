@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-11-30T22:14:10+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="geruzez">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Géruzez (1869)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Petit cours de mythologie (12<hi rend="sup">e</hi> éd.)</title>
-        <author key="Géruzez, Eugène">Eugène Géruzez</author>
+        <author key="Géruzez, Eugène (1799-1865)">Eugène Géruzez</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -347,7 +348,7 @@
                 <l>Le regard furieux, la tête échevelée,</l>
                 <l>Du temple fait mugir la demeure ébranlée</l>
                 <l>                    Par ses cris impuissants.
-                  <author key="J.-B. Rousseau"/></l>
+                  <author key="Rousseau J.-B."/></l>
               </quote>
               <p>Les Grecs ne se décidaient jamais dans les affaires importantes sans avoir consulté l’oracle de Delphes, et laissaient toujours dans le temple de riches présents, gages de leur piété et de leur reconnaissance.</p>
             </div>
@@ -464,7 +465,7 @@
                 <l>les remparts abattus, les palais mis en cendre,</l>
                 <l>sont de ta cruauté les plus doux monuments.</l>
                 <l>
-                  <author key="J.-B. Rousseau" role="translator"><hi rend="sc">J. B. Rousseau</hi></author>
+                  <author key="Rousseau J.-B." role="translator"><hi rend="sc">J. B. Rousseau</hi></author>
                   <author key="Homère" resp="editor"/>.</l>
               </quote>
               <p>Les Grecs racontent aussi qu’ayant tué Halirrhotus, fils de Neptune, Mars fut cité par le dieu de la mer au conseil des dieux, et que l’assemblée, tenue dans Athènes, l’acquitta.</p>

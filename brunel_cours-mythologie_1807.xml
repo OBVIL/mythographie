@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T15:46:48+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brunel (1807)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Cours de mythologie (2<hi rend="sup">e</hi> éd.)</title>
-        <author key="Brunel, Joseph">Joseph Brunel</author>
+        <author key="Brunel, Joseph (1746-1820)">Joseph Brunel</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -757,7 +758,7 @@
             <l>La grandeur de Pluton désarme sa fierté,</l>
             <l>           Son amour même est enfin écouté.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Enlèvement de Proserpine, cantate</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Enlèvement de Proserpine, cantate</title>.</note>.</bibl>
           </quote>
           <p><hi rend="i">Voyez <hi rend="sc">Proserpine</hi></hi>.</p>
         </div>
@@ -2568,7 +2569,7 @@
             <l>          Cessons de craindre les peines</l>
             <l>          Dont nous étions alarmés.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Diane</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Diane</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Les</hi> bois furent toujours l’école des guerriers,</l>
@@ -3938,7 +3939,7 @@
             <l>Va chez tous les peuples du monde</l>
             <l>Semer le bruit et la terreur.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Au prince Eugène, ode</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Au prince Eugène, ode</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -5232,7 +5233,7 @@
             <l>Le Chantre de la Thrace à l’époux de Médée ;</l>
             <l>        Jason fut chanté par Orphée</l>
             <l>        Et
-              <author key="J.-B. Rousseau">Rousseau</author> manque à Mongolfier…</l>
+              <author key="Rousseau J.-B.">Rousseau</author> manque à Mongolfier…</l>
             <l/>
             <l>   O prodige inouï ! secondant nos conquêtes,</l>
             <l>        La matière n’a plus de poids ;</l>
@@ -7464,7 +7465,7 @@
             <l>          Mais si-tôt que l’Amour s’envole,</l>
             <l>          Il ne connaît plus de retour.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Circé</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Circé</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -8793,7 +8794,7 @@
             <l>                       Et Pan qui soupire,</l>
             <l>                       Brise son haut-bois,</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Adonis</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Adonis</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   D’<hi rend="sc">Adonis</hi> expirant, pleurons, pleurons les charmes ;</l>
@@ -10259,7 +10260,7 @@
             <l>Sécher ces feuilles impures,</l>
             <l>Dont l’ombre donne la mort.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Python</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Python</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -11339,7 +11340,7 @@
             <l>Ton sceptre rend la Terre en délices féconde ;</l>
             <l>Le sien ne fait régner que les pleurs et les cris.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Ode à la Paix</title>.</note>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author><note place="bottom">[Table des matières] J. B. Rousseau. <title>Ode à la Paix</title>.</note>.</bibl>
           </quote>
         </div>
         <div>

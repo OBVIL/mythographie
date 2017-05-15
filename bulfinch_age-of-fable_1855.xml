@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-01-11T11:39:35+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Bulfinch (1855)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>The Age of Fable; or, Stories of Gods and Heroes</title>
-        <author key="Bulfinch, Thomas">Thomas Bulfinch</author>
+        <author key="Bulfinch, Thomas (1796-1867)">Thomas Bulfinch</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -3537,7 +3538,7 @@
             </quote>
             <p>
               <author key="Byron">Byron</author> alludes to the oracle of Delphi where, speaking of
-              <author key="J.-B. Rousseau">Rousseau</author>, whose writings he conceives did much to bring on the French revolution, he says, —</p>
+              <author key="Rousseau J.-B.">Rousseau</author>, whose writings he conceives did much to bring on the French revolution, he says, —</p>
             <quote>
               <l>“For then he was inspired, and from him came,</l>
               <l>    As from the Pythian’s mystic cave of yore,</l>

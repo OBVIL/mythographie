@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<!--Odette: 2017-02-14T16:42:12+01:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Édom (1883)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Mythologie élémentaire (9<hi rend="sup">e</hi> éd.)</title>
-        <author key="Édom, Jacques">Jacques Édom</author>
+        <author key="Édom, Jacques (1797-1870)">Jacques Édom</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -193,7 +195,7 @@
               <l>Il détruit tout ce qu’il fait naître,</l>
               <l>A mesure qu’il le produit.</l>
               <bibl>
-                <author key="J.-B. Rousseau">J.-B. Rousseau</author>.</bibl>
+                <author key="Rousseau J.-B.">J.-B. Rousseau</author>.</bibl>
             </quote>
           </div>
           <div>
@@ -1254,7 +1256,7 @@
               <l>De son orgueil, c’est ce que j’appelle être</l>
               <l>Grand par soi-même : et voilà les héros.</l>
               <bibl>
-                <author key="J.-B. Rousseau"/>
+                <author key="Rousseau J.-B."/>
               </bibl>
             </quote>
             <p>Le nombre des héros de l’antiquité est immense ; nous ne ferons connaître que quelques-uns des plus célèbres : Persée, Bellérophon, Hercule, Thésée. Nous observerons, autant que possible, l’ordre des temps. Nous allons, en conséquence, commencer par l’histoire de Persée, qui régna à Mycènes, de l’an 1313 à l’an 1281 avant J.-C.</p>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T13:12:25+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Humbert (1847)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Mythologie grecque et romaine, ou Introduction facile et méthodique à la lecture des poètes (3<hi rend="sup">e</hi> éd.)</title>
-        <author>Jean Humbert</author>
+        <author key="Humbert, Jean (1792-1851)">Jean Humbert</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -945,7 +946,7 @@
             <l>Que le fol Amour lui présente</l>
             <l> Il boit a longs traits le poison.</l>
             <bibl>
-              <author key="J.-B. Rousseau">J.-B. Rousseau</author>.</bibl>
+              <author key="Rousseau J.-B.">J.-B. Rousseau</author>.</bibl>
           </quote>
           <p>Rendu prudent par ses fautes, il résista aux mélodieuses voix des Sirènes, franchit avec bonheur les écueils de Charybde et de Scylla, et aborda pour la seconde fois en Sicile, à ce rivage fameux, où la fille d’Apollon, <hi rend="i">Lampétie</hi>, gardait les troupeaux du dieu son père : troupeaux innombrables auxquels il était défendu de toucher. Ulysse se reposa de ses fatigues Sur cette plage, et enjoignit expressément à ses compagnons de respecter le bétail sacré. Tant que durèrent les provisions, ils observèrent les ordres d’Ulysse ; mais les vivres ayant manqué et la faim se faisant sentir, ils enlevèrent quatre bœufs et quatre génisses qu’ils égorgèrent. Apollon n’eut pas plus tôt connu cette impiété qu’il pria Jupiter d’en tirer vengeance ; et le maître des dieux envoya aux profanateurs un signe effrayant de sa colère : les peaux de ces bœufs et de ces génisses se mirent à marcher, les chairs qui rôtissaient à la broche commencèrent à mugir, et les chairs crues répondirent à ces mugissements. Épouvantés de ce prodige, les matelots s’embarquèrent ; mais il s’éleva au même instant une si terrible tempête, qu’elle brisa les vaisseaux et fit périr ceux qui les montaient. Ulysse seul, qui n’avait point eu de part au sacrilège fut épargné : les dieux lui avaient ménagé un fragment de gouvernail qui fut son sauveur.</p>
           <p>Les vents le poussèrent dans l’île d’Ogygie<note place="bottom"><hi rend="i">Ogygie</hi>, petite île que l’on croit située près de l’île de Malte.</note>, où régnait la nymphe <hi rend="i">Calypso</hi>, fille de l’Océan, qui le reçut avec les démonstrations de la plus vive joie, et lui offrit l’immortalité s’il consentait à oublier Ithaque, et à finir ses jours dans son île. Des mois, des années s’écoulèrent, et Ulysse séjournait encore dans les demeures magiques de cette reine opulente, dont l’admiration et l’attachement pour son hôte croissaient de jour en jour. Les dieux intervinrent : Mercure le rappela à ses devoirs de père, d’époux et de roi.</p>

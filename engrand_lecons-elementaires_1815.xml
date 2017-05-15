@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:00:48+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Engrand (1815)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Leçons élémentaires sur la mythologie</title>
-        <author key="Engrand, Henri">Henri Engrand</author>
+        <author key="Engrand, Henri (1753-1829)">Henri Engrand</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -67,7 +68,7 @@
           <author key="Racine">Racine</author>,
           <author key="Boileau">Boileau</author>,
           <author>Molière</author>,
-          <author key="J.-B. Rousseau">Rousseau</author>,
+          <author key="Rousseau J.-B.">Rousseau</author>,
           <author key="La Motte">Lamotte</author>,
           <author key="Voltaire">Voltaire</author>, etc. J’ai observé que les jeunes gens apprennent avec plus de plaisir les choses ainsi assaisonnées de vers piquans et curieux. D’ailleurs je crois qu’on doit rechercher tout ce qui tend à meubler avantageusement et à orner leur esprit et leur mémoire.</p>
         <p>J’avois également travaillé, pour mes Élèves, un Traité succinct de l’Apologue ou de la Fable morale <hi rend="i">;</hi> il devoit servir comme d’acolyte et de pendant à ma Mythologie. On m’a aussi engagé à le donner à l’Imprimeur, afin que ces deux petits Traités fussent placés l’un près de l’autre dans un même volume. On a jugé que ce petit écrit n’étoit pas indigne de voir le jour.</p>
@@ -185,7 +186,7 @@
         <div>
           <head>Première partie de la Fable. <lb/>Des Dieux du premier ordre.</head>
           <p><hi rend="sc">Avant</hi> de commencer leur histoire, nous avons cru devoir placer ici les beaux vers de
-            <author key="J.-B. Rousseau">Rousseau</author> sur le Cahos.</p>
+            <author key="Rousseau J.-B.">Rousseau</author> sur le Cahos.</p>
           <p>D. Qu’est-ce que le Cahos ?</p>
           <div>
             <head>Le Cahos.</head>
@@ -288,7 +289,7 @@
             </quote>
             <p>D. Saturne n’étoit-il pas aussi connu sous un autre nom ?</p>
             <p>R. Saturne est le même que le Temps, Divinité allégorique, représentée sous la figure d’un vieillard, avec des attributs propres à marquer la rapidité et la vicissitude du temps qui détruit tout ; comme les ailes, la faulx, le sablier, et le serpent qui forme un cercle en se mordant la queue. Voici ce qu’en dit
-              <author key="J.-B. Rousseau">Rousseau</author> :</p>
+              <author key="Rousseau J.-B.">Rousseau</author> :</p>
             <quote>
               <l>Ce vieillard qui, d’un vol agile,</l>
               <l>Fuit sans jamais être arrêté,</l>
@@ -327,7 +328,7 @@
               <l>Ce Dieu qui d’un clin-d’œil ébranle l’Univers,</l>
               <l>Et dont les autres Dieux ne sont que l’humble escorte,</l>
               <l>Leur imposa silence, et parla de la sorte, <hi rend="i">etc</hi>.</l>
-              <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
             </quote>
             <p>Devenu grand, il détrôna son père Saturne, qui en vouloit à ses jours, et partagea l’Empire du monde avec ses deux frères Neptune et Pluton. Celui-ci eut les enfers, et Neptune régna sur les eaux ; Jupiter se réserva le ciel.</p>
             <p>D. Comment Jupiter fut-il élevé ?</p>
@@ -373,7 +374,7 @@
             <p>R. Les Dieux ne purent souffrir que Jupiter s’attribuât exclusivement le droit et la gloire de créer les hommes ; c’est pourquoi ils concoururent ensemble pour former une femme parfaite. Pallas lui donna la sagesse ; Vénus, la beauté ; Apollon, la connoissance de la musique ; Mercure, l’éloquence ; et on l’appela <hi rend="i">Pandore</hi>, nom composé de deux mots grecs, qui signifié <hi rend="i">tout don</hi>.</p>
             <p>D. Dites-nous ce que c’est que la boëte de Pandore ?</p>
             <p>R. Jupiter, sous prétexte de faire aussi son présent à Pandore, la fit venir et lui donna une boëte, avec ordre de la porter à Prométhée. Epiméthée, son frère, l’ouvrit, et aussitôt tous les maux de la nature, qui y étoient renfermés, se répandirent sur la terre ; l’espérance resta au fond. Voici ce qu’en du premier dit
-              <author key="J.-B. Rousseau">Rousseau</author> :</p>
+              <author key="Rousseau J.-B.">Rousseau</author> :</p>
             <quote>
               <l>D’où peut venir ce mélange adultère</l>
               <l>D’adversités dont l’influence altère</l>
@@ -564,7 +565,7 @@
             <p>R. Le vieux Silène prit soin de son éducation sur le mont Nysa. Il le suivit aussi à la conquête des Indes, monté sur un âne.</p>
             <p>D. Que fit Bacchus devenu grand ?</p>
             <p>R. Il parcourut toute la terre, et fit la conquête des Indes. On le regarde même comme le plus puissant des Dieux après Jupiter ; il en étoit au moins le plus courageux. Il fut le seul qui osa rester dans le ciel pendant la guerre des géans : il s’étoit changé en lion, pour les combattre. Voici ce qu’en dit
-              <author key="J.-B. Rousseau">Rousseau</author> dans les vers suivans ;</p>
+              <author key="Rousseau J.-B.">Rousseau</author> dans les vers suivans ;</p>
             <quote>
               <l>C’est lui qui, des Fils de la Terre</l>
               <l>Châtiant la rebellion,</l>
@@ -585,7 +586,7 @@
               <l>A trouvé mille fois plus grand</l>
               <l>D’être le Dieu de la vendange,</l>
               <l>Que de n’être qu’un conquérant.</l>
-              <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
             </quote>
             <p>D. Comment représente-t-on Bacchus ?</p>
             <p>R. On le peint sous la figure d’un jeune homme avec un teint vermeil et un visage réjoui, comme il convient au Dieu de la vendange. Il est assis sur un tonneau avec une coupe à la main, ou sur un char traîné par des tygres, des lynx ou des panthères, et tenant à la main un thyrse, qui est une baguette entourée de pampres, de lierre, et surmontée d’une pomme de pin.</p>
@@ -639,7 +640,7 @@
               <l>Je porte au hasard mon flambeau :</l>
               <l>Otez à l’Amour son bandeau,</l>
               <l>Vous rendez le repos au monde.</l>
-              <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
             </quote>
             <p>D. Dites-nous le nombre des Grâces, et leurs noms ?</p>
             <p>R. Elles sont trois, et se nomment <hi rend="sc">Aglaé, Thalie</hi> et <hi rend="sc">Euphrosine</hi>. Elles sont les compagnes inséparables de Vénus. Elles suivent aussi assez ordinairement la cour des Muses.</p>
@@ -661,7 +662,7 @@
             <p>On le regardoit comme le Dieu du feu ; il avoit sous ses ordres du premier les Cyclopes, géans qui n’avoient qu’un œil au milieu du front.</p>
             <p>D. Où étoient les forges de Vulcain ?</p>
             <p>R. Les forges de Vulcain étoient dans les îles de Lemnos, de Lypare, et dans le mont Etna. Voici ce qu’en dit
-              <author key="J.-B. Rousseau">Rousseau</author> dans les vers suivans :</p>
+              <author key="Rousseau J.-B.">Rousseau</author> dans les vers suivans :</p>
             <quote>
               <l>Dans ces antres fameux, où Vulcain nuit et jour</l>
               <l>Forge de Jupiter les foudroyantes armes,</l>
@@ -706,7 +707,7 @@
               <l>Et la mort remet dans leurs mains</l>
               <l>Ces tonnerres épouvantables</l>
               <l>Dont elle écrase les humains.</l>
-              <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
             </quote>
             <p>D. Comment représente-t-on cette Déesse ?</p>
             <p>R. On la représente armée d’une cuirasse, avec un casque sur la tête, une lance à la main, l’égide au bras, et auprès d’elle un hibou.</p>
@@ -720,7 +721,7 @@
             <p><hi rend="sc">D. De</hi> qui Mars étoit-il fils ?</p>
             <p>R. Jupiter avoit donné seul la naissance à Pallas ; Junon de même donna seule le jour à Mars. C’étoit le Dieu de la guerre.</p>
             <p>Le caractère de ce Dieu est bien rendu dans ces vers que
-              <author key="J.-B. Rousseau">Rousseau</author> met dans la bouche de Jupiter.</p>
+              <author key="Rousseau J.-B.">Rousseau</author> met dans la bouche de Jupiter.</p>
             <quote>
               <l>Tigre, à qui la pitié ne peut se faire entendre,</l>
               <l>Tu n’aimes que le meurtre et les embrasemens ;</l>
@@ -793,7 +794,7 @@
                 <l>Sous diverse figure, arbre, flamme et fontaine,</l>
                 <l>S’efforce d’échapper à la vue incertaine</l>
                 <l>              Des mortels indiscrets.</l>
-                <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
               </quote>
               <p>D. Les Poëtes ne nomment-ils pas encore quelques autres Divinités maritimes ?</p>
               <p>R. Ils parlent encore de plusieurs, entr’autres d’Eole et des Styrènes ?</p>
@@ -808,7 +809,7 @@
                 <l>Qu’il dompte leur bruyante haleine,</l>
                 <l>Et ne permette qu’aux Amours</l>
                 <l>De voler sur l’humide plaine.</l>
-                <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
               </quote>
               <p>On le représente avec un sceptre de fer à la main, assis ou appuyé du premier sur un rocher, d’où les Vents cherchent à s’échapper.</p>
               <p>Les Vents sont représentés sous la figure de jeunes enfans ailés.</p>
@@ -1119,7 +1120,7 @@
                 <l>Sa voix, en merveilles féconde,</l>
                 <l>Va chez tous les peuples du monde</l>
                 <l>Semer le bruit et la terreur.</l>
-                <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
               </quote>
             </div>
             <div>
@@ -1135,7 +1136,7 @@
                 <l>Elle nous promène à son gré.</l>
                 <l>Le seul remède à ses caprices</l>
                 <l>C’est de s’y tenir préparé.</l>
-                <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
               </quote>
             </div>
             <div>
@@ -1151,7 +1152,7 @@
                 <l>Percent tous les replis de nos cœurs insensés ;</l>
                 <l>Et nous lui répondons des éloges coupables</l>
                 <l>                  Qui nous sont adressés.</l>
-                <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
               </quote>
               <p>On la représente avec des ailes, armée de serpens et de torches ardentes, et une couronne sur la tête.</p>
             </div>
@@ -1170,7 +1171,7 @@
                 <l>De l’Enfer filles inflexibles,</l>
                 <l>Secouant leurs flambeaux horribles,</l>
                 <l>Marchent sans ordre à ses côtés.</l>
-                <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+                <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
               </quote>
             </div>
             <div>
@@ -1744,12 +1745,12 @@
               <l>Par elle brave les caresses.</l>
               <l>Des Syrènes enchanteresses,</l>
               <l>Et les breuvages de Circé.</l>
-              <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
             </quote>
             <p>Ulysse, pour ne point aller à la guerre de Troye, contrefit l’insensé ; il attela à sa charrue des animaux peu propres au labourage ; il traça des sillons sur les bords de la mer, où il sema du sel au lieu de bled. Palamède, qui soupçonna sa feinte, plaça Télémaque, fils d’Ulysse, devant la charrue ; Ulysse, pour ne pas blesser son enfant, détourna la charrue, ce qui le démasqua, et l’obligea d’entrer dans la ligue des Princes Grecs.</p>
             <p>D. Dites-nous comment Ulysse a surmonté tous les différens dangers auxquels il a été exposé ?</p>
             <p>R. Il échappa par son adresse à la fureur des Lestrigons. Entre les mains et à la merci de Polyphême, le plus fameux des Cyclopes, il vint à bout de l’enivrer, et lui creva le seul œil qu’il avoit au milieu du front. Pour échapper aux enchantemens de Circé, il se servit d’une herbe qui lui avoit fait connoître Minerve. Ce fut aussi avec cette herbe qu’il rendit à ses compagnons leur première forme. Il épousa ensuite Circé, et en eut Télégone. Le célèbre
-              <author key="J.-B. Rousseau">Rousseau</author> décrit ainsi les fureurs magiques de cette Nymphe :</p>
+              <author key="Rousseau J.-B.">Rousseau</author> décrit ainsi les fureurs magiques de cette Nymphe :</p>
             <quote>
               <l>Sur un autel sanglant l’affreux bûcher s’allume ;</l>
               <l>La foudre dévorante aussitôt le consume.</l>
@@ -1790,7 +1791,7 @@
               <l>De disgrâces et de travaux,</l>
               <l>Dans le pays de sa naissance</l>
               <l>Vit finir le cours de ses maux.</l>
-              <bibl>(<author key="J.-B. Rousseau">Rousseau</author>.)</bibl>
+              <bibl>(<author key="Rousseau J.-B.">Rousseau</author>.)</bibl>
             </quote>
             <p>Il arriva enfin à Ithaque, où il vécut peu de temps heureux. Il remit ses états à son fils Télémaque, et périt par la main de Télégone, qu’il avoit eu de Circé.</p>
             <p>Pénélope, son épouse, avoit, pour amuser ses amans jusqu’au retour d’Ulysse, imaginé un moyen ; ce fut de leur promettre d’épouser l’un d’eux, lorsque la tapisserie qu’elle avoit commencée, seroit finie. Elle défaisoit la nuit ce qu’elle avoit fait le jour.</p>

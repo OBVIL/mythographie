@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T16:00:51+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Edwards (1883)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>A Hand-Book of Mythology for the Use of Schools and Academies</title>
-        <author key="Edwards, S. A.">S. A. Edwards</author>
+        <author key="Edwards, S. A. (18..-19..)">S. A. Edwards</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

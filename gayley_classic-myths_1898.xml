@@ -2,12 +2,12 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T12:12:31+02:00-->
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Gaylay 1898">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Classic myths in english literature</title>
-        <author key="Gayley">Charles Mills Gayley</author>
+        <author key="Gayley, Charles Mills (1858-1932)">Charles Mills Gayley</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -8267,7 +8267,7 @@
 <<<<<<< Updated upstream
         <p><author key="Dekker">Dekker</author>, <title>The Sun’s Darling</title>; <author key="Burns">Burns</author> (as in <title>the Winter Night</title>) and other Scotch song-writers find it hard to keep Phœbus out of their verses; <author key="Spenser">Spenser</author>, <title>Epithalamion</title>; <author key="Shakespeare">Shakespeare</author>, <title>M. N. Dream</title> 2: 1 (<title>Apollo and Daphne</title>); <title>Cymbeline</title> (<title>Clotens’ Serenade</title>); <title>Love’s Labour’s Lost</title> 4: 3; <title>Taming of Shrew</title>, Induction 2; <title>Winter’s Tale</title> 2: 1; 3: 1; 3: 2; <title>Titus Andron.</title> 4: 1; <author key="Drayton">Drayton</author>, <title>Song 8</title>; <author key="Tickell">Tickell</author>, <title>To Apollo making Love</title>; <author key="Swift">Swift</author>, <title>Apollo Outwitted</title>; <author key="Pope">Pope</author>, <title>Essay on Criticism</title> 34; <title>Dunciad</title> 4: 116; <title>Prologue to Satires</title> 231; <title>Miscellaneous</title> 7: 16; <author>Armstrong</author>, <title>The Art of Preserving Health</title>.</p>
         <p><hi rend="b">Poems</hi>. — <author key="Drummond">Drummond of Hawthornden</author>, <title>Song to Phœbus</title>; <author key="Keats">Keats</author>, <title>Hymn to Apollo</title>; <author key="Robinson">A. Mary F. Robinson</author>, <title>A Search for Apollo</title>; <title>In Apollo’s Garden</title>; <author key="Shelley">Shelley</author>’s <title>Homer’s Hymn to Apollo</title>; <author key="De Vere">Aubrey de Vere</author>, <title>Lines under Delphi</title>; <author key="L. Morris">Lewis Morris</author>, <title>Apollo</title>, in <title>the Epic of Hades</title>; <author key="Dixon">R. W. Dixon</author>, <title>Apollo Pythius</title>.</p>
-        <p><hi rend="b">The Python</hi>. — <author key="Milton">Milton</author>, <title>P. L.</title> 10: 531; <author key="Shelley">Shelley</author>’s <title>Adonais</title>. <hi rend="b">Oracles</hi>. — <author key="Milton">Milton</author>, <title>P. L.</title> 1: 12, 515; 5: 382; 10: 182; <title>Paradise Regained</title> 1: 395, 430, 456, 463; 3: 13; 4: 275; <title>Hymn to Nativity</title> 173. In <author key="Cowper">Cowper</author>’s poem of <title>Yardley Oak</title> there are mythological allusions appropriate to this subject. On Dodona, <author key="Byron">Byron</author>, <title>Childe Harold</title> 2: 53; <author key="A. Tennyson">Tennyson</author>, <title>The Talking Oak</title>. <author key="Byron">Byron</author> alludes to the oracle of Delphi when speaking of <author key="J.-B. Rousseau">Rousseau</author>, whose writings he conceives did much to bring on the French revolution: <title>Childe Harold</title> 3: 81, —</p>
+        <p><hi rend="b">The Python</hi>. — <author key="Milton">Milton</author>, <title>P. L.</title> 10: 531; <author key="Shelley">Shelley</author>’s <title>Adonais</title>. <hi rend="b">Oracles</hi>. — <author key="Milton">Milton</author>, <title>P. L.</title> 1: 12, 515; 5: 382; 10: 182; <title>Paradise Regained</title> 1: 395, 430, 456, 463; 3: 13; 4: 275; <title>Hymn to Nativity</title> 173. In <author key="Cowper">Cowper</author>’s poem of <title>Yardley Oak</title> there are mythological allusions appropriate to this subject. On Dodona, <author key="Byron">Byron</author>, <title>Childe Harold</title> 2: 53; <author key="A. Tennyson">Tennyson</author>, <title>The Talking Oak</title>. <author key="Byron">Byron</author> alludes to the oracle of Delphi when speaking of <author key="Rousseau J.-B.">Rousseau</author>, whose writings he conceives did much to bring on the French revolution: <title>Childe Harold</title> 3: 81, —</p>
 =======
         <p>
           <author>Dekker</author>, <title>The Sun’s Darling</title>;

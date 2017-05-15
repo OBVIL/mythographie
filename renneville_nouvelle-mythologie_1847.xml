@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-11-13T19:54:16+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Renneville (1847)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Nouvelle mythologie du jeune âge</title>
-        <author key="Renneville, Sophie de">Sophie de Renneville</author>
+        <author key="Renneville, Sophie de (1772-1822)">Sophie de Renneville</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -185,7 +186,7 @@
           <l>De ses bienfaits nouveaux nos arbres sont parés,</l>
           <l>D’une herbe verdoyante elle couvre nos prés.</l>
           <bibl>
-            <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+            <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
         </quote>
         <p>Cybèle eut aussi le nom de <hi rend="i">Rhea</hi>, du mot grec <hi rend="i">rheo</hi>, qui signifie <hi rend="i">couler</hi>, parce que c’est de la terre que toutes choses proviennent. On représente ordinairement cette déesse assise, pour montrer la stabilité de la terre, portant un disque ou un tambour, symbole des vents qu’elle renferme : on lui donnait une couronne en forme de tour ; elle était entourée d’arbres et d’un nombre d’animaux de différentes espèces.</p>
         <p>On nommait les fêtes de Cybèle <hi rend="i">Megalesia</hi>, et ses prêtres <hi rend="i">Galli</hi>, à cause d’un certain fleuve de Phrygie de même nom. On prétend que dès qu’ils avaient bu de l’eau de ce fleuve, ils entraient en fureur jusqu’à se déchirer à coups de couteaux ; ils tournaient la tête en rond, en avançant les uns contre les autres, et se heurtaient comme des béliers. Le nom de <hi rend="i">Curètes</hi> vient, dit-on, de l’île de Crète, où ils avaient élevé Jupiter. On les nommait aussi <hi rend="i">Dactyles</hi>, parce que, pour empêcher que Saturne n’entendit les cris de Jupiter, que Cybèle leur avait confié, ils chantaient des vers de leur invention, dont les mesures inégales imitaient les temps du pied nommé par les latins <hi rend="i">dactyle</hi> ; ou, selon d’autres, du mot grec qui signifie un <hi rend="i">doigt</hi> ; parce qu’au commencement ils étaient dix. Ces prêtres célébraient les fêtes de Cybèle avec des cris confus, au bruit des tambours, des fifres, des flûtes et d’autres pareils instrumens. A Rome, les fêtes de Cybèle étaient célébrées par les dames romaines dans un temple qui était en un lieu retiré, qu’on appelait <hi rend="i">Opertum</hi>, c’est-à-dire, <hi rend="i">lieu caché</hi> ; il n’était pas permis aux hommes d’y entrer.</p>
@@ -309,7 +310,7 @@
           <l>N’en doutons point, la curiosité</l>
           <l>Fut le canal de notre adversité.</l>
           <bibl>
-            <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+            <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
         </quote>
         <p>Jupiter se fit adorer par la douceur de son règne. Alors commença le siècle qui succéda au siècle d’or, c’est-à-dire, que la vertu régnait encore sur la terre, mais avec moins d’empire qu’au siècle précédent.</p>
         <quote>
@@ -403,7 +404,7 @@
           <l>    Que, sous nos marteaux enflammés,</l>
           <l>    A grand bruit l’enclume résonne.</l>
           <bibl>
-            <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+            <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
         </quote>
         <p>On institua des fêtes en l’honneur de Vulcain ; les Athéniens les célébraient avec beaucoup de pompe. Ils établirent des courses, appelées <hi rend="i">Lampadophories</hi> du mot <hi rend="i">Lampadophore</hi>, qui signifie porte-flambeau ; ces courses étaient une espèce de joute.</p>
         <p>On représente quelquefois Vulcain appuyé sur une enclume, et ayant à ses pieds l’aigle de Jupiter, prêt à porter la foudre. Dans les anciens monumens, il paraît barbu, les cheveux négligés, en habit court, tenant de la main droite un marteau, et de la gauche des tenailles.</p>
@@ -479,7 +480,7 @@
           <l>Elle ne va plus qu’à sa suite,</l>
           <l>Elle se précipite après lui.</l>
           <bibl>
-            <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+            <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
         </quote>
         <p>Minerve eut, dit-on, un différend avec Neptune, au sujet du nom qu’il fallait donner à la ville d’Athènes. Les douze grands dieux, devenus arbitres, décidèrent que celui des deux qui produirait la chose la plus utile à la ville, lui donnerait son nom. Neptune frappa la terre de son trident, et il en sortit un cheval ; Minerve lui fit produire un olivier. La déesse remporta les suffrages ; parce que la paix, dont l’olivier est le symbole, vaut mieux que la guerre, dont le cheval est l’emblème.</p>
         <p>Minerve, ainsi que Vesta, présidait à la virginité. On lui consacrait l’olivier, parce que les sciences et les arts animent la paix. On représente cette déesse ayant sur la tête un casque surmonté d’une chouette, tenant d’une main une pique, et l’égide de l’autre ; c’était un bouclier couvert de la peau d’un monstre nommé <hi rend="i">Égide</hi>, qui vomissait des tourbillons de flammes. Dans la suite, la déesse y fit graver la tête de Méduse.</p>
@@ -1003,7 +1004,7 @@
             <l>D’être le dieu de la vendange,</l>
             <l>Que de n’être qu’un conquérant.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -1487,7 +1488,7 @@
             <l>    Son bras sanguinaire est armé,</l>
             <l>Et son front monstrueux est orné de vipères.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
           </quote>
           <p>Ces trois sœurs sont vierges. On les dit filles de l’Achéron et de la Nuit. Leur robe, souillée de sang, est tantôt noire tantôt blanche ; noire quand elles sont irritées, et alors on les appelle <hi rend="i">Némèses</hi>, furieuses ; blanche, quand elles s’adoucissent, et on les nomme <hi rend="i">Euménides</hi>, bienfaisantes.</p>
           <p>Leur ministère ne se borne pas à châtier des ombres criminelles ; souvent elles volent au séjour des vivans, planent sur la tête du coupable, et lui brillent le sein, commençant pour lui sur la terre les supplices éternels du Tartare.</p>
@@ -1536,7 +1537,7 @@
               <l>         Les vils esclaves et les rois,</l>
               <l>Les mène aux champs heureux ou les livre à Mégère.</l>
               <bibl>
-                <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+                <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
             </quote>
           </div>
           <div>
@@ -1561,7 +1562,7 @@
             <l>Parmi les jeux, ces ombres fortunées</l>
             <l>Coulent en paix leurs saintes destinées.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -2064,7 +2065,7 @@
             <l>Consacrés par les sacrifices</l>
             <l>Et les hommages des mortels ?</l>
             <bibl>
-              <author key="J.-B. Rousseau"/>
+              <author key="Rousseau J.-B."/>
             </bibl>
           </quote>
           <p>Le même poète, en parlant de l’inconstance de cette déesse, dit ailleurs :</p>
@@ -2078,7 +2079,7 @@
             <l>Le seul remède à ses caprices,</l>
             <l>C’est de s’y tenir préparé.</l>
             <bibl>
-              <author key="J.-B. Rousseau"/>
+              <author key="Rousseau J.-B."/>
             </bibl>
           </quote>
         </div>
@@ -2119,7 +2120,7 @@
             <l>Et nous lui répondons les éloges coupables</l>
             <l>             Qui lui sont adressés.</l>
             <bibl>
-              <author key="J.-B. Rousseau">Rousseau</author>.</bibl>
+              <author key="Rousseau J.-B.">Rousseau</author>.</bibl>
           </quote>
         </div>
         <div>

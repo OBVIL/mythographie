@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-14T16:42:12+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Drioux (1850)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Précis élémentaire de mythologie</title>
-        <author key="Drioux, Claude-Joseph">Claude-Joseph Drioux</author>
+        <author key="Drioux, Claude-Joseph (1820-1898)">Claude-Joseph Drioux</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -125,7 +126,7 @@
               <l>De ce grand tout animer les parties,</l>
               <l>Le ciel reçut, en son vaste contour,</l>
               <l>Les feux brillants de la nuit et du jour.
-                <author key="J.-B. Rousseau"/></l>
+                <author key="Rousseau J.-B."/></l>
             </quote>
             <p>4. L’Ecriture sainte nous raconte comment en six jours Dieu fit sortir du chaos informe l’univers et toutes ses merveilles. Mais les Grecs ont défiguré par leurs fables ce simple et sublime récit. Le Chaos, disent-ils, enfanta la Nuit, et la Nuit épousa l’Achéron, le fleuve des enfers. On regardait la Nuit comme la mère des dieux et des hommes. On lui rendait un culte solennel, et l’on immolait sur ses autels des brebis noires, pour signifier que cette déesse était la reine des ténèbres, et un coq, parce que cet oiseau annonce pendant la nuit le retour du jour. On représentait la Nuit avec un flambeau à la main, des ailes de chauve-souris et un manteau parsemé d’étoiles.</p>
             <p>5. La Terre parut ensuite. Elle enfanta le Ciel, Uranus, avec sa voûte étoilée dont les poëtes ont fait le palais des dieux, les montagnes dont les vallées devaient être peuplées de nymphes, et la mer avec ses abîmes immenses. Elle donna aussi naissance aux fameux Cyclopes Bronté, Stérope et Argé qui devaient forger les foudres de Jupiter. Ce qui signifie sans doute que ce sont les vapeurs sorties de la terre qui produisent le tonnerre et les éclairs.</p>
@@ -166,7 +167,7 @@
               <l>Auteur de tout ce qui doit être,</l>
               <l>Il détruit tout ce qu’il fait naître,</l>
               <l>A mesure qu’il le produit.
-                <author key="J.-B. Rousseau"/></l>
+                <author key="Rousseau J.-B."/></l>
             </quote>
             <div>
               <head>Questionnaire.</head>
@@ -218,7 +219,7 @@
               <l>De ce revers l’histoire figurée,</l>
               <l>N’en doutons point, la curiosité</l>
               <l>Fut le canal de notre adversité.
-                <author key="J.-B. Rousseau"/></l>
+                <author key="Rousseau J.-B."/></l>
             </quote>
             <p>6. Les poëtes ont multiplié à l’infini les alliances de Jupiter. Ainsi, d’après leurs fictions, Junon sa sœur aurait été sa huitième épouse. Mais rien n’empêche de voir dans tous ces mariages des allégories. Par exemple ils disent que Jupiter fit alliance avec <hi rend="i">Métis</hi> (la réflexion) et qu’il la renferma en lui-même. Il éprouva ensuite un violent mal de tête, et Minerve, la déesse des arts, sortit de son cerveau armée de pied en cap, ce qui signifie sans doute que la pensée de l’écrivain et de l’artiste ne doit se produire au jour qu’après avoir été longtemps mûrie par le travail intérieur de la réflexion. Ils ajoutent qu’il épousa <hi rend="i">Thémis</hi> (la loi) et que de cette alliance naquirent la paix, la justice, l’eunomie ou la bonne législation. De son union avec <hi rend="i">Mnémosyne</hi> (la mémoire) ils font naître les neuf Muses qui représentent les sciences et les arts. Toutes ces fictions se comprennent d’elles-mêmes.</p>
             <p>7. Mais, indépendamment de toutes ces alliances allégoriques, les poëtes racontent encore du souverain des dieux une foule de métamorphoses qu’ils ont sans doute imaginées pour ajouter à sa célébrité et à sa grandeur. Nous ne rapporterons pas ici ces actions infâmes qui supposent dans le maître du ciel et de la terre les passions les plus viles et les plus odieuses. C’est assez d’en rappeler l’existence pour faire connaître jusqu’à quel point le monde était dégradé.</p>
@@ -414,7 +415,7 @@
               <l>Monstre nourri de sang, cœur abreuvé de fiel,</l>
               <l>Plus digne de régner sur les bords du Cocyte,</l>
               <l>Que de tenir ta place entre les dieux du ciel.
-                <author key="J.-B. Rousseau"/></l>
+                <author key="Rousseau J.-B."/></l>
             </quote>
             <p>2. Cette colère du souverain de l’Olympe avait ses motifs dans la lâcheté du dieu de la guerre. Car, si l’on en juge par ses exploits, cet immortel s’était montré peu digne du titre dont il était revêtu. Dans le combat des géants, il avait été fait prisonnier, et il avait fallu que Mercure vint à son aide pour lui rendre la liberté. Dans la guerre de Troie, il fut blessé par les flèches de Diomède. Dans sa douleur, il poussa des cris plus forts que la voix de dix mille guerriers, et c’est alors que Jupiter lui adressa les violents reproches que le poëte vient d’exprimer.</p>
             <p>3. Aussi les Grecs, qui ont inventé ces fictions, avaient plus de confiance dans l’éloquence du dieu de la guerre que dans sa valeur. Car ils nous rapportent que, Mars ayant tué le fils de Neptune, Halirrothius, l’affaire fut évoquée au conseil des dieux qui se réunit à Athènes pour juger ce procès. Le fait était certain, Mars ne pouvait le nier. Néanmoins il plaida sa cause avec tant d’art qu’il fut absous. On bâtit un palais à l’endroit même où cette affaire avait été discutée, et on y établit un tribunal qui prit le nom d’<hi rend="i">Aréopage</hi>, parce que les Grecs appelaient Mars, <hi rend="i">Arès</hi>. Seulement, pour mettre les juges à l’abri des séductions du talent, on défendit à tous ceux qui comparaissaient devant ce tribunal d’avoir recours à l’éloquence et à ses prestiges.</p>
@@ -537,7 +538,7 @@
               <l>S’efforce d’échapper à la vue incertaine</l>
               <l>        Des mortels indiscrets.</l>
               <bibl>
-                <author key="J.-B. Rousseau"><hi rend="sc">Rousseau</hi></author>.</bibl>
+                <author key="Rousseau J.-B."><hi rend="sc">Rousseau</hi></author>.</bibl>
             </quote>
             <p>Pour le contraindre à parler, il fallait le surprendre endormi et le lier de manière à lui faire reprendre sa forme première. C’est ainsi que le berger Aristée lui ravit le secret de faire renaître les abeilles.
               <author key="Virgile">Virgile</author> a merveilleusement raconté cette fable dans ses <title>Géorgiques</title>.</p>
@@ -755,7 +756,7 @@
               <l>Et nous lui répondons des éloges coupables</l>
               <l>            Qui nous sont adressés.</l>
               <bibl>
-                <author key="J.-B. Rousseau"><hi rend="sc">Rousseau</hi></author>.</bibl>
+                <author key="Rousseau J.-B."><hi rend="sc">Rousseau</hi></author>.</bibl>
             </quote>
             <p>On la représentait avec des ailes pour exprimer la rapidité avec laquelle la peine suit ordinairement le crime. Elle était armée de serpents et de torches ardentes, et avait une couronne sur la tête.</p>
             <p>4. L’Envie, fille de la Nuit, fut toujours flétrie comme un vice infiniment honteux et déshonorant. On lui donnait la physionomie d’une vieille femme horriblement maigre, au front ridé, au teint livide, aux yeux louches et enfoncés, au regard inquiet, à l’air sombre et sinistre. Sa tête était couverte de serpents au lieu de cheveux ; elle tenait trois serpents d’une main et de l’autre une hydre. Un reptile monstrueux lui dévorait le sein et lui inspirait son poison.</p>
@@ -771,7 +772,7 @@
               <l>Secouant leurs flambeaux horribles,</l>
               <l>Marchent sans ordre à ses côtés.</l>
               <bibl>
-                <author key="J.-B. Rousseau"><hi rend="sc">Rousseau</hi></author>.</bibl>
+                <author key="Rousseau J.-B."><hi rend="sc">Rousseau</hi></author>.</bibl>
             </quote>
             <p>5. La Discorde portait chez les Grecs le nom d’<hi rend="i">Eris</hi>. Elle était sans cesse occupée à semer le trouble et la guerre parmi les hommes.
               <quote>
@@ -840,7 +841,7 @@
               <l>Va chez tous les peuples du monde</l>
               <l>Semer le bruit et la terreur.</l>
               <bibl>
-                <author key="J.-B. Rousseau"><hi rend="sc">Rousseau</hi></author>.</bibl>
+                <author key="Rousseau J.-B."><hi rend="sc">Rousseau</hi></author>.</bibl>
             </quote>
             <p>7. Ovide décrit ainsi le palais de la Renommée :
               <quote>« Au milieu de l’univers, entre l’Océan, les terres et les plaines célestes, aux confins de ces trois mondes, il est un lieu où l’on voit tout ce qui se passe dans les autres lieux, quelle que soit leur distance, et où l’on entend tout ce qui se dit. C’est là qu’habite la Renommée. Elle s’est choisi un palais sur le sommet d’une montagne, elle l’a environné de mille issues et de mille ouvertures, et ses appartements ne sont fermés par aucune porte. Le jour et la nuit, sa demeure est ouverte. Formée tout entière d’un airain retentissant, elle résonne à tout bruit et répète toutes les paroles qu’elle entend. Au dedans point de repos, point de silence ; ce n’est cependant pas du fracas, mais un sourd et continuel murmure, comme le bruit des flots de la mer quand vous les entendez de loin, ou comme les derniers roulements de la foudre que Jupiter promène dans les nues. Là s’agite un peuple léger, là vont et viennent mille vaines rumeurs vraies ou fausses, des paroles confuses qui s’entrechoquent et repaissent les oreilles avides. Ces messagers portent partout les nouvelles ; le mensonge va croissant dans leur bouche, et ceux qui les écoulent ajoutent encore à ce qu’ils ont entendu. Là sont la Crédulité, l’Erreur téméraire, la vaine Joie, les Terreurs, la Sédition et les Bruits incertains. La déesse elle-même voit ce qui se passe dans le ciel, dans l’Océan et sur la terre, et son regard scrutateur interroge tout l’univers. »
@@ -888,7 +889,7 @@
               <l>Jamais le doux sommeil n’approche de ses yeux.</l>
               <l>Rien ne saurait tromper sa fureur vigilante.</l>
               <bibl>
-                <author key="J.-B. Rousseau"><hi rend="sc">Rousseau</hi></author>.</bibl>
+                <author key="Rousseau J.-B."><hi rend="sc">Rousseau</hi></author>.</bibl>
             </quote>
             <p>6. Avec l’aide de Médée, fille du roi Eétès, Jason parvint à terminer heureusement son entreprise. S’étant emparé de la toison d’or, il s’enfuit de Colchos avec Médée et repartit pour la Grèce. Eétès les poursuivit, et envoya contre eux son fils Absyrte. Médée saisit ce jeune prince, l’égorgea cruellement et dispersa ses membres sur le rivage. L’horreur de ce spectacle glaça d’effroi le malheureux Eétès. Il cessa ses poursuites contre Jason, et ne songea plus qu’à recueillir les restes inanimés de son fils chéri pour leur rendre les derniers honneurs.</p>
             <p>7. Jason, délivré des attaques d’Eétès, n’en fut pas plus heureux. La vengeance des dieux sembla s’être attachée aux meurtriers d’Absyrte. Une tempête affreuse les assaillit dans leur retour et les jeta au delà des colonnes d’Hercule. Téthys et les nymphes dirigèrent pourtant leurs vaisseaux à travers les écueils de Charybde et de Scylla, et la lyre harmonieuse d’Orphée les empêcha de se laisser séduire par les chants des Sirènes. Arrivés à l’île des Phéaciens, ils trouvèrent la flotte et l’armée d’Eétès dont ils trompèrent les envoyés. Une nouvelle tempête les assaillit ensuite et poussa leurs navires sur les côtes de l’Egypte. Ils furent obligés de transporter leurs vaisseaux sur leurs épaules jusqu’au lac Titonis. Mais enfin, après tous ces malheurs et toutes ces fatigues, ils débarquèrent en Thessalie à l’endroit d’où ils étaient partis. Ainsi fut terminée l’expédition des Argonautes.</p>
