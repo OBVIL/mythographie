@@ -29,8 +29,8 @@ Anassagora	Anaxagore
 Anderson, R. B.	Anderson
 Anderson’s	Anderson
 R. B. Anderson’s	Anderson
-A. Pisano	A. Pisano
-Pisano, Andrea	A. Pisano
+A. Pisano	Pisano A.
+Pisano, Andrea	Pisano A.
 Andronico Cirreste	Andronicus Cyrrhestes
 Anquetil-Duperron	Antequil-Duperron
 Charles Anthon	Anthon
@@ -77,19 +77,19 @@ Armstrong, W. J.	Armstrong
 D’Arnaud	D'Arnaud
 Arngrim Johnsson	Jónsson
 Arne Magnusson	Magnússon
-Arnold, Edwin	E. Arnold
-Arnold, Sir E.	E. Arnold
-Arnold’s	E. Arnold
-E. Arnold	E. Arnold
-Edwin Arnold	E. Arnold
-Sir Edwin Arnold	E. Arnold
-Arnold, M.	M. Arnold
-Arnold, Matthew	M. Arnold
-Id’s	M. Arnold
-M. Arn.	M. Arnold
-M. Arnold	M. Arnold
-Matthew Arnold	M. Arnold
-Matthew Arnold’s	M. Arnold
+Arnold, Edwin	Arnold E.
+Arnold, Sir E.	Arnold E.
+Arnold’s	Arnold E.
+E. Arnold	Arnold E.
+Edwin Arnold	Arnold E.
+Sir Edwin Arnold	Arnold E.
+Arnold, M.	Arnold M.
+Arnold, Matthew	Arnold M.
+Id’s	Arnold M.
+M. Arn.	Arnold M.
+M. Arnold	Arnold M.
+Matthew Arnold	Arnold M.
+Matthew Arnold’s	Arnold M.
 Ashe, Thos.	Ashe
 Thos. Ashe	Ashe
 Atenodoro	Athénodore
@@ -121,7 +121,7 @@ Barbier	Barbier
 Barnfield, Richard	Barnfield
 Richard Barnfield	Barnfield
 Barthe	Barthe
-J.-J. Barthélemy	J.-J. Barthélemy
+J.-J. Barthélemy	Barthélemy J.-J.
 Pietro Sante Bartoli	Bartoli
 Bartsch	Bartsch
 Bartsch, K. F.	Bartsch
@@ -132,19 +132,19 @@ Baude	Baude
 Sénecé	Sénecé
 Baumeister	Baumeister
 Baumeister’s	Baumeister
-Gilbert Bayes	Bayes,
+Gilbert Bayes	Bayes
 Bayle	Bayle
-Beattie, James	Beattie,
-James Beattie	Beattie,
+Beattie, James	Beattie
+James Beattie	Beattie
 Beauharnois	Beauharnois
-Beaumont	Beaumont,
-Beaumont, Francis	Beaumont,
-Beddoes, Thomas Lovell	Beddoes,
-T. L. Beddoes	Beddoes,
+Beaumont	Beaumont
+Beaumont, Francis	Beaumont
+Beddoes, Thomas Lovell	Beddoes
+T. L. Beddoes	Beddoes
 Bellotti	Bellotti
 Benfey	Benfey
-Bennett, W. C.	Bennett,
-W. C. Bennett	Bennett,
+Bennett, W. C.	Bennett
+W. C. Bennett	Bennett
 Bérenger	Bérenger
 Bergier	Bergier
 Bergk	Bergk
@@ -158,18 +158,18 @@ Bernis	Bernis
 Berosus	Bérose
 Bertaut	Bertaut
 Bertoux, Guillome	Bertoux
-Beyschlag, J. R.	Beyschlag,
-R. Beyschlag’s	Beyschlag,
-Robert Beyschlag	Beyschlag,
+Beyschlag, J. R.	Beyschlag
+R. Beyschlag’s	Beyschlag
+Robert Beyschlag	Beyschlag
 Bias	Bias
 Bi?on	Bion
 Bion	Bion
 Bion’s	Bion
 Biorn of Scardsa	Björn
 Johnson, Biorn, of Scardsa	Björn
-Blackie, J. S.	Blackie,
-J. S. Blackie	Blackie,
-J. S. Blackie’s	Blackie,
+Blackie, J. S.	Blackie
+J. S. Blackie	Blackie
+J. S. Blackie’s	Blackie
 Blake, William	Blake
 William Blake	Blake
 Bland	Bland
@@ -188,9 +188,9 @@ Borde	Borde
 Bordone	Bordone
 Bossuet	Bossuet
 Boufflers	Boufflers
-Bouguereau	Bouguereau,
-Bouguereau, A. W.	Bouguereau,
-Bouguereau’s	Bouguereau,
+Bouguereau	Bouguereau
+Bouguereau, A. W.	Bouguereau
+Bouguereau’s	Bouguereau
 Bouhier	Bouhier
 Riveri	Riveri
 Bupales	Boupalos
@@ -208,24 +208,24 @@ Brandi, Giacinto	Brandi
 Brébeuf	Brébeuf
 C. T. Brooks	Brooks
 Broome	Broome
-Browning, E. B.	E. Browning
-E. B. Browning	E. Browning
-Elizabeth Barrett Browning	E. Browning
-Mrs. Browning	E. Browning
-Mrs. Browning’s	E. Browning
-Browning	R. Browning
-Browning, R.	R. Browning
-Browning’s	R. Browning
-R. Browning	R. Browning
-Robert Browning	R. Browning
+Browning, E. B.	Browning E.
+E. B. Browning	Browning E.
+Elizabeth Barrett Browning	Browning E.
+Mrs. Browning	Browning E.
+Mrs. Browning’s	Browning E.
+Browning	Browning R.
+Browning, R.	Browning R.
+Browning’s	Browning R.
+R. Browning	Browning R.
+Robert Browning	Browning R.
 Bruneau	Bruneau
 Brunel	Brunel
-Bryant, Jacob	J. Bryant
-Jacob Bryant	J. Bryant
-Bryant	W. Bryant
-Bryant, W. C.	W. Bryant
-Bryant’s	W. Bryant
-W. C. Bryant	W. Bryant
+Bryant, Jacob	Bryant J.
+Jacob Bryant	Bryant J.
+Bryant	Bryant W.
+Bryant, W. C.	Bryant W.
+Bryant’s	Bryant W.
+W. C. Bryant	Bryant W.
 Bishop Bryniolf Sveinsson	Brynjólfur
 Bryniolf’s	Brynjólfur
 Sveinsson, Bp. Bryniolf	Brynjólfur
@@ -241,14 +241,14 @@ Budge’s	Budge
 Budgell	Budgell
 Bugge, Sophus	Bugge
 Sophus Bugge’s	Bugge
-Bulfinch, S. G.	S. G. Bulfinch
-S. G. B.	S. G. Bulfinch
-S. G. B.’s	S. G. Bulfinch
-S. G. Bulfinch	S. G. Bulfinch
-Bulfinch	T. Bulfinch
-Bulfinch, Thos.	T. Bulfinch
-Bulfinch’s	T. Bulfinch
-Thomas Bulfinch	T. Bulfinch
+Bulfinch, S. G.	Bulfinch S. G.
+S. G. B.	Bulfinch S. G.
+S. G. B.’s	Bulfinch S. G.
+S. G. Bulfinch	Bulfinch S. G.
+Bulfinch	Bulfinch Th.
+Bulfinch, Thos.	Bulfinch Th.
+Bulfinch’s	Bulfinch Th.
+Thomas Bulfinch	Bulfinch Th.
 Bupale	Bupale de Chios
 Burges	Burges
 Burges, G.	Burges
@@ -280,10 +280,10 @@ Calverley	Calverley
 Calverley, C. S.	Calverley
 Calverley’s	Calverley
 Camoens’	Camões
-Lewis Campbell’s	L. Campbell
-Campbell	T. Campbell
-Campbell, Thomas	T. Campbell
-Thos. Campbell	T. Campbell
+Lewis Campbell’s	Campbell L.
+Campbell	Campbell Th.
+Campbell, Thomas	Campbell Th.
+Thos. Campbell	Campbell Th.
 Campistron	Campistron
 Canova	Canova
 Canova, Antonio	Canova
@@ -292,10 +292,10 @@ Lord Carlisle	Carlisle
 Carlyle, Thos.	Carlyle
 Carlyle’s	Carlyle
 T. Carlyle	Carlyle
-Annibale Carracci	A. Carracci
-Carracci, Annibale	A. Carracci
-Carracci	L. Carracci
-Carracci, Ludovico	L. Carracci
+Annibale Carracci	Carracci A.
+Carracci, Annibale	Carracci A.
+Carracci	Carracci L.
+Carracci, Ludovico	Carracci L.
 La Rosalba	La Rosalba
 Castel	Castel
 Castilhon	Castilhon
@@ -354,20 +354,20 @@ A. H. Clough	Clough
 Clough	Clough
 Clough, A. H.	Clough
 Cochin	Cochin
-Coleridge	H. Coleridge
-Coleridge, Hartley	H. Coleridge
-H. Coleridge	H. Coleridge
-Hartley Coleridge	H. Coleridge
-Coleridge, S. T.	S. T. Coleridge
+Coleridge	Coleridge H.
+Coleridge, Hartley	Coleridge H.
+H. Coleridge	Coleridge H.
+Hartley Coleridge	Coleridge H.
+Coleridge, S. T.	Coleridge S. T.
 Hon. John Collier	Collier
 Colin d’Harleville	Colin d’Harleville
-Collins, Mortimer	M. Collins
-Mortimer Collins	M. Collins
-Collins	W. Collins
-Collins, William	W. Collins
-Collins’	W. Collins
-Collins, W. L.	W. L. Collins
-W. L. Collins’	W. L. Collins
+Collins, Mortimer	Collins M.
+Mortimer Collins	Collins M.
+Collins	Collins W.
+Collins, William	Collins W.
+Collins’	Collins W.
+Collins, W. L.	Collins W.
+W. L. Collins’	Collins W.
 Colluto Licopolitano	Collouthos
 Coluthus	Collouthos
 Colman	Colman
@@ -381,7 +381,7 @@ Cooke’s	Cooke
 Thomas Cooke	Cooke
 Corinne	Corinne
 Corneille	Corneille
-Th. Corneille	Th. Corneille
+Th. Corneille	Corneille Th.
 Van Haarlem, Cornelis	Cornelis
 B. W. Procter	Cornwall
 Barry Cornwall	Cornwall
@@ -400,11 +400,11 @@ Cowley	Cowley
 Cowper	Cowper
 Cowper, Wm.	Cowper
 Cowper’s	Cowper
-Cox	G. W. Cox
-Cox, the Rev. Sir G. W.	G. W. Cox
-Cox’s	G. W. Cox
-G. W. Cox’s	G. W. Cox
-Rev. Sir G. W. Cox	G. W. Cox
+Cox	Cox G. W.
+Cox, the Rev. Sir G. W.	Cox G. W.
+Cox’s	Cox G. W.
+G. W. Cox’s	Cox G. W.
+Rev. Sir G. W. Cox	Cox G. W.
 Crabbe	Crabbe
 Crabbe, George	Crabbe
 George Crabbe	Crabbe
@@ -413,8 +413,8 @@ Oliver Crane	Crane
 James Cranstoun	Cranstoun
 Creech	Creech
 Cresila	Crésilas
-Creuzer	G. F. Creuzer
-Creuzer, Prof.	G. F. Creuzer
+Creuzer	Creuzer G. F.
+Creuzer, Prof.	Creuzer G. F.
 Croxall	Croxall
 Croxall’s	Croxall
 Ctésiphon	Ctésiphon
@@ -438,9 +438,9 @@ Dante	Dante
 Dante, Alighieri	Dante
 Dante:	Dante
 Dante’s	Dante
-Darwin	Darwin
-Darwin, Erasmus	Darwin
-Darwin’s	Darwin
+Darwin	Darwin E.
+Darwin, Erasmus	Darwin E.
+Darwin’s	Darwin E.
 Dasent, Sir G. W.	Dasent
 Dasent’s	Dasent
 David	David
@@ -502,9 +502,9 @@ Drobecq	Drobecq
 Drummond	Drummond
 Drummond of Hawthornden	Drummond
 Drummond, Wm., of Hawthornden	Drummond
-Dryden	J. Dryden
-Dryden, J.	J. Dryden
-Dryden’s	J. Dryden
+Dryden	Dryden J.
+Dryden, J.	Dryden J.
+Dryden’s	Dryden J.
 Mademoiselle du Puget	Mademoiselle du Puget
 Rochefort	Rochefort
 Fontanelles	Fontanelles
@@ -515,16 +515,16 @@ Duruy’s	Duruy
 Dyer	Dyer
 Dyer, John	Dyer
 Édom	Édom
-Edwards, Miss A. B.	A. B. Edwards
-Miss A. B. Edwards’	A. B. Edwards
+Edwards, Miss A. B.	Edwards A. B.
+Miss A. B. Edwards’	Edwards A. B.
 E. Magnússon	Eiríkur Magnússon
 Eirikr Magnusson	Eiríkur Magnússon
 Eirikr Magnússon	Eiríkur Magnússon
 Magnusson, Eirikr	Eiríkur Magnússon
 Magnusson’s	Eiríkur Magnússon
 Elien	Élien
-Eliot, George	G. Eliot
-George Eliot’s	G. Eliot
+Eliot, George	Eliot G.
+George Eliot’s	Eliot G.
 Ellis, Robinson	Ellis
 Robinson Ellis	Ellis
 Elphinston	Elphinston
@@ -584,9 +584,9 @@ Timanthe	Timanthe
 Fiske, John	Fiske
 Fiske’s	Fiske
 John Fiske	Fiske
-E. Fitzgerald	E. Fitzgerald
-Fitzgerald, M. P.	M. P. Fitzgerald
-M. P. Fitzgerald	M. P. Fitzgerald
+E. Fitzgerald	Fitzgerald E.
+Fitzgerald, M. P.	Fitzgerald M. P.
+M. P. Fitzgerald	Fitzgerald M. P.
 Josephus	Flavius Josèphe
 Flaxman	Flaxman
 Flaxman, John	Flaxman
@@ -598,7 +598,7 @@ Florian	Florian
 Fontanes	Fontanes
 De Fontenelle	Fontenelle
 Fontenelle	Fontenelle
-F. Forster	F. Forster
+F. Forster	Forster F.
 A. G. Foster-Barham	Foster-Barham
 Foster-Barham, A. G.	Foster-Barham
 Fourmont	Fourmont
@@ -614,8 +614,8 @@ Frere, J. Hookham	Frere
 Frere’s	Frere
 J. H. Frere	Frere
 J. H. Frere’s	Frere
-Frothingham	E. Frothingham
-N. L. Frothingham	N. L. Frothingham
+Frothingham	Frothingham E.
+N. L. Frothingham	Frothingham N. L.
 Fuller, S. Margaret	Fuller
 S. Margaret Fuller	Fuller
 Furtwängler	Furtwängler
@@ -645,7 +645,7 @@ Bologna, Giovanni da	Giambologna
 Giov. di Bologna	Giambologna
 Giovanni di Bologna	Giambologna
 Gilbert	Gilbert
-Giordano, Luca	L. Giordano
+Giordano, Luca	Giordano L.
 Giorgione	Giorgione
 Girodet	Girodet
 Gladstone	Gladstone
@@ -670,9 +670,9 @@ Edmund Gosse’s	Gosse
 Gosse	Gosse
 Gosse, E. W.	Gosse
 Gosse’s	Gosse
-Gray	D. Gray
-Gray’s	D. Gray
-Gray, Thos.	T. Gray
+Gray	Gray D.
+Gray’s	Gray D.
+Gray, Thos.	Gray Th.
 Greene	Greene
 Greene, Robert	Greene
 Greenough	Greenough
@@ -750,8 +750,8 @@ Hirt	Hirt
 Hirt. A.	Hirt
 Occleve	Hoccleve
 Occleve, Thomas	Hoccleve
-Hoffmann, J.	J. Hoffmann
-J. Hoffmann	J. Hoffmann
+Hoffmann, J.	Hoffmann J.
+J. Hoffmann	Hoffmann J.
 Philemon Holland	Holland
 Holmes	Holmes
 Holmes, O. W.	Holmes
@@ -779,14 +779,14 @@ Hübner, E.	Hübner
 Huet	Huet
 John Hughes	Hughes
 Humbert de Genève	Humbert de Genève
-H. H.	J. H. Hunt
-H. H. (Helen Hunt Jackson)	J. H. Hunt
-Jackson, Helen Hunt	J. H. Hunt
-Mrs. H. H. Jackson	J. H. Hunt
-Hunt	L. Hunt
-Hunt, Leigh	L. Hunt
-Hunt’s	L. Hunt
-Leigh Hunt	L. Hunt
+H. H.	Hunt J. H.
+H. H. (Helen Hunt Jackson)	Hunt J. H.
+Jackson, Helen Hunt	Hunt J. H.
+Mrs. H. H. Jackson	Hunt J. H.
+Hunt	Hunt L.
+Hunt, Leigh	Hunt L.
+Hunt’s	Hunt L.
+Leigh Hunt	Hunt L.
 Hy-gi’nus	Hygin
 Hygin	Hygin
 Hygin.	Hygin
@@ -797,7 +797,7 @@ Ibico di Reggio	Ibycos
 Ibycus	Ibycos
 Dans le texte	Clé
 J. Ilberg	Ilberg
-Imbert	I. Barthélemy
+Imbert	Imbert
 Ingelow	Ingelow
 Ingelow, Jean	Ingelow
 Jean Ingelow	Ingelow
@@ -807,8 +807,8 @@ J. D. A. Ingres	Ingres
 Iriarte, Tomas de	Iriarte
 Tomas de Iriarte	Iriarte
 Livani	Livani
-O. Jahn’s	J. Otto
-Mr. Jasper	J. Jasper
+O. Jahn’s	Otto J.
+Mr. Jasper	Jasper J.
 Sophie de Jaucourt	Sophie de Jaucourt
 Jean de las Sanctas	Jean de las Sanctas
 Jebb	Jebb
@@ -816,21 +816,21 @@ Jebb, R. C.	Jebb
 R. C. Jebb’s	Jebb
 Christ	Jésus-Christ
 F. B. Jevons’	Jevons
-Dr. Johnson	S. Johnson
-Johnson, Samuel	S. Johnson
-Johnson’s	S. Johnson
-A. Keith Johnston’s	A. K. Johnston
-Johnston, T. C.	T. C. Johnston
-T. C. Johnston’s	T. C. Johnston
-William Preston Johnston	W. P. Johnston
-Ben Jonson	B. Jonson
-Ben Jonson’s	B. Jonson
-Jonson	B. Jonson
-Jonson, B.	B. Jonson
+Dr. Johnson	Johnson S.
+Johnson, Samuel	Johnson S.
+Johnson’s	Johnson S.
+A. Keith Johnston’s	Johnston A. K.
+Johnston, T. C.	Johnston T. C.
+T. C. Johnston’s	Johnston T. C.
+William Preston Johnston	Johnston W. P.
+Ben Jonson	Jonson B.
+Ben Jonson’s	Jonson B.
+Jonson	Jonson B.
+Jonson, B.	Jonson B.
 Johnsson, Arngrim	Jonsson
 Jordaens, Jaques	Jordaens
-Dr. W. Jordan’s	W. Jordan
-Jordan, W.	W. Jordan
+Dr. W. Jordan’s	Jordan W.
+Jordan, W.	Jordan W.
 Jordanes	Jordanes
 Jossaud	Jossaud
 Jotham	Jotham
@@ -844,16 +844,16 @@ Keats	Keats
 Keats, John	Keats
 Keats’	Keats
 Keats’s	Keats
-Keightley’s	T. Keightley
+Keightley’s	Keightley Th.
 Keil’s	Keil
 F. Keller	Keller
 Keller, F.	Keller
 Kelsey’s	Kelsey
 Kiepert’s	Kiepert
-H. King	H. King
-H. King’s	H. King
-King, H.	H. King
-William King	W. King
+H. King	King H.
+H. King’s	King H.
+King, H.	King H.
+William King	King W.
 Charles Kingsley	Kingsley
 Charles Kingsley’s	Kingsley
 Kingsley	Kingsley
@@ -1101,33 +1101,33 @@ Montaigne	Montaigne
 Montéclair	Montéclair
 Monti	Monti
 Giov. Angelo Montorsoli	Montorsoli
-Auber Forestier	A. W. Moore
-Forestier, Auber	A. W. Moore
-Moore	Th. Moore
-Moore, Thomas	Th. Moore
-Moore’s	Th. Moore
-T. Moore	Th. Moore
-Thomas Moore	Th. Moore
-Thomas Moore’s	Th. Moore
-Thos. Moore’s	Th. Moore
+Auber Forestier	Moore A. W.
+Forestier, Auber	Moore A. W.
+Moore	Moore Th.
+Moore, Thomas	Moore Th.
+Moore’s	Moore Th.
+T. Moore	Moore Th.
+Thomas Moore	Moore Th.
+Thomas Moore’s	Moore Th.
+Thos. Moore’s	Moore Th.
 Moreau	Moreau
-E. Morel	E. Morel
-H. Morel	H. Morel
+E. Morel	Morel E.
+H. Morel	Morel H.
 Morley, H.	Morley
 Morley’s	Morley
-L. Morris	L. Morris
-Lewis Morris	L. Morris
-Lewis Morris’	L. Morris
-Morris	L. Morris
-Morris, Lewis	L. Morris
-Morris, Sir Lewis	L. Morris
-Sir Lewis Morris	L. Morris
-Morris, William	W. Morris
-W. Morris	W. Morris
-William Morris	W. Morris
-William Morris’	W. Morris
-Wm. Morris	W. Morris
-Wm. Morris’	W. Morris
+L. Morris	Morris L.
+Lewis Morris	Morris L.
+Lewis Morris’	Morris L.
+Morris	Morris L.
+Morris, Lewis	Morris L.
+Morris, Sir Lewis	Morris L.
+Sir Lewis Morris	Morris L.
+Morris, William	Morris W.
+W. Morris	Morris W.
+William Morris	Morris W.
+William Morris’	Morris W.
+Wm. Morris	Morris W.
+Wm. Morris’	Morris W.
 E. A. Morshead	Morshead
 E. D. A. Morshead’s	Morshead
 Morshead, E. D. A.	Morshead
@@ -1138,16 +1138,16 @@ Motherwell, W	Motherwell
 Motherwell’s	Motherwell
 Muir, J.	Muir
 Muir’s	Muir
-Max Müller	F. M. Müller
-Max Müller’s	F. M. Müller
-Müller	F. M. Müller
-Müller, F. Max	F. M. Müller
-Müller’s	F. M. Müller
-Professor Müller	F. M. Müller
-H. D. Müller	H. D. Müller
-Müller, H. D.	H. D. Müller
-Müller, C. O.	K. O. Müller
-O. Müller	K. O. Müller
+Max Müller	Müller F. M.
+Max Müller’s	Müller F. M.
+Müller	Müller F. M.
+Müller, F. Max	Müller F. M.
+Müller’s	Müller F. M.
+Professor Müller	Müller F. M.
+H. D. Müller	Müller H. D.
+Müller, H. D.	Müller H. D.
+Müller, C. O.	Müller K. O.
+O. Müller	Müller K. O.
 Murray	Murray
 Murray, A. S.	Murray
 Murray’s	Murray
@@ -1176,10 +1176,10 @@ Neide, E.	Neide
 Sir Isaac Newton	Newton
 Newton	Newton
 Nicander	Nicandre
-Hon. Roden Noel	R. Noel
-Hon. Roden Noel’s	R. Noel
-Noel, Hon. Roden	R. Noel
-Roden Noel	R. Noel
+Hon. Roden Noel	Noel R.
+Hon. Roden Noel’s	Noel R.
+Noel, Hon. Roden	Noel R.
+Roden Noel	Noel R.
 M. Nonnenbruch	Nonnenbruch
 Nonno	Nonnos de Panopolis
 Nonno di Panopoli	Nonnos de Panopolis
@@ -1232,9 +1232,9 @@ Patmore, Coventry	Patmore
 Paul	St. Paul
 St. Paul’s	St. Paul
 Paul, fils	Paul, fils
-Hermann Paul	H. Paul
-Paul, Hermann	H. Paul
-Paul’s	H. Paul
+Hermann Paul	Paul H.
+Paul, Hermann	Paul H.
+Paul’s	Paul H.
 E. J. Paupion’s	Paupion
 Paupion, E. J.	Paupion
 Paus.	Pausanias
@@ -1322,11 +1322,11 @@ Potter	Potter
 Potter, R.	Potter
 Potter’s	Potter
 Poussin, Nicholas	Poussin
-F. Y. Powell	F. Y. Powell
-Powell	F. Y. Powell
-Powell’s	F. Y. Powell
-J. W. Powell	J. W. Powell
-J. W. Powell’s	J. W. Powell
+F. Y. Powell	Powell F. Y.
+Powell	Powell F. Y.
+Powell’s	Powell F. Y.
+J. W. Powell	Powell J. W.
+J. W. Powell’s	Powell J. W.
 E. J. Poynter	Poynter
 Poynter	Poynter
 Poynter, E. J.	Poynter
@@ -1367,7 +1367,7 @@ Quinto Smirneo	Quintus de Smyrne
 Quintus Smyrnæus	Quintus de Smyrne
 Racine	Racine
 J. Racine	Racine
-L. Racine	L. Racine
+L. Racine	Racine L.
 Henrietta Rae	Rae
 Raleigh, Sir Walter	Raleigh
 Sir Walter Raleigh	Raleigh
@@ -1396,8 +1396,8 @@ Reynolds	Reynolds
 Riano di Creta	Rhianus de Crète
 Professor Rhys	Rhys
 Rhys, John	Rhys
-L. J. Richardson	L. J. Richardson
-Richardson, L. J.	L. J. Richardson
+L. J. Richardson	Richardson L. J.
+Richardson, L. J.	Richardson L. J.
 Rigord	Rigord
 Rigutini	Rigutini
 Riley	Riley
@@ -1406,13 +1406,13 @@ Briton Rivière	Rivière
 Rivière, Briton	Rivière
 A. Mary F. Robinson	Robinson
 Robinson, A. Mary F.	Robinson
-Randolph Rogers	R. Rogers
-Rogers, Randolph	R. Rogers
-Rogers, Samuel	S. Rogers
-S. Rogers	S. Rogers
+Randolph Rogers	Rogers R.
+Rogers, Randolph	Rogers R.
+Rogers, Samuel	Rogers S.
+S. Rogers	Rogers S.
 Rollin	Rollin
-Giulio Romano	G. Romano
-Romano, Giulio Pippi	G. Romano
+Giulio Romano	Romano G.
+Romano, Giulio Pippi	Romano G.
 Roman	Roman
 Roscher	Roscher
 Roscher, W. H.	Roscher
@@ -1429,8 +1429,8 @@ Rossetti, D. G.	Rossetti
 Rossetti’s	Rossetti
 Tresséol	Tresséol
 Roucher	Roucher
-J.-B. Rousseau	J.-B. Rousseau
-Rousseau	J.-B. Rousseau
+J.-B. Rousseau	Rousseau J.-B.
+Rousseau	Rousseau J.-B.
 H. Roux Aîné	Roux
 Rowe’s	Rowe
 Roy	Roy
@@ -1529,7 +1529,6 @@ Snorri Sturlason	Snorri
 Snorri’s	Snorri
 Snorron	Snorri
 Sturlason, Snorri	Snorri
-Sturleson	x
 Socrate	Socrate
 Solimena, Francesco	Solimena
 Solomon J. Solomon	Solomon
@@ -1547,8 +1546,8 @@ Southey’s	Southey
 Spenser	Spenser
 Spenser, Edmund	Spenser
 Spenser’s	Spenser
-Mrs. St. John	A. R. St. John
-St. John	A. R. St. John
+Mrs. St. John	St. John A. R.
+St. John	St. John A. R.
 Sta’tius	Stace
 Stat.	Stace
 Statius	Stace
@@ -1603,12 +1602,12 @@ Bayard Taylor	Taylor
 Bayard Taylor’s	Taylor
 Taylor, Bayard	Taylor
 Taylor’s	Taylor
-Tennyson	A. Tennyson
-Tennyson, Alfred, Lord	A. Tennyson
-Tennyson’s	A. Tennyson
-F. Tennyson	F. Tennyson
-Frederick Tennyson	F. Tennyson
-Tennyson, Frederick	F. Tennyson
+Tennyson	Tennyson A.
+Tennyson, Alfred, Lord	Tennyson A.
+Tennyson’s	Tennyson A.
+F. Tennyson	Tennyson F.
+Frederick Tennyson	Tennyson F.
+Tennyson, Frederick	Tennyson F.
 Térence	Térence
 Terpandro	Terpandre
 E. Teschendorff	Teschendorff
@@ -1624,9 +1623,9 @@ Theocritus of Sicily	Théocrite
 Teodette	Théodecte de Phasélis
 Theognis	Théognis
 Thierry	Thierry
-Thomas	A. L. Thomas
-Edith M. Thomas	Thomas
-Thomas, Edith M.	Thomas
+Thomas	Thomas A. L.
+Edith M. Thomas	Thomas E.
+Thomas, Edith M.	Thomas E.
 James Thomson	Thomson
 Thomson	Thomson
 Thomson, James	Thomson
@@ -1662,11 +1661,11 @@ Metastasio	Metastasio
 Tressan	Tressan
 Trifiodoro	Tryphiodore
 Turchi, Alessandro (l’Orbetto)	Turchi
-Charles Tennyson Turner	C. T. Turner
-Turner, Charles Tennyson	C. T. Turner
-Turner	J. M. Turner
-Turner, J. M. W.	J. M. Turner
-Turner’s	J. M. Turner
+Charles Tennyson Turner	Turner C. T.
+Turner, Charles Tennyson	Turner C. T.
+Turner	Turner J. M.
+Turner, J. M. W.	Turner J. M.
+Turner’s	Turner J. M.
 E. B. Tylor	Tylor
 Tylor, E. B.	Tylor
 Tylor’s	Tylor
@@ -1743,9 +1742,9 @@ G. F. Watts’	Watts
 Watts, G. F.	Watts
 Weber, A. F.	Weber
 Weber’s	Weber
-Augusta Webster	J. A. Webster
-Webster, Augusta	J. A. Webster
-Webster	N. Webster
+Augusta Webster	Webster J. A.
+Webster, Augusta	Webster J. A.
+Webster	Webster N.
 Welcker	Welcker
 Welcker, F. G.	Welcker
 Welcker’s	Welcker
@@ -1763,9 +1762,9 @@ Wiertz	Wiertz
 Wiertz, A. J.	Wiertz
 Oscar Wilde	Wilde
 Wilde, Oscar	Wilde
-Sir Gardner Wilkinson	J. G. Wilkinson
-Wilkinson	W. C. Wilkinson
-Wilkinson, Wm. Cleaver	W. C. Wilkinson
+Sir Gardner Wilkinson	Wilkinson J. G.
+Wilkinson	Wilkinson W. C.
+Wilkinson, Wm. Cleaver	Wilkinson W. C.
 H. H. Wilson’s	Wilson
 Wilson, H. H.	Wilson
 F. W. Horn’s	Horn

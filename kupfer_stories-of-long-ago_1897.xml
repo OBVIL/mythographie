@@ -75,7 +75,7 @@
           <author key="Longfellow">Longfellow</author>,
           <author key="Lowell">Lowell</author>,
           <author>Phœbe Cary</author>, and
-          <author key="Thomas">Edith M. Thomas</author> are printed by permission of, and arrangement with, their publishers, Houghton, Mifflin, and Co.; and the poems by
+          <author key="Thomas E.">Edith M. Thomas</author> are printed by permission of, and arrangement with, their publishers, Houghton, Mifflin, and Co.; and the poems by
           <author>William Cullen Bryant</author> and
           <author>Fitz-Greene Halleck</author> by permission of D. Appleton and Co. Thanks are due also to the Century Co., in whose publication, <hi rend="i">St. Nicholas</hi>, the poem <title>“Invitation to Echo,”</title> first appeared.</p>
         <signed>G. H. K.</signed>
@@ -438,7 +438,7 @@
           <l>To escape your prison can you find no way?</l>
           <l>                                        (No way!)</l>
           <bibl>
-            <author key="Thomas"><hi rend="sc">Edith M. Thomas</hi></author>.</bibl>
+            <author key="Thomas E."><hi rend="sc">Edith M. Thomas</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -551,7 +551,7 @@
           <l>How must the heart, ah, Cupid, be,</l>
           <l>The hapless heart that’s stung by thee?”</l>
           <bibl>
-            <author key="Th. Moore"><hi rend="sc">Thomas Moore</hi></author>.</bibl>
+            <author key="Moore Th."><hi rend="sc">Thomas Moore</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -838,7 +838,7 @@
           <l>Ever honored, ever young,</l>
           <l>Thus great Pan is ever sung.</l>
           <bibl>
-            <author key="Beaumont,"><hi rend="sc">Beaumont</hi></author><hi rend="sc">and</hi>
+            <author key="Beaumont"><hi rend="sc">Beaumont</hi></author><hi rend="sc">and</hi>
             <author key="Fletcher"><hi rend="sc">Fletcher</hi></author>.</bibl>
         </quote>
       </div>
