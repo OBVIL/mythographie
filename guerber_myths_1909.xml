@@ -2,7 +2,7 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T12:27:37+02:00-->
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Guerber (1909)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Guerber (1909)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
