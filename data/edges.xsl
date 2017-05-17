@@ -32,6 +32,7 @@ id;lang;key;role;resp
     <xsl:value-of select="/*/@xml:lang"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="name(ancestor::*[self::tei:note or self::tei:quote][1])"/>
+    <xsl:value-of select="$tab"/>
     <xsl:value-of select="@role"/>
     <xsl:value-of select="$tab"/>
     <xsl:value-of select="@resp"/>
