@@ -1598,7 +1598,7 @@
               <author key="Ovide">Ovid</author>.</bibl>
           </quote>
           <p><hi rend="i">Obs.</hi> 1. — He who has furnished the poets with most materials for fable, is
-            <author>Mercury Trismegistus</author>, or three times great, king of Egypt, who lived a little after Moses. He was the author of ancient books on religion, which the Egyptians carefully preserved.</p>
+            <author key="Hermès Trismégiste">Mercury Trismegistus</author>, or three times great, king of Egypt, who lived a little after Moses. He was the author of ancient books on religion, which the Egyptians carefully preserved.</p>
           <p><hi rend="i">Obs.</hi> 2. — To understand the historical sense of the fable of Mercury, we must recollect that the ancients, not critical observers of chronology, confounded several Mercuries into one. The Mercury, son of Maia, and grandson of Atlas, reigned after Jupiter, his father, in a part of Italy and Gaul. The qualities of his mind were such that he was accounted the god of thieves, as well as the inventor of several arts; for he was sly, dissembling, crafty, and cunning. He consulted the learned, and profitted by their discourses to instruct himself in the sciences and arts. The delicate negociations, in which he was employed, caused him to be deemed the interpreter and messenger of the gods. The Gauls honoured him under the name of Theutates, and offered him human victims. The Egyptians worshipped him under the name of Thaut.</p>
           <label>Questions.</label>
           <q>Who was Mercury?</q>
@@ -2707,7 +2707,7 @@
         <p>Virtue, which alone can secure happiness, was adored by the ancients; and there are still found in the <title>fourth book of the city of God</title>, by
           <author key="Augustin">St. Augustine</author>, some traces of the worship which was paid to her. Scipio, the destroyer of Numantia, was the first who dedicated a temple to that divinity. Marcellus wished to unite in one temple, Virtue and Honour. He consulted the pontiffs, who declared, that one temple could not contain two deities so great. He therefore constructed two, contiguous to each other, so that one had to pass through the temple of Virtue in order to arrive at that of Honour. This was to teach men that they could not attain to true honour, but by the practice of virtue. None ever sacrificed to Honour without his head uncovered, and without giving marks of the utmost respect.</p>
         <p>Truth was deemed the mother of Virtue, and daughter of Time. She was represented as a young virgin, covered with a suit of clothes, the whiteness of which equalled that of snow.
-          <author>Democritus</author> said that
+          <author key="Démocrite">Democritus</author> said that
           <quote>“Truth hid herself in the bottom of a well, so that it is difficult to discover her.”</quote> — See Fig. 52.</p>
         <figure>
           <graphic url="darlington_catechism-mythology_1832_images/darlington_catechism-mythology_1832_img52.png"/>
@@ -3634,7 +3634,7 @@
           <p>The portico, more surprisingly grand and beautiful than the temple itself, is composed of sixteen columns of marble. Each of these is of rugged marble. Their height is thirty-seven feet; and their diameter, five feet. Eight columns adorn the front of the portico, and the hollow place is sustained by eight others. The Corinthian order was adopted.</p>
           <p>In the days of Pope Eugene, there was found near this edifice, a part of a head of bronze, representing Agrippa. At the same time were found a horse’s foot and a piece of a wheel, of the same metal. This discovery makes it probable, that this portico formerly sustained the statue of Agrippa, placed on a chariot with four horses.</p>
           <p>The body of the edifice, which remains still entire, is laid on foundations so solid, that nothing can shake them. A manuscript of
-            <author>a celebrated Roman architect</author>, attests that the foundations are stretched greatly beyond the edifice, and seem to form a single mass of stone.</p>
+            <author key="anonyme">a celebrated Roman architect</author>, attests that the foundations are stretched greatly beyond the edifice, and seem to form a single mass of stone.</p>
           <p>The statues and riches which once adorned it are no longer to be seen. The Emperor Constantine III. carried away the plates of gilt bronze which covered the whole vault, and Pope Urban VIII made use of the beams of the same metal which were there employed, in order to convert them into the canopy of St. Peter’s at Rome, and the gross pieces of artillery which are in the palace of St. Angelo. The statues of the gods, which filled the niches, have been plundered or concealed under ground.</p>
           <p>When the celebrated
             <author key="Michelangelo">Michael Angelo</author> had thoroughly studied the whole of the Pantheon, he was filled with indignation to think that this monument was looked upon as the greatest effort of architecture. He said to those who admired it: “I shall raise upon four pillars a temple, which may well astonish you.” It was at that time he conceived the plan of the famous cupola of St. Peter’s at Rome. It is asserted that this extraordinary man — this great painter, architect, and sculptor, made a will, in which he declared that he had given nothing to the pillars which support that cupola, but that strength which was necessary to support it; at the same time announcing, that, should their strength ever be diminished, the work would be likely to fall into ruins.</p>
@@ -4219,13 +4219,13 @@
       <div>
         <head>Conclusion.</head>
         <p><hi rend="sc">The</hi> author conceives that he cannot close his work more appropriately, than by quoting the words of
-          <author>an eminent Grecian scholar</author>, who has set forth the leading characteristics of the system of ancient mythology with remarkable ability.</p>
+          <author key="anonyme">an eminent Grecian scholar</author>, who has set forth the leading characteristics of the system of ancient mythology with remarkable ability.</p>
         <quote>
           <p>“It is asserted that vices, diseases, and evil demons, were considered deities by the ancients; and that a multitude of gods, as an object of faith, is preposterous. The first of these assertions, applies only to the corruption of the heathen religion during the decline and fall of the Roman empire; and the second originated in gross ignorance of ancient theology, and particularly that of the Greeks.</p>
           <p>“In the first place, the genuine key to this religion is the philosophy of
             <author key="Pythagore">Pythagoras</author> and
             <author key="Platon">Plato</author><anchor xml:id="footnote1"/>,<note place="bottom">For an illustration of this, see
-            <author>Taylor</author>’s translation of
+            <author key="Taylor Th.">Taylor</author>’s translation of
             <author key="Proclus">Proclus</author> <title>on the Theology</title>, and also on the <title>Timæus</title>, of
             <author key="Platon">Plato</author>.</note> which, since the destruction of the schools of the philosophers by the emperor Justinian, has been only partially studied, and imperfectly understood. For this, theology was first mystically and symbolically promulgated by
             <author key="Orphée">Orpheus</author>; was afterwards disseminated enigmatically through images by

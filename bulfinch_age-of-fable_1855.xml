@@ -88,7 +88,7 @@
         <p>But how is mythology to be taught to one who does not learn it through the medium of the languages of Greece and Rome? To devote study to a species of learning which relates wholly to false marvels and obsolete faiths is not to be expected of the general reader in a practical age like this. The time even of the young is claimed by so many sciences of facts and things that little can be spared for set treatises on a science of mere fancy.</p>
         <p>But may not the requisite knowledge of the subject be acquired by reading the ancient poets in translations? We reply, the field is too extensive for a preparatory course; and these very translations require some previous knowledge of the subject to make them intelligible. Let any one who doubts it read the first page of the “<title>Æneid</title>,” and see what he can make of “the hatred of Juno,” the “decree of the Parcæ,” the “judgment of Paris,” and the “honors of Ganymede,” without this knowledge.</p>
         <p>Shall we be told that answers to such queries may be found in notes, or by a reference to the <title>Classical Dictionary</title>? We reply, the interruption of one’s reading by either process is so annoying that most readers prefer to let an allusion pass unapprehended rather than submit to it. Moreover, such sources give us only the dry facts without any of the charm of the original narrative; and what is a poetical myth when stripped of its poetry? The story of Ceyx and Halcyone, which fills a chapter in our book, occupies but eight lines in the best (
-          <author>Smith</author>'s) <title>Classical Dictionary</title>; and so of others.</p>
+          <author key="Smith">Smith</author>'s) <title>Classical Dictionary</title>; and so of others.</p>
         <p>Our work is an attempt to solve this problem, by telling the stories of mythology in such a manner as to make them a source of amusement. We have endeavored to tell them correctly, according to the ancient authorities, so that when the reader finds them referred to he may not be at a loss to recognize the reference. Thus we hope to teach mythology not as a study, but as a relaxation from study; to give our work the charm of a story-book, yet by means of it to impart a knowledge of an important branch of education. The index at the end will adapt it to the purposes of reference, and make it a Classical Dictionary for the parlor.</p>
         <p>Most of the classical legends in this book are derived from
           <author key="Ovide">Ovid</author> and
@@ -100,7 +100,7 @@
         <p>Our book is not for the learned, nor for the theologian, nor for the philosopher, but for the reader of English literature, of either sex, who wishes to comprehend the allusions so frequently made by public speakers, lecturers, essayists, and poets, and those which occur in polite conversation.</p>
         <p>We trust our young readers will find it a source of entertainment; those more advanced a useful companion in their reading; those who travel, and visit museums and galleries of art, an interpreter of paintings and sculptures; those who mingle in cultivated society, a key to allusions which are occasionally made; and last of all, those in advanced life, pleasure in retracing a path of literature which leads them back to the days of their childhood, and revives at every step the associations of the morning of life.</p>
         <p>The permanency of those associations is beautifully expressed in the well-known lines of
-          <author key="Coleridge H.">Coleridge</author>, in “<title>The Piccolomini</title>,” Act ii. Scene 4.</p>
+          <author key="Coleridge">Coleridge</author>, in “<title>The Piccolomini</title>,” Act ii. Scene 4.</p>
         <quote>
           <l>“The intelligible forms of ancient poets,</l>
           <l>The fair humanities of old religion,</l>
@@ -170,7 +170,7 @@
           <quote>
             <l>“Hyperion’s curls, the front of Jove himself.”</l>
             <bibl>
-              <author>Shakspeare</author>.</bibl>
+              <author key="Shakespeare">Shakspere</author>.</bibl>
           </quote>
           <p>Ophion and Eurynome ruled over Olympus till they were dethroned by Saturn and Rhea.
             <author key="Milton">Milton</author> alludes to them in <title>Paradise Lost</title>. He says the heathens seem to have had some knowledge of the temptation and fall of man,</p>
@@ -435,7 +435,7 @@
               <l>The mulberries o’erload the bending boughs.”</l>
             </quote>
             <p>If any of our young readers can be so hard-hearted as to enjoy a laugh at the expense of poor Pyramus and Thisbe, they may find an opportunity by turning to
-              <author>Shakspeare</author>’s play of the <title>Midsummer Night’s Dream</title>, where it is most amusingly burlesqued.</p>
+              <author key="Shakespeare">Shakspere</author>’s play of the <title>Midsummer Night’s Dream</title>, where it is most amusingly burlesqued.</p>
           </div>
           <div>
             <head>Cephalus and Procris.</head>
@@ -625,7 +625,7 @@
             <l>O’er Phaëton untimely dead.”</l>
           </quote>
           <p>In the beautiful lines of
-            <author>Walter Savage Landor</author>, descriptive of the Sea-shell, there is an allusion to the Sun’s palace and chariot. The water-nymph says, —</p>
+            <author key="Landor">Walter Savage Landor</author>, descriptive of the Sea-shell, there is an allusion to the Sun’s palace and chariot. The water-nymph says, —</p>
           <quote>
             <l>“ —— I have sinuous shells of pearly hue</l>
             <l>Within, and things that lustre have imbibed</l>
@@ -755,7 +755,7 @@
               <l>    Her flowers at the sight of Dis.”</l>
             </quote>
             <p>The River Alpheus does in fact disappear underground, in part of its course, finding its way through subterranean channels till it again appears on the surface. It was said that the Sicilian fountain Arethusa was the same stream, which, after passing under the sea, came up again in Sicily. Hence the story ran that a cup thrown into the Alpheus appeared again in Arethusa. It is this fable of the underground course of Alpheus that
-              <author key="Coleridge H.">Coleridge</author> alludes to in his poem of <title>Kubla Khan</title>: —</p>
+              <author key="Coleridge">Coleridge</author> alludes to in his poem of <title>Kubla Khan</title>: —</p>
             <quote>
               <l>“In Xanadu did Kubla Khan</l>
               <l>    A stately pleasure-dome decree,</l>
@@ -782,7 +782,7 @@
             </quote>
             <p>The following extract from
               <author key="Moore Th.">Moore</author>’s <title>Rhymes on the Road</title> gives an account of a celebrated picture by
-              <author>Albano</author>, at Milan, called a Dance of Loves: —</p>
+              <author key="Albano">Albano</author>, at Milan, called a Dance of Loves: —</p>
             <quote>
               <l>“’Tis for the theft of Enna’s flower from earth</l>
               <l>These urchins celebrate their dance of mirth,</l>
@@ -858,8 +858,7 @@
               <l>The trees, the roses shared sensation,</l>
               <l>    An echo of my boundless life.”</l>
               <bibl>
-                <author>S. G.</author> 
-                <author>B.</author> </bibl>
+                <author key="Bulfinch S. G.">S. G. B.</author> </bibl>
             </quote>
           </div>
           <div>
@@ -979,11 +978,11 @@
           <p>When Vertumnus had spoken thus, he dropped the disguise of an old woman, and stood before her in his proper person, as a comely youth. It appeared to her like the sun bursting through a cloud. He would have renewed his entreaties, but there was no need; his arguments and the sight of his true form prevailed, and the Nymph no longer resisted, but owned a mutual flame.</p>
           <p/>
           <p>Pomona was the especial patroness of the Apple-orchard, and as such she was invoked by
-            <author>Phillips</author>, the author of a <title>poem on Cider</title>, in blank verse.
+            <author key="Phillips">Phillips</author>, the author of a <title>poem on Cider</title>, in blank verse.
             <author key="Thomson">Thomson</author> in the <title>Seasons</title> alludes to him: —</p>
           <quote>
             <l>“
-              <author>Phillips</author>, Pomona’s bard, the second thou</l>
+              <author key="Phillips">Phillips</author>, Pomona’s bard, the second thou</l>
             <l>Who nobly durst, in rhyme-unfettered verse,</l>
             <l>With British freedom, sing the British song.”</l>
           </quote>
@@ -1052,7 +1051,7 @@
             <l>Youth and Joy; so Jove hath sworn.”</l>
           </quote>
           <p>The allegory of the story of Cupid and Psyche is well presented in the beautiful lines of
-            <author>T. K. Harvey</author>: —</p>
+            <author key="Harvey">T. K. Harvey</author>: —</p>
           <quote>
             <l>“They wove bright fables in the days of old,</l>
             <l>    When reason borrowed fancy’s painted wings;</l>
@@ -1330,7 +1329,7 @@
               <l>The silken down with which his back is dight,</l>
               <l>His broad outstretched horns, his hairy thighs,</l>
               <l>His glorious colors, and his glistening eyes.”<note place="bottom"><p>
-                <author>Sir James Mackintosh</author> says of this,
+                <author key="Mackintosh">Sir James Mackintosh</author> says of this,
                 <quote>“Do you think that even a Chinese could paint the gay colors of a butterfly with more minute exactness than the following lines: ‘The velvet nap,’ etc.?”</quote></p><listBibl><bibl><title>Life</title>, — Vol. II. 246.</bibl></listBibl></note></l>
               <l/>
               <l>“Which when Arachne saw, as overlaid</l>
@@ -1406,7 +1405,7 @@
             <quote>
               <l>“’Twas in his carriage the sublime</l>
               <l>
-                <author>Sir Richard Blackmore</author> used to rhyme,</l>
+                <author key="Blackmore">Sir Richard Blackmore</author> used to rhyme,</l>
               <l>    And, if the wits don’t do him wrong,</l>
               <l>’Twixt death and epics passed his time,</l>
               <l>    Scribbling and killing all day long;</l>
@@ -1415,7 +1414,7 @@
               <l>        Now murdering the young Niobes.”</l>
             </quote>
             <p>
-              <author>Sir Richard Blackmore</author> was a physician, and at the same time a very prolific and very tasteless poet, whose works are now forgotten, unless when recalled to mind by some wit like
+              <author key="Blackmore">Sir Richard Blackmore</author> was a physician, and at the same time a very prolific and very tasteless poet, whose works are now forgotten, unless when recalled to mind by some wit like
               <author key="Moore Th.">Moore</author> for the sake of a joke.</p>
           </div>
         </div>
@@ -1441,7 +1440,7 @@
               <l>With sudden adoration and blank awe!”</l>
             </quote>
             <p>
-              <author>Armstrong</author>, the poet of the <title>Art of Preserving Health</title>, thus describes the effect of frost upon the waters: —</p>
+              <author key="Armstrong">Armstrong</author>, the poet of the <title>Art of Preserving Health</title>, thus describes the effect of frost upon the waters: —</p>
             <quote>
               <l>“Now blows the surly North and chills throughout</l>
               <l>The stiffening regions, while by stronger charms</l>
@@ -1572,7 +1571,7 @@
               <author key="Longfellow">Longfellow</author> also records an adventure of this famous steed in his <title>Pegasus in Pound</title>.</p>
             <p/>
             <p>
-              <author>Shakspeare</author> alludes to Pegasus in <title>Henry IV.</title> where Vernon describes Prince Henry: —</p>
+              <author key="Shakespeare">Shakspere</author> alludes to Pegasus in <title>Henry IV.</title> where Vernon describes Prince Henry: —</p>
             <quote>
               <l>“I saw young Harry, with his beaver on,</l>
               <l>His cuishes on his thighs, gallantly armed,</l>
@@ -1841,7 +1840,7 @@
           <div>
             <head>Hebe and Ganymede.</head>
             <p>Hebe, the daughter of Juno, and goddess of youth, was cup-bearer to the gods. The usual story is that she resigned her office on becoming the wife of Hercules. But there is another statement which our countryman
-              <author>Crawford</author>, the sculptor, has adopted in his group of Hebe and Ganymede, now in the Athenæum gallery. According to this, Hebe was dismissed from her office in consequence of a fall which she met with one day when in attendance on the gods. Her successor was Ganymede, a Trojan boy, whom Jupiter, in the disguise of an eagle, seized and carried off from the midst of his playfellows on Mount Ida, bore up to heaven, and installed in the vacant place.</p>
+              <author key="Crawford">Crawford</author>, the sculptor, has adopted in his group of Hebe and Ganymede, now in the Athenæum gallery. According to this, Hebe was dismissed from her office in consequence of a fall which she met with one day when in attendance on the gods. Her successor was Ganymede, a Trojan boy, whom Jupiter, in the disguise of an eagle, seized and carried off from the midst of his playfellows on Mount Ida, bore up to heaven, and installed in the vacant place.</p>
             <p/>
             <p>
               <author key="Tennyson A.">Tennyson</author>, in his <title>Palace of Art</title>, describes among the decorations on the walls a picture representing this legend: —</p>
@@ -1877,7 +1876,7 @@
             <p>Theseus at length lost the favor of his people, and retired to the court of Lycomedes, king of Scyros, who at first received him kindly, but afterwards treacherously slew him. In a later age the Athenian general Cimon discovered the place where his remains were laid, and caused them to be removed to Athens, where they were deposited in a temple called the Theseum, erected in honor of the hero.</p>
             <p/>
             <p>The queen of the Amazons whom Theseus espoused is by some called Hippolyta. That is the name she bears in
-              <author>Shakspeare</author>’s <title>Midsummer Night’s Dream</title>, — the subject of which is the festivities attending the nuptials of Theseus and Hippolyta.</p>
+              <author key="Shakespeare">Shakspere</author>’s <title>Midsummer Night’s Dream</title>, — the subject of which is the festivities attending the nuptials of Theseus and Hippolyta.</p>
             <p>
               <author key="Hemans">Mrs. Hemans</author> has <title>a poem on the ancient Greek tradition</title> that the “Shade of Theseus” appeared strengthening his countrymen at the battle of Marathon.</p>
             <p>Theseus is a semi-historical personage. It is recorded of him that he united the several tribes by whom the territory of Attica was then possessed into one state, of which Athens was the capital. In commemoration of this important event, he instituted the festival of Panathenæa, in honor of Minerva, the patron deity of Athens. This festival differed from the other Grecian games chiefly in two particulars. It was peculiar to the Athenians, and its chief feature was a solemn procession in which the Peplus, or sacred robe of Minerva, was carried to the Parthenon, and suspended before the statue of the goddess. The Peplus was covered with embroidery, worked by select virgins of the noblest families in Athens. The procession consisted of persons of all ages and both sexes. The old men carried olive branches in their hands, and the young men bore arms. The young women carried baskets on their heads, containing the sacred utensils, cakes, and all things necessary for the sacrifices. The procession formed the subject of the bas-reliefs which embellished the outside of the temple of the Parthenon. A considerable portion of these sculptures is now in the British Museum among those known as the “Elgin marbles.”</p>
@@ -2046,7 +2045,7 @@
             </quote>
             <p>
               <author key="Schiller">Schiller</author>, in his poem <title>Die Gotter Griechenlands</title>, expresses his regret for the overthrow of the beautiful mythology of ancient times in a way which has called forth an answer from a Christian poet,
-              <author>Mrs. E. Barrett Browning</author>, in her poem called <title>The Dead Pan</title>. The two following verses are a specimen: —</p>
+              <author key="Browning E.">Mrs. E. Barrett Browning</author>, in her poem called <title>The Dead Pan</title>. The two following verses are a specimen: —</p>
             <quote>
               <l>“By your beauty which confesses</l>
               <l>Some chief Beauty conquering you,</l>
@@ -2144,7 +2143,7 @@
               <l>And the songs of Sirens sweet;” etc.</l>
             </quote>
             <p>
-              <author>Armstrong</author>, the poet of the <title>Art of preserving Health</title>, under the inspiration of Hygeia, the goddess of health, thus celebrates the Naiads. Pæon is a name both of Apollo and Æsculapius.</p>
+              <author key="Armstrong">Armstrong</author>, the poet of the <title>Art of preserving Health</title>, under the inspiration of Hygeia, the goddess of health, thus celebrates the Naiads. Pæon is a name both of Apollo and Æsculapius.</p>
             <quote>
               <l>“Come, ye Naiads! to the fountains lead!</l>
               <l>Propitious maids! the task remains to sing</l>
@@ -2201,7 +2200,7 @@
               <l>Heaven’s last, best gift, my ever-new delight.’”</l>
             </quote>
             <p>
-              <author>Dr. Young</author>, the poet of the <title>Night Thoughts</title>, addressing the idle and luxurious, says: —</p>
+              <author key="Young">Dr. Young</author>, the poet of the <title>Night Thoughts</title>, addressing the idle and luxurious, says: —</p>
             <quote>
               <l>“Ye delicate! who nothing can support</l>
               <l>(Yourselves most insupportable) for whom</l>
@@ -2274,8 +2273,8 @@
             <p/>
             <p>Antigone forms the subject of two fine tragedies of the Grecian poet
               <author key="Sophocle">Sophocles</author>.
-              <author>Mrs. Jameson</author>, in her <title>Characteristics of Women</title>, has compared her character with that of Cordelia, in
-              <author>Shakspeare</author>’s <title>King Lear</title>. The perusal of her remarks cannot fail to gratify our readers.</p>
+              <author key="Jameson">Mrs. Jameson</author>, in her <title>Characteristics of Women</title>, has compared her character with that of Cordelia, in
+              <author key="Shakespeare">Shakspere</author>’s <title>King Lear</title>. The perusal of her remarks cannot fail to gratify our readers.</p>
             <p>The following is the lamentation of Antigone over Œdipus, when death has at last relieved him from his sufferings: —</p>
             <quote>
               <l>“Alas! I only wished I might have died</l>
@@ -2436,7 +2435,7 @@
           <head>Chapter XXV. <lb/><name type="author">Arion</name> — <name type="author">Ibycus</name> — <name type="author">Simonides</name> — <name type="author">Sappho</name>.</head>
           <p>The poets whose adventures compose this chapter were real persons some of whose works yet remain, and their influence on poets who succeeded them is yet more important than their poetical remains. The adventures recorded of them in the following stories rest on the same authority as other narratives of the “Age of Fable,” that is, of the poets who have told them. In their present form, the first two are translated from the German,
             <author key="Arion">Arion</author> from
-            <author>Schlegel</author>, and
+            <author key="Schlegel">Schlegel</author>, and
             <author key="Ibycos">Ibycus</author> from
             <author key="Schiller">Schiller</author>.</p>
           <div>
@@ -2572,7 +2571,7 @@
             <p><hi rend="sc">Endymion</hi> was a beautiful youth who fed his flock on Mount Latmos. One calm, clear night Diana, the Moon, looked down and saw him sleeping. The cold heart of the virgin goddess was warmed by his surpassing beauty, and she came down to him, kissed him, and watched over him while he slept.</p>
             <p>Another story was that Jupiter bestowed on him the gift of perpetual youth united with perpetual sleep. Of one so gifted we can have but few adventures to record. Diana, it was said, took care that his fortunes should not suffer by his inactive life, for she made his flock increase, and guarded his sheep and lambs from the wild beasts.</p>
             <p>The story of Endymion has a peculiar charm from the human meaning which it so thinly veils. We see in Endymion the young poet, his fancy and his heart seeking in vain for that which can satisfy them, finding his favorite hour in the quiet moonlight, and nursing there beneath the beams of the bright and silent witness the melancholy and the ardor which consumes him. The story suggests aspiring and poetic love, a life spent more in dreams than in reality, and an early and welcome death. — 
-              <author>S. G. B.</author></p>
+              <author key="Bulfinch S. G.">S. G. B.</author></p>
             <p>The <title>Endymion</title> of
               <author key="Keats">Keats</author> is a wild and fanciful poem, containing some exquisite poetry, as this, to the moon: —</p>
             <quote>
@@ -2586,7 +2585,7 @@
               <l>Has thy fair face within its tranquil ken;” etc., etc.</l>
             </quote>
             <p>
-              <author>Dr. Young</author>, in the <title>Night Thoughts</title>, alludes to Endymion thus: —</p>
+              <author key="Young">Dr. Young</author>, in the <title>Night Thoughts</title>, alludes to Endymion thus: —</p>
             <quote>
               <l>              “These thoughts, O night, are thine;</l>
               <l>From thee they came like lovers’ secret sighs,</l>
@@ -3012,7 +3011,7 @@
             <p>Calypso with much reluctance proceeded to obey the commands of Jupiter. She supplied Ulysses with the means of constructing a raft, provisioned it well for him, and gave him a favoring gale. He sped on his course prosperously for many days, till at length, when in sight of land, a storm arose that broke his mast, and threatened to rend the raft asunder. In this crisis he was seen by a compassionate sea-nymph, who in the form of a cormorant alighted on the raft, and presented him a girdle, directing him to bind it beneath his breast, and if he should be compelled to trust himself to the waves, it would buoy him up and enable him by swimming to reach the land.</p>
             <p/>
             <p>
-              <author>Fenelon</author>, in his romance of <title>Telemachus</title>, has given us the adventures of the son of Ulysses in search of his father. Among other places at which he arrived, following on his father’s footsteps, was Calypso’s isle, and, as in the former case, the goddess tried every art to keep him with her, and offered to share her immortality with him. But Minerva, who in the shape of Mentor accompanied him and governed all his movements, made him repel her allurements, and when no other means of escape could be found, the two friends leaped from a cliff into the sea, and swam to a vessel which lay becalmed off shore.
+              <author key="Fénelon">Fenelon</author>, in his romance of <title>Telemachus</title>, has given us the adventures of the son of Ulysses in search of his father. Among other places at which he arrived, following on his father’s footsteps, was Calypso’s isle, and, as in the former case, the goddess tried every art to keep him with her, and offered to share her immortality with him. But Minerva, who in the shape of Mentor accompanied him and governed all his movements, made him repel her allurements, and when no other means of escape could be found, the two friends leaped from a cliff into the sea, and swam to a vessel which lay becalmed off shore.
               <author key="Byron">Byron</author> alludes to this leap of Telemachus and Mentor in the following stanza: —</p>
             <quote>
               <l>    “But not in silence pass Calypso’s isles,</l>
@@ -3346,7 +3345,7 @@
               <quote>“Souls never die, but always on quitting one abode pass to another. I myself can remember that in the time of the Trojan war I was Euphorbus, the son of Panthus, and fell by the spear of Menelaus. Lately being in the temple of Juno, at Argos, I recognized my shield hung up there among the trophies. All things change, nothing perishes. The soul passes hither and thither, occupying now this body, now that, passing from the body of a beast into that of a man, and thence to a beast’s again. As wax is stamped with certain figures, then melted, then stamped anew with others, yet is always the same wax, so the soul, being always the same, yet wears, at different times, different forms. Therefore, if the love of kindred is not extinct in your bosoms, forbear, I entreat you, to violate the life of those who may haply be your own relatives.”</quote></p>
             <p/>
             <p>
-              <author>Shakspeare</author>, in the <title>Merchant of Venice</title>, makes Gratiano allude to the metempsychosis, where he says to Shylock: —</p>
+              <author key="Shakespeare">Shakspere</author>, in the <title>Merchant of Venice</title>, makes Gratiano allude to the metempsychosis, where he says to Shylock: —</p>
             <quote>
               <l>“Thou almost mak’st me waver in my faith,</l>
               <l>To hold opinion with Pythagoras,</l>
@@ -3366,7 +3365,7 @@
               <l>The Diapason closing full in Man.”</l>
             </quote>
             <p>In the centre of the universe (he taught) there was a central fire, the principle of life. The central fire was surrounded by the earth, the moon, the sun, and the five planets. The distances of the various heavenly bodies from one another were conceived to correspond to the proportions of the musical scale. The heavenly bodies, with the gods who inhabited them, were supposed to perform a choral dance round the central fire, “not without song.” It is this doctrine which
-              <author>Shakspeare</author> alludes to when he makes Lorenzo teach astronomy to Jessica in this fashion: —</p>
+              <author key="Shakespeare">Shakspere</author> alludes to when he makes Lorenzo teach astronomy to Jessica in this fashion: —</p>
             <quote>
               <l>“Look, Jessica, see how the floor of heaven</l>
               <l>Is thick inlaid with pattens of bright gold!</l>
@@ -3403,7 +3402,7 @@
               <l>And formed the seven-chorded lyre.”</l>
             </quote>
             <p>See also
-              <author>the same poet’s</author> <title>Occupation of Orion</title>.</p>
+              <author key="Longfellow">the same poet’s</author> <title>Occupation of Orion</title>.</p>
             <quote>
               <l>“The Samian’s great Æolian lyre.”</l>
             </quote>
@@ -3724,7 +3723,7 @@
                 <l>« Ages elapsed ere
                   <author key="Homère">Homer</author>’s lamp appeared,</l>
                 <l>And ages ere the
-                  <author>Mantuan swan</author> was heard.</l>
+                  <author key="Virgile">Mantuan swan</author> was heard.</l>
                 <l>To carry nature lengths unknown before,</l>
                 <l>To give a
                   <author key="Milton">Milton</author> birth, asked ages more.</l>
@@ -3751,7 +3750,7 @@
                 <author key="Ovide">Ovid</author> spent an easy life at Rome in the enjoyment of a competent income. He was intimate with the family of Augustus, the emperor, and it is supposed that some serious offence given to some member of that family was the cause of an event which reversed the poet’s happy circumstances and clouded all the latter portion of his life. At the age of fifty he was banished from Rome, and ordered to betake himself to Tomi, on the borders of the Black Sea. Here, among the barbarous people and in a severe climate, the poet, who had been accustomed to all the pleasures of a luxurious capital and the society of his most distinguished contemporaries, spent the last ten years of his life, worn out with grief and anxiety. His only consolation in exile was to address his wife and absent friends, and his letters were all poetical. Though these poems (the <title>Tristia</title> and <title>Letters from Pontus</title>) have no other topic than the poet’s sorrows, his exquisite taste and fruitful invention have redeemed them from the charge of being tedious, and they are read with pleasure and even with sympathy.</p>
               <p>The two great works of
                 <author key="Ovide">Ovid</author> are his <title>Metamorphoses</title> and his <title>Fasti</title>. They are both mythological poems, and from the former we have taken most of our stories of Grecian and Roman mythology.
-                <author>A late writer</author> thus characterizes these poems: —</p>
+                <author key="anonyme">A late writer</author> thus characterizes these poems: —</p>
               <quote>
                 <p>“The rich mythology of Greece furnished
                   <author key="Ovide">Ovid</author>, as it may still furnish the poet, the painter, and the sculptor, with materials for his art. With exquisite taste, simplicity, and pathos he has narrated the fabulous traditions of early ages, and given to them that appearance of reality which only a master hand could impart. His pictures of nature are striking and true; he selects with care that which is appropriate; he rejects the superfluous; and when he has completed his work, it is neither defective nor redundant. The <title>Metamorphoses</title> are read with pleasure by youth, and are re-read in more advanced age with still greater delight. The poet ventured to predict that his poem would survive him, and be read wherever the Roman name was known.”</p>
@@ -3791,8 +3790,8 @@
               <author key="Hérodote">Herodotus</author> <hi rend="i">describes</hi> the bird, though he says,
               <quote>“I have not seen it myself, except in a picture. Part of his plumage is gold-colored, and part crimson; and he is for the most part very much like an eagle in outline and bulk.”</quote></p>
             <p>The first writer who disclaimed a belief in the existence of the Phœnix was
-              <author>Sir Thomas Browne</author>, in his <title>Vulgar Errors</title>, published in 1646. He was replied to a few years later by
-              <author>Alexander Ross</author>, who says, in answer to the objection of the Phœnix so seldom making his appearance,
+              <author key="Browne">Sir Thomas Browne</author>, in his <title>Vulgar Errors</title>, published in 1646. He was replied to a few years later by
+              <author key="Ross">Alexander Ross</author>, who says, in answer to the objection of the Phœnix so seldom making his appearance,
               <quote>“His instinct teaches him to keep out of the way of the tyrant of the creation, <hi rend="i">man</hi>, for if he were to be got at, some wealthy glutton would surely devour him, though there were no more in the world.”</quote></p>
             <p/>
             <p>
@@ -3822,7 +3821,7 @@
           <div>
             <head>The Cockatrice, or Basilisk.</head>
             <p>This animal was called the king of the serpents. In confirmation of his royalty, he was said to be endowed with a crest, or comb upon the head, constituting a crown. He was supposed to be produced from the egg of a cock hatched under toads or serpents. There were several species of this animal. One species burned up whatever they approached; a second were a kind of wandering Medusa’s heads, and their look caused an instant horror which was immediately followed by death. In
-              <author>Shakspeare</author>’s play of <title>Richard the Third</title>, Lady Anne, in answer to Richard’s compliment on her eyes, says,
+              <author key="Shakespeare">Shakspere</author>’s play of <title>Richard the Third</title>, Lady Anne, in answer to Richard’s compliment on her eyes, says,
               <quote>“Would they were basilisk’s, to strike thee dead!”</quote></p>
             <p>The basilisks were called kings of serpents because all other serpents and snakes, behaving like good subjects, and wisely not wishing to be burned up or struck dead, fled the moment they heard the distant hiss of their king, although they might be in full feed upon the most delicious prey, leaving the sole enjoyment of the banquet to the royal monster.</p>
             <p>The Roman naturalist
@@ -3837,10 +3836,10 @@
             </quote>
             <p>Such a prodigy was not likely to be passed over in the legends of the saints. Accordingly we find it recorded that a certain holy man, going to a fountain in the desert, suddenly beheld a basilisk. He immediately raised his eyes to heaven, and with a pious appeal to the Deity laid the monster dead at his feet.</p>
             <p>These wonderful powers of the basilisk are attested by a host of learned persons, such as
-              <author>Galen</author>,
-              <author>Avicenna</author>,
-              <author>Scaliger</author>, and others. Occasionally one would demur to some part of the tale while he admitted the rest.
-              <author>Jonston</author>, a learned physician, sagely remarks,
+              <author key="Galen">Galen</author>,
+              <author key="Avicenna">Avicenna</author>,
+              <author key="Scaliger">Scaliger</author>, and others. Occasionally one would demur to some part of the tale while he admitted the rest.
+              <author key="Jonstons">Jonston</author>, a learned physician, sagely remarks,
               <quote>“I would scarcely believe that it kills with its look, for who could have seen it and lived to tell the story?”</quote> The worthy sage was not aware that those who went to hunt the basilisk of this sort took with them a mirror, which reflected back the deadly glare upon its author, and by a kind of poetical justice slew the basilisk with his own weapon.</p>
             <p>But what was to attack this terrible and unapproachable monster? There is an old saying that “every thing has its enemy” — and the cockatrice quailed before the weasel. The basilisk might look daggers, the weasel cared not, but advanced boldly to the conflict. When bitten, the weasel retired for a moment to eat some rue, which was the only plant the basilisks could not wither, returned with renewed strength and soundness to the charge, and never left the enemy till he was stretched dead on the plain. The monster, too, as if conscious of the irregular way in which he came into the world, was supposed to have a great antipathy to a cock; and well he might, for as soon as he heard the cock crow he expired.</p>
             <p>The basilisk was of some use after death. Thus we read that its carcass was suspended in the temple of Apollo, and in private houses, as a sovereign remedy against spiders, and that it was also hung up in the temple of Diana, for which reason no swallow ever dared enter the sacred place.</p>
@@ -3848,7 +3847,7 @@
               <graphic url="bulfinch_age-of-fable_1855_images/bulfinch_age-of-fable_1855_418.png"/>
             </figure>
             <p>The reader will, we apprehend, by this time have had enough of absurdities, but still we can imagine his anxiety to know what a cockatrice was like. The following is from
-              <author>Aldrovandus</author>, a celebrated naturalist of the sixteenth century, whose <title>work on natural history, in thirteen folio volumes</title>, contains with much that is valuable a large proportion of fables and inutilities. In particular he is so ample on the subject of the cock and the bull that from his practice, all rambling, gossiping tales of doubtful credibility are called <hi rend="i">cock and bull stories</hi>. The above print is entitled “The Basilisk which lives in the African desert.” I will be seen that</p>
+              <author key="Aldrovandus">Aldrovandus</author>, a celebrated naturalist of the sixteenth century, whose <title>work on natural history, in thirteen folio volumes</title>, contains with much that is valuable a large proportion of fables and inutilities. In particular he is so ample on the subject of the cock and the bull that from his practice, all rambling, gossiping tales of doubtful credibility are called <hi rend="i">cock and bull stories</hi>. The above print is entitled “The Basilisk which lives in the African desert.” I will be seen that</p>
             <quote>
               <l>                              “What seemed its head</l>
               <l>The likeness of a kingly crown had on.”</l>
@@ -3882,14 +3881,14 @@
             <p>The following is from the <title>Life of Benvenuto Cellini</title>, an Italian artist of the sixteenth century, written by himself:
               <quote>“When I was about five years of age, my father, happening to be in a little room in which they had been washing, and where there was a good fire of oak burning, looked into the flames and saw a little animal resembling a lizard, which could live in the hottest part of that element. Instantly perceiving what it was, he called for my sister and me, and after he had shown us the creature, he gave me a box on the ear. I fell a-crying, while he, soothing me with caresses, spoke these words: ‘My dear child, I do not give you that blow for any fault you have committed, but that you may recollect that the little creature you see in the fire is a salamander; such a one as never was beheld before to my knowledge.’ So saying he embraced me, and gave me some money.”</quote></p>
             <p>It seems unreasonable to doubt a story of which
-              <author>Signor Cellini</author> was both an eye and ear witness. Add to which the authority of numerous sage philosophers, at the head of whom are
+              <author key="Cellini">Signor Cellini</author> was both an eye and ear witness. Add to which the authority of numerous sage philosophers, at the head of whom are
               <author key="Aristote">Aristotle</author> and
               <author key="Pline l'Ancien">Pliny</author>, affirms this power of the salamander. According to them, the animal not only resists fire, but extinguishes it, and when he sees the flame charges it as an enemy which he well knows how to vanquish.</p>
             <p>That the skin of an animal which could resist the action of fire should be considered proof against that element is not to be wondered at. We accordingly find that a cloth made of the skin of salamanders (for there really is such an animal, a kind of lizard) was incombustible, and very valuable for wrapping up such articles as were too precious to be intrusted to any other envelopes. These fire-proof cloths were actually produced, said to be made of salamander’s wool, though the knowing ones detected that the substance of which they were composed was Asbestos, a mineral, which is in fine filaments capable of being woven into a flexible cloth.</p>
             <p>The foundation of the above fables is supposed to be the fact that the salamander really does secrete from the pores of his body a milky juice, which when he is irritated is produced in considerable quantity, and would doubtless, for a few moments, defend the body from fire. Then it is a hibernating animal, and in winter retires to some hollow tree or other cavity, where it coils itself up and remains in a torpid state till the spring again calls it forth. It may therefore sometimes be carried with the fuel to the fire, and wake up only time enough to put forth all its faculties for its defence. Its viscous juice would do good service, and all who profess to have seen it, acknowledge that it got out of the fire as fast as its legs could carry it; indeed, too fast for them ever to make prize of one, except in one instance, and in that one the animal’s feet and some parts of its body were badly burned.</p>
             <p/>
             <p>
-              <author>Dr. Young</author>, in the <title>Night Thoughts</title>, with more quaintness than good taste, compares the sceptic who can remain unmoved in the contemplation of the starry heavens to a salamander unwarmed in the fire:</p>
+              <author key="Young">Dr. Young</author>, in the <title>Night Thoughts</title>, with more quaintness than good taste, compares the sceptic who can remain unmoved in the contemplation of the starry heavens to a salamander unwarmed in the fire:</p>
             <quote>
               <l>“An undevout astronomer is mad!</l>
               <l>                         * * *</l>
@@ -4177,7 +4176,7 @@
           <div>
             <head>Iceland.</head>
             <p>The <title>Eddas</title> and <title>Sagas</title> have come to us from Iceland. The following extract from
-              <author>Carlyle</author>’s lectures on <title>Heroes and Hero Worship</title> gives an animated account of the region where the strange stories we have been reading had their origin. Let the reader contrast it for a moment with Greece, the parent of classical mythology.</p>
+              <author key="Carlyle">Carlyle</author>’s lectures on <title>Heroes and Hero Worship</title> gives an animated account of the region where the strange stories we have been reading had their origin. Let the reader contrast it for a moment with Greece, the parent of classical mythology.</p>
             <quote>
               <p>“In that strange island, Iceland, — burst up, the geologists say, by fire from the bottom of the sea, a wild land of barrenness and lava, swallowed many months of every year in black tempests, yet with a wild, gleaming beauty in summer time, towering up there stern and grim in the North Ocean, with its snow yokuls, [mountains,] roaring geysers, [boiling springs,] sulphur pools, and horrid volcanic chasms, like the waste, chaotic battle-field of Frost and Fire, — where, of all places, we least looked for literature or written memorials, — the record of these things was written down. On the seaboard of this wild land is a rim of grassy country, where cattle can subsist, and men by means of them and of what the sea yields; and it seems they were poetic men these, men who had deep thoughts in them and uttered musically their thoughts. Much would be lost had Iceland not been burst up from the sea, not been discovered by the Northmen!”</p>
             </quote>
@@ -4196,10 +4195,10 @@
             <p>They used no images to represent the object of their worship, nor did they meet in temples or buildings of any kind for the performance of their sacred rites. A circle of stones (each stone generally of vast size) enclosing an area of from twenty feet to thirty yards in diameter, constituted their sacred place. The most celebrated of these now remaining is Stonehenge, on Salisbury Plain, England.</p>
             <p>These sacred circles were generally situated near some stream, or under the shadow of a grove or wide-spreading oak. In the centre of the circle stood the Cromlech or altar, which was a large stone, placed in the manner of a table upon other stones set up on end. The Druids had also their high places, which were large stones or piles of stones on the summits of hills. These were called Cairns, and were used in the worship of the deity under the symbol of the sun.</p>
             <p>That the Druids offered sacrifices to their deity there can be no doubt. But there is some uncertainty as to what they offered, and of the ceremonies connected with their religious services we know almost nothing. The classical (Roman) writers affirm that they offered on great occasions human sacrifices; as for success in war or for relief from dangerous diseases.
-              <author>Caesar</author> has given a detailed account of the manner in which this was done.
+              <author key="César">Caesar</author> has given a detailed account of the manner in which this was done.
               <quote>“They have images of immense size, the limbs of which are framed with twisted twigs and filled with living persons. These being set on fire, those within are encompassed by the flames.”</quote> Many attempts have been made by Celtic writers to shake the testimony of the Roman historians to this fact, but without success.</p>
             <p>The Druids observed two festivals in each year. The former took place in the beginning of May, and was called Beltane or “fire of God.” On this occasion a large fire was kindled on some elevated spot, in honor of the sun, whose returning beneficence they thus welcomed after the gloom and desolation of winter. Of this custom a trace remains in the name given to Whitsunday in parts of Scotland to this day.
-              <author>Sir Walter Scott</author> uses the word in the <title>Boat Song</title> in the <title>Lady of the Lake</title>: —</p>
+              <author key="Scott">Sir Walter Scott</author> uses the word in the <title>Boat Song</title> in the <title>Lady of the Lake</title>: —</p>
             <quote>
               <l>“Ours is no sapling, chance sown by the fountain,</l>
               <l>Blooming at Beltane in winter to fade;” etc.</l>
@@ -4210,15 +4209,15 @@
               <author key="Pline l'Ancien">Pliny</author>
               <quote>, “by a word in their language, which means ‘heal-all,’ and having made solemn preparation for feasting and sacrifice under the tree, they drive thither two milk-white bulls, whose horns are then for the first time bound. The priest then, robed in white, ascends the tree, and cuts off the mistletoe with a golden sickle. It is caught in a white mantle, after which they proceed to slay the victims, at the same time praying that God would render his gift prosperous to those to whom he had given it.”</quote> They drink the water in which it has been infused, and think it a remedy for all diseases. The mistletoe is a parasitic plant, and is not always nor often found on the oak, so that when it is found it is the more precious.</p>
             <p>The Druids were the teachers of morality as well as of religion. Of their ethical teaching a valuable specimen is preserved in the Triads of the Welsh Bards, and from this we may gather that their views of moral rectitude were on the whole just, and that they held and inculcated many very noble and valuable principles of conduct. They were also the men of science and learning of their age and people. Whether they were acquainted with letters or not has been disputed, though the probability is strong that they were, to some extent. But it is certain that they committed nothing of their doctrine, their history, or their poetry to writing. Their teaching was oral, and their literature (if such a word may be used in such a case) was preserved solely by tradition. But the
-              <author>Roman writers</author> admit that
+              <author key="Pline l'Ancien">Roman writers</author> admit that
               <quote>“they paid much attention to the order and laws of nature, and investigated and taught to the youth under their charge many things concerning the stars and their motions, the size of the world and the lands, and concerning the might and power of the immortal gods.”</quote></p>
             <p>Their history consisted in traditional tales, in which the heroic deeds of their forefathers were celebrated. These were apparently in verse, and thus constituted part of the poetry as well as the history of the Druids. In the poems of
               <author key="Ossian">Ossian</author> we have, if not the actual productions of Druidical times, what may be considered faithful representations of the songs of the Bards.</p>
             <p>The Bards were an essential part of the Druidical hierarchy. One author,
-              <author>Pennant</author>, says,
+              <author key="Pennant">Pennant</author>, says,
               <quote>“The Bards were supposed to be endowed with powers equal to inspiration. They were the oral historians of all past transactions, public and private. They were also accomplished genealogists,”</quote> etc.</p>
             <p>
-              <author>Pennant</author> gives a minute account of the Eisteddfods or sessions of the Bards and minstrels, which were held in Wales for many centuries, long after the Druidical priesthood in its other departments became extinct. At these meetings none but Bards of merit were suffered to rehearse their pieces, and minstrels of skill to perform. Judges were appointed to decide on their respective abilities, and suitable degrees were conferred. In the earlier period the judges were appointed by the Welsh princes, and after the conquest of Wales, by commission from the kings of England. Yet the tradition is that Edward I., in revenge for the influence of the Bards in animating the resistance of the people to his sway, persecuted them with great cruelty. This tradition has furnished the poet
+              <author key="Pennant">Pennant</author> gives a minute account of the Eisteddfods or sessions of the Bards and minstrels, which were held in Wales for many centuries, long after the Druidical priesthood in its other departments became extinct. At these meetings none but Bards of merit were suffered to rehearse their pieces, and minstrels of skill to perform. Judges were appointed to decide on their respective abilities, and suitable degrees were conferred. In the earlier period the judges were appointed by the Welsh princes, and after the conquest of Wales, by commission from the kings of England. Yet the tradition is that Edward I., in revenge for the influence of the Bards in animating the resistance of the people to his sway, persecuted them with great cruelty. This tradition has furnished the poet
               <author key="Gray D.">Gray</author> with the subject of his celebrated ode, <title>the Bard</title>.</p>
             <p>There are still occasional meetings of the lovers of Welsh poetry and music, held under the ancient name. Among
               <author key="Hemans">Mrs. Hemans</author>’ poems is <title>one written for an Eisteddfod</title>, or meeting of Welsh Bards, held in London, May 22, 1822. It begins with a description of the ancient meeting, of which the following lines are a part: —</p>
@@ -4268,7 +4267,7 @@
             <p>In these respects and in others the Culdees departed from the established rules of the Romish church, and consequently were deemed heretical. The consequence was that as the power of the latter advanced that of the Culdees was enfeebled. It was not, however, till the thirteenth centurv that the communities of the Culdees were suppressed and the members dispersed. They still continued to labor as individuals, and resisted the inroads of Papal usurpation as they best might till the light of the Reformation dawned on the world.</p>
             <p>Iona, from its position in the western seas, was exposed to the assaults of the Norwegian and Danish rovers by whom those seas were infested, and by them it was repeatedly pillaged, its dwellings burned, and its peaceful inhabitants put to the sword. These unfavorable circumstances led to its gradual decline, which was expedited by the subversion of the Culdees throughout Scotland. Under the reign of Popery the island became the seat of a nunnery, the ruins of which are still seen. At the Reformation, the nuns were allowed to remain, living in community, when the abbey was dismantled.</p>
             <p>Iona is now chiefly resorted to by travellers on account of the numerous ecclesiastical and sepulchral remains which are found upon it. The principal of these are the Cathedral or Abbey Church and the Chapel of the Nunnery. Besides these remains of ecclesiastical antiquity, there are some of an earlier date, and pointing to the existence on the island of forms of worship and belief different from those of Christianity. These are the circular Cairns which are found in various parts, and which seem to have been of Druidical origin. It is in reference to all these remains of ancient religion that
-              <author>Johnson</author> exclaims,
+              <author key="Johnson S.">Johnson</author> exclaims,
               <quote>“That man is little to be envied whose patriotism would not gain force upon the plains of Marathon, or whose piety would not grow warmer amid the ruins of Iona.”</quote></p>
             <p/>
             <p>In the <title>Lord of the Isles</title>,
