@@ -105,7 +105,7 @@
             <l>C’est là, s’il faut le dire en langage mortel,</l>
             <l>La Cour de Jupiter, et le Sénat du Ciel<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, traduction de
-              <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
           </quote>
           <p>L’Olympe, selon
             <author key="Homère">Homère</author>, n’était pas fort élevé, et nos ballons nous y auraient conduits facilement. Ce séjour des dieux était sur une montagne de la Grèce où les vents ne soufflaient jamais, et qui jouissait d’un printemps éternel. C’était là que les divinités supérieures s’enivraient de nectar, ou s’occupaient à diriger les choses d’ici-bas. Les dieux du second ordre y étaient rarement admis.</p>
@@ -119,11 +119,13 @@
             <l>Qui font trembler les cieux sur leurs pôles assis<note place="bottom">
               <author key="La Fontaine">La Fontaine</author>, <title>Philémon et Baucis</title>.</note>.</l>
           </quote>
-          <p>Il était fils de Saturne et de Rhée. Saturne exilé des parvis célestes descendit sur la terre, il demeura pendant quelques siècles en Italie ; et cet espace de temps est appelé l’<hi rend="i">âge d’or</hi>, qui fut suivi de l<hi rend="i">’âge d’argent</hi>, et enfin de 1’<hi rend="i">âge de fer</hi>, qui est celui dans lequel nous vivons, et dont
-            <author key="Tasso">le Tasse</author> pense qu’il faudrait changer le nom, puisque notre âge est celui dans lequel l’or a un si grand pouvoir :</p>
+          <p>Il était fils de Saturne et de Rhée. Saturne exilé des parvis célestes descendit sur la terre, il demeura pendant quelques siècles en Italie ; et cet espace de temps est appelé l’<hi rend="i">âge d’or</hi>, qui fut suivi de l<hi rend="i">’âge d’argent</hi>, et enfin de 1’<hi rend="i">âge de fer</hi>, qui est celui dans lequel nous vivons, et dont le Tasse pense qu’il faudrait changer le nom, puisque notre âge est celui dans lequel l’or a un si grand pouvoir :</p>
           <quote>
             <l xml:lang="it">…… Veramente il secol d’oro è questo,</l>
             <l xml:lang="it">Poichè sol vince, e regna l’oro.</l>
+            <bibl>
+              <author key="Tasso"/>
+            </bibl>
           </quote>
           <p>Jupiter ne demeura point paisible possesseur de l’empire du ciel. Les Titans et les Géants, enfants de la Terre, lui firent une guerre terrible : ils entreprirent de l’assiéger sur son trône, et pour y réussir ils entassèrent plusieurs montagnes d’où ils essayèrent d’escalader le ciel ; ils jetaient contre le maître des dieux de si grosses pierres que celles qui tombaient dans la mer formaient des îles, tandis que celles qui tombaient sur la terre y faisaient des montagnes. Jupiter effrayé appela les dieux à son secours, mais, frappés de crainte, ils se retirèrent en Egypte, et se cachèrent sous la forme de divers animaux, pour se soustraire aux terribles Géants. On croit que c’est le souvenir de cette fuite et de cette métamorphose qui fit établir en Egypte le culte des animaux. Enfin, avec le secours d’Hercule, les dieux terrassèrent leurs redoutables ennemis, parmi lesquels on remarquait sur-tout Cottus, Briarée, et Gygès, qui avaient cinquante têtes, cent bras, et de gros serpents au lieu de jambes.</p>
           <p>Ceux qui veulent chercher la vérité à travers ces fables antiques, ont pensé que l’histoire des Titans n’est autre chose que le récit allégorique des éruptions des volcans, qui, de l’avis des savants, étaient fort nombreux pendant les premiers siècles de l’histoire du monde.</p>
@@ -179,7 +181,7 @@
             <l>Elle attache une main à sa corne puissante ;</l>
             <l>L’autre dispute aux vents sa robe voltigeante<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
           </quote>
           <p>A peine Jupiter fut-il au milieu des flots que Neptune son frère, dieu des mers, courut à sa rencontre, accompagné des Néréides et des Tritons. Au milieu de ce grand appareil, le maître des dieux se fit connaître à Europe, et la conduisit dans l’île de Crète, où ayant repris sa forme naturelle, il la rendit mère de Minos, de Sarpédon, et de Rhadamanthe. Europe donna son nom à cette partie du monde que nous habitons.</p>
           <p>Cependant Agénor n’ayant aucune nouvelle de sa chère Europe, ordonna à ses fils de parcourir la terre pour la trouver. Cadmus dirigea son voyage vers la Grèce. Dans l’espoir de rencontrer sa sœur, il consulta l’oracle d’Apollon qui lui répondit : « Vous trouverez dans un champ voisin une génisse ; vous la suivrez, et vous bâtirez une ville dans le pâturage où elle s’arrêtera. Vous donnerez le nom de Béotie à cette contrée. » Cadmus trouva la génisse dont lui avait parlé l’oracle, et desirant faire un sacrifice avant de jeter les fondements de la nouvelle ville, il envoya ses compagnons chercher de l’eau dans une forêt consacrée à Mars ; mais ils furent tous dévorés par un dragon qui avait la garde de ce lieu.</p>
@@ -195,7 +197,7 @@
             <l>De peindre la parole et de parler aux yeux,</l>
             <l>Et par les traits divers de figures tracées</l>
             <l>Donner de la couleur et du corps aux pensées<note place="bottom">
-              <author key="Brébeuf">Brébeuf</author>, trad. de <title>la Pharsale</title> de
+              <author key="Brébeuf" role="translator">Brébeuf</author>, trad. de <title>la Pharsale</title> de
               <author key="Lucain">Lucain</author>.</note>.</l>
           </quote>
           <p>Le culte de Jupiter était fort étendu. Ce dieu avait des temples dans la plupart des villes de la Grèce et de l’empire romain. Dans l’île de Crète, où l’on croit qu’il avait été nourri par les Corybantes, il était quelquefois représenté sans oreilles : les Spartiates lui en donnaient quatre. Sur quelques médailles il est présenté avec trois yeux. Les Libyens, qui l’adoraient sous le nom de <hi rend="i">Jupiter ammon</hi>, mettaient deux cornes de bélier sur sa tête. Le <hi rend="i">Jupiter pluvieux</hi> des Romains étendait les bras, et de toutes les parties de son corps tombaient des nappes d’eau qui figuraient les plis de grands vêtements et les flocons de la barbe. Des savants ont compté plus de trois cents Jupiter différents par leurs attributions.</p>
@@ -233,7 +235,7 @@
             <l>Elle voudrait se plaindre, et sa voix l’épouvante ;</l>
             <l>Sa parole n’est plus qu’une voix mugissante<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
           </quote>
           <p>Livrée à ce rigoureux destin, elle fut conduite sur les bords du fleuve Inachus son père. Quelle fut sa douleur, lorsqu’elle vit dans cette onde sa nouvelle forme ! En vain elle se présenta devant son père et ses sœurs qui ne cessaient de pleurer sa perte ; ils ne purent la reconnaître : vainement elle versait des larmes et poussait de tristes gémissements. Enfin elle écrivit avec son pied le nom d’<hi rend="i">Io</hi> sur le sable, et ses parents apprirent sa cruelle destinée. Mais l’impitoyable Argus l’éloigne des bords du fleuve paternel, et ses cent yeux sont plus que jamais attentifs à surveiller la fille d’Inachus.</p>
           <p>Cependant Jupiter ordonne à Mercure de donner la mort à Argus, afin de soustraire son amante à la fureur de Junon. Mercure endort ce surveillant redoutable au son de sa flûte, et son fer tranche la tête d’Argus.</p>
@@ -243,12 +245,14 @@
           <p>Pâris, fils de Priam, roi de Troie, gardait les troupeaux sur les coteaux du mont Ida. Un jour, il vit trois déesses s’avancer dans le bosquet : c’était Junon, Minerve, et Vénus. « Nous venons vers toi, jeune berger, dit Junon, pour terminer un différent survenu entre nous. Nous étions ce matin aux noces de Thétis et de Pélée ; la Discorde, qui n’avait point été invitée à cette fête, a paru dans la salle du festin, et a jeté auprès de nous cette pomme d’or sur laquelle on lit ces mots : <hi rend="sc">à la plus belle</hi>. Tu vois devant toi, jeune berger, trois puissantes déesses : je suis l’épouse du grand Jupiter. Prends cette pomme, et donne-la à celle de nous qui la mérite. »</p>
           <p>Pâris, intimidé en voyant les trois déesses sans aucune espèce de parure, demeura quelque temps indécis ; ses yeux se portaient tour-à-tour sur chacune d’elle : enfin, il offre-la pomme d’or à la belle Vénus. L’orgueilleuse Junon ne put se consoler de la préférence accordée à sa rivale : elle voulut tirer de cet affront une vengeance éclatante ; et lorsque les Grecs marchèrent au siège de Troie, elle ne cessa de leur prêter de puissants secours jusqu’au jour où cette malheureuse ville, qui avait vu naître Pâris, fut réduite en cendres. Elle poursuivit avec fureur quelques héros qui avaient échappé au massacre des Troyens.</p>
           <p>Fatigué des excès de Junon, Jupiter la suspendit à la voûte de l’Olympe, les pieds chargés d’une lourde enclume et les mains d’une chaîne d’or non moins pesante. On ajoute que Vulcain ayant voulu secourir Junon sa mère et tâcher de rompre ses douloureux liens, fut précipité de l’Olympe, et qu’en tombant sur la terre il se cassa la jambe. L’orgueilleuse déesse, indignée de ces outrages, conspira contre Jupiter, de concert avec Apollon et Neptune ; mais Thétis, déesse des mers, dévoila le complot.</p>
-          <p>Junon avait un grand nombre de temples : les plus célèbres étaient celui de Samos et celui d’Olympie. Le temple élevé à la reine des dieux dans l’île de Samos était le plus grand que renfermât la Grèce : il fut détruit par l’armée de Xerxès lorsqu’elle s’en retournait en Perse, après sa défaite par les Grecs. Voici quelques détails sur le temple d’Olympie, qui nous ont été conservés par
-            <author key="Pausanias">Pausanias</author>, à qui nous devons la description de tous les monuments qui existaient dans la Grèce du temps des empereurs romains :</p>
+          <p>Junon avait un grand nombre de temples : les plus célèbres étaient celui de Samos et celui d’Olympie. Le temple élevé à la reine des dieux dans l’île de Samos était le plus grand que renfermât la Grèce : il fut détruit par l’armée de Xerxès lorsqu’elle s’en retournait en Perse, après sa défaite par les Grecs. Voici quelques détails sur le temple d’Olympie, qui nous ont été conservés par Pausanias, à qui nous devons la description de tous les monuments qui existaient dans la Grèce du temps des empereurs romains :</p>
           <quote>
             <p>« Seize matrones sont commises pour broder un voile que l’on consacre à Junon tous les cinq ans ; et ce sont elles aussi qui font célébrer des jeux en l’honneur de la déesse. Ces jeux consistent à voir les filles disputer le prix de la course entre elles. Pour cela, on les distribue toutes en trois classes : la première est composée des plus jeunes ; la seconde, de celles d’un âge au-dessus ; la troisième, des plus âgées ; et il y a un prix pour chaque classe. Quand elles courent, elles ont les cheveux flottants, la tunique abaissée jusqu’au-dessous du genou, l’épaule droite toute nue et débarrassée jusqu’au sein. Elles font aussi preuve de légèreté dans le stade d’Olympie ; seulement on abrège la carrière de la sixième partie, par égard pour leur sexe. Les victorieuses obtiennent une couronne d’olivier, et reçoivent une portion de la génisse qui a été immolée à Junon ; même il est permis d’appendre leurs portraits pour éterniser leur nom et leur gloire.</p>
             <p>« Les seize matrones président à ces jeux avec un pareil nombre d’associées qui jugent avec elles… Ces matrones n’entrent point en fonctions qu’elles ne soient purifiées par le sacrifice d’un porc, et avec l’eau de la fontaine Piera, qui est dans la plaine par où l’on va d’Olympie à Elis.</p>
             <p>« Dans le temple de Junon, la déesse est assise sur un trône. Jupiter est auprès : il est représenté debout, la tête dans un casque, avec de la barbe au menton. Les Heures sont aussi assises sur des trônes, et leur mère Thémis auprès… Une des raretés les plus considérables du temple est un grand coffre de bois de cèdre, dont le dessus est orné de figures d’animaux, les unes d’or, les autres d’ivoire, et les autres gravées sur le cèdre même. »</p>
+            <bibl>
+              <author key="Pausanias"/>
+            </bibl>
           </quote>
           <p>L’épouse de Jupiter n’inspirait pas en tout lieu le sentiment de la crainte. Plusieurs temples lui furent élevés sous des noms flatteurs. Elle avait des autels dans presque tous les quartiers de Rome. Sous le nom d’<hi rend="i">Ilithye</hi>, elle protégeait les femmes dans l’enfantement. Quelquefois Junon a été regardée comme la déesse de l’air ; on l’invoquait pour obtenir une saison favorable, et nous avons vu qu’elle lançait quelquefois la foudre. Elle présidait aux empires, aux royaumes, et aux mariages. Elle protégeait la parure et la propreté ; et comme les anciens n’eurent point de divinité appelée <hi rend="sc">la Mode</hi>, il est probable qu’elle en tenait lieu.</p>
           <p>Il faut remarquer que les vêtements chez les anciens peuples changeaient moins souvent de forme que chez nous. La beauté de leur climat ne demandait point cette variété de costume dont les caprices de l’atmosphère sont à Paris le prétexte. Leurs vêtements étaient graves et simples, et Junon pouvait y présider sans déroger à sa dignité.</p>
@@ -271,9 +275,11 @@
             <l>Porte en soi les couleurs dont se peint la nature.</l>
             <l>Et confondus ensemble, ils éclairent nos yeux,</l>
             <l>Ils animent le monde, ils emplissent les cieux<note place="bottom"><title>Épître à madame la marquise du Châtelet sur la physique de Newton</title>.</note>.</l>
+            <bibl>
+              <author key="Voltaire"/>
+            </bibl>
           </quote>
-          <p>C’est ainsi que
-            <author key="Voltaire">Voltaire</author> exprime la décomposition de la lumière au moyen du prisme triangulaire. Mais les physiciens sont loin d’expliquer d’une manière satisfaisante les sept couleurs qui brillent dans l’écharpe d’Iris ; et l’arc-en-ciel est pour nous aussi incompréhensible qu’il l’était pour les anciens peuples.</p>
+          <p>C’est ainsi que Voltaire exprime la décomposition de la lumière au moyen du prisme triangulaire. Mais les physiciens sont loin d’expliquer d’une manière satisfaisante les sept couleurs qui brillent dans l’écharpe d’Iris ; et l’arc-en-ciel est pour nous aussi incompréhensible qu’il l’était pour les anciens peuples.</p>
           <p>Le nom d’<hi rend="i">Iris</hi> a été donné à une plante dont les couleurs ont quelque ressemblance avec celles de la ceinture de la jeune messagère de Junon.</p>
           <p/>
           <p>L’arc-en-ciel qui parut alors dans la campagne donna lieu à quelques réflexions qui terminèrent le second entretien. Une des personnes de la société dit que les arcs-en-ciel produits par la lune avaient été vus quelquefois dans les Indes ; mais que l’Iris nocturne avait bien moins d’éclat que celle qui paraît lorsque Phébus se penche vers l’occident.</p>
@@ -373,11 +379,10 @@
             <author key="Virgile">Virgile</author> peignit en beaux vers les aventures d’Énée. Les Romains, fiers de descendre du fils de Vénus, accueillirent l’<title>Énéide</title> avec les transports qu’inspirent les beaux vers et l’orgueil national.</p>
           <p>Vénus pria Vulcain de forger pour Énée un bouclier divin. L’époux complaisant obéit, même dans cette circonstance ; car personne ne pouvait résister à Vénus.</p>
           <p>Elle devait ce charme tout-puissant à une ceinture mystérieuse qui avait la vertu de rendre aimable celle qui la portait, et de faire naître de nouvelles amours.
-            <quote>« Cette ceinture, dit</quote>
-            <author key="Homère">Homère</author>
-            <quote>, était d’un tissu admirablement diversifié : là se trouvaient tous les charmes séducteurs, les attraits, l’amour, les desirs, les amusements, les entretiens secrets, les innocentes tromperies, et le charmant badinage, qui insensiblement surprend l’esprit et le cœur des plus sensés<note place="bottom">
+            <quote>« Cette ceinture, dit
+            <author key="Homère">Homère</author> , était d’un tissu admirablement diversifié : là se trouvaient tous les charmes séducteurs, les attraits, l’amour, les desirs, les amusements, les entretiens secrets, les innocentes tromperies, et le charmant badinage, qui insensiblement surprend l’esprit et le cœur des plus sensés<note place="bottom">
             <author key="Homère">Homère</author>, <title>Iliade</title>, trad. de
-            <author key="Mme Dacier">madame Dacier</author>.</note>. »</quote> Un jour Vénus prêta complaisamment cette ceinture à Junon, et celle-ci trouva dans le cœur de Jupiter tous les feux des premiers jours de leur hymen.</p>
+            <author key="Mme Dacier" role="translator">madame Dacier</author>.</note>. »</quote> Un jour Vénus prêta complaisamment cette ceinture à Junon, et celle-ci trouva dans le cœur de Jupiter tous les feux des premiers jours de leur hymen.</p>
           <p>Le culte de Vénus était presque autant répandu que celui de Jupiter. C’était sur-tout dans l’île de Cypre qu’elle recevait des honneurs sans nombre : là elle voyait trois villes célèbres, Paphos, Idalie et Amathonte, brûler sans cesse l’encens sur ses autels. Dans un de ces temples, elle était représentée avec une longue barbe. On dit que, durant les grands orages, il ne pleuvait jamais sur son temple de Paphos. Cythère était aussi une des îles de la Grèce où Vénus se plaisait le plus à être honorée : c’est de cette île qu’elle prit le nom de Cythérée. Son fils Énée lui avait élevé sur le mont Éryx, en Sicile, un temple magnifique, sous les-nom de <hi rend="i">Vénus érycine</hi> : les victimes y marchaient d’elles-mêmes, et leur sang était toujours caché par les fleurs et les gazons qu’il faisait naître.</p>
           <p>Les temples de Vénus étaient fort nombreux à Rome. Dans l’un d’eux les jeunes filles venaient déposer aux pieds de la déesse leurs poupées, lorsqu’elles devenaient nubiles. Ces poupées des jeunes filles de Rome, réunies dans un sanctuaire, étaient sans doute un spectacle curieux pour les philosophes. On sacrifiait quelquefois à Vénus des sangliers et des colombes.</p>
           <p>Les sages de l’antiquité distinguèrent deux Vénus ; c’étaient la <hi rend="i">Vénus populaire</hi> et la <hi rend="i">Vénus-Uranie</hi>. Sous ce dernier nom, la déesse de la beauté inspirait les sentiments délicats, les passions nobles, et l’amour du beau dans les arts. Ce fut Vénus-Uranie ou <hi rend="i">Vénus pudique</hi> que
@@ -392,9 +397,9 @@
           <p>Ces déesses présidaient aux libéralités, aux services rendus par l’amitié, à tous les bienfaits ; et c’est à cette heureuse prérogative qu’elles durent les autels que presque tous les peuples de la Grèce leur avaient érigés. Les Grâces sont nues pour marquer la candeur, la sincérité avec laquelle on doit obliger ses amis : elles sont jeunes, parceque la mémoire d’un bienfait ne doit jamais vieillir ; elles sont vives et légères, pour montrer que les services ne doivent point se faire attendre ; elles se tiennent par la main, pour montrer que nous devons nous unir par des services réciproques.</p>
           <p>Les Muses et les Grâces n’avaient ordinairement qu’un même temple. En effet, pour plaire aux unes, il faut plaire aux autres ; et les poëtes invoquaient aussi souvent les Grâces que les Muses.</p>
           <p>Étéocle fut le premier qui leur éleva des autels dans la ville d’Orchomène. Elles avaient des statues dans les temples de Mercure et de Vénus, pour faire entendre que la beauté, et l’éloquence ont besoin de leurs secours.</p>
-          <p>
-            <author key="Socrate">Socrate</author>, voyant un homme qui prodiguait ses bienfaits sans distinction, lui dit :
-            <quote>Les Grâces sont vierges, et tu en fais des prostituées.</quote></p>
+          <p> Socrate, voyant un homme qui prodiguait ses bienfaits sans distinction, lui dit :
+            <quote>Les Grâces sont vierges, et tu en fais des prostituées.<bibl>
+            <author key="Socrate"/></bibl></quote></p>
           <p>Lorsque ces aimables filles de Jupiter accompagnaient la déesse de la beauté, l’Amour se mêlait parmi elles. Rarement Vénus marchait sans son fils ; c’est de lui qu’il faut nous occuper maintenant. Mais le temps fixé pour nos entretiens est écoulé : la nuit couvre entièrement la voûte céleste ; jouissons du spectacle d’un ciel étoilé, et remettons à demain l’histoire du dieu ennemi du repos que donne Morphée.</p>
         </div>
       </div>
@@ -481,7 +486,7 @@
           <l>Il dit ; et du laurier la nouvelle verdure</l>
           <l>S’incline, et lui répond par un léger murmure<note place="bottom"><p>
             <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-            <author key="Saint-Ange">de Saint-Ange</author>.</p></note>.</l>
+            <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</p></note>.</l>
         </quote>
         <p>
           <author key="Un autre poëte">Un autre poëte</author> a présenté l’histoire de cette nymphe d’une manière burlesque :</p>
@@ -490,6 +495,9 @@
           <l>Dit : « Soyons métamorphosée. »</l>
           <l>Le Pénée entendit sa voix :</l>
           <l>La voilà madame du bois.</l>
+          <bibl>
+            <author key="anonyme"/>
+          </bibl>
         </quote>
         <p>Clytie, nymphe, fille de l’Océan et de Thétys, fut aimée d’Apollon ; elle le payait du plus tendre retour, lorsque ce dieu l’abandonna pour Leucothoé, fille d’Orchame, roi de Perse. Clytie, pour se venger de sa rivale, découvrit à Orchame l’amour de sa fille pour Apollon. Dès-lors ce dieu ne la regarda plus qu’avec mépris. La nymphe, inconsolable, refusa toute nourriture, et au bout de neuf jours, elle fut changée en <hi rend="i">héliotrope</hi>, plante vulgairement appelée <hi rend="i">tournesol</hi>, parcequ’elle se tourne du côté du Soleil ; de sorte que, malgré sa métamorphose, Clytie marque encore son amour pour Apollon.</p>
         <p>Les naturalistes nous prouveraient aujourd’hui que l’action de la chaleur sur les fibres du péduncule du tournesol est la cause du mouvement qu’on remarque dans le disque de cette plante ; et que plusieurs végétaux présentent ce phénomène. Mais gardons-nous bien d’appeler les physiciens dans le domaine de la Mythologie ; les brillants édifices qui le décorent s’écrouleraient devant eux.</p>
@@ -532,6 +540,9 @@
           <p>« Apollon, dépouillé de tous ses rayons, fut contraint de se faire berger, et de garder les troupeaux du roi Admète : il jouait de la flûte, et tous les autres bergers venaient à l’ombre des ormeaux, sur le bord d’une claire fontaine, écouter ses chansons. Jusque-là, ils avaient mené une vie sauvage et brutale ; ils ne savaient que conduire leurs brebis, les tondre, traire leur lait, et faire des fromages : toute la campagne était comme un désert affreux.</p>
           <p>« Bientôt Apollon montra à tous ces bergers les arts qui peuvent rendre la vie agréable. Il chantait les fleurs dont le Printemps se couronne, les parfums qu’il répand, et la verdure qui naît sous ses pas ; puis il chantait les délicieuses nuits de l’Été, où les Zéphirs rafraîchissent les hommes, et où la rosée désaltère la terre. Il mêlait aussi dans ses chansons les fruits dorés dont l’Automne récompense les travaux du laboureur, et le repos de l’Hiver pendant lequel la folâtre jeunesse danse auprès du feu. Enfin il représentait les forêts sombres qui couvrent les montagnes, et les creux vallons où les rivières, par mille détours, semblent se jouer au milieu des riantes prairies. Il apprit ainsi aux bergers quels sont les charmes de la vie champêtre, quand on sait goûter ce que la simple nature a de gracieux.</p>
           <p>« Les bergers, avec leurs flûtes, se virent bientôt plus heureux que les rois ; et leurs cabanes attiraient en foule les plaisirs purs qui fuient les palais dorés. Les Jeux, les Ris, les Grâces, suivaient par-tout les innocentes bergères. Tous les jours étaient des fêtes : on n’entendait plus que le gazouillement des oiseaux, ou la douce haleine des Zéphirs qui se jouaient dans les rameaux des arbres, ou le murmure d’une onde claire qui tombait de quelque rocher, ou les chansons que les Muses inspiraient aux bergers qui suivaient Apollon. Ce dieu leur enseignait à remporter le prix de la course, et à percer de flèches les daims et les cerfs. »</p>
+          <bibl>
+            <author key="anonyme"/>
+          </bibl>
         </quote>
         <p>Le bonheur d’Apollon berger fut troublé par Mercure, qui déroba les troupeaux d’Admète, après avoir endormi leur gardien au doux bruit de ses louanges et de sa flûte. Apollon passa en Lydie.</p>
         <quote>
@@ -610,6 +621,9 @@
         <p>Midas eut soin de cacher sous un grand bonnet cette honteuse difformité ; mais son barbier l’avait vue, et ne pouvant en garder le secret, ni n’osant le confier à personne, il fit un trou dans la terre en un lieu retiré, dit tout bas dans ce trou :</p>
         <quote>
           <l>Midas, le roi Midas, a des oreilles d’âne ;</l>
+          <bibl>
+            <author key="anonyme"/>
+          </bibl>
         </quote>
         <p rend="noindent">et n’eut pas sitôt parlé, qu’il recouvrit le trou de terre, comme pour y enterrer sa parole. On ajoute que de cet endroit sortit une forêt de roseaux qui, agités par le vent, répétaient ces paroles :</p>
         <quote>
@@ -646,7 +660,7 @@
             <l>Rouge encor des raisins que ses pieds ont pressés ;</l>
             <l>Et l’Hiver aux cheveux de neige hérissés<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>. </note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>. </note>.</l>
           </quote>
           <p>Apollon tend les bras à son fils, l’embrasse, et jure par les eaux du Styx de lui accorder tout ce qu’il voudra pour prouver qu’il est son père. Mais il eut lieu de se repentir de son serment ; car Phaéton ne lui demanda rien moins que de lui laisser conduire un jour entier le char de la lumière. Le dieu eut beau lui représenter les dangers auxquels il s’exposerait, le jeune imprudent ne se départit point de sa demande, et Apollon fut obligé de lui confier son char, chef-d’œuvre immortel de Vulcain.</p>
           <quote>
@@ -657,7 +671,7 @@
             <l>Et du feu des rubis l’émeraude enrichie</l>
             <l>Répété au loin du dieu l’image réfléchie<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>. </note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>. </note>.</l>
           </quote>
           <p>Quatre chevaux le conduisent, et vomissent des feux de leurs narines : ce sont Éthon, Pyroïs, Éoüs, et Phlégon.</p>
           <p>A peine Phaéton est-il placé dans ce char magnifique, qu’il sent l’imprudence de sa demande : il ne peut profiter des avis que lui avait donnés Apollon pour se diriger dans ce voyage dangereux. Déjà le char est emporté dans les cieux hors de la foute ordinaire ; les chevaux, ne reconnaissant plus la voix de leur maître, oublient le frein. Le char enflammé du soleil passant trop près de la Terre, brûle les plaines, tarit les fleuves, et met à sec le lit des mers. Les flammes du char, élancées jusque sur les champs de l’Éthiopie, donnent aux habitants de ces contrées la couleur noire que leurs descendants montrent encore.</p>
@@ -762,7 +776,7 @@
             <l>Eurydice, ô douleur ! touchés de son supplice,</l>
             <l>Les échos répétaient, Eurydice ! Eurydice<note place="bottom">
               <author key="Virgile">Virgile</author>, <title>Géorgiques</title>, trad. de
-              <author key="Delille">Delille</author>.</note> !</l>
+              <author key="Delille" role="translator">Delille</author>.</note> !</l>
           </quote>
           <p>On ajoute que les rossignols qui avaient leur nid auprès du tombeau d’Orphée, chantaient avec plus de force et de mélodie que les autres.</p>
           <p>De tous les dieux de l’Olympe, Apollon est un de ceux qui a été le plus honoré : il avait des temples dans presque toutes les villes de la Grèce et de l’Italie, et de nombreux oracles. Le plus fameux était celui de Delphes, ville d’Achaïe : on allait le consulter des endroits les plus éloignés. Il y avait dans le sanctuaire de ce temple un trou qui aboutissait à un vaste souterrain, et d’où il sortait des vapeurs qui causaient l’enthousiasme prophétique ; sur ce trou était un siège, percé par le milieu, et soutenu par trois branches de métal qui lui firent donner le nom de <hi rend="i">trépied</hi>. Une prophétesse prononçait les oracles sacrés ; on la nommait Pythie, parcequ’elle seule elle avait droit de monter sur le trépied, qui était couvert de la peau du serpent Python. Avant de recevoir l’inspiration divine, la Pythie mâchait des feuilles de laurier, et buvait de l’eau de la fontaine Castalie : alors on voyait ses yeux s’animer, ses cheveux se dresser, et un tremblement violent s’emparer de tous ses membres. Elle poussait des cris et des hurlements qui remplissaient les assistants d’une sainte frayeur, et elle prononçait des paroles mal articulées, quelquefois des vers, que l’on recueillait avec soin, et qui semblaient devoir annoncer les destinées des empires.</p>
@@ -801,8 +815,7 @@
             <l>Triste fin d’un hymen si divers en son cours<note place="bottom">
               <author key="La Fontaine">La Fontaine</author>, <title>les Filles de Minée</title>.</note> !</l>
           </quote>
-          <p>Ici, Eugène s’arrêta quelques instants. Le soleil se penchait vers l’occident, et se montrant à travers une voûte de nuages d’or, offrait le plus beau spectacle que l’œil de l’homme puisse admirer. « Certes, dit alors Eugène, on doit être peu surpris du culte presque universel qu’obtint cet astre sous différents noms. Nous ne pouvons mieux terminer notre entretien sur le dieu de la lumière qu’en récitant ces beaux vers de
-            <author key="Delille">Delille</author>, dignes également du sujet et du poëte : »</p>
+          <p>Ici, Eugène s’arrêta quelques instants. Le soleil se penchait vers l’occident, et se montrant à travers une voûte de nuages d’or, offrait le plus beau spectacle que l’œil de l’homme puisse admirer. « Certes, dit alors Eugène, on doit être peu surpris du culte presque universel qu’obtint cet astre sous différents noms. Nous ne pouvons mieux terminer notre entretien sur le dieu de la lumière qu’en récitant ces beaux vers de Delille, dignes également du sujet et du poëte : »</p>
           <quote>
             <l>Eh ! qui méritait mieux d’usurper notre hommage</l>
             <l>Que cet astre, des dieux la plus brillante image,</l>
@@ -826,6 +839,9 @@
             <l>Encore une étincelle, encor quelques rayons,</l>
             <l>Et que mes derniers vers, pleins des feux du jeune âge,</l>
             <l>De ton couchant pompeux soient la brillante image.</l>
+            <bibl>
+              <author key="Delille"/>
+            </bibl>
           </quote>
         </div>
       </div>
@@ -859,7 +875,7 @@
             <l>Ismène aux doigts légers est habile en cet art,</l>
             <l>Et les siens négligés voltigent au hasard<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
           </quote>
           <p>Actéon ose s’avancer dans cette grotte. A son aspect, les nymphes sont effrayées, et poussent des cris aigus. La rougeur couvre le front de Diane ; elle frémit de colère, et se plaint de n’avoir point ses traits pour punir le profane chasseur : ses compagnes l’entourent ; elle cache son sein avec ses mains, et détourne la tête. Toutefois, au défaut de ses armes, elle lance de l’eau au visage d’Actéon : « Fuis, dit-elle, profane ; et vante-toi, si tu le peux, d’avoir vu dans le bain la fille de Jupiter. »</p>
           <p>A peine a-t-elle prononcé ces paroles, que le jeune chasseur est métamorphosé en cerf : il veut implorer la déesse, mais sa voix est éteinte ; il fuit, et voyant sa nouvelle forme réfléchie par l’onde d’un ruisseau, il n’a plus que des larmes pour exprimer sa douleur.</p>
@@ -881,9 +897,11 @@
             <l>« Des trésors par l’abeille au printemps amassés !</l>
             <l>      « Puisse l’herbe toujours fleurie</l>
             <l>« Se courber mollement sous ses membres lassés ! »</l>
+            <bibl>
+              <author key="Girodet"/>
+            </bibl>
           </quote>
-          <p>Il paraît que c’est l’opinion qu’a adoptée M. 
-            <author key="Girodet">Girodet</author>, lorsqu’il a composé le beau tableau où nous voyons le fils d’Ethlius endormi, el Zéphire écartant le feuillage pour laisser pénétrer les purs rayons de l’astre des nuits sur le visage d’Endymion. Cette aventure de Diane fit beaucoup de bruit dans l’Olympe, où l’amour platonique était peu connu.</p>
+          <p>Il paraît que c’est l’opinion qu’a adoptée M.  Girodet, lorsqu’il a composé le beau tableau où nous voyons le fils d’Ethlius endormi, el Zéphire écartant le feuillage pour laisser pénétrer les purs rayons de l’astre des nuits sur le visage d’Endymion. Cette aventure de Diane fit beaucoup de bruit dans l’Olympe, où l’amour platonique était peu connu.</p>
           <p>On prétend encore que cette déesse ne fut pas insensible à la beauté d’Orion, et qu’elle le tua par jalousie, ne pouvant souffrir qu’il aimât la jeune Aurore. Orion fut placé au rang des astres.</p>
           <p>On ajoute que le dieu Pan, transformé en un bélier blanc, sut attirer la sœur d’Apollon dans une forêt, et qu’il reprit sa forme pour lui déclarer son amour et pour lui plaire.</p>
           <p>Cependant Diane n’en fut pas moins honorée comme une des plus puissantes déesses. Les peuples la considéraient tour-à-tour comme divinité du Ciel, sous le nom.de lune, comme déesse des Enfers, sous le nom d’Hécate, et comme la divinité des chasseurs, sous celui de Diane ; c’est pour cette raison qu’on l’appelait <hi rend="i">la triple déesse, la déesse à trois têtes</hi> : on lui faisait des sacrifices dans les lieux où aboutissaient trois rues ou trois chemins ; de là le surnom de <hi rend="i">Trivia</hi> qu’on lui a donné.</p>
@@ -891,8 +909,7 @@
           <p>Le plus riche et le plus fameux de ses temples était celui d’Ephèse ; on le comptait parmi les sept merveilles du monde. Toute l’Asie enrichit ce temple, pendant plus de deux cents ans, de tout ce qu’elle avait de plus précieux : il fut brûlé par un homme obscur, nommé Érostrate, et qui voulut par ce moyen faire passer son nom à la postérité.</p>
           <p>On immolait en Tauride, dans le temple de Diane, tous les étrangers que la tempête y avait jetés. Iphigénie, fille d’Agamemnon, après avoir échappé au couteau sacré du grand-prêtre Calchas, en Aulide, se réfugia dans la Tauride où elle fut prêtresse de Diane : là, elle était sur le point d’égorger son frère Oreste, poursuivi par les Furies, lorsqu’elle le reconnut, et quitta le temple, après avoir aboli les horribles sacrifices que l’on faisait à la déesse.</p>
           <p>Les peuples de la Grèce immolaient ordinairement à Phébé des chèvres, ou une biche, ou un bœuf. Le pavot et le dictame lui étaient consacrés. Sur quelques médailles, elle se montre avec un croissant au-dessus du front ; quelquefois elle s’y présente montée sur un char traîné par deux cerfs ; enfin on la voit sur quelques monuments couverte d’un grand voile parsemé d’étoiles.</p>
-          <p>Cette divinité est une de celles qui offrent aux peintres et aux poëtes le plus de scènes agréables à retracer. La douce clarté que répand l’astre qu’elle conduit inspire les tendres sentiments, et invite aux douces rêveries. Personne n’a mieux peint que
-            <author key="La Mierre">Le Mierre</author> les agréments d’un beau clair de lune.</p>
+          <p>Cette divinité est une de celles qui offrent aux peintres et aux poëtes le plus de scènes agréables à retracer. La douce clarté que répand l’astre qu’elle conduit inspire les tendres sentiments, et invite aux douces rêveries. Personne n’a mieux peint que Le Mierre les agréments d’un beau clair de lune.</p>
           <quote>
             <l>Mais de Diane au ciel l’astre vient de paraître :</l>
             <l>Qu’il luit paisiblement sur ce séjour champêtre !</l>
@@ -914,6 +931,9 @@
             <l>Que ton pâle flambeau se lève et le rassure.</l>
             <l>L’asile où tu me fuis est le sacré vallon,</l>
             <l>Et je sens que Diane est la sœur d’Apollon.</l>
+            <bibl>
+              <author key="La Mierre"/>
+            </bibl>
           </quote>
         </div>
       </div>
@@ -1113,7 +1133,7 @@
             <l>La Sicile en moissons autrefois si féconde,</l>
             <l>Perd sa fertilité célèbre dans le monde<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, traduction de
-              <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
           </quote>
           <p>Enfin la nymphe Aréthuse apprit à Cérès que Proserpine était devenue l’épouse du monarque des enfers. Cette mère, encore effrayée sur le sort de sa fille chérie, obtint de Jupiter que Proserpine habiterait tour-à-tour le ciel et les enfers. Aussitôt l’abondance reparut sur la terre. L’Attique, province chère aux dieux, avait beaucoup souffert pendant le courroux de Cérès ; cette déesse s’y rendit, et séjourna à Éleusis, où elle instruisit Triptolème de tout ce qui concernait l’agriculture. Bientôt elle lui prêta son char, attelé de deux dragons, et lui ordonna de parcourir toute la terre, pour enseigner un art si nécessaire à ses habitants, qui n’avaient jusqu’alors vécu que de racines et de glands.</p>
           <div>
@@ -1127,7 +1147,8 @@
             <head>Plutus.</head>
             <p>Il est aveugle, parcequ’il distribue les richesses sans discernement ; boiteux, parcequ’il arrive lentement ; ailé, parcequ’il s’en retourne fort vite. Lorsqu’on se plaint du peu de discernement avec lequel il répand ses faveurs, il répond :
               <quote>« Que voulez-vous ? Jupiter est jaloux des gens de bien. Je le menaçai dans ma jeunesse de n’aller qu’avec la Science et la Vertu ; pour m’en empêcher, il m’aveugla<note place="bottom">
-              <author key="Aristophane">Aristophane</author>, <title>Plutus</title>, comédie…</note>. »</quote></p>
+              <author key="Aristophane">Aristophane</author>,
+              <author key="anonyme" role="translator"/><title>Plutus</title>, comédie…</note>. »</quote></p>
             <p>Il y avait une autre divinité dont les attributions étaient les mêmes que celles de Plutus, et dont le culte eut encore plus de célébrité ; c’était la Fortune.</p>
           </div>
           <div>
@@ -1293,7 +1314,7 @@
             <l>Ils ouvrirent à peine une faible paupière ;</l>
             <l>Et leur premier regard, confus, embarrassé,</l>
             <l>Sur eux-mêmes resta timidement baissé<note place="bottom"><p>
-              <author>Colardeau</author>, <title>les hommes de Prométhée.</title></p></note>.</l>
+              <author key="Colardeau">Colardeau</author>, <title>les hommes de Prométhée.</title></p></note>.</l>
           </quote>
           <p>Nous avons vu le feu, sous la figure d’Apollon et sous celle de Vulcain, devenir l’objet du culte des anciens peuples. Les Romains rendaient un culte à ce même élément, sous les attributs de Vesta.</p>
         </div>
@@ -1423,7 +1444,7 @@
             <l>Du monstre à qui la voix, la lumière est ravie,</l>
             <l>Arrête dans sa gorge et le sang et la vie<note place="bottom">
               <author key="Virgile">Virgile</author>, <title>Énéide</title>, trad. de
-              <author key="Delille">Delille</author>.</note>. »</l>
+              <author key="Delille" role="translator">Delille</author>.</note>. »</l>
           </quote>
           <p>Hercule devenu amoureux d’Iole, fille d’Euryte, roi d’Œchalie, et sachant que son père avait déclaré qu’il la donnerait à celui qui tirerait de l’arc mieux que lui et ses fils, il se présenta, eut l’avantage sur eux tous, et n’obtint point la jeune princesse. Iphitus, l’aîné des frères d’Iole, était d’avis qu’on la lui donnât ; mais il ne fut point écouté, parcequ’on craignait qu’il ne tuât les enfants qu’il aurait de cette princesse, comme il avait tué ceux de Mégare sa première femme, lors de la fureur qui s’empara de lui par ordre de Junon. Ce refus causa à Hercule un second accès de frénésie, dans laquelle il tua Iphitus.</p>
           <p>On dit qu’étant allé consulter l’oracle de Delphes, pour la guérison d’une maladie qui lui avait été envoyée par les dieux, et l’oracle ayant refusé de lui répondre, il tenta d’emporter le trépied sacré. Apollon s’y étant opposé, il se battit contre ce dieu, et l’on ignore ce qui serait arrivé, si Jupiter ne les eût séparés en jetant la foudre au milieu d’eux. L’oracle alors lui répondit qu’il ne serait délivré de sa maladie qu’après qu’il aurait été vendu comme esclave. Mercure le vendit à Omphale, reine de Lydie, à laquelle il inspira une vive tendresse. On vit alors Hercule filer auprès de cette reine : tandis que celle-ci portait la massue aux pointes de fer et était vêtue d’une peau de lion, le héros portait une robe de pourpre, travaillait la laine, et souffrait, dit-on, qu’Omphale lui donnât quelquefois des coups de sa pantoufle pour le punir de sa maladresse.</p>
@@ -1480,7 +1501,7 @@
             <l>Elle dit, et s’élance au fond de l’antre sombre :</l>
             <l>Et lui, d’un pas hardi, marche, et la suit dans l’ombre<note place="bottom">
               <author key="Virgile">Virgile</author>, <title>Énéide</title>, trad. de
-              <author key="Delille">Delille</author>.</note>.</l>
+              <author key="Delille" role="translator">Delille</author>.</note>.</l>
           </quote>
           <p>Sous le vestibule de ces tristes demeures, ils trouvent le Deuil assis auprès des Remords ; les pâles Maladies à côté de la triste Vieillesse ; la Peur, la Faim, la honteuse Pauvreté, monstres d’un aspect affreux, sont auprès de la Terreur, du pénible Travail, du Sommeil parent de la Mort : là, ils voient aussi la cruelle Joie qui résulte du crime ; la Guerre furieuse ; les Euménides étendues sur un lit de fer ; et la Discorde insensée, dont les cheveux sont des vipères retenues par des bandelettes sanglantes.</p>
           <p>Les poëtes ont présenté des descriptions effrayantes de chacun de ces monstres épouvantables, qui, malheureusement pour l’espèce humaine, n’étaient pas toujours dans les Enfers. Voici quelques traits de l’image de la Faim :</p>
@@ -1492,7 +1513,7 @@
             <l>Et ses talons hideux s’allongent au dehors,</l>
             <l>Grossis par la maigreur qui dessèche son corps<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
           </quote>
           <p>Les Euménides, que l’on distingue dans vie groupe horrible placé à la porte des Enfers, étaient trois sœurs, filles du fleuve Achéron et de la Nuit : leurs noms étaient Tisiphone, Alecto, et Mégère. On les appelait aussi Érynnies et Furies à cause de la fureur qu’elles excitaient dans l’esprit des criminels. Ces terribles sœurs étaient les ministres des vengeances célestes. On sait avec quel acharnement elles poursuivirent Oreste meurtrier de Clytemnestre sa mère. Elles inspiraient une si grande terreur qu’à peine on osait prononcer leur nom.</p>
           <p>Mais suivons Énée dans son périlleux voyage. A peine a-t-il avancé quelques pas, qu’il trouve de nouveaux monstres sous les figures les plus bizarres : là, Géryon montre ses trois corps énormes réunis en un seul ; ici, sont couchés les Centaures dont la partie supérieure du corps ressemble à celle de l’homme, tandis que leur dos et leurs pieds sont ceux d’un cheval indompté ; plus loin est l’Hydre de Lerne, monstre qui présente cent têtes menaçantes ; la Chimère, monstre ailé, qui lève trois têtes, l’une de lion, l’autre de chèvre, la troisième de dragon, et dont tout le corps tient de ces trois animaux différents. Ce monstre vomit des torrents de flamme et de fumée. De son accouplement avec le chien Orthos naquirent le Sphinx et le lion de Némée. La Chimère fut vaincue par Bellérophon, monté sur le cheval Pégase, et elle vint grossir le nombre des monstres infernaux.</p>
@@ -1512,7 +1533,7 @@
             <l>Mais à sa verte audace, à son œil plein de feu,</l>
             <l>On reconnaît d’abord la vieillesse d’un dieu<note place="bottom">
               <author key="Virgile">Virgile</author>, <title>Énéide</title>, trad. de
-              <author key="Delille">Delille</author>.</note>.</l>
+              <author key="Delille" role="translator">Delille</author>.</note>.</l>
           </quote>
           <p>L’impitoyable nocher refuse de passer dans sa barque les ames de ceux qui n’ont pas reçu les honneurs de la sépulture, et dans la bouche desquels leurs parents, lors de leur trépas, n’ont pas mis une obole pour payer le passage de l’Achéron.</p>
           <p>Énée présente le rameau d’or à Caron, et passe ce fleuve redoutable, toujours accompagné de la prêtresse d’Apollon. A peine eurent-ils mis le pied sur le rivage des morts, qu’ils trouvèrent le chien Cerbère qui faisait retentir ces vastes souterrains de ses longs aboiements. Ce monstre naquit d’Échidna, moitié nymphe et moitié serpent, et de Typhon, Vent orageux et violent : il a trois têtes. Son office est de garder les Enfers, et d’empêcher aux vivants d’y entrer et aux morts d’en sortir.</p>
@@ -1534,7 +1555,9 @@
             <l>De là partent des cris, des accents lamentables,</l>
             <l>Le bruit affreux des fers traînés par les coupables,</l>
             <l>Le sifflement des fouets dont l’air au loin gémit.</l>
-            <l>Le fils des dieux s’arrête, il écoute, il frémit<note place="bottom"><p>Virgile, <title>Énéide</title>, trad. de Delille.</p></note>.</l>
+            <l>Le fils des dieux s’arrête, il écoute, il frémit<note place="bottom"><p>
+              <author key="Virgile">Virgile</author>, <title>Énéide</title>, trad. de
+              <author key="Delille" role="translator">Delille</author>.</p></note>.</l>
           </quote>
           <p>Bientôt la porte terrible roule avec fracas, et laisse voir au héros les divers supplices inventés dans l’affreux Tartare, par le génie des monstres des Enfers. Tisiphone, la plus méchante des Furies, veille jour et nuit à la porte de cette effroyable enceinte. Rhadamanthe préside dans ces tristes lieux ; il force les coupables à avouer leurs crimes, et prononce le genre de tourment auquel ils sont condamnés : les Furies exécutent ses ordres. Là, sont les Titans qui osèrent assiéger les dieux dans l’Olympe ; les fils d’Aloée qui, dès l’âge de neuf ans, leur déclarèrent la guerre ; l’insensé Salmonée, qui voulut]passer pour un dieu, et imiter la foudre de Jupiter ; Thésée qui avait tenté d’enlever Proserpine, femme de Pluton, roi des Enfers ; le téméraire Ixion, qui avait osé se vanter d’avoir séduit Junon qu’il avait cru posséder dans un nuage auquel Jupiter avait donné la forme de cette déesse, et qui est condamné à tourner toujours sur une roue ; Titye qui brûla pour Latone d’un feu profane et audacieux, et dont un vautour cruel dévore les entrailles toujours renaissantes.</p>
           <p>Énée trouve aussi dans cet affreux séjour Tantale, qui, pour éprouver les dieux qu’il reçut chez lui, leur servit à souper les membres de son fils Pélops. Ce monstre voit toujours autour de lui des fruits délicieux ; il est plongé dans l’eau jusqu’à la bouche ; et il ne peut goûter à ces fruits, ni se désaltérer à cette onde.</p>
@@ -1578,18 +1601,20 @@
             <l>Et les bords où la mer que traverse Aréthuse</l>
             <l>Enferme entre deux ports les murs de Syracuse<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
           </quote>
           <p>Enfin le dieu, d’un coup de son sceptre fourchu qu’il enfonce dans le fond de l’eau, s’ouvre un chemin qui le conduit dans son palais ténébreux, malgré les remontrances de Minerve accourue aux cris de Proserpine. A peine y est-il arrivé qu’il épouse cette nymphe, et l’établit reine du séjour des Ombres.</p>
           <p>Lorsque nous avons étudié l’histoire de Cérès, nous avons vu quelles furent ses douleurs lorsqu’elle apprit l’enlèvement de sa fille. Après avoir inutilement parcouru la terre pour la trouver, elle monte sur son char, traverse l’immense étendue des airs, et se présente devant Jupiter les yeux pleins de larmes. Le maître des dieux décida que sa fille lui serait rendue, pourvu toutefois qu’elle n’eût rien mangé depuis qu’elle était entrée dans les Enfers : mais lorsque Cérès voulut retirer Proserpine du séjour des Ombres, il se trouva que cette fille chérie, en se promenant dans les jardins de l’Élysée, avait cueilli une grenade dont elle avait mangé quelques grains. Ascalaphe, qui révéla cette circonstance aux dieux, fut changé en hibou. Tout ce que put faire Jupiter, fut d’ordonner que Proserpine demeurerait chaque année six mois avec son mari et six mois avec sa mère.</p>
           <p>Pirithoüs, accompagné de Thésée son ami, entreprit d’enlever l’épouse de Pluton ; mais il fut retenu dans les Enfers, et livré aux supplices de l’affreux Tartare.</p>
           <p>On dit que le monarque des Ombres, épris des charmes de la nymphe Leucé, la transporta dans les Enfers : cette nymphe mourut dans les Champs-Élysées, où elle fut changée en peuplier.</p>
           <p>Non loin du palais habité par Pluton et Proserpine, sont trois juges inflexibles, Minos, Éaque, et Rhadamanthe. Minos et Rhadamanthe étaient fils de Jupiter et d’Europe, fille d’Agénor. Le premier fut roi de l’île de Crète, et le second d’une des îles de la mer Égée. La sagesse de leur gouvernement leur mérita l’honneur de juger tous les mortels précipités dans l’empire de Pluton. Minos eut un fils de son nom, et qui montra moins de sagesse que lui sur le trône. Minos II fut l’époux de Pasiphaé, fille d’Apollon. Cette princesse fut victime de la haine que Vénus avait vouée au dieu de la lumière, lorsqu’il dévoila à Vulcain sa tendresse pour le dieu Mars : elle connut les fureurs les plus humiliantes des feux de l’amour ; et ses deux filles, Phèdre et Ariane, connurent aussi les malheurs dont la cruelle Vénus est la cause.</p>
-          <p>Minos tient dans les Enfers l’urne dans laquelle sont déposés les jugements des coupables. Dans <title>une des plus belles tragédies</title> de
-            <author key="Racine">Racine</author>, nous voyons Phèdre, brûlant d’un feu incestueux, redouter plus que le trépas l’apparition de Minos dans les Enfers ; elle s’écrie :</p>
+          <p>Minos tient dans les Enfers l’urne dans laquelle sont déposés les jugements des coupables. Dans <title>une des plus belles tragédies</title> de Racine, nous voyons Phèdre, brûlant d’un feu incestueux, redouter plus que le trépas l’apparition de Minos dans les Enfers ; elle s’écrie :</p>
           <quote>
             <l>« Que diras-tu, mon père, à ce spectacle horrible ?</l>
             <l>« Je crois voir de tes mains tomber l’urne terrible. »</l>
+            <bibl>
+              <author key="Racine"/>
+            </bibl>
           </quote>
           <p>Éaque, fils de Jupiter et d’Égine, fut un roi de la Grèce qui fit tellement régner la justice et l’équité, que les dieux, après sa mort, le crurent digne d’être juge dans les Enfers.</p>
           <p>Non loin du lieu où résident les trois juges inflexibles, est la demeure des Parques ; elles sont trois sœurs, filles de la Nuit. On les voit sans cesse occupées à filer la destinée des hommes : Clotho, la plus jeune des trois, préside au moment de la naissance ; Lachésis file les événements de la vie ; et Atropos, la plus âgée, en coupe le fil. Elles se présentent sous la figure de trois vieilles femmes, couronnées de gros flocons de laine entremêlés de fleurs de narcisse, et vêtues d’une robe blanche…</p>
@@ -1640,7 +1665,7 @@
             <l>Et ceux qui, de nos arts utiles inventeurs,</l>
             <l>Ont défriché la vie et cultivé les mœurs<note place="bottom">
               <author key="Virgile">Virgile</author>, <title>Énéide</title>, trad. de
-              <author key="Delille">Delille</author>.</note>.</l>
+              <author key="Delille" role="translator">Delille</author>.</note>.</l>
           </quote>
           <p>Énée rencontre son père parmi ces ombres heureuses. Le vieillard, aimé des dieux, annonce à son fils sa gloire future et celle de ses descendants ; enfin il lui fait le tableau de la grandeur de cette Rome que les Destins l’appellent à fonder, et qui doit remplir tous les siècles du bruit de son nom. Le héros, charmé du dernier spectacle qui vient de frapper ses sens, sort de ces lieux enchantés par <hi rend="i">la porte d’ivoire</hi>, à travers laquelle passent les songes trompeurs, tandis les songes véritables s’échappent par <hi rend="i">la porte de corne</hi>.</p>
           <p>Énée, sortant par la porte d’ivoire, nous montre assez que tout ce qu’il vient de voir n’est qu’un rêve de l’imagination.</p>
@@ -1669,7 +1694,7 @@
             <l>Ne découvre aux vivants cet empire odieux,</l>
             <l>Abhorré des mortels, et craint même des dieux<note place="bottom">
               <author key="Homère">Homère</author>, <title>Iliade</title>, fragment traduit par
-              <author key="Boileau">Boileau</author>, dans le <title>Traité du sublime</title> par
+              <author key="Boileau" role="translator">Boileau</author>, dans le <title>Traité du sublime</title> par
               <author key="Longin">Longin</author>.</note>.</l>
           </quote>
           <p>Le dieu des mers pouvait aussi faire naître des îles, nouveaux ornements de son empire. A son ordre, l’île d’Hiéra se montra sur les eaux. La mer Égée, depuis quatre jours, était couverte de flammes, lorsqu’on vit sortir du sein des flots des rochers ardents, qui, semblables à autant de parties d’un corps organisé, se rangèrent les uns auprès des autres, et prirent la forme d’une île, sur laquelle on éleva bientôt après un temple à Neptune.</p>
@@ -1682,10 +1707,10 @@
           <p>Neptune, devenu amoureux d’Amphitrite, une des Océanides, employa toute sorte de moyens pour la séduire ; car elle avait fait vœu de virginité. La rigueur et les mépris de cette déesse mirent long-temps sa constance à l’épreuve, et peut-être ne serait-il jamais parvenu à la fléchir, sans le secours d’un Dauphin qui la fit enfin résoudre à prendre ce dieu pour époux. Neptune, en récompense du service que le Dauphin lui avait rendu, le plaça parmi les astres, où il forme la constellation de son nom.</p>
           <p>Amphitrite partagea l’empire des eaux avec son mari. Il la rendit mère de Triton, un des dieux marins, et de Rhode, qui donna son nom à une île de la mer Égée.</p>
           <p>Les poëtes donnent de Triton l’idée d’un dieu puissant, qui règne sur les abymes de la mer, et dont une des fonctions est de faire cesser les tempêtes. Il fait résonner sur les mers une conque recourbée, dont le bruit se fait entendre aux deux extrémités du monde. Ce dieu a la partie supérieure du corps semblable à celle d’un homme, et l’autre pareille à celle d’un dauphin. Quelquefois on le représente par-devant avec deux pieds de cheval.</p>
-          <p>La plupart des dieux marins étaient appelés Tritons ; mais les poëtes désignent particulièrement sous ce nom ceux qui étaient moitié hommes et moitié poissons.
-            <author key="Pausanias">Pausanias</author>, qui avait vu le simulacre de plusieurs Tritons, fait ainsi leur portrait :
+          <p>La plupart des dieux marins étaient appelés Tritons ; mais les poëtes désignent particulièrement sous ce nom ceux qui étaient moitié hommes et moitié poissons. Pausanias, qui avait vu le simulacre de plusieurs Tritons, fait ainsi leur portrait :
             <quote>« Ils ont une espèce de chevelure d’un vert d’ache de marais, et tous leurs cheveux se tiennent, de manière qu’on ne peut les séparer. Le reste du corps est couvert d’une écaille aussi fine et aussi forte que le chagrin. Ils ont des nageoires au-dessous des ouïes, et des narines d’homme ; l’ouverture de la bouche fort large, avec des dents extrêmement fortes et serrées : leurs yeux, autant que j’ai pu le remarquer, sont verdâtres. Ils ont aussi des mains, des doigts, et des ongles qui ressemblent à l’écaille supérieure d’une huître ; enfin vous leur voyez, sous l’estomac et sous le ventre, des pattes comme aux dauphins<note place="bottom">Traduction de M. l’abbé
-            <author key="Gédoin">Gédoin</author>.</note>. »</quote></p>
+            <author key="Pausanias"/>
+            <author key="Gédoin" role="translator">Gédoin</author>.</note>. »</quote></p>
           <p>Un des plus beaux spectacles du monde poétique des anciens, était Amphitrite voyageant sur les mers calmées à son aspect, et se montrant entourée de toutes les divinités qui composaient sa cour. Le jeune Télémaque, fils d’Ulysse, fut frappé de ce spectacle merveilleux, et en faisait ainsi le tableau à la nymphe Calypso :</p>
           <quote>
             <p>« … Nous aperçûmes des dauphins couverts d’une écaille qui paraissait d’or et d’azur ; en se jouant, ils soulevaient les flots avec beaucoup d’écume. Après eux venaient des Tritons qui sonnaient de la trompette avec leurs conques recourbées ; ils environnaient le char d’Amphitrite, traîné par des chevaux marins plus blancs que la neige, et qui, fendant l’onde salée, laissaient loin derrière eux un vaste sillon dans la mer : leurs yeux étaient enflammés, et leurs bouches étaient fumantes. Le char de la déesse était une conque d’une merveilleuse figure ; elle était d’une blancheur plus éclatante que l’ivoire, et les roues étaient d’or. Ce char semblait voler sur la face des eaux paisibles. Une troupe de nymphes, couronnées de fleurs, nageaient en foule derrière le char ; leurs cheveux pendaient sur leurs épaules, et flottaient au gré du vent. La déesse tenait d’une main un sceptre d’or pour commander aux vagues, de l’autre elle portait sur ses genoux le petit dieu Palémon son fils, pendant à sa-mamelle : elle avait un visage serein, et une douce majesté qui faisait fuir les vents séditieux et toutes les noires tempêtes. Les tritons conduisaient les chevaux, et tenaient les rênes dorées. Une grande voile de pourpre flottait dans l’air au-dessus du char : elle était à demi enflée par le souffle d’une multitude de petits Zéphyrs qui s’efforçaient de la pousser par leurs haleines. On voyait au milieu des airs Éole empressé, inquiet, et ardent : son visage ridé et chagrin, sa voix menaçante, ses sourcils épais et pendants, ses yeux pleine d’un feu sombre et austère, tenaient en silence les fiers Aquilons, et repoussaient tous les nuages. Les immenses baleines et tous les monstres marins, faisant avec leurs narines un flux et un reflux de l’onde amère, sortaient à la hâte de leurs grottes profondes pour voir la déesse<note place="bottom">
@@ -1720,7 +1745,7 @@
             <l>Sa hauteur est immense, et par l’ordre des dieux,</l>
             <l>Ce colosse à jamais porte le poids des cieux<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
           </quote>
           <p>Hercule soulagea pendant quelques instants Atlas du poids du firmament.</p>
           <p>Lorsque nous avons observé le séjour des dieux du premier ordre, notre attention s’est fixée sur le mont Olympe, lieu consacré à leurs augustes assemblées.</p>
@@ -1769,7 +1794,7 @@
             <l>« Vois les maux que j’endure, adoucis ta fierté ;</l>
             <l>« Je ne cède qu’à toi ; toi seule m’as dompté<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>. </note>. »</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>. </note>. »</l>
           </quote>
           <p>Ces chants étaient inutiles ; Galatée aimait le berger Acis, fils du dieu Faune et de la nymphe Séméthis. Enfin le Cyclope, enflammé de jalousie contre ce berger, lança sur lui un rocher sous lequel il fut écrasé. Les dieux changèrent aussitôt Acis en un fleuve qui porte son nom…</p>
           <p>Les mots que je viens de prononcer ont été répétés, comme s’ils étaient prononcés par une autre personne cachée dans ces bosquets ; c’est la voix de la nymphe Écho, fille de l’Air et de la Terre. Jupiter l’ayant mise dans la confidence de ses amours, pour écarter les soupçons jaloux de Junon, elle l’amusait par différents récits ; mais la déesse ayant découvert son artifice, la condamna à ne parler que lorsqu’on l’interrogerait, et à ne prononcer jamais que les derniers mots des phrases.</p>
@@ -1895,7 +1920,7 @@
             <p>« Vulcain allume toutes ses fournaises ; il répand ses feux dans le champ de bataille, et consume tous les morts dont Achille l’avait couvert. Toute la plaine est embrasée, et les eaux commencent à diminuer. Le dieu tourne toutes ses flammes contre le fleuve : les ormes, les peupliers, les joncs, et les cyprès qui bordent ses belles rives, sont brûlés jusqu’à leurs racines ; les poissons qui sont dans ses gouffres sentent l’embrasement, et ne trouvent point d’asile dans leurs cavernes les plus profondes. Par-tout les brûlantes chaleurs de Vulcain les poursuivent et les étouffent ; le Fleuve même est tout en feu, et dans cet état, il s’écrie : “Vulcain, il n’y a pas un des dieux qui puisse vous résister : comment entreprendrais-je de combattre contre vous ? sur-tout lorsque vous venez avec ces flammes dévorantes qui vous environnent ? Éloignez-vous de moi ; et que, dès aujourd’hui, Achille se rende maître de Troie.”</p>
             <p>« Il parle ainsi à demi consumé, et l’on entend bouillonner ses ondes écumeuses. Comme on voit la graisse des victimes, dans un vaisseau que les flammes environnent de tout côté, s’élever par gros bouillons, et égaler par leur mouvement la violence du feu qui les agite ; on voit de même les eaux du Xanthe bouillonner avec furie, et se consumer.</p>
             <p>« Il ne peut plus se répandre sur la terre ; il est contraint de se tenir dans son lit, et la vapeur de Vulcain le dévore<note place="bottom"><title>Iliade</title>, traduction de
-              <author key="Mme Dacier">madame Dacier</author>.</note>. »</p>
+              <author key="Mme Dacier" role="translator">madame Dacier</author>.</note>. »</p>
           </quote>
           <p>Mais examinons maintenant les lacs et les fontaines.</p>
         </div>
@@ -1928,7 +1953,7 @@
             <l>Comme un homme enivré du nectar de la treille,</l>
             <l>Il chancelle, il bégaie, et sa raison sommeille<note place="bottom">
               <author key="Ovide">Ovide</author>, <title>Métam.</title>, trad. de
-              <author key="Saint-Ange">de Saint-Ange</author>. </note>.</l>
+              <author key="Saint-Ange" role="translator">de Saint-Ange</author>. </note>.</l>
           </quote>
         </div>
         <div>
@@ -1985,6 +2010,10 @@
           <l>La serpe du voleur et le bec des oiseaux,</l>
           <l>Dieu que Lampsaque adore ; et, couvert de guirlandes,</l>
           <l>Ton buste va sourire à l’aspect des offrandes.</l>
+          <bibl>
+            <author key="anonyme"/>
+            <author key="Brès" resp="editor"/>
+          </bibl>
         </quote>
         <p>Sous les plus riants asiles des vergers, résidait une jeune divinité, dont la présence semblait répandre la fécondité sur les arbres chargés de fruits délicieux : elle se nommait Pomone.</p>
         <quote>
@@ -2017,7 +2046,7 @@
           <l>Essayèrent cent fois de lui plaire, et cent fois,</l>
           <l>Pour cacher leur dépit, s’enfuirent dans les bois<note place="bottom">
             <author key="Ovide">Ovide</author>, <title>Métam.</title>, traduction de
-            <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+            <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
         </quote>
         <p>Vertumne, dieu des vergers, fut plus constant et plus heureux. Il se déguisa de toutes les manières pour la rendre sensible et pour la déterminer à l’épouser : il parut tour-à-tour devant elle comme un moissonneur, comme un bouvier, comme un faucheur, comme un vigneron ; il prit aussi la figure d’un pécheur, d’un soldat : ce fut en vain. Enfin, métamorphosé en une vieille femme, Vertumne raconta à son amante des histoires si touchantes sur l’amour, qu’il parvint à l’attendrir. Il reprit alors sa première forme, et devint l’époux de Pomone.</p>
         <p>Ce dieu est représenté sous la figure d’un jeune homme couronné d’herbes, tenant d’une main des fruits, et de l’autre la corne d’abondance ; tandis que son épouse est assise sur une grande corbeille de fleurs et de fruits, et tient un rameau d’une main, et quelques pommes de l’autre.</p>
@@ -2045,12 +2074,12 @@
           <l>Allumez toutefois une urne cinéraire,</l>
           <l>Et joignez la prière à l’encens funéraire<note place="bottom">
             <author key="Ovide">Ovide</author>, <title>les Fastes</title>, trad. de
-            <author key="Saint-Ange">de Saint-Ange</author>.</note>.</l>
+            <author key="Saint-Ange" role="translator">de Saint-Ange</author>.</note>.</l>
         </quote>
         <p>Souvent en pénétrant dans les appartements les plus secrets, on voyait la statue du Silence ; elle portait un doigt sur sa bouche. Cette divinité, sous le nom d’Harpocrate et de Silanion, recevait en Égypte les prémices des fruits : le pêcher lui était spécialement consacré. <hi rend="i">Rendre quelqu’un harpocrate</hi>, signifiait, chez les Romains, <hi rend="i">rendre muet</hi>.</p>
         <p>Enfin, si de la demeure des hommes on pénétrait dans les étables et dans les écuries, on trouvait le dieu Fumier, honoré par les Romains, comme une des divinités de l’Agriculture.</p>
         <p>Mais examinons l’homme lui-même au milieu de tant de divinités de toute sorte. Chacune des parties de son corps avait son dieu particulier : la tête était sous la protection de Jupiter ; la poitrine sous celle de Neptune ; la ceinture sous celle de Mars ; les sourcils sous celle de l’orgueilleuse Junon ; les yeux sous celle du dieu de Paphos ; les doigts sous celle de Minerve : que dis-je ! chaque partie de la main, chaque phalange des doigts était en rapport avec les plus puissantes divinités de l’Olympe. De là vint la Chiromanchie, ou l’art de connaître les destinées des hommes par l’inspection de la main. La Métoposcopie, pour annoncer ce que les dieux nous réservaient de biens et de maux, se bornait à examiner la forme, et sur-tout les rides du front, dont chacune était protégée par une divinité puissante. Quelquefois le devin n’avait besoin que d’examiner le bout du pied pour dire la bonne aventure, et cette science s’appelait la Podoscopie. Tous ces arts trompeurs étaient la suite naturelle des idées mythologiques.
-          <author key="Un poëte moderne">Un poëte moderne</author>, sans vouloir renouveler ces antiques superstitions qui ont trop long-temps occupé nos ancêtres eux-mêmes, prétendait lire sur la main d’une jeune personne qu’il chérissait ses futures destinées, et s’exprimait ainsi, en tenant la main de son amante :</p>
+          Un poëte moderne, sans vouloir renouveler ces antiques superstitions qui ont trop long-temps occupé nos ancêtres eux-mêmes, prétendait lire sur la main d’une jeune personne qu’il chérissait ses futures destinées, et s’exprimait ainsi, en tenant la main de son amante :</p>
         <quote>
           <l>Lorsque, d’un air de confiance,</l>
           <l>Vous m’abandonnez votre main,</l>
@@ -2081,6 +2110,7 @@
           <l>Présente son cœur sur sa main ;</l>
           <l>Et prête à la sorcellerie,</l>
           <l>Sans qu’on ait recours au lutin.</l>
+        <bibl><author key="anonyme"/></bibl>
         </quote>
         <p>Ce n’était point assez pour les anciens peuples d’examiner les traits de l’homme pour connaître ses destinées ; ils cherchèrent des signes de leur bonheur ou du malheur qui les menaçait, jusque dans les entrailles des animaux qu’ils immolaient sur les autels de leurs dieux.</p>
         <p>C’était sans doute un spectacle humiliant pour la raison humaine de voir un pontife, revêtu des ornements sacrés, chercher à lire la destinée de l’empire romain dans les intestins d’un bœuf ou d’une brebis.</p>
