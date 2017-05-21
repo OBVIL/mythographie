@@ -1,29 +1,29 @@
 Source	Target	lang	xml	role	@resp
 Adams (1900)	Bryant W.	en			
 Adams (1900)	Longfellow	en			
-Adams (1900)	James Gates Percival	en			
-Adams (1900)	William Cullen Bryant	en			
+Adams (1900)	Percival	en			
+Adams (1900)	Bryant W.	en			
 Adams (1900)	Ingelow	en			
 Adams (1900)	Moore Th.	en			
 Adams (1900)	Moore Th.	en			
-Adams (1900)	William Shakespeare	en			
+Adams (1900)	Shakespeare	en			
 Adams (1900)	Moore Th.	en			
 Adams (1900)	Lang	en			
-Adams (1900)	Henry W. Longfellow	en			
+Adams (1900)	Longfellow	en			
 Adams (1900)	Moore Th.	en			
-Adams (1900)	John Stuart Blackie’s	en	note		
-Adams (1900)	John Stuart Blackie’s	en	note		
-Adams (1900)	John Stuart Blackie’s	en	note		
-Adams (1900)	Thomas Davidson	en			
-Adams (1900)	Thomas Babington Macaulay	en			
-Adams (1900)	Alfred Tennyson	en			
-Adams (1900)	John Lewis March	en			
-Adams (1900)	Alfred Tennyson	en			
-Adams (1900)	Alfred Tennyson	en			
+Adams (1900)	Blackie	en	note		
+Adams (1900)	Blackie	en	note		
+Adams (1900)	Blackie	en	note		
+Adams (1900)	Davidson	en			
+Adams (1900)	Macaulay	en			
+Adams (1900)	Tennyson A.	en			
+Adams (1900)	March	en			
+Adams (1900)	Tennyson A.	en			
+Adams (1900)	Tennyson A.	en			
 Anonyme (1842)	Hunt L.	en			
-Anonyme (1842)	G. Moir Bussey	en			
+Anonyme (1842)	Bussey	en			
 Anonyme (1842)	Cornwall	en			
-Anonyme (1842)	Dr. Turner	en	quote		
+Anonyme (1842)	Turner C. T.	en	quote		
 Anonyme (1842)	Bacon	en			
 Anonyme (1842)	Homère	en			
 Anonyme (1842)	Hésiode	en			
@@ -34,8 +34,8 @@ Anonyme (1842)	Hésiode	en	quote
 Anonyme (1842)	Virgile	en	quote		
 Anonyme (1842)	Ovide	en	quote		
 Anonyme (1842)	Shelley	en	quote		
-Anonyme (1842)	Laman Blanchard	en	quote		
-Anonyme (1842)	Anon.	en	quote		
+Anonyme (1842)	Blanchard	en	quote		
+Anonyme (1842)	anonyme	en	quote		
 Anonyme (1842)	Horace	en	quote		
 Anonyme (1842)	Hésiode	en	quote		
 Anonyme (1842)	Hésiode	en	quote		
@@ -67,9 +67,9 @@ Anonyme (1842)	Hésiode	en	quote
 Anonyme (1842)	Ovide	en	quote		
 Anonyme (1842)	Darwin E.	en	quote		
 Anonyme (1842)	Byron	en	quote		
-Anonyme (1842)	Thales	en			
-Anonyme (1842)	Thales	en			
-Anonyme (1842)	Thales	en			
+Anonyme (1842)	Thalès	en			
+Anonyme (1842)	Thalès	en			
+Anonyme (1842)	Thalès	en			
 Anonyme (1842)	Plutarque	en			
 Anonyme (1842)	Hésiode	en	quote		
 Anonyme (1842)	Cornwall	en	quote		
@@ -85,8 +85,8 @@ Anonyme (1842)	Keats	en	quote
 Anonyme (1842)	Virgile	en	quote		
 Anonyme (1842)	Shelley	en	quote		
 Anonyme (1842)	Horace	en	quote		
-Anonyme (1842)	Shakspere	en	quote		
-Anonyme (1842)	Shakspere	en	quote		
+Anonyme (1842)	Shakespeare	en	quote		
+Anonyme (1842)	Shakespeare	en	quote		
 Anonyme (1842)	Darwin E.	en	quote		
 Anonyme (1842)	Homère	en	quote		
 Anonyme (1842)	Phidias	en			
@@ -107,9 +107,9 @@ Anonyme (1842)	Hésiode	en
 Anonyme (1842)	Ovide	en	quote		
 Anonyme (1842)	Homère	en	quote		
 Anonyme (1842)	Homère	en	quote		
-Anonyme (1842)	Mrs. Tighe	en	quote		
+Anonyme (1842)	Tighe	en	quote		
 Anonyme (1842)	Cornwall	en	quote		
-Anonyme (1842)	Mrs. Tighe	en	quote		
+Anonyme (1842)	Tighe	en	quote		
 Anonyme (1842)	Keats	en	quote		
 Anonyme (1842)	Darwin E.	en	quote		
 Anonyme (1842)	Tighe	en	quote		
@@ -118,7 +118,7 @@ Anonyme (1842)	Tighe	en	quote
 Anonyme (1842)	Tighe	en	quote		
 Anonyme (1842)	Tighe	en	quote		
 Anonyme (1842)	Tighe	en	quote		
-Anonyme (1842)	Keightley	en			
+Anonyme (1842)	Keightley Th.	en			
 Anonyme (1842)	Darwin E.	en	quote		
 Anonyme (1842)	Keats	en	quote		
 Anonyme (1842)	Southey	en	quote		
@@ -228,7 +228,7 @@ Anonyme (1842)	Ovide	en	quote
 Anonyme (1842)	Ovide	en	quote		
 Anonyme (1842)	Homère	en			
 Anonyme (1842)	Hésiode	en			
-Anonyme (1842)	Phidian	en	quote		
+Anonyme (1842)	Phidias	en	quote		
 Anonyme (1842)	Cornwall	en	quote		
 Anonyme (1842)	Ovide	en	quote		
 Anonyme (1842)	Racine	en	quote		
@@ -253,7 +253,7 @@ Anonyme (1842)	Byron	en	quote
 Anonyme (1842)	Homère	en	quote		
 Anonyme (1842)	Dryden J.	en	quote		
 Anonyme (1842)	Dryden J.	en	quote		
-Anonyme (1842)	Democritus	en			
+Anonyme (1842)	Démocrite	en			
 Anonyme (1842)	Ovide	en	quote		
 Anonyme (1842)	Ovide	en	quote		
 Anonyme (1842)	Ovide	en	quote		
@@ -270,19 +270,19 @@ Anonyme (1842)	Sappho	en	quote
 Anonyme (1842)	Cornwall	en	quote		
 Anonyme (1842)	Sappho	en	quote		
 Anonyme (1842)	Cornwall	en	quote		
-Anonyme (1842)	Mrs. Norton	en	quote		
+Anonyme (1842)	Norton	en	quote		
 Anonyme (1842)	Ovide	en			
 Anonyme (1842)	Byron	en	quote		
 Anonyme (1842)	Southey	en	quote		
-Anonyme (1842)	Sir W. Jones	en	quote		
+Anonyme (1842)	Jones	en	quote		
 Anonyme (1842)	Southey	en	quote		
-Anonyme (1842)	Sir W. Jones	en	quote		
-Anonyme (1842)	Madame de Genlis	en	note		
+Anonyme (1842)	Jones	en	quote		
+Anonyme (1842)	Genlis	en	note		
 Anonyme (1842)	Howitt	en	quote		
 Anonyme (1842)	Howitt	en	quote		
-Anonyme (1842)	an able writer of the present day	en	quote		
-Anonyme (1842)	The same authority	en			
-Anonyme (1842)	L. E. L.	en			
+Anonyme (1842)	anonyme	en	quote		
+Anonyme (1842)	anonyme	en			
+Anonyme (1842)	anonyme	en			
 Baude (1845)	La Fontaine	fr			
 Baude (1845)	Homère	fr			
 Baude (1845)	Virgile	fr			
@@ -620,98 +620,106 @@ Bertoux (1806)	Homère	fr
 Brès (1823)	Boileau	fr			
 Brès (1823)	Ovide	fr			
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Homère	fr			
 Brès (1823)	La Fontaine	fr	note		
-Brès (1823)	Tasso	fr			
+Brès (1823)	Tasso	fr	quote		
 Brès (1823)	Correggio	fr			
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Boileau	fr	note		
-Brès (1823)	Brébeuf	fr	note		
+Brès (1823)	Brébeuf	fr	note	translator	
 Brès (1823)	Lucain	fr	note		
 Brès (1823)	Phydias	fr			
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
-Brès (1823)	Pausanias	fr			
+Brès (1823)	Saint-Ange	fr	note	translator	
+Brès (1823)	Pausanias	fr	quote		
 Brès (1823)	Newton	fr			
-Brès (1823)	Voltaire	fr			
+Brès (1823)	Voltaire	fr	quote		
 Brès (1823)	Racine	fr	note		
 Brès (1823)	Voltaire	fr	note		
 Brès (1823)	La Fontaine	fr	note		
 Brès (1823)	Virgile	fr			
-Brès (1823)	Homère	fr			
+Brès (1823)	Homère	fr	quote		
 Brès (1823)	Homère	fr	note		
-Brès (1823)	Mme Dacier	fr	note		
+Brès (1823)	Mme Dacier	fr	note	translator	
 Brès (1823)	Praxitèle	fr			
 Brès (1823)	Praxitèle	fr			
-Brès (1823)	Socrate	fr			
+Brès (1823)	Socrate	fr	quote		
 Brès (1823)	Delille	fr	note		
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Un autre poëte	fr			
+Brès (1823)	anonyme	fr	quote		
 Brès (1823)	Sénecé	fr	note		
+Brès (1823)	anonyme	fr	quote		
 Brès (1823)	Sénecé	fr	note		
+Brès (1823)	anonyme	fr	quote		
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Virgile	fr	note		
-Brès (1823)	Delille	fr	note		
+Brès (1823)	Delille	fr	note	translator	
 Brès (1823)	La Fontaine	fr	note		
-Brès (1823)	Delille	fr			
+Brès (1823)	Delille	fr	quote		
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
-Brès (1823)	Girodet	fr			
-Brès (1823)	La Mierre	fr			
+Brès (1823)	Saint-Ange	fr	note	translator	
+Brès (1823)	Girodet	fr	quote		
+Brès (1823)	La Mierre	fr	quote		
 Brès (1823)	Sénecé	fr	note		
 Brès (1823)	Quinault	fr	note		
 Brès (1823)	Phidias	fr			
 Brès (1823)	Roucher	fr	note		
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Aristophane	fr	note		
+Brès (1823)	anonyme	fr	note	translator	
 Brès (1823)	La Fontaine	fr	note		
 Brès (1823)	Delille	fr	note		
 Brès (1823)	Colardeau	fr	note		
 Brès (1823)	Zeuxis	fr			
 Brès (1823)	Virgile	fr	note		
-Brès (1823)	Delille	fr	note		
+Brès (1823)	Delille	fr	note	translator	
 Brès (1823)	Theveneau	fr	note		
 Brès (1823)	Virgile	fr	note		
-Brès (1823)	Delille	fr	note		
+Brès (1823)	Delille	fr	note	translator	
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Virgile	fr	note		
-Brès (1823)	Delille	fr	note		
+Brès (1823)	Delille	fr	note	translator	
+Brès (1823)	Virgile	fr	note		
+Brès (1823)	Delille	fr	note	translator	
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
-Brès (1823)	Racine	fr			
+Brès (1823)	Saint-Ange	fr	note	translator	
+Brès (1823)	Racine	fr	quote		
 Brès (1823)	Virgile	fr	note		
-Brès (1823)	Delille	fr	note		
+Brès (1823)	Delille	fr	note	translator	
 Brès (1823)	Homère	fr	note		
-Brès (1823)	Boileau	fr	note		
+Brès (1823)	Boileau	fr	note	translator	
 Brès (1823)	Longin	fr	note		
-Brès (1823)	Pausanias	fr			
-Brès (1823)	Gédoin	fr	note		
+Brès (1823)	Pausanias	fr	note		
+Brès (1823)	Gédoin	fr	note	translator	
 Brès (1823)	Fénelon	fr	note		
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Malfilatre	fr	note		
 Brès (1823)	La Mierre	fr	note		
 Brès (1823)	La Fontaine	fr	note		
-Brès (1823)	Mme Dacier	fr	note		
+Brès (1823)	Mme Dacier	fr	note	translator	
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Bernis	fr	note		
 Brès (1823)	Delille	fr	note		
+Brès (1823)	anonyme	fr	quote		
+Brès (1823)	Brès	fr	quote		editor
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
+Brès (1823)	Saint-Ange	fr	note	translator	
 Brès (1823)	Ovide	fr	note		
-Brès (1823)	Saint-Ange	fr	note		
-Brès (1823)	Un poëte moderne	fr			
+Brès (1823)	Saint-Ange	fr	note	translator	
+Brès (1823)	anonyme	fr	quote		
 Brunel (1800)	Plutarque	fr	quote		
 Brunel (1800)	Bernard	fr	note		
 Brunel (1800)	Boileau	fr	note		
@@ -1645,12 +1653,12 @@ Bulfinch (1855)	Smith	en
 Bulfinch (1855)	Ovide	en			
 Bulfinch (1855)	Virgile	en			
 Bulfinch (1855)	Mallet	en			
-Bulfinch (1855)	Coleridge H.	en			
+Bulfinch (1855)	Coleridge	en			
 Bulfinch (1855)	Moore Th.	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Homère	en			
 Bulfinch (1855)	Cowper	en	quote		
-Bulfinch (1855)	Shakspeare	en	quote		
+Bulfinch (1855)	Shakespeare	en	quote		
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Byron	en			
@@ -1672,7 +1680,7 @@ Bulfinch (1855)	Shelley	en
 Bulfinch (1855)	Byron	en			
 Bulfinch (1855)	Moore Th.	en			
 Bulfinch (1855)	Mickle	en			
-Bulfinch (1855)	Shakspeare	en			
+Bulfinch (1855)	Shakespeare	en			
 Bulfinch (1855)	Moore Th.	en			
 Bulfinch (1855)	Keats	en			
 Bulfinch (1855)	Milton	en			
@@ -1684,20 +1692,19 @@ Bulfinch (1855)	Milton	en
 Bulfinch (1855)	Byron	en			
 Bulfinch (1855)	Sappho	en	quote		
 Bulfinch (1855)	Milman	en			
-Bulfinch (1855)	Walter Savage Landor	en			
+Bulfinch (1855)	Landor	en			
 Bulfinch (1855)	Dryden J.	en			
 Bulfinch (1855)	Swift	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Hood	en			
-Bulfinch (1855)	Coleridge H.	en			
+Bulfinch (1855)	Coleridge	en			
 Bulfinch (1855)	Moore Th.	en			
 Bulfinch (1855)	Moore Th.	en			
 Bulfinch (1855)	Albano	en			
 Bulfinch (1855)	Keats	en			
 Bulfinch (1855)	Keats	en	quote		
 Bulfinch (1855)	Schiller	en			
-Bulfinch (1855)	S. G.	en	quote		
-Bulfinch (1855)	B.	en	quote		
+Bulfinch (1855)	Bulfinch S. G.	en	quote		
 Bulfinch (1855)	Keats	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Keats	en			
@@ -1710,7 +1717,7 @@ Bulfinch (1855)	Thomson	en
 Bulfinch (1855)	Phillips	en	quote		
 Bulfinch (1855)	Thomson	en			
 Bulfinch (1855)	Milton	en			
-Bulfinch (1855)	T. K. Harvey	en			
+Bulfinch (1855)	Harvey	en			
 Bulfinch (1855)	Keats	en			
 Bulfinch (1855)	Moore Th.	en			
 Bulfinch (1855)	Byron	en			
@@ -1729,12 +1736,12 @@ Bulfinch (1855)	Byron	en
 Bulfinch (1855)	Ovide	en	note		
 Bulfinch (1855)	Spenser	en			
 Bulfinch (1855)	Ovide	en			
-Bulfinch (1855)	Sir James Mackintosh	en	note		
+Bulfinch (1855)	Mackintosh	en	note		
 Bulfinch (1855)	Tennyson A.	en			
 Bulfinch (1855)	Byron	en			
 Bulfinch (1855)	Moore Th.	en			
-Bulfinch (1855)	Sir Richard Blackmore	en	quote		
-Bulfinch (1855)	Sir Richard Blackmore	en			
+Bulfinch (1855)	Blackmore	en	quote		
+Bulfinch (1855)	Blackmore	en			
 Bulfinch (1855)	Moore Th.	en			
 Bulfinch (1855)	Gray D.	en			
 Bulfinch (1855)	Milton	en			
@@ -1745,7 +1752,7 @@ Bulfinch (1855)	Milton	en
 Bulfinch (1855)	Young	en			
 Bulfinch (1855)	Schiller	en			
 Bulfinch (1855)	Longfellow	en			
-Bulfinch (1855)	Shakspeare	en			
+Bulfinch (1855)	Shakespeare	en			
 Bulfinch (1855)	Homère	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Milton	en			
@@ -1763,7 +1770,7 @@ Bulfinch (1855)	Bulfinch S. G.	en	quote
 Bulfinch (1855)	Crawford	en			
 Bulfinch (1855)	Tennyson A.	en			
 Bulfinch (1855)	Shelley	en			
-Bulfinch (1855)	Shakspeare	en			
+Bulfinch (1855)	Shakespeare	en			
 Bulfinch (1855)	Hemans	en			
 Bulfinch (1855)	Darwin E.	en			
 Bulfinch (1855)	Macaulay	en			
@@ -1773,7 +1780,7 @@ Bulfinch (1855)	Spenser	en
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Wordsworth	en			
 Bulfinch (1855)	Schiller	en			
-Bulfinch (1855)	Mrs. E. Barrett Browning	en			
+Bulfinch (1855)	Browning E.	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Lowell	en			
 Bulfinch (1855)	Milton	en			
@@ -1781,13 +1788,13 @@ Bulfinch (1855)	Armstrong	en
 Bulfinch (1855)	Byron	en			
 Bulfinch (1855)	Tennyson A.	en			
 Bulfinch (1855)	Milton	en			
-Bulfinch (1855)	Dr. Young	en			
+Bulfinch (1855)	Young	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Lowell	en			
 Bulfinch (1855)	Sophocle	en			
-Bulfinch (1855)	Mrs. Jameson	en			
-Bulfinch (1855)	Shakspeare	en			
+Bulfinch (1855)	Jameson	en			
+Bulfinch (1855)	Shakespeare	en			
 Bulfinch (1855)	Francklin	en	quote		
 Bulfinch (1855)	Pope	en			
 Bulfinch (1855)	Southey	en			
@@ -1842,9 +1849,9 @@ Bulfinch (1855)	Sappho	en
 Bulfinch (1855)	Sappho	en	quote		
 Bulfinch (1855)	Sappho	en			
 Bulfinch (1855)	Moore Th.	en			
-Bulfinch (1855)	S. G. B.	en			
+Bulfinch (1855)	Bulfinch S. G.	en			
 Bulfinch (1855)	Keats	en			
-Bulfinch (1855)	Dr. Young	en			
+Bulfinch (1855)	Young	en			
 Bulfinch (1855)	Fletcher	en			
 Bulfinch (1855)	Longfellow	en			
 Bulfinch (1855)	Tennyson A.	en			
@@ -1874,7 +1881,7 @@ Bulfinch (1855)	Tennyson A.	en	note
 Bulfinch (1855)	Keats	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Homère	en			
-Bulfinch (1855)	Fenelon	en			
+Bulfinch (1855)	Fénelon	en			
 Bulfinch (1855)	Byron	en			
 Bulfinch (1855)	Homère	en			
 Bulfinch (1855)	Carlisle	en			
@@ -1893,12 +1900,12 @@ Bulfinch (1855)	Ovide	en
 Bulfinch (1855)	Young	en			
 Bulfinch (1855)	Pope	en			
 Bulfinch (1855)	Ovide	en			
-Bulfinch (1855)	Shakspeare	en			
+Bulfinch (1855)	Shakespeare	en			
 Bulfinch (1855)	Dryden J.	en			
-Bulfinch (1855)	Shakspeare	en			
+Bulfinch (1855)	Shakespeare	en			
 Bulfinch (1855)	Milton	en			
 Bulfinch (1855)	Longfellow	en			
-Bulfinch (1855)	the same poet’s	en			
+Bulfinch (1855)	Longfellow	en			
 Bulfinch (1855)	Lowell	en			
 Bulfinch (1855)	Byron	en			
 Bulfinch (1855)	Moore Th.	en			
@@ -1947,7 +1954,7 @@ Bulfinch (1855)	Milton	en
 Bulfinch (1855)	Dryden J.	en			
 Bulfinch (1855)	Cowper	en			
 Bulfinch (1855)	Homère	en	quote		
-Bulfinch (1855)	Mantuan swan	en	quote		
+Bulfinch (1855)	Virgile	en	quote		
 Bulfinch (1855)	Milton	en	quote		
 Bulfinch (1855)	Ovide	en			
 Bulfinch (1855)	Ovide	en			
@@ -1956,29 +1963,29 @@ Bulfinch (1855)	Virgile	en
 Bulfinch (1855)	Ovide	en			
 Bulfinch (1855)	Ovide	en			
 Bulfinch (1855)	Ovide	en			
-Bulfinch (1855)	A late writer	en			
+Bulfinch (1855)	anonyme	en			
 Bulfinch (1855)	Ovide	en	quote		
 Bulfinch (1855)	Ovide	en			
 Bulfinch (1855)	Tacite	en			
 Bulfinch (1855)	Hérodote	en			
-Bulfinch (1855)	Sir Thomas Browne	en			
-Bulfinch (1855)	Alexander Ross	en			
+Bulfinch (1855)	Browne	en			
+Bulfinch (1855)	Ross	en			
 Bulfinch (1855)	Dryden J.	en			
 Bulfinch (1855)	Milton	en			
-Bulfinch (1855)	Shakspeare	en			
+Bulfinch (1855)	Shakespeare	en			
 Bulfinch (1855)	Pline l'Ancien	en			
 Bulfinch (1855)	Lucain	en			
 Bulfinch (1855)	Galen	en			
 Bulfinch (1855)	Avicenna	en			
 Bulfinch (1855)	Scaliger	en			
-Bulfinch (1855)	Jonston	en			
+Bulfinch (1855)	Jonstons	en			
 Bulfinch (1855)	Aldrovandus	en			
 Bulfinch (1855)	Shelley	en			
 Bulfinch (1855)	Pline l'Ancien	en			
-Bulfinch (1855)	Signor Cellini	en			
+Bulfinch (1855)	Cellini	en			
 Bulfinch (1855)	Aristote	en			
 Bulfinch (1855)	Pline l'Ancien	en			
-Bulfinch (1855)	Dr. Young	en			
+Bulfinch (1855)	Young	en			
 Bulfinch (1855)	Wordsworth	en			
 Bulfinch (1855)	Byron	en			
 Bulfinch (1855)	Moore Th.	en			
@@ -1991,10 +1998,10 @@ Bulfinch (1855)	Gray D.	en
 Bulfinch (1855)	Longfellow	en	note		
 Bulfinch (1855)	Gray D.	en			
 Bulfinch (1855)	Carlyle	en			
-Bulfinch (1855)	Caesar	en			
-Bulfinch (1855)	Sir Walter Scott	en			
+Bulfinch (1855)	César	en			
+Bulfinch (1855)	Scott	en			
 Bulfinch (1855)	Pline l'Ancien	en			
-Bulfinch (1855)	Roman writers	en			
+Bulfinch (1855)	Pline l'Ancien	en			
 Bulfinch (1855)	Ossian	en			
 Bulfinch (1855)	Pennant	en			
 Bulfinch (1855)	Pennant	en			
@@ -2002,7 +2009,7 @@ Bulfinch (1855)	Gray D.	en
 Bulfinch (1855)	Hemans	en			
 Bulfinch (1855)	Campbell Th.	en			
 Bulfinch (1855)	Moore Th.	en			
-Bulfinch (1855)	Johnson	en			
+Bulfinch (1855)	Johnson S.	en			
 Bulfinch (1855)	Scott	en			
 Bulfinch (1855)	Virgile	en	quote		
 Bulfinch (1855)	Virgile	en	quote		
@@ -2091,7 +2098,7 @@ Darlington (1832)	Cicéron	en
 Darlington (1832)	Homère	en	quote		
 Darlington (1832)	Virgile	en	quote		
 Darlington (1832)	Ovide	en	quote		
-Darlington (1832)	Mercury Trismegistus	en			
+Darlington (1832)	Hermès Trismégiste	en			
 Darlington (1832)	Hésiode	en			
 Darlington (1832)	Virgile	en	quote		
 Darlington (1832)	Ovide	en	quote		
@@ -2128,7 +2135,7 @@ Darlington (1832)	Fourmont	en
 Darlington (1832)	Ovide	en	quote		
 Darlington (1832)	Cicéron	en			
 Darlington (1832)	Augustin	en			
-Darlington (1832)	Democritus	en			
+Darlington (1832)	Démocrite	en			
 Darlington (1832)	Suétone	en			
 Darlington (1832)	Sanchoniathon	en			
 Darlington (1832)	Homère	en			
@@ -2175,7 +2182,7 @@ Darlington (1832)	Libon	en
 Darlington (1832)	Phidias	en			
 Darlington (1832)	Pausanias	en			
 Darlington (1832)	Phidias	en			
-Darlington (1832)	a celebrated Roman architect	en			
+Darlington (1832)	anonyme	en			
 Darlington (1832)	Michelangelo	en			
 Darlington (1832)	Bernini	en			
 Darlington (1832)	Michelangelo	en			
@@ -2263,10 +2270,10 @@ Darlington (1832)	Ossian	en
 Darlington (1832)	Suétone	en			
 Darlington (1832)	Aurelius Victor	en			
 Darlington (1832)	Sénèque	en			
-Darlington (1832)	an eminent Grecian scholar	en			
+Darlington (1832)	anonyme	en			
 Darlington (1832)	Pythagore	en	quote		
 Darlington (1832)	Platon	en	quote		
-Darlington (1832)	Taylor	en	note		
+Darlington (1832)	Taylor Th.	en	note		
 Darlington (1832)	Proclus	en	note		
 Darlington (1832)	Platon	en	note		
 Darlington (1832)	Orphée	en	quote		
@@ -2577,7 +2584,7 @@ Edwards (1883)	Milton	en	quote
 Edwards (1883)	Thomson	en			
 Edwards (1883)	Seemann	en	quote		
 Edwards (1883)	Seemann	en	quote		
-Edwards (1883)	T. K. Hervey	en	quote		
+Edwards (1883)	Hervey	en	quote		
 Edwards (1883)	Cox G. W.	en	quote		
 Edwards (1883)	Cox G. W.	en	quote		
 Edwards (1883)	Saxe	en	note		
@@ -2623,15 +2630,15 @@ Edwards (1883)	Bullfinch	en	quote
 Edwards (1883)	Cox G. W.	en	quote		
 Edwards (1883)	Longfellow	en	note		
 Edwards (1883)	Carlyle	en			
-Edwards (1883)	Roman writers	en			
+Edwards (1883)	anonyme	en			
 Edwards (1883)	Pennant	en			
-Edwards (1883)	The same author	en			
-Edwards (1883)	Cæsar	en			
+Edwards (1883)	Pennant	en			
+Edwards (1883)	César	en			
 Edwards (1883)	Pline l'Ancien	en			
 Edwards (1883)	Fiske	en	quote		
 Edwards (1883)	Perrot	en	quote		
 Edwards (1883)	Brinton	en	quote		
-Edwards (1883)	Captain Argoll	en			
+Edwards (1883)	Argoll	en			
 Edwards (1883)	Schoolcraft	en	quote		
 Edwards (1883)	Tanner	en	quote		
 Edwards (1883)	Brinton	en	quote		
@@ -2701,7 +2708,7 @@ Ellis (1895)	Broome	en	quote
 Ellis (1895)	Shakespeare	en	quote		
 Ellis (1895)	Virgile	en	quote		
 Ellis (1895)	Milton	en	quote		
-Ellis (1895)	Wm. Morris	en			
+Ellis (1895)	Morris W.	en			
 Ellis (1895)	Cotton	en	quote		
 Ellis (1895)	Shakespeare	en	quote		
 Ellis (1895)	Lewis	en	quote		
@@ -2722,7 +2729,7 @@ Ellis (1895)	Shakespeare	en	quote
 Ellis (1895)	Ovide	en	quote		
 Ellis (1895)	Milton	en	quote		
 Ellis (1895)	Addison	en	quote		
-Ellis (1895)	Sir John Denham	en	quote		
+Ellis (1895)	Denham	en	quote		
 Ellis (1895)	Shakespeare	en	quote		
 Ellis (1895)	Virgile	en			
 Ellis (1895)	Shakespeare	en	quote		
@@ -2966,17 +2973,17 @@ Gayley (1898)	Blake	en
 Gayley (1898)	Bulfinch Th.	en			
 Gayley (1898)	Hale	en			
 Gayley (1898)	Bulfinch Th.	en			
-Gayley (1898)	E. C. Guild	en			
+Gayley (1898)	Guild	en			
 Gayley (1898)	Roscher	en			
 Gayley (1898)	Preller	en			
 Gayley (1898)	Müller F. M.	en			
-Gayley (1898)	G. W. Cox	en			
+Gayley (1898)	Cox G. W.	en			
 Gayley (1898)	Welcker	en			
 Gayley (1898)	Baumeister	en			
 Gayley (1898)	Murray	en			
 Gayley (1898)	Smith	en			
 Gayley (1898)	Duruy	en			
-Gayley (1898)	Keightley	en			
+Gayley (1898)	Keightley Th.	en			
 Gayley (1898)	Kelsey	en			
 Gayley (1898)	Horn	en			
 Gayley (1898)	Richard	en			
@@ -2996,10 +3003,10 @@ Gayley (1898)	Keary	en
 Gayley (1898)	Fiske	en			
 Gayley (1898)	Whitney	en			
 Gayley (1898)	Johnston W. P.	en			
-Gayley (1898)	F. B. Jevons	en			
+Gayley (1898)	Jevons	en			
 Gayley (1898)	Plutarque	en			
 Gayley (1898)	Holland	en			
-Gayley (1898)	C. G. Leland	en			
+Gayley (1898)	Leland	en			
 Gayley (1898)	Baumeister	en			
 Gayley (1898)	Roscher	en			
 Gayley (1898)	Allen	en			
@@ -3034,9 +3041,9 @@ Gayley (1898)	Pausanias	en
 Gayley (1898)	Hygin	en			
 Gayley (1898)	J. W. Powell	en			
 Gayley (1898)	Kiepert	en			
-Gayley (1898)	A. Keith Johnston	en			
+Gayley (1898)	Johnston A. K.	en			
 Gayley (1898)	Cranstoun	en			
-Gayley (1898)	S. Johnson	en			
+Gayley (1898)	Johnson S.	en			
 Gayley (1898)	Jotham	en			
 Gayley (1898)	Jésus-Christ	en			
 Gayley (1898)	Menenius Lanatus	en			
@@ -3048,7 +3055,7 @@ Gayley (1898)	Fiske	en
 Gayley (1898)	Homère	en			
 Gayley (1898)	Homère	en			
 Gayley (1898)	Müller F. M.	en			
-Gayley (1898)	J. Jasper	en			
+Gayley (1898)	Jasper J.	en			
 Gayley (1898)	Ruskin	en	quote		
 Gayley (1898)	Évhémère	en			
 Gayley (1898)	Cox G. W.	en	note		
@@ -3075,7 +3082,7 @@ Gayley (1898)	Lang	en	note
 Gayley (1898)	Wordsworth	en			
 Gayley (1898)	Ruskin	en			
 Gayley (1898)	Ruskin	en	note		
-Gayley (1898)	Payne Knight	en	note		
+Gayley (1898)	Knight	en	note		
 Gayley (1898)	Ruskin	en			
 Gayley (1898)	Ruskin	en	quote		
 Gayley (1898)	Tylor	en	note		
@@ -3094,7 +3101,7 @@ Gayley (1898)	Lang	en	note
 Gayley (1898)	Lang	en			
 Gayley (1898)	Tylor	en	note		
 Gayley (1898)	Tylor	en	note		
-Gayley (1898)	T. C. Johnston	en	note		
+Gayley (1898)	Johnston T. C.	en	note		
 Gayley (1898)	Orphée	en			
 Gayley (1898)	Musée d'Athènes	en			
 Gayley (1898)	Orphée	en			
@@ -3164,16 +3171,16 @@ Gayley (1898)	Properce	en
 Gayley (1898)	Sénèque	en			
 Gayley (1898)	Apulée	en			
 Gayley (1898)	Lucien	en	note		
-Gayley (1898)	Walter Pater	en	note		
+Gayley (1898)	Pater	en	note		
 Gayley (1898)	Richard	en	note		
 Gayley (1898)	Guđbrandur	en	note		
-Gayley (1898)	F. W. Horn	en	note		
+Gayley (1898)	Horn	en	note		
 Gayley (1898)	Richard	en	note		
 Gayley (1898)	Guđbrandur	en	note		
 Gayley (1898)	Lüning	en	note		
 Gayley (1898)	Guđbrandur	en	note		
 Gayley (1898)	Powell F. Y.	en	note		
-Gayley (1898)	Grimm	en	note		
+Gayley (1898)	Grimm J.	en	note		
 Gayley (1898)	Rhys	en	note		
 Gayley (1898)	Magnússon	en	note		
 Gayley (1898)	Morley	en	note		
@@ -3235,7 +3242,7 @@ Gayley (1898)	Cowper	en	note
 Gayley (1898)	Phidias	en			
 Gayley (1898)	Phidias	en			
 Gayley (1898)	Homère	en			
-Gayley (1898)	Earl Derby	en	note		
+Gayley (1898)	Derby	en	note		
 Gayley (1898)	Chapman	en	note		
 Gayley (1898)	Overbeck	en			
 Gayley (1898)	Roscher	en			
@@ -3484,7 +3491,7 @@ Gayley (1898)	Roscher	en
 Gayley (1898)	Ovide	en	note		
 Gayley (1898)	Tibulle	en	note		
 Gayley (1898)	Roscher	en			
-Gayley (1898)	Keat	en	note		
+Gayley (1898)	Keats	en	note		
 Gayley (1898)	Keats	en			
 Gayley (1898)	Apollodore	en	note		
 Gayley (1898)	Ovide	en	note		
@@ -3765,12 +3772,12 @@ Gayley (1898)	Sophocle	en
 Gayley (1898)	Euripide	en			
 Gayley (1898)	Eschyle	en			
 Gayley (1898)	Blackie,	en			
-Gayley (1898)	T. A. Bucklie	en			
-Gayley (1898)	E. D. A. Morshead	en			
+Gayley (1898)	Bucklie	en			
+Gayley (1898)	Morshead	en			
 Gayley (1898)	Sophocle	en			
-Gayley (1898)	Thos. Dale	en			
-Gayley (1898)	R. Whitelaw	en			
-Gayley (1898)	Lewis Campbell	en			
+Gayley (1898)	Dale Th.	en			
+Gayley (1898)	Whitelaw	en			
+Gayley (1898)	Campbell	en			
 Gayley (1898)	Euripide	en			
 Gayley (1898)	T. A. Bucklie	en			
 Gayley (1898)	Horace	en			
