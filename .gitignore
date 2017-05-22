@@ -6,3 +6,5 @@ conf.php
 .htaccess
 ~$*
 test*
+
+data/author_edges_old.tsv
