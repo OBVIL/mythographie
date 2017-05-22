@@ -14,6 +14,7 @@ id;lang;key;role;resp
   
   -->
   <xsl:template match="tei:teiHeader"/>
+  <xsl:template match="tei:front | tei:back "/>
   <xsl:template match="*">
     <xsl:apply-templates select="*"/>
   </xsl:template>

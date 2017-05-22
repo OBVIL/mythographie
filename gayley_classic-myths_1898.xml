@@ -48,7 +48,7 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div>
         <head>[Epigraph.]</head>
         <quote rend="border">
@@ -344,6 +344,8 @@
         <p>Since the myths are presented in a logical and genealogical arrangement, they should be recited in this order. When there is not time for detailed recitation on the whole book, some of the longer narratives, such as the <title>Iliad, Odyssey, Aeneid</title>, or the Norse Myths, might be read at home, and reported in class by way of oral or written composition, once a week or fortnight. These narratives should not, however, be assigned in arbitrary and inconsequential fragments; their epical quality must be emphasized.</p>
         <p>The <hi rend="i">Commentary</hi> is numbered in sections corresponding to those of the text. The Textual and Interpretative Notes should be studied by older pupils in connection with each lesson. But they should not be suffered to spoil the interest in the stories, as such. Allusions and interpretations which the younger pupil does not appreciate will, if the book is used for purposes of reference in his further English, Latin, or Greek studies, be clear before the end of his course. The masterpieces mentioned in the Illustrative Notes will suggest subjects for further study and for exercises in English Composition.</p>
       </div>
+    </front>
+    <body>
       <div type="chapter">
         <head>Chapter I. <lb/>The Origin and Elements of Myth.</head>
         <p>§ 1. <hi rend="b">Purpose of the Study</hi>. — Interwoven with the fabric of our English literature, of our epics, dramas, lyrics, and novels, of our essays and orations, like a golden warp where the woof is only too often of silver, are the myths of certain ancient nations. It is the purpose of this work to relate some of these myths, and to illustrate the uses to which they have been put in English literature, and, incidentally, in modern art.</p>
@@ -5881,6 +5883,8 @@
           <l>Farewell, for longer speech is not allowed.”</l>
         </quote>
       </div>
+    </body>
+    <back>
       <div type="chapter">
         <head>Chapter XXXI. <lb/>Myths of Norse and Old German Heroes.</head>
         <p>§ 185. <hi rend="b">The</hi> <title>Saga of the Volsungs</title>.<anchor xml:id="footnote88"/><note place="bottom"><p>See <title>the Story of the Volsungs</title>, by
@@ -11137,6 +11141,6 @@
             <author key="Wilkinson W. C.">Wilkinson, Wm. Cleaver</author>. <hi rend="i">Com.</hi> §§ 11, 12, <title>College Greek Course in English</title>; <title>College Latin Course in English</title>: 1884-1886.</p>
         </div>
       </div>
-    </body>
+    </back>
   </text>
 </TEI>
