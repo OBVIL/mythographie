@@ -74,10 +74,10 @@
         <p>The poems by
           <author key="Longfellow">Longfellow</author>,
           <author key="Lowell">Lowell</author>,
-          <author>Phœbe Cary</author>, and
+          <author key="Cary">Phœbe Cary</author>, and
           <author key="Thomas E.">Edith M. Thomas</author> are printed by permission of, and arrangement with, their publishers, Houghton, Mifflin, and Co.; and the poems by
-          <author>William Cullen Bryant</author> and
-          <author>Fitz-Greene Halleck</author> by permission of D. Appleton and Co. Thanks are due also to the Century Co., in whose publication, <hi rend="i">St. Nicholas</hi>, the poem <title>“Invitation to Echo,”</title> first appeared.</p>
+          <author key="Bryant W.">William Cullen Bryant</author> and
+          <author key="Halleck">Fitz-Greene Halleck</author> by permission of D. Appleton and Co. Thanks are due also to the Century Co., in whose publication, <hi rend="i">St. Nicholas</hi>, the poem <title>“Invitation to Echo,”</title> first appeared.</p>
         <signed>G. H. K.</signed>
       </div>
       <div>
@@ -187,7 +187,7 @@
           <l>On the leaping waters and gay young isles;</l>
           <l>    Ay, look, and he’ll smile thy gloom away.</l>
           <bibl>
-            <author><hi rend="sc">William C. Bryant</hi></author>.</bibl>
+            <author key="Bryant W."><hi rend="sc">William C. Bryant</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -228,7 +228,7 @@
             <l>They are bursting fresh from their sparry caves,</l>
             <l>And the earth resounds with the joy of waves.</l>
             <bibl>
-              <author>Felicia Hemans</author>.</bibl>
+              <author key="Hemans">Felicia Hemans</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -293,7 +293,7 @@
             <l>Fresh, changeful, constant,</l>
             <l>    Upward like thee!</l>
             <bibl>
-              <author>James Russell Lowell</author>.</bibl>
+              <author key="Lowell">James Russell Lowell</author>.</bibl>
           </quote>
         </div>
       </div>
@@ -376,7 +376,7 @@
           <l>For men may come, and men may go,</l>
           <l>    But I go on forever.</l>
           <bibl>
-            <author>Alfred Tennyson</author>.</bibl>
+            <author key="Tennyson">Alfred Tennyson</author>.</bibl>
         </quote>
       </div>
       <div>
@@ -496,7 +496,7 @@
           <l>Twist ye, twine ye! even so,</l>
           <l>Mingle human bliss and woe.</l>
           <bibl>
-            <author><hi rend="sc">Walter Scott</hi></author>.</bibl>
+            <author key="Scott"><hi rend="sc">Walter Scott</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -591,7 +591,7 @@
           <l>    In sweet music is such art;</l>
           <l>    Killing care and grief of heart.</l>
           <bibl>
-            <author><hi rend="sc">William Shakspeare</hi></author>.</bibl>
+            <author key="Shakespeare"><hi rend="sc">William Shakspeare</hi></author>.</bibl>
         </quote>
         <quote>
           <label>Eurydice</label>
@@ -619,7 +619,7 @@
           <l>And then I saw no more the sun,</l>
           <l>    And lost were life and love.</l>
           <bibl>
-            <author><hi rend="sc">Francis W. Bourdillon</hi></author>.</bibl>
+            <author key="Bourdillon"><hi rend="sc">Francis W. Bourdillon</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -716,7 +716,7 @@
           <l>    Under the silver moon.</l>
           <l>Sleep, my little one; sleep, my pretty one, sleep.</l>
           <bibl>
-            <author><hi rend="sc">Alfred Tennyson</hi></author>.</bibl>
+            <author key="Tennyson"><hi rend="sc">Alfred Tennyson</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -914,7 +914,7 @@
           <l>For ye are living poems,</l>
           <l>    And all the rest are dead.</l>
           <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
+            <author key="Longfellow"><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -1054,7 +1054,7 @@
           <l>On the leafy stems of the forest tree,</l>
           <l>How pleasant the life of a bird must be!</l>
           <bibl>
-            <author><hi rend="sc">Mary Howitt</hi></author>.</bibl>
+            <author key="Howitt M."><hi rend="sc">Mary Howitt</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -1079,7 +1079,7 @@
           <l>The others have buckled their armor</l>
           <l>    And forth to the fight are gone.</l>
           <l>A place in the ranks awaits you,</l>
-          <l>    Each, man has some part to play;</l>
+          <l>    Each man has some part to play;</l>
           <l>The past and the future are nothing</l>
           <l>    In the face of the stern to-day.</l>
           <l/>
@@ -1101,7 +1101,7 @@
           <l>When, from dreams of a coming battle,</l>
           <l>    You may wake to find it past.</l>
           <bibl>
-            <author><hi rend="sc">Adelaide Anne Procter</hi></author>.</bibl>
+            <author key="Procter"><hi rend="sc">Adelaide Anne Procter</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -1254,7 +1254,7 @@
           <l>Till I come to take your place,</l>
           <l>          Kiss and kiss her, winds!</l>
           <bibl>
-            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl>
+            <author key="Cary"><hi rend="sc">Phœbe Cary</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -1300,7 +1300,7 @@
             <l>I pass through the pores of the ocean and shores;</l>
             <l>    I change, but I cannot die.</l>
             <bibl>
-              <author><hi rend="sc">Percy Bysshe Shelley</hi></author>.</bibl>
+              <author key="Shelley"><hi rend="sc">Percy Bysshe Shelley</hi></author>.</bibl>
           </quote>
         </div>
         <div>
@@ -1339,7 +1339,7 @@
             <l>And the song, from beginning to end,</l>
             <l>I found again in the heart of a friend.</l>
             <bibl>
-              <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
+              <author key="Longfellow"><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
           </quote>
         </div>
         <div>
@@ -1408,7 +1408,7 @@
           <l>And lay him tenderly to sleep</l>
           <l>    Dear Earth, upon thy bosom.</l>
           <bibl>
-            <author><hi rend="sc">Phœbe Cary</hi></author>.</bibl>
+            <author key="Cary"><hi rend="sc">Phœbe Cary</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -1452,7 +1452,7 @@
           <l>My heart, and the sea, and the heaven</l>
           <l>    Are melting away with love!</l>
           <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
+            <author key="Longfellow"><hi rend="sc">Henry Wadsworth Longfellow</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -1494,7 +1494,7 @@
           <l>There should a wreath be woven</l>
           <l>    To tell the world their worth.</l>
           <bibl>
-            <author><hi rend="sc">Fitz-Greene Halleck</hi></author>.</bibl>
+            <author key="Halleck"><hi rend="sc">Fitz-Greene Halleck</hi></author>.</bibl>
         </quote>
       </div>
       <div>
@@ -1570,7 +1570,7 @@
           <l>Sang of death and life undying</l>
           <l>In the land of the Hereafter.</l>
           <bibl>
-            <author><hi rend="sc">Henry Wadsworth Longfellow</hi></author> (<title>Hiawatha</title>)</bibl>
+            <author key="Longfellow"><hi rend="sc">Henry Wadsworth Longfellow</hi></author> (<title>Hiawatha</title>)</bibl>
         </quote>
         <figure>
           <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_171.png"/>
@@ -1631,7 +1631,7 @@
           <l>If these delights thy mind may move,</l>
           <l>Then, live with me and be my love.</l>
           <bibl>
-            <author><hi rend="sc">Christopher Marlowe</hi></author>.</bibl>
+            <author key="Marlowe"><hi rend="sc">Christopher Marlowe</hi></author>.</bibl>
         </quote>
       </div>
     </body>

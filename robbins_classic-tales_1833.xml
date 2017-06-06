@@ -172,7 +172,7 @@
         <p><hi rend="i">Mother.</hi> Yes; one Apuleius, who lived in Sicily, and wrote in Greek, about seventeen hundred years ago, said he found it in an old book; so it must be very old.</p>
         <p><hi rend="i">Ann.</hi> It is a very pretty story.</p>
         <p><hi rend="i">Mother.</hi> I think so. Many beside you think so. The Italian painters like it very much. I gave it you because I thought you might see prints of it, which you would better understand if you knew the story.
-          <author>Sir James Edward Smith</author>, an English traveller, saw this whole story painted in a palace in Italy; he says, in <title>a journal of his travels</title>,
+          <author key="Smith J. E.">Sir James Edward Smith</author>, an English traveller, saw this whole story painted in a palace in Italy; he says, in <title>a journal of his travels</title>,
           <quote>“The Farnesina, a little palace on the Tiber, belonging to the king of Naples, is adorned with beautiful fresco paintings by </quote>
           <author key="Raffaello">Raphael</author>
           <quote>. The walls of the palace are embellished with a representation of the story of Cupid and Psyche in twenty-four compartments. Never was a story better exhibited.”</quote></p>
@@ -276,7 +276,7 @@
         <p>He sent all the way to Thrace, to Tereus, the king of that country, and told him the distress of his people. Tereus promised to do what he could to relieve Pandion and his subjects; and he came with a sufficient army into Attica, and so effectually punished the barbarians, that the Athenians were no longer afraid of them.</p>
         <p>Pandion was very grateful to Tereus, and invited him to live with his family, while he should stay in Greece. Pandion had two amiable daughters, and Tereus was so well pleased with Progne, the eldest, that he asked her of her father for a wife. Pandion granted his request, and Progne herself agreed to marry Tereus.</p>
         <p>The people of Athens, as well as all the king’s family, rejoiced in the happy prospects of Progne. In those days, the king of a little city was known by every body in his domain, and beloved <hi rend="i">by</hi> all. He was the judge that settled their disputes, the general that led their armies, and the priest that offered sacrifices to their gods — in short, they regarded him as their father, and they loved all whom he loved.<note place="bottom">See
-          <author>Mitford’s</author> <title>Greece</title>, Vol. I.</note></p>
+          <author key="Mitford">Mitford</author>'s <title>Greece</title>, Vol. I.</note></p>
         <p>Marriages were celebrated in public among the Greeks, and all the friends of the parties joined in the festival which was made on the occasion; and they believed that the gods and goddesses came unseen, and blessed the happy pair; and sometimes they spoke of them as if they saw them.</p>
         <p>At the wedding of Progne, says the fable, Juno and Hymen refused to attend, and the Graces and Loves, when they entered the bride’s apartment, fled in terror; for they perceived that the Furies, with their lighted torches were there, and that the screech-owl and raven, birds of evil omen, were perched over their heads. All this threatened misfortune to the couple about to be united.</p>
         <p>But notwithstanding these sad <hi rend="i">portents</hi>, Tereus and Progne were married, and left Athens. Progne wept bitterly when she took leave of her amiable sister, Philomela. Progne lived happily enough in Thrace for a few years. She had a little boy, whom she named Itys, and she loved him dearly. When Itys was about a year old, Progne begged her husband to allow her to go to Athens, to see her aged father, and her sister.</p>
@@ -480,8 +480,8 @@
         <p><hi rend="i">Ann.</hi> Or metamorphosed them to stone, as Aglauria was.</p>
         <p><hi rend="i">Mother.</hi> Yes. I will tell you a pretty story of Mercury. One morning, very early, he was walking on the sea shore, and he saw the shell of a dead tortoise, which is oval and hollow, like a dish cover, only rather flatter. He picked up the shell; a single fibre or thread of the dead animal’s body was stretched across it. He pulled it and it made a low sound. Mercury thought that if he stretched other strings across the shell, it would make more music. He tried the experiment, and it produced very sweet tones.</p>
         <p>This instrument was called the <hi rend="i">lyre</hi>, and was a favourite instrument of the Greeks. When you read in poetry of the “vocal shell,” it means this instrument. Afterward, the shell was cut away, and left only a frame to stretch the strings across. You may see a lyre in the hands of one of the muses. Poets made songs to be sung to the music of the lyre, and called their songs <hi rend="i">lyrics</hi>; and the poets were called lyric poets. We frequently call animated poetry <hi rend="i">lyric</hi>, at the present time. A very wise man<note place="bottom">
-          <author>Burke</author>. See <title>Lives of Painters and Sculptors</title>, by
-          <author>Allan Cunningham</author>.— <hi rend="sc">Family Library</hi>.</note> said, the invention of the lyre was
+          <author key="Burke">Burke</author>. See <title>Lives of Painters and Sculptors</title>, by
+          <author key="Cunningham">Allan Cunningham</author>.— <hi rend="sc">Family Library</hi>.</note> said, the invention of the lyre was
           <quote>“the good fruits of early rising. Mercury was an industrious deity, and an example to man.”</quote> That is the <hi rend="i">moral</hi> of the fable.</p>
         <p><hi rend="i">Ann.</hi> I have often seen the moral of a fable mentioned. What is a moral?</p>
         <p><hi rend="i">Mother.</hi> What the fable teaches is the moral.</p>
@@ -559,7 +559,7 @@
           <l>And Polydorus, born in towery Thebes.”</l>
         </quote>
         <bibl>
-          <author>Elton’s Hesiod</author>.</bibl>
+          <author key="Elton">Elton</author>’s <author key="Hésiode">Hesiod</author>.</bibl>
         <p><hi rend="sc">Cadmus</hi> married Harmonia, the daughter of Mars and Venus, and they lived happily together. They had one son and four daughters. Their son was Polydorus, and their daughters were Ino, Agave, Antinoe, and Semele. Antinoe married a prince named Aristeus, and they had a son called Acteon. This Acteon was one of the most expert hunters in the world.</p>
         <p>Acteon being one day fatigued by the chase lay down to rest himself by a fountain, in the valley of Gargaphia. The trees which surrounded the fountain were sacred to Diana, and it was not permitted to any man to enter her domain. Diana was a modest female deity, and she watched over modest young girls.</p>
         <p>Acteon did not know he had entered a consecrated grove, and he fell asleep there, through weariness. He had not slumbered long, when he was awaked by dashing of waters, and the laughing of young girls bathing in the fountain.</p>
@@ -649,7 +649,7 @@
         <p>Agave and her sisters did not perceive who it was they had killed, and they cut off his head and fixed it upon the point of a thyrsus, and Agave ran about with it, shouting, and showing it to her companions.</p>
         <p>In the midst of all this extravagance, the aged Cadmus came out into the woods, and met his daughters and their companions. He instantly saw, in the ghastly features of the severed head, those of his beloved grandson, and soon convinced Agave that she was exulting in the death of her son.</p>
         <p>Too late, Agave saw the atrocity of such conduct; she beat her breast, and tore her hair, but she could not restore life to the dead. Cadmus grieved bitterly for the undeserved death of Pentheus.
-          <author>One of the Greek poets</author> thus describes his lamentation for him:</p>
+          One of the Greek poets thus describes his lamentation for him:</p>
         <quote>
           <l>“Dearest of men! for thou, though now no more,</l>
           <l>Shall yet be numbered ’mongst my best lov’d sons.</l>
@@ -660,7 +660,7 @@
           <l>Shall punish him that injures thee, my father.’’”</l>
         </quote>
         <bibl>
-          <author>Potter’s Euripides</author>.</bibl>
+          <author key="Potter">Potter</author>’s <author key="Euripide">Euripides</author>.</bibl>
         <p>As if Cadmus had said, as he stood over the disfigured body of his grandson, “Beloved Pentheus! thou art indeed dead; killed by the madness and folly of the Menades. Still, though no longer alive, I will call thee my dear son. I remember all your tenderness.’ You would say, gently stroking this long gray beard, ‘My dear grandfather, does any one ever dare to offend thee by the least disrespect? If any should forget to honour thy reverend age, I will punish him.’”</p>
         <p>The remains of Pentheus were treated with respect, and Agave, restored to reason, bitterly repented of her guilty conduct. The sight of a thyrsus became shocking to her, and she never went near mount Citheron; for there the recollection of her murdered son, and of her crime, were too painful to be endured.</p>
       </div>
@@ -726,7 +726,7 @@
           <l>The two Immortal, and unchanged by years.”</l>
         </quote>
         <bibl>
-          <author>Elton’s Hesiod</author>.</bibl>
+          <author key="Elton">Elton</author>’s <author key="Hésiode">Hesiod</author>.</bibl>
         <p>These verses show that Medusa was destined to die, therefore she might be killed; but her sisters were immortal.</p>
         <p>Medusa had been very beautiful, but she once behaved improperly in Minerva’s temple. Minerva was the goddess of wisdom. She required all worshippers to offer her serious, respectful worship; and if persons in her temple, or any other, behaved improperly, the ancients called it profaning the temple, and <hi rend="i">sacrilege</hi>, and caused the sacrilegious person to be punished.</p>
         <p>Minerva, to punish Medusa, changed her beauty into the most frightful ugliness, and her fine hair into snakes; and she looked so dreadful, that when others looked at her, they were turned to stone.</p>
@@ -874,11 +874,11 @@
       <div>
         <head>Conversation: Mother and Ann.</head>
         <p><hi rend="i">Ann.</hi> I have heard of
-          <author>Shakspeare’s</author> laurels; what does that mean?</p>
+          <author key="Shakespeare">Shakspeare’s</author> laurels; what does that mean?</p>
         <p><hi rend="i">Mother.</hi> It only means
-          <author>Shakspeare’s</author> <hi rend="i">fame</hi>, or reputation.
-          <author>Shakspeare</author> was a great poet. He lived more than two hundred years ago; but every reader admires and praises
-          <author>Shakspeare</author>. That admiration of so many persons, for so long a time, is his fame; his undying or <hi rend="i">immortal fame</hi>, as some persons say, because he is now more admired than ever. As, in ancient times, poets were crowned with laurels, to show that their genius was known and admired; so when, at this time, we speak of a poet’s laurels, we mean his <hi rend="i">fame</hi>, or the admiration of mankind for him.</p>
+          <author key="Shakespeare">Shakspeare’s</author> <hi rend="i">fame</hi>, or reputation.
+          <author key="Shakespeare">Shakspeare</author> was a great poet. He lived more than two hundred years ago; but every reader admires and praises
+          <author key="Shakespeare">Shakspeare</author>. That admiration of so many persons, for so long a time, is his fame; his undying or <hi rend="i">immortal fame</hi>, as some persons say, because he is now more admired than ever. As, in ancient times, poets were crowned with laurels, to show that their genius was known and admired; so when, at this time, we speak of a poet’s laurels, we mean his <hi rend="i">fame</hi>, or the admiration of mankind for him.</p>
         <p><hi rend="i">Ann.</hi> It is what is called a <hi rend="i">metaphorical</hi>, or figurative way of speaking, when one word, like “laurels,” means glory, and not <hi rend="i">literally</hi>, or as the word is, <hi rend="i">laurels</hi>.</p>
         <p><hi rend="i">Mother.</hi> You understand, I perceive, what you have been told concerning literal and figurative language. I must tell you a little more concerning Apollo. You have seen casts and medallions of the pagan gods.</p>
         <p><hi rend="i">Ann.</hi> Yes; marble and plaster images of them.</p>
@@ -889,7 +889,7 @@
         <p><hi rend="i">Mother.</hi> That is not known. About three hundred years ago, it was dug up from among some ruins in Antium, near Rome. It was dreadfully broken, but the fragments were found, and put ingeniously together, and it was conveyed to the Vatican, where it is carefully preserved. I will allow you to read to me another day some few more Classical Tales; but when they shall have been finished, you must return to something useful.</p>
         <p><hi rend="i">Ann.</hi> Are not these useful?</p>
         <p>Mother; Yes; they will enable you to understand pictures, and statues, and poetry, better than you could have done without reading them. But, at present, you can afford no more time to fictions; you must read facts. I have a book of Grecian History,<note place="bottom">See <title>Grecian History</title> by the
-          <author>author of this work</author>.</note> which will teach you many important truths connected with the Greeks.</p>
+          <author key="anonyme">author of this work</author>.</note> which will teach you many important truths connected with the Greeks.</p>
       </div>
       <div>
         <head>Adventures of Io</head>
@@ -941,9 +941,9 @@
         <p>Jupiter, however, persuaded Apollo that it was necessary, few the preservation of the earth, that the presumptuous charioteer should die; and afterward induced Apollo to reascend his glorious car, and to cheer the earth mice mere with the smiles of the blessed sun.</p>
         <ab type="ornament">———</ab>
         <p><hi rend="i">Hours, Days, Months, Seasons, Years, and Ages</hi>. — All these are personified in mythology, in poetry, and in the arts. The Horæ, or Hours, are represented as lovely young girls, having light embroidered robes. They appear thus in
-          <author>Guido’s</author> Aurora. Prints of Aurora, attended by the Hours, and taken from the original of
-          <author>Guido</author>, are not very rare in this country.
-          <author>Guido’s</author> painting is the splendid embellishment of a ceiling in the Palazzo Respigliosi, at Rome.</p>
+          <author key="Reni">Guido’s</author> Aurora. Prints of Aurora, attended by the Hours, and taken from the original of
+          <author key="Reni">Guido</author>, are not very rare in this country.
+          <author key="Reni">Guido’s</author> painting is the splendid embellishment of a ceiling in the Palazzo Respigliosi, at Rome.</p>
       </div>
       <div>
         <head>Niobe.</head>

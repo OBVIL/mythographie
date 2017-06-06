@@ -62,8 +62,8 @@
         <p>The Mythology of the Greeks and Romans is evidently drawn from that of the Oriental nations.</p>
         <p>Orpheus, Pythagoras, Thales, and other founders of Grecian philosophy and mythology, studied in Egypt; and having learned the doctrines of its priests, introduced them, modelled agreeably to their own ideas, into their own country. As this is the case, it might have appeared more natural to the source before the stream; to introduce the young student, first, to Eastern mythology, and afterwards duct him to its corrupt but elegant offspring. Yet as the mythology of Greece and Rome occurs so much more frequently in those books which are most commonly, and most early, used in education, it has been deemed preferable to retain the order generally adopted in works of this kind.</p>
         <p>The information given concerning the Oriental Mythology is borrowed principally from
-          <author>Maurice</author>’s <title>Indian Antiquities</title>, and the <title>Asiatic Researches</title>; from
-          <author>Faber</author>’s excellent work on the <title>Pagan Mythology</title>; and from the <title>Cyclopædia</title> of
+          <author key="Maurice">Maurice</author>’s <title>Indian Antiquities</title>, and the <title>Asiatic Researches</title>; from
+          <author key="Faber">Faber</author>’s excellent work on the <title>Pagan Mythology</title>; and from the <title>Cyclopædia</title> of
           <author key="Rees">Dr. Rees</author>. The Author acknowledges, likewise, his obligations to
           <author key="Prichard">Dr. Prichard</author>, for the information and pleasure he has received from his scientific work on <title>Egyptian Mythology and Chronology</title>.</p>
         <p>Finally, the Author presumes to hope that, improved by some few alterations, and by considerable additions, the New Pantheon may be found to possess a juster claim to that favour which it has already experienced, may continue to enjoy that support which it has hitherto found, and may meet with still more extensive patronage.</p>
@@ -588,8 +588,8 @@
           <p>The best historians,
             <author key="Hérodote">Herodotus</author>,
             <author key="Plutarque">Plutarch</author>, and
-            <author key="Diodore de Sicile">Diodorus Siculus</author>, assert that he was born in Egypt, and educated at Nysa, a city in Arabia Felix; whither he had been sent by his father, Jupiter Ammon. From them it appears that the Bacchus of the Greeks was no other than the famous Osiris, conqueror of India. This Bacchus is supposed, by many learned men, to be Moses. Both are represented as born in Egypt, and exposed in their infancy upon the Nile. Bacchus was educated at Nissa or Nysa, in Arabia, and in the same country Moses passed forty years. Bacchus, when persecuted, retired to the borders of the Red Sea; and Moses fled with the Israelites, from the Egyptian bondage, beyond the same sea. The numerous army of Bacchus, composed of men and women, passed through Arabia in their journey to India. The army of the Jewish legislator, composed of men, women, and children, was obliged to wander in the desert, long before they arrived in Palestine, which, as well as India, is part of the continent of Asia. The fable represents Bacchus with horns, which may be supposed to allude to the light that is said to have shone around the countenance of Moses, who, in old engravings, is frequently represented with horns. Moses received the Jewish law on Mount Sinai. Bacchus was brought up on Mount Nysa. Bacchus, armed with his thyrsus, defeated the giants. The miraculous rod of Moses was the means of destroying the descendants of the giants. Jupiter was said to have sent Bacchus into India to exterminate a sinful nation; and it is recorded, that Moses was commanded, by the true God, to do the same in Palestine. The god Pan gave Bacchus a dog to accompany him in his travels; Caleb, which, in Hebrew, signifies a dog, was the name of the faithful companion of Moses. Bacchus, by striking the earth with his thyrsus, produced rivers of wine. Moses, by striking the rock with his miraculous rod, caused water to gush out to satisfy the raging thirst of the Israelites. Others have regarded Bacchus as being the
-            same with Nimrod, the first ambitious conqueror, and enslaver of men; that mighty hunter before the Lord.</p>
+            <author key="Diodore de Sicile">Diodorus Siculus</author>, assert that he was born in Egypt, and educated at Nysa, a city in Arabia Felix; whither he had been sent by his father, Jupiter Ammon. From them it appears that the Bacchus of the Greeks was no other than the famous Osiris, conqueror of India. This Bacchus is supposed, by many learned men, to be Moses. Both are represented as born in Egypt, and exposed in their infancy upon the Nile. Bacchus was educated at Nissa or Nysa, in Arabia, and in the same country Moses passed forty years. Bacchus, when persecuted, retired to the borders of the Red Sea; and Moses fled with the Israelites, from the Egyptian bondage, beyond the same sea. The numerous army of Bacchus, composed of men and women, passed through Arabia in their journey to India. The army of the Jewish legislator, composed of men, women, and children, was obliged to wander in the desert, long before they arrived in Palestine, which, as well as India, is part of the continent of Asia. The fable represents Bacchus with horns, which may be supposed to allude to the light that is said to have shone around the countenance of Moses, who, in old engravings, is frequently represented with horns. Moses received the Jewish law on Mount Sinai. Bacchus was brought up on Mount Nysa. Bacchus, armed with his thyrsus, defeated the giants. The miraculous rod of Moses was the means of destroying the descendants of the giants. Jupiter was said to have sent Bacchus into India to exterminate a sinful nation; and it is recorded, that Moses was commanded, by the true God, to do the same in Palestine. The god Pan gave Bacchus a dog to accompany him in his travels; Caleb, which, in Hebrew, signifies a dog, was the name of the faithful companion of Moses. Bacchus, by striking the earth with his thyrsus, produced rivers of wine. Moses, by striking the rock with his miraculous rod, caused water to gush out to satisfy the raging thirst of the Israelites. Others have
+            regarded Bacchus as being the same with Nimrod, the first ambitious conqueror, and enslaver of men; that mighty hunter before the Lord.</p>
         </div>
         <div>
           <head>Chap. XIII. Minerva.</head>
@@ -793,7 +793,7 @@
           </figure>
           <q><hi rend="sc">Who</hi> was Vulcan?</q>
           <p>It appears that there were three of the name of Vulcan. The first was Tubalcain, mentioned by
-            <author key="Moïse">Moses</author> as the inventor of forging metals. The second was one of the Egyptian kings, or rather, their first divinity. The third, the Grecian Vulcan, was a Titan prince, son of Jupiter, obliged, by disgrace, to take refuge in the Isle of Lemnos, where he established the art of working iron and brass.</p>
+            <author key="Bible">Moses</author> as the inventor of forging metals. The second was one of the Egyptian kings, or rather, their first divinity. The third, the Grecian Vulcan, was a Titan prince, son of Jupiter, obliged, by disgrace, to take refuge in the Isle of Lemnos, where he established the art of working iron and brass.</p>
           <q>What was his poetical history?</q>
           <p>He was said by the poets to be the son of Jupiter and Juno. For having made the formidable thunderbolts, which Jupiter hurled at the giants attempting to scale the celestial region, Venus was bestowed upon him as a wife. Afterwards, misbehaving himself, Jupiter, with one kick of his foot, precipitated him from heaven. He fell upon the island of Lemnos, and was crippled by his fall. In the caves of that isle, and in the immense subterraneans of Mount Etna, he was supposed to follow his profession, assisted by the Cyclops, Giants with only one eye, and that in the middle of their foreheads.</p>
           <quote>
@@ -1023,57 +1023,23 @@
           <p>A son of Neptune, who was entrusted with the care of his flocks, consisting of sea calves and other marine animals. He is represented by the poets, as possessing the faculty of changing himself into whatever forms he chose. Hence, a fickle person is frequently called a Proteus. History makes mention of a Proteus, king of Egypt, about the time of the Trojan war, who was illustrious for his secrecy, wisdom, and foresight.</p>
           <quote>
             <label>Proteus.</label>
-            <l>
-              <quote>Now, thronging quick, to bask in open air,</quote>
-            </l>
-            <l>
-              <quote>The flocks of ocean to the strand repair.</quote>
-            </l>
-            <l>
-              <quote>Couch’d on the sunny sand, the monsters sleep;</quote>
-            </l>
-            <l>
-              <quote>Then Proteus mounting from the hoary deep,</quote>
-            </l>
-            <l>
-              <quote>Surveys his charge unknowing of deceit.</quote>
-            </l>
-            <l>
-              <quote>Pleas’d with the false review secure he lies,</quote>
-            </l>
-            <l>
-              <quote>And leaden slumbers press his drooping eyes,</quote>
-            </l>
-            <l>
-              <quote>Shouting we seize the God; our force to evade,</quote>
-            </l>
-            <l>
-              <quote>His various arts he summons to his aid.</quote>
-            </l>
-            <l>
-              <quote>A lion now, he curls a surgy mane;</quote>
-            </l>
-            <l>
-              <quote>Sudden, our bands a spotted pard retain,</quote>
-            </l>
-            <l>
-              <quote>Then arm’d with tusks, and lightning in his eyes,</quote>
-            </l>
-            <l>
-              <quote>A boar’s obscener shape the God belies.</quote>
-            </l>
-            <l>
-              <quote>On spiry volumes, there, a dragon rides;</quote>
-            </l>
-            <l>
-              <quote>Here, from our strict embrace, a stream he glides.</quote>
-            </l>
-            <l>
-              <quote>And, last, sublime his stately growth he rears </quote>
-            </l>
-            <l>
-              <quote>A tree and well dissembled foliage wears.</quote>
-            </l>
+            <l> Now, thronging quick, to bask in open air, </l>
+            <l> The flocks of ocean to the strand repair. </l>
+            <l> Couch’d on the sunny sand, the monsters sleep; </l>
+            <l> Then Proteus mounting from the hoary deep, </l>
+            <l> Surveys his charge unknowing of deceit. </l>
+            <l> Pleas’d with the false review secure he lies, </l>
+            <l> And leaden slumbers press his drooping eyes, </l>
+            <l> Shouting we seize the God; our force to evade, </l>
+            <l> His various arts he summons to his aid. </l>
+            <l> A lion now, he curls a surgy mane; </l>
+            <l> Sudden, our bands a spotted pard retain, </l>
+            <l> Then arm’d with tusks, and lightning in his eyes, </l>
+            <l> A boar’s obscener shape the God belies. </l>
+            <l> On spiry volumes, there, a dragon rides; </l>
+            <l> Here, from our strict embrace, a stream he glides. </l>
+            <l> And, last, sublime his stately growth he rears </l>
+            <l> A tree and well dissembled foliage wears. </l>
             <bibl>
               <author key="Pope">Pope</author>’s
               <author key="Homère">Homer</author>’s <title>Odyssey</title>.</bibl>
@@ -1708,8 +1674,8 @@
           <q>What was the Mythology of the Persian religion, as reformed by
             <author key="Zarathushtra">Zoroaster</author><hi rend="i">;</hi> and what was the name of his sacred book?</q>
           <p>The book containing the Persian Mythology, as reformed and arranged by
-            <author key="Zarathushtra">Zoroaster</author>, was called the <title>Zend-Avesta</title>, and is till extant. The <title>Zend-Avesta</title> divides the period of the work of creation into six intervals. It asserts that in the sixth of these, man alone was created; and that he mysteriously consisted of two characters, or persons, distinguished from each other, as the Man, and the Man-Bull; that these were the first of beings formed by the immediate hand of the Supreme. The Man was called Kaiomorts, and the Bull, Aboudad, and they were combined together, constituting one being; so that the man was the pure and holy soul of the Man-Bull. For some time after the production of this intelligent creature, there was a season of happiness, and the Man-Bull resided in an elevated region, which the Deity had assigned him. At last, an evil being, named Ahriman, or Arimanius, corrupted the world. After having dared to visit heaven, he descended to the earth, assumed the form of a serpent, and introduced a number of evil demons or spirits, whom he had seduced from obedience to the great Deity. By his venom, the Man-Bull was poisoned, and died. But after he was dead, from his left arm issued a being called Goschoraun, who, approaching the Creator God, raised a cry louder than the shout of a thousand armies, complaining of the power of Ahriman and the prevalence of evil; and supplicating a deliverer. In the mean time, a universal opposition to the will of the Supreme was raised by Ahriman, when a second Man-Bull appeared, named Taschter, to whom was committed the charge of producing a universal deluge. This personage is spoken of as a star, or a sun, and as existing upon earth, under three forms. During this period, a conflict took place between the author of good, and Ahriman the producer of evil, in which the latter was subdued. Taschter’s light shone on high for thirty days and thirty nights. He is represented as having three bodies, of a man, a horse, and a bull; from each of which
-            he caused rain to pour down in drops as large as the head of an ox. The earth was covered with water, and all the Kharfesters, the mischievous genii, were destroyed. At length, the creating God drove back the waters from the face of the earth by a mighty wind. Another bull was then formed, who became the author of all abundance, and from whom is derived the second race of men. According to the <title>Zend-Avesta</title>, when the waters retired from the surface of the globe, the summit of mount Albordi was the first land that became visible. The sun and the moon then appeared upon its summit; and the latter of these is said to have received, preserved, and purified the offspring of the Man-Bull. The moon is declared to have caused every thing to be produced, when the world was renewed after the general deluge. She is celebrated as the common mother, from whom proceed all the various descriptions of animals. Zoroaster retained the custom, still practised by a tribe called Sagnicas, near Benares, that whosoever enters upon the sacerdotal office, lights a fire by rubbing together two pieces of a hard wood named Semi, which he keeps lighted through life, for the nuptial ceremony, for the performance of solemn sacrifices, the obsequies of departed ancestors, and his own funeral pile. The reformed religion of Persia continued in force till that country was subdued by the Mussulmans, who by violence, established Islamism, or Mahommedanism, which is the prevalent system, at present; though numbers still preserve their ancient faith. These are called Parsees, or Guebres.</p>
+            <author key="Zarathushtra">Zoroaster</author>, was called the <title>Zend-Avesta</title>, and is till extant. The <title>Zend-Avesta</title> divides the period of the work of creation into six intervals. It asserts that in the sixth of these, man alone was created; and that he mysteriously consisted of two characters, or persons, distinguished from each other, as the Man, and the Man-Bull; that these were the first of beings formed by the immediate hand of the Supreme. The Man was called Kaiomorts, and the Bull, Aboudad, and they were combined together, constituting one being; so that the man was the pure and holy soul of the Man-Bull. For some time after the production of this intelligent creature, there was a season of happiness, and the Man-Bull resided in an elevated region, which the Deity had assigned him. At last, an evil being, named Ahriman, or Arimanius, corrupted the world. After having dared to visit heaven, he descended to the earth, assumed the form of a serpent, and introduced a number of evil demons or spirits, whom he had seduced from obedience to the great Deity. By his venom, the Man-Bull was poisoned, and died. But after he was dead, from his left arm issued a being called Goschoraun, who, approaching the Creator God, raised a cry louder than the shout of a thousand armies, complaining of the power of Ahriman and the prevalence of evil; and supplicating a deliverer. In the mean time, a universal opposition to the will of the Supreme was raised by Ahriman, when a second Man-Bull appeared, named Taschter, to whom was committed the charge of producing a universal deluge. This personage is spoken of as a star, or a sun, and as existing upon earth, under three forms. During this period, a conflict took place between the author of good, and Ahriman the producer of evil, in which the latter was subdued. Taschter’s light shone on high for thirty days and thirty nights. He is represented as having three bodies, of a man, a horse, and a bull;
+            from each of which he caused rain to pour down in drops as large as the head of an ox. The earth was covered with water, and all the Kharfesters, the mischievous genii, were destroyed. At length, the creating God drove back the waters from the face of the earth by a mighty wind. Another bull was then formed, who became the author of all abundance, and from whom is derived the second race of men. According to the <title>Zend-Avesta</title>, when the waters retired from the surface of the globe, the summit of mount Albordi was the first land that became visible. The sun and the moon then appeared upon its summit; and the latter of these is said to have received, preserved, and purified the offspring of the Man-Bull. The moon is declared to have caused every thing to be produced, when the world was renewed after the general deluge. She is celebrated as the common mother, from whom proceed all the various descriptions of animals. Zoroaster retained the custom, still practised by a tribe called Sagnicas, near Benares, that whosoever enters upon the sacerdotal office, lights a fire by rubbing together two pieces of a hard wood named Semi, which he keeps lighted through life, for the nuptial ceremony, for the performance of solemn sacrifices, the obsequies of departed ancestors, and his own funeral pile. The reformed religion of Persia continued in force till that country was subdued by the Mussulmans, who by violence, established Islamism, or Mahommedanism, which is the prevalent system, at present; though numbers still preserve their ancient faith. These are called Parsees, or Guebres.</p>
           <q>Who was the Ormuzd, or Orosmades, or Oromazes of the Persian Mythology?</q>
           <p>Ormuzd, Oromasdes, Orosmades, or Oromazes, was the name given to the Supreme Creator, by the Persian Mythology. He was adored as the author and principle of good, He was supposed to have produced the good spirits and genii residing in the stars; and to have included them in an egg, which was broken by Ahriman, whence proceeded confusion, and the mixture of evil with good. It was imagined that an incessant struggle is maintained between him and the evil principle, till the latter shall be finally destroyed. Zoroaster described Orosmades, as residing in the midst of a pure and divine fire which fills the immensity of space: and by means of which, not only bodies, but spirits also, axe rendered visible; as being the first principle of all things; as diffused throughout the universe, but as making the most brilliant manifestation of his presence, in that fine and subtle ether. The ancient Persians regarded it as impious to pretend to form visible images of him, or to erect temples to his honour, with the idea of his making them his dwelling-place. They venerated fire as his sacred emblem; the sun as his image; and their worship of him consisted in bloodless sacrifices, and simple rites.</p>
           <q>Who was Mithras?</q>
@@ -1778,7 +1744,7 @@
             <l>But barb’rous priests some dreadful pow’r adore,</l>
             <l>And lustrate ev’ry tree with human gore.”</l>
             <bibl>
-              <author>Rowe</author>’s <title>Lucan</title>, book iii. l. 594, &amp;c.</bibl>
+              <author key="Rowe">Rowe</author>’s <title>Lucan</title>, book iii. l. 594, &amp;c.</bibl>
           </quote>
           <p>Chap. VIII: Scandinavian mythology.</p>
           <q><hi rend="sc">Whence</hi> is the Scandinavian Mythology derived?</q>

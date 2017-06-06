@@ -83,7 +83,7 @@
         </quote>
         <p>Rapprochons de ces vers charmans du gentil
           <author key="Bernard">Bernard</author>, ceux du sévère
-          <author>législateur de notre Parnasse</author>.</p>
+          <author key="Boileau">législateur de notre Parnasse</author>.</p>
         <quote>
           <l>   … <hi rend="sc">Dans</hi> une profane et riante peinture,</l>
           <l>De n’oser de la Fable employer la figure,</l>
@@ -101,7 +101,7 @@
           <l>Dans leur faux zèle, iront chasser l’Allégorie<note place="bottom">[Table des matières] Boileau. <title>Art poétique, ch. III</title>.</note>.</l>
         </quote>
         <p>Le
-          <author>Poëte</author> dira enfin à
+          <author key="anonyme">Poëte</author> dira enfin à
           <author>notre Euclide</author> osant lui dicter des lois :</p>
         <quote>
           <l>   <hi rend="sc">Géomètre</hi> glacé, respecte mon tableau ;</l>
@@ -157,7 +157,7 @@
         </quote>
         <quote>
           <l>   <hi rend="sc">Je</hi> t’oublîrais,
-            <author>Cygne de Méonie</author>,</l>
+            <author key="Homère">Cygne de Méonie</author>,</l>
           <l>Toi qui m’appris les lois de l’Harmonie,</l>
           <l>Toi des Humains, peut-être le plus grand !</l>
           <l>Pour te louer les siècles se répondent.</l>
@@ -202,7 +202,7 @@
             <l>L’esclave et les rois de la terre,</l>
             <l>Dont je dévore les tombeaux. »</l>
             <bibl>
-              <author>Laurence</author><note place="bottom">[Table des matières] Laurence. <title>Stances sur le Temps</title>.</note>.</bibl>
+              <author key="Laurence">Laurence</author><note place="bottom">[Table des matières] Laurence. <title>Stances sur le Temps</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Le</hi> compas d’Uranie a mesuré l’Espace,</l>
@@ -305,7 +305,7 @@
             <l>Et ne démentant point sa sanglante origine.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">Tout morceau de poésie, traduit ou imité, présentera comme celui-ci, le nom des deux auteurs.</note><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. I</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">Tout morceau de poésie, traduit ou imité, présentera comme celui-ci, le nom des deux auteurs.</note><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -326,7 +326,7 @@
             <l>Que mon art, pour moi seul, ne soit pas secourable !</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. I</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. I</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>              <hi rend="sc">Quand</hi> Apollon quitta les Cieux,</l>
@@ -372,7 +372,7 @@
             <l>D’une ceinture oblique embrasse l’univers.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. II</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Où naissent tes rayons, Astre enflammé du jour ?</l>
@@ -653,7 +653,7 @@
             <l>Les débris disparus des nations guerrières,</l>
             <l>Leur or, leurs bataillons et leurs flottes entières :</l>
             <l>Tantôt, avec
-              <author>Linnée</author> enfoncé sous les eaux,</l>
+              <author key="Linnée">Linnée</author> enfoncé sous les eaux,</l>
             <l>Vous cherchez ces forêts de fucus, de roseaux,</l>
             <l>De la Flore des mers invisible héritage,</l>
             <l>Qui ne viennent à nous qu’apportés par l’orage ;</l>
@@ -705,7 +705,7 @@
             <l>Beau d’orgueil et d’amour, il vole à ses amantes.</l>
             <l>Quand je ne le vois plus, mon œil le suit encor.</l>
             <bibl>
-              <author>Le même</author><note place="bottom">[Table des matières] Delille. <title>Les Jardins, ch. I</title>.</note>.</bibl>
+              <author key="Delille">Le même</author><note place="bottom">[Table des matières] Delille. <title>Les Jardins, ch. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -875,8 +875,8 @@
             <l>         Les gazons me semblent plus frais,</l>
             <l>Et mes chères brebis me sont encor plus chères.</l>
             <bibl>
-              <author>Anyte, Citoyenne d’Épidaure</author>. — 
-              <author>***</author><note place="bottom">[Table des matières] Anyte, citoyenne d’Epidaure. <title>Oh Pan ! etc.</title></note></bibl>
+              <author key="Anyte d’Épidaure">Anyte, Citoyenne d’Épidaure</author>. — 
+              ***<note place="bottom">[Table des matières] Anyte, citoyenne d’Epidaure. <title>Oh Pan ! etc.</title></note></bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Souvent</hi> tu viens chercher l’ombre de cet ormeau,</l>
@@ -889,7 +889,7 @@
             <l>           Qui croît au bord de ce ruisseau,</l>
             <l>Et moi je m’abandonne au plaisir de l’entendre.</l>
             <bibl>
-              <author>La même</author><note place="bottom">[Table des matières] Anyte, citoyenne d’Epidaure. <title>Souvent tu viens, etc.</title></note>.</bibl>
+              <author key="Anyte d’Épidaure">La même</author><note place="bottom">[Table des matières] Anyte, citoyenne d’Epidaure. <title>Souvent tu viens, etc.</title></note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Pour</hi> fuir le Dieu des bois, plongée au fond des eaux,</l>
@@ -965,7 +965,7 @@
             <l>Et de son souffle impur, fléau de nos beaux ans,</l>
             <l>Sèche et brûle en sa fleur le germe des talens.</l>
             <bibl>
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>A un jeune poëte</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>A un jeune poëte</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1084,7 +1084,7 @@
             <l>         Il cherche la vertu, sans doute :</l>
             <l>Mais la pauvre vertu n’est pas sur son chemin.</l>
             <bibl>
-              <author>Francois de Neufchâteau</author><note place="bottom">[Table des matières] François de Neufchâteau. <title>Plutus</title>.</note>.</bibl>
+              <author key="François de Neufchâteau">Francois de Neufchâteau</author><note place="bottom">[Table des matières] François de Neufchâteau. <title>Plutus</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Lorsque</hi> le fils d’Alcmène, après ses longs travaux,</l>
@@ -1274,7 +1274,7 @@
             <l>Délivre les Romains du fléau de la peste.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. XX</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. XX</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1442,8 +1442,8 @@
             <l>Le Louvre, Bagatelle et Versailles confits ;</l>
             <l>Les amours de
               <author key="Sappho">Sapho</author>, d’
-              <author>Abeilard</author>, de
-              <author>Tibule</author>,</l>
+              <author key="Abélard">Abeilard</author>, de
+              <author key="Tibulle">Tibule</author>,</l>
             <l>Les noces de Gamache et les travaux d’Hercule,</l>
             <l>Et mille objets divers, que savent imiter</l>
             <l>D’habiles confiseurs que je pourrais citer.</l>
@@ -1506,7 +1506,7 @@
             <l>» Puissions-nous, affranchis des fureurs politiques,</l>
             <l>» N’être plus séparés de nos Dieux domestiques !!… »</l>
             <bibl>
-              <author>J. B.</author>
+              <author key="Berchoux">J. B.</author>
               <note place="bottom">[Table des matières] J. Berchoux. <title>Gastronomie</title>.</note>
             </bibl>
           </quote>
@@ -1552,9 +1552,9 @@
             <l>Un feu vainqueur de mes rivaux ;</l>
             <l>Et que mes chants toujours nouveaux</l>
             <l>Mêlent la raison des
-              <author>Socrates</author></l>
+              <author key="Socrate">Socrates</author></l>
             <l>Aux badinages des
-              <author>Saphos</author>.</l>
+              <author key="Sappho">Saphos</author>.</l>
             <bibl>
               <author key="Bernis">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>A mes dieux Pénates, Epître VII</title>.</note>.</bibl>
           </quote>
@@ -1685,7 +1685,7 @@
             <l>Aux sables du rivage, aux épis des guérets.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. XI</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. XI</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1699,7 +1699,7 @@
             <l>La démarche, la voix, les habits, le langage.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. II</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Sur</hi> ces demeures solitaires,</l>
@@ -1750,7 +1750,7 @@
             <l>De la vile poussière éparse sous ses pas.</l>
             <bibl>
               <author key="Young">Young</author>. — 
-              <author>Colardeau</author><note place="bottom">[Table des matières] Colardeau. <title>Nuits d’Young</title>.</note>.</bibl>
+              <author key="Colardeau">Colardeau</author><note place="bottom">[Table des matières] Colardeau. <title>Nuits d’Young</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Mais</hi> sur l’homme assoupi Morphée est descendu.</l>
@@ -1766,7 +1766,7 @@
             <l>Le chasseur presse et frappe un cerf imaginaire,</l>
             <l>Le guerrier d’un vain bronze affronte le tonnerre.</l>
             <bibl>
-              <author>Le Gouvé</author><note place="bottom">[Table des matières] Legouvé. <title>Les Souvenirs, poëme</title>.</note>.</bibl>
+              <author key="Le Gouvé">Le Gouvé</author><note place="bottom">[Table des matières] Legouvé. <title>Les Souvenirs, poëme</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -1983,7 +1983,7 @@
             <l>Ou n’a plus de cheveux, ou n’en a que de blancs.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. II</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métamorph. d’Ovide, liv. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <label><hi rend="i">L’Hiver de</hi> 1709.</label>
@@ -2207,7 +2207,7 @@
             <l>Enfant de l’air, enfant de la lumière,</l>
             <l>Il monte, il brille, il voltige, il n’est plus.</l>
             <bibl>
-              <author>Raboteau</author><note place="bottom">[Table des matières] Raboteau. <title>Les jeux de l’enfance, poëme</title>.</note>.</bibl>
+              <author key="Raboteau">Raboteau</author><note place="bottom">[Table des matières] Raboteau. <title>Les jeux de l’enfance, poëme</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2279,7 +2279,7 @@
             <l>Et joignez la prière à l’encens funéraire.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Les Fastes, liv. II</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Les Fastes, liv. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>Honneurs funèbres rendus par Énée aux Mânes de son père Anchise.</label>
@@ -2469,7 +2469,7 @@
             <l>Doivent leur liberté, leur bonheur et leur gloire.</l>
             <bibl>
               <author key="Lucrèce">Lucrèce</author>. — 
-              <author>Leblanc-de-Guillet</author><note place="bottom">[Table des matières] Leblanc-de-Guillet. <title>Lucrèce, ch. II</title>.</note>.</bibl>
+              <author key="Leblanc de Guillet">Leblanc-de-Guillet</author><note place="bottom">[Table des matières] Leblanc-de-Guillet. <title>Lucrèce, ch. II</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2801,7 +2801,7 @@
             <l>Invoquez-la : Pallas préside à tous les arts.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Les Fastes, liv. III</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Les Fastes, liv. III</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -2850,7 +2850,7 @@
             <l>Vierge, elle se confie à des mains virginales.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Les Fastes, liv. III</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Les Fastes, liv. III</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -3178,7 +3178,7 @@
             <l>Tout souillé des raisins que ses pieds ont pressés ;</l>
             <l>Et l’Hiver, aux cheveux de neige hérissés,</l>
             <bibl>
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métam., liv. II</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métam., liv. II</title>.</note>.</bibl>
           </quote>
           <p rend="i">Voyez <hi rend="sc">Vertumne</hi> . </p>
         </div>
@@ -3260,7 +3260,7 @@
             <l>Boit le Soleil, et vers notre paupière</l>
             <l>Réfléchit l’or et la pourpre et l’azur.</l>
             <bibl>
-              <author>Malfilâtre</author><note place="bottom">[Table des matières] Malfilâtre. <title>Narcisse, ch. III</title>.</note>.</bibl>
+              <author key="Malfilâtre">Malfilâtre</author><note place="bottom">[Table des matières] Malfilâtre. <title>Narcisse, ch. III</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>Le Paon et l’Arc-en-Ciel.</label>
@@ -3386,7 +3386,7 @@
             <l>Avec ordre rangés les attèlent au char.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métam., liv. II</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métam., liv. II</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Dans</hi> ce beau palais du Soleil</l>
@@ -3731,7 +3731,7 @@
             <l>Provence fortunée, asile aimé des cieux,</l>
             <l>Que j’aimerais ton ciel, ton délire et tes jeux !</l>
             <bibl>
-              <author>Le même</author><note place="bottom">[Table des matières] Dorat. <title>La Déclamation, ch. V</title>.</note>.</bibl>
+              <author key="Dorat">Le même</author><note place="bottom">[Table des matières] Dorat. <title>La Déclamation, ch. V</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>
@@ -3751,7 +3751,7 @@
             <l>Pégase foule en paix les voûtes éternelles.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author>.<note place="bottom">[Table des matières] Desaintange. <title>Fastes, liv. III</title>.</note></bibl>
+              <author key="Saint-Ange">Desaintange</author>.<note place="bottom">[Table des matières] Desaintange. <title>Fastes, liv. III</title>.</note></bibl>
           </quote>
         </div>
         <div>
@@ -3768,7 +3768,7 @@
             <l>             Vous, ont élevé des autels.</l>
             <bibl>
               <author key="Myro de Corinthe">Myro, cit. de Corinthe</author>. — 
-              <author>***</author>.</bibl>
+              ***.</bibl>
           </quote>
           <quote>
             <label>Inscription pour une Fontaine.</label>
@@ -3823,7 +3823,7 @@
             <l>Trop heureux le mortel qui, goûtant tes douceurs,</l>
             <l>Sait connaître et sentir le prix de tes faveurs !.</l>
             <bibl>
-              <author>L’abbé Roman, d’Avignon</author><note place="bottom">[Table des matières] L’abbé Roman, d’Avignon. <title>Epître sur la Santé, fragment</title>.</note>.</bibl>
+              <author key="Roman">L’abbé Roman, d’Avignon</author><note place="bottom">[Table des matières] L’abbé Roman, d’Avignon. <title>Epître sur la Santé, fragment</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   O toi, mère des biens qui rendent l’homme heureux,</l>
@@ -3919,7 +3919,7 @@
             <l>Et ses yeux sont ouverts sur tous les coins du monde.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métam., liv. XII</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Métam., liv. XII</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Quelle</hi> est cette Déesse énorme,</l>
@@ -4096,7 +4096,7 @@
             <l>Et d’un lit douloureux sollicitent la grace ?</l>
             <bibl>
               <author key="Young">Young</author>. — 
-              <author>Colardeau</author>.</bibl>
+              <author key="Colardeau">Colardeau</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -4222,7 +4222,7 @@
             <l>         Et du mouvement de son aile,</l>
             <l>Il étourdit la Parque, et brisa son ciseau.</l>
             <bibl>
-              <author>Le même</author><note place="bottom">[Table des matières] Voltaire. <title>A une aimable femme sortant de maladie</title>.</note>.</bibl>
+              <author key="Voltaire">Le même</author><note place="bottom">[Table des matières] Voltaire. <title>A une aimable femme sortant de maladie</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -4341,7 +4341,7 @@
             <l>Rattache le serpent qui lui sert de ceinture.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IV</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IV</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -4598,7 +4598,7 @@
             <l>Et l’on buvait, dans l’agate polie,</l>
             <l>Ce doux Nectar qui fait les immortels.</l>
             <bibl>
-              <author>Parny</author><note place="bottom">[Table des matières] Parny. <title>Le dîner des Dieux</title>.</note>.</bibl>
+              <author key="Parni">Parny</author><note place="bottom">[Table des matières] Parny. <title>Le dîner des Dieux</title>.</note>.</bibl>
           </quote>
           <quote>
             <label><hi rend="i">Nos adieux à la plus agréable des Campagnes</hi>.</label>
@@ -4813,7 +4813,7 @@
             <l>       Qui d’un dragon terrible à tous les yeux,</l>
             <l>Dispersa les débris sur la terre fumante.</l>
             <bibl>
-              <author>d’Arnaud</author><note place="bottom">[Table des matières] d’Arnaud. <title>Hercule mourant</title>.</note>.</bibl>
+              <author key="D'Arnaud">d’Arnaud</author><note place="bottom">[Table des matières] d’Arnaud. <title>Hercule mourant</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -5147,7 +5147,7 @@
             <l>Un autre soi-même,</l>
             <l>On a trop vécu.</l>
             <bibl>
-              <author key="St. Paul">Paul</author><note place="bottom">[Table des matières] Paul. <title>Les bergers de Sicile aux mânes de Daphnis</title>.</note>.</bibl>
+              <author key="Bible">Paul</author><note place="bottom">[Table des matières] Paul. <title>Les bergers de Sicile aux mânes de Daphnis</title>.</note>.</bibl>
           </quote>
           <p>Les Poëtes Grecs, et à leur imitation les Romains, déifièrent Daphnis.</p>
           <quote>
@@ -5215,7 +5215,7 @@
             <l>Fendre l’air étonné de vos plumes nouvelles.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. VII</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. VII</title>.</note>.</bibl>
           </quote>
           <p>Le prodige du fabuleux <hi rend="i">Argo</hi> a été effacé de nos jours, par le prodige plus vrai, plus utile et plus grand de l’<hi rend="i">Aérostat</hi>.</p>
           <quote>
@@ -5399,7 +5399,7 @@
             <l>Je chassai de mon cœur la nature outragée ;</l>
             <l>Je tremble au nom d’un fils, la nature est vengée.</l>
             <bibl>
-              <author>Le même</author><note place="bottom">[Table des matières] Voltaire. <title>Oreste, act. I, sc. IV</title>.</note>.</bibl>
+              <author key="Voltaire">Le même</author><note place="bottom">[Table des matières] Voltaire. <title>Oreste, act. I, sc. IV</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>
@@ -5436,7 +5436,7 @@
             <l>J’éprouve cependant des tourmens infinis.</l>
             <l>Dieux ! les plus criminels seraient-ils plus punis ?</l>
             <bibl>
-              <author>Crébillon</author><note place="bottom">[Table des matières] Crébillon. <title>Atrée et Thieste, act. I, sc. III</title>.</note>.</bibl>
+              <author key="Crébillion">Crébillon</author><note place="bottom">[Table des matières] Crébillon. <title>Atrée et Thieste, act. I, sc. III</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -5512,7 +5512,7 @@
             <l>Ils m’ont fait tous ces maux : que les Dieux les leur rendent !</l>
             <bibl>
               <author key="Sophocle">Sophocle</author>. — 
-              <author>Laharpe</author>.</bibl>
+              <author key="La Harpe">Laharpe</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -5818,7 +5818,7 @@
             <l>Ramenant au combat ses fidèles compagnes,</l>
             <l>Du plus beau sang des Grecs inonde les campagnes.</l>
             <bibl>
-              <author>Quintus, de Smyrne</author>. — 
+              <author key="Quintus de Smyrne">Quintus, de Smyrne</author>. — 
               <author key="Cournand">Cournand</author><note place="bottom">[Table des matières] Cournand. <title>Penthésilée</title>.</note>.</bibl>
           </quote>
         </div>
@@ -5963,7 +5963,7 @@
             <l>Dignes fils des cailloux qui furent nos aïeux.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -6000,7 +6000,7 @@
             <l>» Osons tout : repeuplons ce globe désolé ; »</l>
             <l>Il projette, exécute, et l’homme est modelé.</l>
             <bibl>
-              <author>Colardeau</author><note place="bottom">[Table des matières] Colardeau. <title>Prométhée appuyé, etc.</title></note>.</bibl>
+              <author key="Colardeau">Colardeau</author><note place="bottom">[Table des matières] Colardeau. <title>Prométhée appuyé, etc.</title></note>.</bibl>
           </quote>
           <quote>
             <l>   Terre, éveille-toi ; la Déesse (<hi rend="i">Minerve.</hi>)</l>
@@ -6181,7 +6181,7 @@
             <l>» Il est beau de tomber, quand on tombe du ciel ».</l>
             <bibl>
               <author key="Ovide">Ovide</author> —
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. II</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. II</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -6240,7 +6240,7 @@
             <l>Et cette île depuis a conservé son nom.</l>
             <bibl>
               <author key="Ovide">Ovide</author> —
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. II</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. II</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -6333,7 +6333,7 @@
             <l>Célèbrent à l’envi le culte et les mystères.</l>
             <bibl>
               <author key="Ovide">Ovide</author> —
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. III</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. III</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -6412,7 +6412,7 @@
             <l>Approche, te reçoit, et ce vivant navire</l>
             <l>          Te mène heureusement au port.</l>
             <bibl>
-              <author>D.</author>
+              <author key="anonyme">D.</author>
               <note place="bottom">[Table des matières] Anonyme (D.). <title>Arion</title>.</note>
             </bibl>
           </quote>
@@ -6749,7 +6749,7 @@
             <l>Mon cœur qui sans pitié lui déclare la guerre,</l>
             <l>Ne cherche à le punir qu’au défaut du tonnerre.</l>
             <bibl>
-              <author>Crébillon</author><note place="bottom">[Table des matières] Crébillon. <title>Atrée</title>.</note>.</bibl>
+              <author key="Crébillon">Crébillon</author><note place="bottom">[Table des matières] Crébillon. <title>Atrée</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -6802,7 +6802,7 @@
             <l>Il me tendit les bras, il voulut me parler,</l>
             <l>De ses yeux expirans je vis des pleurs couler ;</l>
             <l>Moi-même en le perçant, je sentis dans mon ame,</l>
-            <l>Tout vainqueur que j’étais… Vous frémissez, madame<note place="bottom">[Table des matières] Voltaire. <title>Œdipe, act. IV, sc. I</title>.</note>.</l>
+            <l>Tout vainqueur que j’étais… Vous frémissez, madame<note place="bottom">[Table des matières] <author key="Voltaire">Voltaire</author>. <title>Œdipe, act. IV, sc. I</title>.</note>.</l>
           </quote>
           <quote>
             <label>
@@ -6852,7 +6852,7 @@
             <l>Pauvre insensé ! pour prix de ce repas étrange,</l>
             <l>          Meurs de faim sur ton coffre fort.</l>
             <bibl>
-              <author>Pétronne</author>. — 
+              <author key="Pétrone">Pétronne</author>. — 
               <author key="Deguerle">Deguerle</author><note place="bottom">[Table des matières] Deguerle. <title>Satyricon de Pétrone</title>.</note>.</bibl>
           </quote>
           <p rend="i">Voyez <hi rend="sc">Tartare</hi> . </p>
@@ -6937,7 +6937,7 @@
             <l>Leur ville renversée et leur palais en cendre.</l>
             <bibl>
               <author key="Horace">Horace</author>. — 
-              <author>Izoard de Livani</author><note place="bottom">[Table des matières] Isoard, de Livani. <title>Ode XV, liv. I</title>.</note>.</bibl>
+              <author key="Livani">Izoard de Livani</author><note place="bottom">[Table des matières] Isoard, de Livani. <title>Ode XV, liv. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -7047,7 +7047,7 @@
             <l>Si je fais quelques pas douteux,</l>
             <l>C’est que je danse à la Silène.</l>
             <bibl>
-              <author>Anacréon</author>. — 
+              <author key="Anacréon">Anacréon</author>. — 
               <author key="Roman">Roman</author><note place="bottom">[Table des matières] Roman. <title>Imitation d’Anacréon</title>.</note>.</bibl>
           </quote>
         </div>
@@ -7151,7 +7151,7 @@
             <l>Et le même tombeau les enferma tous deux.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IV</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IV</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -7518,7 +7518,7 @@
             <l>Viens tirer le rideau… tout est fini pour moi !</l>
             <bibl>
               <author key="Young">Young</author>. — 
-              <author>Colardeau</author><note place="bottom">[Table des matières] Colardeau. <title>Nuits d’Young</title>.</note>.</bibl>
+              <author key="Colardeau">Colardeau</author><note place="bottom">[Table des matières] Colardeau. <title>Nuits d’Young</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -7578,7 +7578,7 @@
             <l>Fut la plus tendre épouse, et la plus tendre mère.</l>
             <bibl>
               <author key="Euripide">Euripide</author>. — 
-              <author>Laharpe</author>.</bibl>
+              <author key="La Harpe">Laharpe</author>.</bibl>
           </quote>
         </div>
         <div>
@@ -8026,7 +8026,7 @@
             <l>Et porte jusqu’au Ciel sa pensée et ses yeux.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -8181,7 +8181,7 @@
             <l>Semblent se souvenir de leurs premiers destins.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IV</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IV</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -8287,7 +8287,7 @@
             <l>Les échos répétaient Eurydice ! Eurydice !</l>
             <bibl>
               <author key="Virgile">Virgile</author>. — 
-              <author>Dellile</author><note place="bottom">[Table des matières] Delille. <title>Géorg., liv. IV</title>.</note>.</bibl>
+              <author key="Delille">Dellile</author><note place="bottom">[Table des matières] Delille. <title>Géorg., liv. IV</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>Orphée mis en pièces par les Bacchantes.</label>
@@ -8357,7 +8357,7 @@
             <l>Répondent aux soupirs de sa bouche plaintive.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. XI.</title></note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. XI.</title></note>.</bibl>
           </quote>
         </div>
         <div>
@@ -8471,7 +8471,7 @@
             <l>Se change en oiseau blanc qui conserve son nom.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IV.</title></note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IV.</title></note>.</bibl>
           </quote>
         </div>
         <div>
@@ -8695,7 +8695,7 @@
             <l>Voulait pour se venger, qu’il souffrît mille morts.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. III</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. III</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -8771,7 +8771,7 @@
             <l>Et je chéris cette île où Diane est chérie.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét.. liv. V</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét.. liv. V</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -8894,7 +8894,7 @@
             <l>Cesse, tendre Vénus, mets fin à tes douleurs,</l>
             <l>Une autre année encor fera couler tes pleurs.</l>
             <bibl>
-              <author>Traduction libre</author> de
+              <author key="anonyme">Traduction libre</author> de
               <author key="Bion">Bion</author><note place="bottom">[Table des matières] Anonyme. <title>Traduction libre de Bion</title>.</note>.</bibl>
           </quote>
         </div>
@@ -9036,7 +9036,7 @@
             <l>Même instant, même sort à leur fin les entraîne,</l>
             <l>Baucis devint tilleul, Philémon devint chêne.</l>
             <bibl>
-              <author>Lafontaine</author><note place="bottom">[Table des matières] Lafontaine. <title>Philémon et Baucis</title>.</note>.</bibl>
+              <author key="La Fontaine">Lafontaine</author><note place="bottom">[Table des matières] Lafontaine. <title>Philémon et Baucis</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -9124,7 +9124,7 @@
             <l>Et qui va sous son nom se perdre dans la mer.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. VI</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. VI</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -9149,7 +9149,7 @@
             <l>Midas, le roi Midas, a des oreilles d’âne.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. XI</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. XI</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Du</hi> Dieu Plutus tâchez d’être chéri,</l>
@@ -9357,7 +9357,7 @@
             <l>            L’astre moitié de ta victime.</l>
             <stage>(Elle se précipite.)</stage>
             <bibl>
-              <author>Arnault</author><note place="bottom">[Table des matières] Arnault. <title>Alcyone, scène dramatique</title>.</note>.</bibl>
+              <author key="Arnault">Arnault</author><note place="bottom">[Table des matières] Arnault. <title>Alcyone, scène dramatique</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -9397,7 +9397,7 @@
             <l>Et qui retint depuis le nom de son amante.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -9569,7 +9569,7 @@
             <l>                En voyant les hommes, hélas !</l>
             <l>                Il m’en souvient bien davantage.</l>
             <bibl>
-              <author>Lafontaine</author>.<note place="bottom">[Table des matières] Lafontaine. <title>Philomèle et Progné</title>.</note></bibl>
+              <author key="La Fontaine">Lafontaine</author>.<note place="bottom">[Table des matières] Lafontaine. <title>Philomèle et Progné</title>.</note></bibl>
           </quote>
           <quote>
             <label>Sur Madame Villette.</label>
@@ -9646,7 +9646,7 @@
             <l>Mais ce n’est plus qu’un son qui vit encore en elle.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. III</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. III</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -9747,7 +9747,7 @@
             <l>Elle ourdit une toile en tissus déliés.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. VI</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. VI</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -9842,7 +9842,7 @@
             <l>Et le temps, de ses pleurs ne tarit point le cours.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. VI</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. VI</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -9940,7 +9940,7 @@
             <l>Conserve encor long-temps un reste de chaleur.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IX</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. IX</title>.</note>.</bibl>
           </quote>
         </div>
       </div>
@@ -10010,7 +10010,7 @@
             <l>            Où peut-on trouver des charmes,</l>
             <l>            Quand on perd sa liberté ?</l>
             <bibl>
-              <author>B.</author>
+              <author key="anonyme">B.</author>
               <note place="bottom">[Table des matières] Anonyme (B.). <title>Sirènes</title>.</note>
             </bibl>
           </quote>
@@ -10154,7 +10154,7 @@
             <l>Les chênes, les cyprès, au-dessus des tempêtes,</l>
             <l>Lèvent leurs bras altiers, et leurs pompeuses têtes.</l>
             <bibl>
-              <author>Le même</author><note place="bottom">[Table des matières] Delille. <title>Enéide, liv. III</title>.</note>.</bibl>
+              <author key="Virgile">Le même</author><note place="bottom">[Table des matières] <author>Delille</author>. <title>Enéide, liv. III</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -10338,7 +10338,7 @@
             <l>Et la Terre, et les Mers, et les Cieux ont tremblé.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -10486,7 +10486,7 @@
             <l>Conservaient le printemps an milieu des hivers.</l>
             <bibl>
               <author key="Lucain">Lucain</author>. — 
-              <author>Brebeuf</author><note place="bottom">[Table des matières] Brébeuf. <title>Bois sacré de Marseille profané par César</title></note>.</bibl>
+              <author key="Brébeuf">Brebeuf</author><note place="bottom">[Table des matières] Brébeuf. <title>Bois sacré de Marseille profané par César</title></note>.</bibl>
           </quote>
         </div>
         <div>
@@ -10509,7 +10509,7 @@
             <l>Et les eaux de son lit, et les Nymphes des eaux.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Tempé</hi>, séjour célèbre ! O magique Vallon !</l>
@@ -10704,7 +10704,7 @@
             <l>Sont l’image de ceux qu’inonde</l>
             <l>Le cours de ces flots argentés.</l>
             <bibl>
-              <author>Hermite, de Maillane</author><note place="bottom">[Table des matières] Hermite, de Maillane. <title>Vaucluse</title>.</note>.</bibl>
+              <author key="Hermite de Maillane">Hermite, de Maillane</author><note place="bottom">[Table des matières] Hermite, de Maillane. <title>Vaucluse</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -10720,7 +10720,7 @@
             <l>             Les observe en silence,</l>
             <l>Et bientôt par des cris célèbre le vainqueur.</l>
             <bibl>
-              <author>Paris</author><note place="bottom">[Table des matières] Pâris. <title>Le Globe aérostatique</title>.</note>.</bibl>
+              <author key="Pâris">Paris</author><note place="bottom">[Table des matières] Pâris. <title>Le Globe aérostatique</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>          L’Elide célébrait ses jeux :</l>
@@ -10779,7 +10779,7 @@
             <l>De tout arbre sans choix empruntait sa parure.</l>
             <bibl>
               <author key="Ovide">Ovide</author>. — 
-              <author>Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
+              <author key="Saint-Ange">Desaintange</author><note place="bottom">[Table des matières] Desaintange. <title>Mét., liv. I</title>.</note>.</bibl>
           </quote>
           <p rend="i">Voyez <hi rend="sc">Pi</hi> <hi rend="sc">thon</hi> . </p>
         </div>
@@ -10872,7 +10872,7 @@
             <l>Vous irez trouver vos ouvrages,</l>
             <l>Vous ferez rire à votre tour.</l>
             <bibl>
-              <author>Le même</author><note place="bottom">[Table des matières] Voltaire. <title>Adieu, je vais, etc</title>.</note>.</bibl>
+              <author key="Voltaire">Le même</author><note place="bottom">[Table des matières] Voltaire. <title>Adieu, je vais, etc</title>.</note>.</bibl>
           </quote>
           <p rend="i">Voyez E <hi rend="sc">uménides</hi> . </p>
         </div>
@@ -11118,7 +11118,7 @@
             <l>Ouvre l’abîme où disparaît la vie,</l>
             <l>D’un bras de fer couvre le front des Rois,</l>
             <l>Tient sous ses pieds la Terre assujettie,</l>
-            <l>Et dit au Temps : exécute mes lois<note place="bottom">[Table des matières] Anonyme. <title>Palais du Destin</title>.</note>.</l>
+            <l>Et dit au Temps : exécute mes lois<note place="bottom">[Table des matières] <author key="anonyme">Anonyme</author>. <title>Palais du Destin</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -11230,7 +11230,7 @@
             <l>Parlant et combattant, et mourant en grand homme,</l>
             <l>Et seul resté debout sur les débris de Rome.</l>
             <bibl>
-              <author>Le même</author><note place="bottom">[Table des matières] Delille. <title>Géorg. fr., ch. IV</title>.</note>.</bibl>
+              <author key="Delille">Le même</author><note place="bottom">[Table des matières] Delille. <title>Géorg. fr., ch. IV</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>Le Vésuve.</label>
@@ -11263,7 +11263,7 @@
             <l>De son disque agrandi montre les bords sanglans,</l>
             <l>Et d’un œil effrayé voit ces gouffres brûlans.</l>
             <bibl>
-              <author>Charles Chênedollé</author><note place="bottom">[Table des matières] Chênedollé. <title>Le génie de l’homme, poëme</title>.</note>.</bibl>
+              <author key="Chênedollé">Charles Chênedollé</author><note place="bottom">[Table des matières] Chênedollé. <title>Le génie de l’homme, poëme</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -11514,7 +11514,7 @@
             <l>Ses maux furent mêlés à des plaisirs si doux,</l>
             <l>Que du Malheur enfin le Bonheur fut jaloux.</l>
             <bibl>
-              <author>d’Arnaud</author><note place="bottom">[Table des matières] d’Arnaud. <title>Les avantages de l’adversité</title>.</note>.</bibl>
+              <author key="D'Arnaud">d’Arnaud</author><note place="bottom">[Table des matières] d’Arnaud. <title>Les avantages de l’adversité</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -11659,16 +11659,16 @@
             <l>   Doux espoir, tu régnas sur les bords du Permesse :</l>
             <l>D’Orphée et de Linus tu soutenais la voix ;</l>
             <l>Et, lorsqu’
-              <author>Anacréon</author> célébrait sa tendresse,</l>
+              <author key="Anacréon">Anacréon</author> célébrait sa tendresse,</l>
             <l>            Tu plaçais le luth sous ses doigts.</l>
             <l>C’est toi seul qui guidais l’essor de
-              <author>Démosthènes</author> :</l>
+              <author key="Démosthène">Démosthènes</author> :</l>
             <l>Et quand, la foudre en main, il maîtrisait Athènes,</l>
             <l>            L’avenir s’offrait à ses yeux.</l>
             <l>Sans ce puissant moteur, digne objet de leurs veilles,</l>
             <l>Des sages
-              <author>Despréaux</author>, des sublimes
-              <author>Corneilles</author>,</l>
+              <author key="Boileau">Despréaux</author>, des sublimes
+              <author key="Corneilles">Corneilles</author>,</l>
             <l>            Le génie eût péri comme eux.</l>
             <bibl>
               <author key="Castilhon">Castilhon</author><note place="bottom">[Table des matières] Castilhon. <title>Stances</title>.</note>.</bibl>
@@ -11791,7 +11791,7 @@
             <l>Et d’un amour si rare admirant la constance,</l>
             <l>Il rend graces au ciel qui créa l’Espérance.</l>
             <bibl>
-              <author>J. B. de Saint-Victor</author><note place="bottom">[Table des matières] J. B. de Saint-Victor. <title>Espérance, poëme</title>.</note>.</bibl>
+              <author key="Saint-Victor">J. B. de Saint-Victor</author><note place="bottom">[Table des matières] J. B. de Saint-Victor. <title>Espérance, poëme</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -11812,7 +11812,7 @@
             <l>           Demain va les bénir.</l>
             <bibl>
               <author key="Pindare">Pindare</author>. — 
-              <author>***</author><note place="bottom">[Table des matières] Anonyme. <title>Fortune</title>.</note>.</bibl>
+              ***<note place="bottom">[Table des matières] Anonyme. <title>Fortune</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>   <hi rend="sc">Déesse</hi> d’Antium, ô Déesse fatale !</l>
@@ -11943,7 +11943,7 @@
             <l>          Tant qu’au sein de la mer profonde,</l>
             <l>       Le Simoïs rapide ira porter ses flots.</l>
             <l>          Tu vivras, ô
-              <author>vieillard d’Ascrée</author>,<note place="bottom">Hésiode.</note></l>
+              <author key="Hésiode">vieillard d’Ascrée</author>,<note place="bottom">Hésiode.</note></l>
             <l>Tant que les blonds épis tomberont sous la faux ;</l>
             <l>          Tant qu’autour des jeunes ormeaux,</l>
             <l>          On verra la vigne pourprée</l>
@@ -12429,7 +12429,7 @@
             <l>Marseille, ainsi dans tes murs consternés</l>
             <l>Elle lança ses traits empoisonnés.</l>
             <bibl>
-              <author>Villemain Dabancour</author><note place="bottom">[Table des matières] Villemain-Dabancour . <title>Peste des hommes</title>.</note>.</bibl>
+              <author key="Dabancour">Villemain Dabancour</author><note place="bottom">[Table des matières] Villemain-Dabancour . <title>Peste des hommes</title>.</note>.</bibl>
           </quote>
           <quote>
             <label>Peste des animaux.</label>
@@ -12607,7 +12607,7 @@
             <l>             Raison, prête-moi ton flambeau.</l>
             <l>La tardive raison éclaire mon naufrage.</l>
             <bibl>
-              <author>Brunel, d’Amiens</author>.<note place="bottom">[Table des matières] Brunel, d’Amiens. <title>La Raison tardive</title>.</note></bibl>
+              <author key="Brunel d’Amiens">Brunel, d’Amiens</author>.<note place="bottom">[Table des matières] Brunel, d’Amiens. <title>La Raison tardive</title>.</note></bibl>
           </quote>
         </div>
         <div>
@@ -12650,7 +12650,7 @@
             <l>Pégase sur leur tombe a déposé ses ailes,</l>
             <l>             Leur Muse en deuil attend leur successeur.</l>
             <bibl>
-              <author>Pétronne</author>.―
+              <author key="Pétrone">Pétronne</author>.―
               <author key="Deguerle">Deguerle</author><note place="bottom">[Table des matières] Deguerle. <title>Satyricon de Pétrone</title>.</note>.</bibl>
           </quote>
           <quote>
@@ -12892,7 +12892,7 @@
             <l>Trésor charmant qu’
               <author key="Horace">Horace</author> eut en partage,</l>
             <l>Dont
-              <author>Arouet</author> a long-temps disposé,</l>
+              <author key="Voltaire">Arouet</author> a long-temps disposé,</l>
             <l>Mais où
               <author key="Clément">Clément</author> n’a jamais rien puisé.</l>
             <l/>
@@ -12995,8 +12995,8 @@
             <l>Sa troisième visite était pour le <hi rend="i">Bon-homme</hi> ;</l>
             <l>De monter dans son char, seuls d’entre ses suivans,</l>
             <l>       
-              <author>Esope</author> et
-              <author>Phèdre</author> eurent le privilége :</l>
+              <author key="Ésope">Esope</author> et
+              <author key="Phèdre">Phèdre</author> eurent le privilége :</l>
             <l>       Mais quand on voyage en pleins champs,</l>
             <l>Des poëtes, hélas ! sont un mauvais cortége.</l>
             <l>Déjà s’offraient les bois qui couronnent Paris,</l>
@@ -13013,7 +13013,7 @@
             <l>La terreur, à l’instant, à ses pieds les renverse.</l>
             <l>       La Fable nue était la Vérité.</l>
             <bibl>
-              <author>P.</author>
+              <author key="anonyme">P.</author>
               <note place="bottom">[Table des matières] Anonyme (P.). <title>La fable un jour voulut courir le monde</title>.</note>
             </bibl>
           </quote>
@@ -13174,7 +13174,7 @@
             <l>Et le trésor de l’Espérance ;</l>
             <l>Je te remercîrai toujours.</l>
             <bibl>
-              <author>C. ***</author>
+              <author key="anonyme">C. ***</author>
               <note place="bottom">[Table des matières] Anonyme (C. ***). <title>Hasard, providence ou destin, etc.</title></note>
             </bibl>
           </quote>
@@ -13350,7 +13350,7 @@
             <l>Témoins de mes beaux jours, de mes premiers desirs,</l>
             <l>Beaux lieux ! qu’avez-vous fait de mes premiers plaisirs ?</l>
             <bibl>
-              <author>Le même</author><note place="bottom">[Table des matières] Delille. <title>Géorg. fr., ch. IV</title>.</note>.</bibl>
+              <author key="Delille">Le même</author><note place="bottom">[Table des matières] Delille. <title>Géorg. fr., ch. IV</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -13478,8 +13478,8 @@
             <l>Saturne a promené sa faux ;</l>
             <l>Mais l’Univers encore admire</l>
             <l>Les
-              <author>Pindares</author> et les
-              <author>Saphos</author>.</l>
+              <author key="Pindare">Pindares</author> et les
+              <author key="Sapphos">Saphos</author>.</l>
             <l>Frappé de cette gloire immense,</l>
             <l>Le fameux vainqueur de Numance,</l>
             <l>Par tant de palmes ennobli,</l>
