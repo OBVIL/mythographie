@@ -6,7 +6,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Myths of old Greece in story and song</title> <author key="Adams, William (18..-19..)">William Adams</author>
+        <title>Myths of old Greece in story and song</title>
+        <author key="Adams, William (18..-19..)">William Adams</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -56,7 +57,9 @@
         <p>The Greek accounts of the early history of the world, like the Roman ones, are incomplete and contradictory among themselves, and if in any detail of our rendering we have invented a significance whose existence it would not be easy to warrant as classic, it is hoped that the judicious will still not disapprove of the use made of the material on the subject.</p>
         <p>The poetry selected for this, as for the other books of the series, is suitable to the prose. As far as it was practicable, the poems are given in full, but a few fragmentary passages of beauty and interest are also included.</p>
         <p>After consideration, it seemed best not to indicate pronunciation in the body of the book. Instead, an index of the proper names has been placed at the end.</p>
-        <p>For copyright selections in this volume, acknowledgements are due as follows: to Messrs. D. Appleton &amp; Co., publishers of <author key="Bryant W.">Bryant’s</author> complete works, for permission to use the selection from “<title>The Greek Boy</title>”; to Messrs. Houghton, Mifflin &amp; Co., the only authorized publishers of <author key="Longfellow">Longfellow’s</author> works, for permission to use the selection from “<title>Pegasus in Pound</title>.”</p>
+        <p>For copyright selections in this volume, acknowledgements are due as follows: to Messrs. D. Appleton &amp; Co., publishers of
+          <author key="Bryant W.">Bryant’s</author> complete works, for permission to use the selection from “<title>The Greek Boy</title>”; to Messrs. Houghton, Mifflin &amp; Co., the only authorized publishers of
+          <author key="Longfellow">Longfellow’s</author> works, for permission to use the selection from “<title>Pegasus in Pound</title>.”</p>
         <figure>
           <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img008.png"/>
         </figure>
@@ -92,7 +95,8 @@
             <l>Never shall thy glory set;</l>
             <l>Thou shalt be our beacon yet.</l>
           </quote>
-          <bibl> <author key="Percival">James Gates Percival</author>.</bibl>
+          <bibl>
+            <author key="Percival">James Gates Percival</author>.</bibl>
           <quote>
             <l>Gone are the glorious Greeks of old,</l>
             <l>   Glorious in mien and mind;</l>
@@ -103,8 +107,9 @@
             <l>And, scattered with their ashes, show</l>
             <l>What greatness perished long ago.</l>
           </quote>
-          <bibl> <author key="Bryant W.">William Cullen Bryant</author>. <lb/></bibl>
-            <p>Permission of D. Appleton &amp; Co., publishers of Bryant’s complete works.</p>
+          <bibl>
+            <author key="Bryant W.">William Cullen Bryant</author>. <lb/></bibl>
+          <p>Permission of D. Appleton &amp; Co., publishers of Bryant’s complete works.</p>
         </div>
       </div>
       <div>
@@ -259,8 +264,7 @@
             <l>He takes the cleft pomegranate seeds:</l>
             <l>   “Love, eat with me this parting day</l>
             <l>Then bids them fetch the coal-black steeds —</l>
-            <l>   “
-              Demeter’s daughter, wouldst away?”</l>
+            <l>   “ Demeter’s daughter, wouldst away?”</l>
             <l>   The gates of Hades set her free;</l>
             <l>   “She will return full soon,” saith he —</l>
             <l>   “My wife, my wife Persephone.”</l>
@@ -313,7 +317,8 @@
             <l>   “O fateful flower beside the rill —</l>
             <l>   The daffodil, the daffodil.”</l>
           </quote>
-          <bibl> <author key="Ingelow">Jean Ingelow</author>.</bibl>
+          <bibl>
+            <author key="Ingelow">Jean Ingelow</author>.</bibl>
         </div>
       </div>
       <div>
@@ -404,7 +409,8 @@
             <l>And our wild bees lend their rainbow wings</l>
             <l>   To glitter on Delphi’s shrine.</l>
           </quote>
-          <bibl> <author key="Moore Th.">Thomas Moore</author>.</bibl>
+          <bibl>
+            <author key="Moore Th.">Thomas Moore</author>.</bibl>
         </div>
       </div>
       <div>
@@ -463,7 +469,8 @@
             <l>How must the heart, ah, Cupid! be,</l>
             <l>The hapless heart that’s stung by thee!”</l>
           </quote>
-          <bibl> <author key="Moore Th.">Thomas Moore</author>.</bibl>
+          <bibl>
+            <author key="Moore Th.">Thomas Moore</author>.</bibl>
         </div>
       </div>
       <div>
@@ -527,7 +534,8 @@
             <l>Killing care and grief of heart</l>
             <l>        Fall asleep, or, hearing, die.</l>
           </quote>
-          <bibl> <author key="Shakespeare">William Shakespeare</author>.</bibl>
+          <bibl>
+            <author key="Shakespeare">William Shakespeare</author>.</bibl>
           <figure>
             <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img077.png"/>
           </figure>
@@ -634,7 +642,8 @@
             <l>Which saw thus young Beauty</l>
             <l>   Embellish’d by Power.</l>
           </quote>
-          <bibl> <author key="Moore Th.">Thomas Moore</author>.</bibl>
+          <bibl>
+            <author key="Moore Th.">Thomas Moore</author>.</bibl>
         </div>
       </div>
       <div>
@@ -725,7 +734,8 @@
             <l>Wake, woman’s heart, from peace to strife,</l>
             <l>   To love, to joy, to pain!”</l>
           </quote>
-          <bibl> <author key="Lang">Andrew Lang</author>.</bibl>
+          <bibl>
+            <author key="Lang">Andrew Lang</author>.</bibl>
           <p><hi rend="sc">Note</hi>. — Pygmalion was a sculptor of the isle of Cyprus. He is said to have made an image of a maiden which was so beautiful that he fell deeply in love with it. He prayed to Venus (called by the Greeks Aphrodite) to give life to the image. By her grace, accordingly, it was made into a live woman, whom, then, Pygmalion married.</p>
         </div>
       </div>
@@ -833,7 +843,8 @@
             <l>Strength’ning all who drink its waters</l>
             <l>   While it soothes them with its sound.</l>
           </quote>
-          <bibl> <author key="Longfellow">Henry W. Longfellow</author>.</bibl>
+          <bibl>
+            <author key="Longfellow">Henry W. Longfellow</author>.</bibl>
         </div>
       </div>
       <div>
@@ -946,7 +957,8 @@
             <l>“I die, I die,” was all she said,</l>
             <l>   While Echo murmur’d “I die, I die!”</l>
           </quote>
-          <bibl> <author key="Moore Th.">Thomas Moore</author>.</bibl>
+          <bibl>
+            <author key="Moore Th.">Thomas Moore</author>.</bibl>
         </div>
       </div>
       <div>
@@ -981,7 +993,8 @@
           <l>Where the fierce-hearted chief of the plundering clan</l>
           <l>   Lies in wait for the life of the wayfaring man:</l>
           <l>           There, there, and only there,</l>
-          <l>           Would godlike Theseus go.<note place="bottom">From <author key="Blackie">John Stuart Blackie</author>’s “<title>Theseus</title>.”</note></l>
+          <l>           Would godlike Theseus go.<note place="bottom">From
+            <author key="Blackie">John Stuart Blackie</author>’s “<title>Theseus</title>.”</note></l>
         </quote>
         <p>As evening came on, a house appeared in the distance. It was the home of the giant Procrustes, the Stretcher. Procrustes received Theseus kindly and gave him a generous meal. Then he led him to the bedroom. Now, Procrustes had only one bed for strangers, and he made them all fit it. If they were too long to lie in it, he would chop off part of their heads or feet; if they were too short, he stretched them until they were long enough.</p>
         <p>But when he tried to put Theseus into the bed he found it no easy matter. Indeed, the result of the struggle was that Theseus put Procrustes into it, and because the bed was much too short, the young hero had first to lop off the giant’s head.</p>
@@ -1031,7 +1044,8 @@
           <l>Woe 1 woe! the year of blood!</l>
           <l>   The day of desolation!</l>
           <l>When sorrow streameth like a flood</l>
-          <l>   O’er all the Attic nation.<note place="bottom">From <author key="Blackie">John Stuart Blackie’s</author> “<title>Theseus</title>.”</note></l>
+          <l>   O’er all the Attic nation.<note place="bottom">From
+            <author key="Blackie">John Stuart Blackie’s</author> “<title>Theseus</title>.”</note></l>
         </quote>
         <p>Theseus looked out at the black ship and round him at the mourning people, and a firm purpose came into his mind.</p>
         <p>“Choose but six young men,” he said to those who drew the lots, “for I will sail in the black ship with the men and the maidens. It may be that with the help of the gods I shall slay this Minotaur.”</p>
@@ -1084,7 +1098,8 @@
           <l>Welcome to thy country’s shore,</l>
           <l>   Thou king’s son girt with glory;</l>
           <l>And live in song forevermore</l>
-          <l>   The pride of Attic story!<note place="bottom">From <author key="Blackie">John Stuart Blackie’s</author> “<title>Theseus</title>.”</note></l>
+          <l>   The pride of Attic story!<note place="bottom">From
+            <author key="Blackie">John Stuart Blackie’s</author> “<title>Theseus</title>.”</note></l>
         </quote>
       </div>
       <div>
@@ -1131,7 +1146,8 @@
           <l>While I of strong Poseidon prayed</l>
           <l>   To guard the life I mourn to-day!”</l>
         </quote>
-        <bibl> <author key="Davidson">Thomas Davidson</author>.</bibl>
+        <bibl>
+          <author key="Davidson">Thomas Davidson</author>.</bibl>
       </div>
       <div>
         <head>The Golden Apple.</head>
@@ -1200,7 +1216,8 @@
           <l>If once the great Twin Brethren</l>
           <l>   Sit shining on the sails.</l>
         </quote>
-        <bibl> <author key="Macaulay">Thomas Babington Macaulay</author>.</bibl>
+        <bibl>
+          <author key="Macaulay">Thomas Babington Macaulay</author>.</bibl>
       </div>
       <div>
         <head>The Wrath of Achilles.</head>
@@ -1286,7 +1303,8 @@
             <l>Whirled by the wind, had rolled me deep below,</l>
             <l>   Then when I left my home.”</l>
           </quote>
-          <bibl> <author key="Tennyson A.">Alfred Tennyson</author> (<title>Adapted</title>).</bibl>
+          <bibl>
+            <author key="Tennyson A.">Alfred Tennyson</author> (<title>Adapted</title>).</bibl>
         </div>
       </div>
       <div>
@@ -1428,7 +1446,8 @@
             <l>Her land from ruinous destiny,</l>
             <l>   Troy-town from fall.</l>
           </quote>
-          <bibl> <author key="March">John Lewis March</author>.</bibl>
+          <bibl>
+            <author key="March">John Lewis March</author>.</bibl>
         </div>
       </div>
       <div>
@@ -1520,7 +1539,8 @@
             <l>All the world o’er, all the world o’er?</l>
             <l>Whither away? listen and stay: mariner, mariner, fly no more.”</l>
           </quote>
-          <bibl> <author key="Tennyson A.">Alfred Tennyson</author> (<title>Adapted</title>).</bibl>
+          <bibl>
+            <author key="Tennyson A.">Alfred Tennyson</author> (<title>Adapted</title>).</bibl>
         </div>
       </div>
       <div>
@@ -1616,7 +1636,8 @@
             <l>And all at once they sang, “Our island home</l>
             <l>Is far beyond the wave; we will no longer roam.”</l>
           </quote>
-          <bibl> <author key="Tennyson A.">Alfred Tennyson</author> (<title>Adapted</title>).</bibl>
+          <bibl>
+            <author key="Tennyson A.">Alfred Tennyson</author> (<title>Adapted</title>).</bibl>
         </div>
       </div>
       <div>
