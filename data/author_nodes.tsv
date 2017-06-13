@@ -246,7 +246,7 @@ Brinton				manuel			3
 De la Noue	La Noue, Jean Baptiste Sauvé de (1701-1760)	1701	1760	littérature	français		3
 Leaf	Leaf, Walter (1852-1927)	1852	1927				3
 Buffon	Leclerc, Georges-Louis Buffon (1707-1788 ; comte de)	1707	1788				3
-Lysippe	Lysippe (03..-03.. av. J.-C.)	-03..	-03..	beaux-arts	grec		3
+Lysippe	Lysippe (03..-03.. av. J.-C.)	-399	-300	beaux-arts	grec		3
 Maréchal	Maréchal, Sylvain (1750-1803)	1750	1803				3
 Maxime de Tyr	Maxime de Tyr (0125-0185)	125	185	littérature	grec		3
 Musée d'Athènes	Musée d'Athènes						3
@@ -298,7 +298,7 @@ Collouthos	Collouthos (04..-05..)	-400	-500	littérature	grec		2
 Correggio	Corrège, Le (1489?-1534)	1489	1534	beaux-arts	italien		2
 Cortés	Cortés, Hernán (1485-1547)	1485	1547		espagnol		2
 Court de Gébelin	Court de Gébelin, Antoine (1719-1784)	1719	1784	érudition	français		2
-Creuzer G. F.	Creuzer, Georg Friedrich (1771-1858)	1771	1858	érudition	allemand		2
+Creuzer	Creuzer, Georg Friedrich (1771-1858)	1771	1858	érudition	allemand		2
 Mme Dacier	Dacier, Anne (1651-1720)	1651	1720	littérature	français		2
 Dion Cassius	Dion Cassius (0155?-0235?)	155	235	littérature	grec	romano	2
 Dobson	Dobson, Austin (1840-1921)	1840	1921	littérature	anglais		2
@@ -429,7 +429,7 @@ Clarke	Clarke, James Freeman (1810-1888)	1810	1888	érudition	américain		1
 Albano				beaux-arts	italien		1
 Mackintosh	Mackintosh, James (sir)						1
 Harvey	Harvey T. K.						1
-Cléomène	Cléomène (04..?-02..? av. J.-C.)	-400	-200	littérature	grec		1
+Cléomène	Cléomène (04..?-02..? av. J.-C.)	-400	-200	beaux-arts	grec		1
 Cliffton	Cliffton, William (1771-1799)	1771	1799	littérature	américain		1
 Cochin	Cochin, Charles-Nicolas (1715-1790)	1715	1790	beaux-arts	français		1
 Collier	Collier, John (1850-1934)	1850	1934	beaux-arts	anglais		1
@@ -871,7 +871,7 @@ Phrynicos	Phrynicos le Tragique (0540?-0470? av. J.-C.)	-540	-470	littérature	g
 Pisandre	Pisandre (0645?-0590? av. J.-C.)	-645	-590				0
 Piso Frugi	Piso Frugi, Lucius Calpurnius (01..-01.. av. J.-C.)	-01..	-01..				0
 Pixis	Pixis, Theodor (1831-1907)	1831	1907				0
-Polyclète	Polyclète (0480?-04.. av. J.-C.)	-480	-04..	beaux-arts	grec		0
+Polyclète	Polyclète (0480?-04.. av. J.-C.)	-480	-400	beaux-arts	grec		0
 Pons de Verdun	Pons de Verdun, Philippe-Laurent (1749-1844)	1749	1844				0
 Poussin	Poussin, Nicolas (1594-1665)	1594	1665	beaux-arts	français		0
 Powell J. H.	Powell, John Wesley (1834-1902)	1834	1902				0
@@ -937,7 +937,7 @@ Syme	Syme, James (1799-1870)	1799	1870				0
 Talfourd	Talfourd, Thomas Noon (1795-1854)	1795	1854				0
 Taylor	Taylor, Bayard (1825-1878)	1825	1878				0
 Tennyson F.	Tennyson, Frederick (1807-1898)	1807	1898	littérature	anglais		0
-Terpandre	Terpandre (07..-07.. av. J.-C.)	-07..	-07..				0
+Terpandre	Terpandre (07..-07.. av. J.-C.)	-700	-600	littérature	grec		0
 Théodecte de Phasélis	Théodecte de Phasélis (04..-04.. av. J.-C.)	-04..	-04..				0
 Théognis	Théognis de Mégare (06..-06.. av. J.-C.)	-06..	-06..	littérature	grec		0
 Thorpe	Thorpe, Benjamin (1782-1870)	1782	1870				0
@@ -1119,7 +1119,7 @@ Howitt M.	Howitt, Mary (1799-1888)	1799	1888	littérature	anglais
 Procter	Procter, Adelaide Anne (1825-1864)	1825	1864	littérature	anglais		
 Smith J. E.	Smith, James Edward (1759-1828)	1759	1828	érudition	anglais		
 Mitford				érudition	anglais		
-Burke							
+Burke				littérature	anglais		
 Cunningham	Cunningham, Allan (1791-1839)	1791	1839	érudition	anglais		
 Cleobulus					grec		
 Periander					grec		
@@ -1129,3 +1129,412 @@ Frédéric II					allemand
 Niccolini	Niccolini, Giovan Battista (1782-1861)	1782	1861	manuel	italien		
 Soave				manuel	italien		
 Ramorino				manuel	italien		
+Boccacci							
+Parménide	Parménide d'Élée (0515?-0440? av. J.-C.)	-515	-440	littérature	grec		
+	Andronico Cirreste						
+Winckelmann	Winckelmann, Johann Joachim (1717-1768)	1717	1768	érudition	allemand		
+Visconti	Visconti, Ennio Quirino (1751-1818)	1751	1818	érudition	italien		
+Foscolo				littérature	italien		
+Cesarotti				littérature 	italien		
+Annibal Caro				littérature	italien		
+Vitruve	Vitruve (0090?-0020? av. J.-C.)	-90	-20		latin		
+Philostrate de Lemnos	Philostrate de Lemnos	190	270	littérature 	grec		
+Martial				littérature	latin		
+Conti	Conti, Natale (1520-1582)			manuel	italien		218
+Claustre	Claustre, André de (17..-17..?)			manuel	français		207
+Calepino	Calepino, Ambrogio (1440?-1511)			érudition	italien		108
+Anguillara	Anguillara, Giovanni Andrea dell' (1517-1572)			littérature	italien		71
+Cantel	Cantel, Pierre-Joseph (1645-1684)			érudition	français		49
+Pitiscus	Pitiscus, Samuel (1637-1727)			érudition			40
+Pindemonte	Pindemonte, Ippolito (1753-1828)			littérature	italien		40
+Festus grammaticus	Festus grammaticus (03..-03..)			érudition	latin		40
+Athénée	Athénée (rhéteur ; rhéteur ; 01..?-02..?)			littérature	grec		34
+Pétrarque	Pétrarque (1304-1374)			littérature	italien		32
+Vico	Vico, Giambattista (1668-1744)			érudition	italien		27
+Federigo	Federigo, Ermolao (17..?-18..?)						27
+Borghi	Borghi, Giuseppe (1790-1847)						24
+Moreri	Moreri, Louis (1643-1680)						22
+Giusti	Giusti, Giuseppe (1809-1850)						20
+Bianchi	Bianchi, Brunone (1803-1869)						20
+Giraldi	Giraldi, Giglio Gregorio (1479-1552)			manuel	italien		17
+Scoliaste d'Aristophane	Scoliaste d'Aristophane			érudition	grec		13
+Strocchi	Strocchi, Dionigi (1762-1850)						12
+Scapula	Scapula, Joannes (15..-15..)						12
+Parini	Parini, Giuseppe (1729-1799)			littérature	italien		12
+Tertullien	Tertullien (0155?-0222?)						11
+Redi	Redi, Francesco (1626-1698)						11
+Machiavel	Machiavel (1469-1527)						11
+Phérécyde d'Athènes	Phérécyde d'Athènes (04..-04.. av. J.-C.)						10
+Vasari	Vasari, Giorgio (1511-1574)						9
+Scoliaste d'Apollonios	Scoliaste d'Apollonios						9
+Ricchieri	Ricchieri, Ludovico (1469-1525)						9
+Pollux grammaticus	Pollux grammaticus (01..-01..)						9
+Philostrate l'Athénien	Philostrate l'Athénien (0175?-0246?)						9
+Pagnini	Pagnini, Giuseppe Maria (1737-1814)						9
+Capella	Capella, Martianus Mineus Felix (03..-04..)						9
+Tommaseo	Tommaseo, Niccolò (1802-1874)						8
+Scoliaste d'Homère	Scoliaste d'Homère						8
+Fulgence le mythographe	Fulgence le mythographe (05..-05..)						8
+Antoninus Liberalis	Antoninus Liberalis (01..?-01..?)						8
+Albéric de Londres	Albéric de Londres (11..-1220?)						8
+Solin	Solin (02..-02..)						7
+Politien	Politien, Ange (1454-1494)						7
+Martorelli	Martorelli, Giacomo (1699-1777)						7
+Inscription latine	Inscription latine						7
+Dati	Dati, Carlo Roberto (1619-1675)						7
+Rosa	Rosa, Salvator (1615-1673)						6
+Porphyre	Porphyre (0234-0305?)						6
+Pagano	Pagano, Francesco Mario (1748-1799)						6
+La Chausse	La Chausse, Michel-Ange de (1660-1724)						6
+Della Valle	Della Valle, Cesare (1776-1860) 						6
+Cornutus	Cornutus, Lucius Annaeus (0020?-0065)						6
+Chiabrera	Chiabrera, Gabriello (1552-1638)						6
+Zuccari	Zuccari, Taddeo (1529-1566)						5
+Scoliaste de Pindare	Scoliaste de Pindare						5
+Palaephatus	Palaephatus (03..?-03..? av. J.-C.)						5
+Isidore de Séville	Isidore de Séville (saint ; 0560?-0636)						5
+Heyne	Heyne, Christian Gottlob (1729-1812)						5
+Hérodien	Hérodien (0165?-0255?)						5
+Eustathe de Thessalonique	Eustathe de Thessalonique (1110?-1194?)						5
+Anthologie grecque	Anthologie grecque						5
+Villarosa	Villarosa, F. S.						4
+Spanheim	Spanheim, Ezechiel (1629-1710)						4
+Polybe	Polybe (0200-0120 av. J.-C.)						4
+Pestalozza	Pestalozza, Alessandro (1807-1870)						4
+Leoni	Leoni, Nicola						4
+Jamblique	Jamblique (0250?-0330?)						4
+Hésychius de Jérusalem	Hésychius de Jérusalem (03..?-0451?)						4
+Guerrazzi	Guerrazzi, Francesco Domenico (1804-1873)						4
+Graevius	Graevius, Johann Georg (1632-1703)						4
+Diogène Laërce	Diogène Laërce (02..-02..)						4
+Cazotte	Cazotte, Jacques (1719-1792)						4
+Cantù	Cantù, Cesare (1804-1895)						4
+Alessandri	Alessandri, Alessandro (1461-1523)						4
+Vargas Macciucca	Vargas Macciucca, Francesco (1699-1785)						3
+Toriglioni	Toriglioni, Camillo (17..?-18..?)						3
+Spartianus	Spartianus, Aelius (03..?-03..?)						3
+Sannazaro	Sannazaro, Jacopo (145.-1530)						3
+Romagnosi	Romagnosi, Gian Domenico (1761-1835)						3
+Prudence	Prudence (0348-0415?)						3
+Pontano	Pontano, Giovanni (1426-1503)						3
+Manzoni	Manzoni, Alessandro (1785-1873)						3
+Lyell	Lyell, Charles (1797-1875 ; Sir)						3
+La Rue	La Rue, Charles de (1643-1725)						3
+Jérôme	Jérôme (saint ; 0345?-0420)						3
+Hutton	Hutton, James (1726-1797)						3
+Guy de Pise	Guy de Pise (12..-13..)						3
+Gruter	Gruter, Janus (1560-1627)						3
+Gioberti	Gioberti, Vincenzo (1801-1852)						3
+Dempster	Dempster, Thomas (1579-1625)						3
+Copernic	Copernic, Nicolas (1473-1543)						3
+Columelle	Columelle (00..?-00..?)						3
+Censorinus grammaticus	Censorinus grammaticus (02..-02..)						3
+Caton d'Utique	Caton d'Utique (0095-0046 av. J.-C.)						3
+Capaccio	Capaccio, Giulio Cesare (1552-1634)						3
+Boupalos	Boupalos (peintre ; 05..?-05..? av. J.-C.)						3
+Aristide	Aristide, Aelius (0117?-0189?)						3
+Aratus	Aratus (0315?-0240? av. J.-C.)						3
+Alcamène	Alcamène (04..-04..? av. J.-C.)						3
+Accademia della Crusca	Accademia della Crusca (Florence, Italie)						3
+Zozime	Zozime (04..-04.. ; historien)						2
+Volta	Volta, Alessandro (1745-1827)						2
+Varchi	Varchi, Benedetto (1503-1565)						2
+Timée	Timée (0356?-0260? av. J.-C.)						2
+Thalès de Milet	Thalès de Milet (0625?-0547? av. J.-C.)						2
+Testi	Testi, Fulvio (1593-1646)						2
+Spon	Spon, Jacob (1647-1685)						2
+Sidoine Apollinaire	Sidoine Apollinaire (saint ; 0431?-0487?)						2
+Sextus Empiricus	Sextus Empiricus (0150?-0210?)						2
+Scoliaste d'Euripide	Scoliaste d'Euripide						2
+Scoliaste de Théocrite	Scoliaste de Théocrite						2
+Scoliaste de Stace	Scoliaste de Stace						2
+Salvini	Salvini, Salvino (1668-1751)						2
+Probus	Probus, Marcus Valerius (0050-0099)						2
+Pignotti	Pignotti, Lorenzo (1739-1812)						2
+Photius Ier	Photius Ier (patriarche de Constantinople ; 082.?-0892?)						2
+Philon d'Alexandrie	Philon d'Alexandrie (0030? av. J.-C.-0040?)						2
+Petit-Radel	Petit-Radel, Louis-Charles François (1756-1836)						2
+Parthénios de Nicée	Parthénios de Nicée (00.. av. J.-C.-00..)						2
+Oppien de Syrie	Oppien de Syrie (02..-02..)						2
+Olbers	Olbers, Wilhelm (1758-1840)						2
+Nicomaque	Nicomaque (03..-03.. av. J.-C.)						2
+Müller	Müller, Karl Otfried (1797-1840)						2
+Moschos de Syracuse	Moschos de Syracuse (01..-01.. av. J.-C.)						2
+Montfaucon	Montfaucon, Bernard de (1655-1741)						2
+Montanelli	Montanelli, Giuseppe (1813-1862)						2
+Melanthius	Melanthius						2
+Mazzocchi	Mazzocchi, Alessio Simmaco (1684-1771)						2
+Martini	Martini, Antonio (1720-1809)						2
+Manuzzi	Manuzzi, Giuseppe (1800-1876)						2
+Magalotti	Magalotti, Lorenzo (1637-1712)						2
+Leopardi	Leopardi, Giacomo (1798-1837)						2
+Leclerc	Leclerc, Daniel (1652-1728 ; médecin)						2
+Johannes de Sacro Bosco	Johannes de Sacro Bosco (11..-1256?)						2
+Isée	Isée (0420?-0350? av. J.-C.)						2
+Herschel	Herschel, William (1738-1822)						2
+Gualtieri	Gualtieri, Luigi (1827-1901)						2
+Gori	Gori, Antonio Francesco (1691-1757)						2
+Goguet	Goguet, Antoine-Yves (1716-1758)						2
+Galvani	Galvani, Luigi (1737-1798)						2
+Galilei	Galilei, Galileo (1564-1642)						2
+Forteguerri	Forteguerri, Niccolò (1674-1735)						2
+Fanfani	Fanfani, Pietro (1815-1879)						2
+Étienne de Byzance	Étienne de Byzance (05..-05..)						2
+Érasme	Érasme (1469-1536)						2
+Dupuis	Dupuis, Charles-François (1742-1809)						2
+Dosithée	Dosithée (00..?-00..?)						2
+Dioscoride	Dioscoride (004.-009.)						2
+Diogène le Cynique	Diogène le Cynique (0404?-0323? av. J.-C.)						2
+Diodati	Diodati, Jean (1576-1649)						2
+Digeste	Digeste						2
+Cornificius	Cornificius (0080?-0040? av. J.-C.)						2
+Code Justinien	Code Justinien						2
+Charès de Lindos	Charès de Lindos (03..-03.. av. J.-C.)						2
+Celse	Celse (0029 av. J.-C. -0037)						2
+Cecco d'Ascoli	Cecco d'Ascoli (1269-1327)						2
+Cecchi	Cecchi, Giovan Maria (1518-1587)						2
+Carrer	Carrer, Luigi (1801-1850)						2
+Calvert	Calvert, Frank (1828-1908)						2
+Böckh	Böckh, August (1785-1867)						2
+Baldi	Baldi, Bernardino (1553-1610)						2
+Bagnoli	Bagnoli, Pietro (1767-1847)						2
+Athénodore de Rhodes	Athénodore de Rhodes (00..-00..)						2
+Apollodore de Cyrène	Apollodore de Cyrène						2
+Antipater de Tarse	Antipater de Tarse (01..-01.. av. J.-C.)						2
+Alamanni	Alamanni, Luigi (1495-1556)						2
+Agoracrite	Agoracrite (04..?-04..? av. J.-C.)						2
+Agésandre de Rhodes	Agésandre de Rhodes (00..-00..)						2
+Adriani	Adriani, Marcello (1562-1604)						2
+Achée d'Érétrie	Achée d'Érétrie (0484-04..? av. J.-C.)						2
+Zanella	Zanella, Giacomo (1820-1888)						1
+Zandonella	Zandonella, Bartolomeo						1
+Vivenzio	Vivenzio, Pietro (1754-1835)						1
+Vetrani	Vetrani, Antonio (17..-17..)						1
+Verri	Verri, Alessandro (1741-1816)						1
+Venance Fortunat	Venance Fortunat (saint ; 0530-0601)						1
+Végèce	Végèce (0383?-0450?)						1
+Vaucanson	Vaucanson, Jacques (1709-1782)						1
+Turnèbe	Turnèbe, Adrien (1512-1565)						1
+Tomasini	Tomasini, Giacomo Filippo (1595-1655)						1
+Toccagni	Toccagni, Luigi (1788-1853)						1
+Titien	Titien (1489?-1576)						1
+Timagoras de Géla	Timagoras de Géla (03..-02.. av. J.-C.)						1
+Tietz	Tietz, Johann Daniel (1729-1796)						1
+Théopompe	Théopompe (0378?-0323? av. J.-C.)						1
+Symmaque	Symmaque (0340-0405?)						1
+Strafforello	Strafforello, Gustavo (1820-....)						1
+Sponde	Sponde, Jean de (1557-1595)						1
+Speusippe	Speusippe (0393-0339 av. J.-C.)						1
+Spagnoli	Spagnoli, Battista (1447-1516)						1
+Sostrate de Cnide	Sostrate de Cnide (03..?-02..? av. J.-C.)						1
+Sodoma	Sodoma, Il (1477-1549)						1
+Società	Società, La (journal)						1
+Sigonio	Sigonio, Carlo (1524?-1584)						1
+Shaw	Shaw, Thomas (1694-1751)						1
+Secchi	Secchi, Angelo (1818-1878)						1
+Scoliaste d'Hésiode	Scoliaste d'Hésiode						1
+Scoliaste d'Eschyle	Scoliaste d'Eschyle						1
+Scoliaste d'Apollodore	Scoliaste d'Apollodore						1
+Schrevelius	Schrevelius, Cornelius (1615-1664)						1
+Schola Medica Salernitana	Schola Medica Salernitana						1
+Scalvini	Scalvini, Giovita (1791-1843)						1
+Sanfelice	Sanfelice, Antonio (1515-1570)						1
+Sainte-Croix	Sainte-Croix, Guillaume de (1746-1809)						1
+Rubbi	Rubbi, Andrea (1738-1817)						1
+Rosmini Serbati	Rosmini Serbati, Antonio (1797-1855)						1
+Rolli	Rolli, Paolo (1687-1765)						1
+Ripa	Ripa, Cesare (1560-1645)						1
+Ricci	Ricci, Angelo Maria (1776-1850)						1
+Reinesius	Reinesius, Thomas (1587-1667)						1
+Reale Istituto Lombardo di Scienze e Lettere	Reale Istituto Lombardo di Scienze e Lettere						1
+Rabaut Saint-Étienne	Rabaut Saint-Étienne, Jean Paul (1743-1793)						1
+Quaranta	Quaranta, Bernardo (1796-1867)						1
+Pyrrhon	Pyrrhon (0365?-0275? av. J.-C.)						1
+Pseudo-Manethon	Pseudo-Manethon						1
+Procope de Césarée	Procope de Césarée (051.?-055.?)						1
+Priscien	Priscien (04..-05..)						1
+Prati	Prati, Giovanni (1814-1884)						1
+Pozzoli	Pozzoli, Giovanni						1
+Pomey	Pomey, François-Antoine (1618-1673)						1
+Piroli	Piroli, Tommaso (1750-1824)						1
+Pignoria	Pignoria, Lorenzo (1571-1631)						1
+Pigault-Lebrun	Pigault-Lebrun (1753-1835)						1
+Piazzi	Piazzi, Giuseppe (1746-1826)						1
+Phlégon de Tralles	Phlégon de Tralles (01..?-01..?)						1
+Philostephanus de Cyrene	Philostephanus de Cyrene (0299?-0200? av. J.-C.)						1
+Philochorus	Philochorus (03..-03.. av. J.-C.)						1
+Peruzzi	Peruzzi, Baldassare (1481-1536)						1
+Pellegrin	Pellegrin, Simon-Joseph (1663-1745)						1
+Parrasio	Parrasio, Aulo Giano (1470-1522)						1
+Papi	Papi, Lazzaro (1763-1834)						1
+Orsini	Orsini, Fulvio (1529-1600)						1
+Orlandini	Orlandini, F. S. (1806-1865)						1
+Orellana	Orellana, Francisco de (1511-1546)						1
+Nicanor	Nicanor						1
+Myron de Priène	Myron de Priène						1
+Muratori	Muratori, Lodovico Antonio (1672-1750)						1
+Müncker	Müncker, Thomas (1652-1681)						1
+Mozart	Mozart, Wolfgang Amadeus (1756-1791)						1
+Morghen	Morghen, Raffaello (1758-1833)						1
+Moquin-Tandon	Moquin-Tandon, Alfred (1804-1863) 						1
+Moïse	Moïse						1
+Mnaseas de Patara	Mnaseas de Patara (03..-02.. av. J.-C.)						1
+Minucius Felix	Minucius Felix, Marcus (02..?-0250?)						1
+Michelet	Michelet, Jules (1798-1874)						1
+Mical	Mical, abbé (1727-1789?)						1
+Mesmer	Mesmer, Franz Anton (1734-1815)						1
+Menzini	Menzini, Benedetto (1646-1704)						1
+Ménandre de Laodicée	Ménandre de Laodicée (02..-02..)						1
+Médicis	Médicis, Laurent de (1449-1492)						1
+Mazzoldi	Mazzoldi, Angelo (1799-1864)						1
+Mascheroni	Mascheroni, Lorenzo (1750-1800)						1
+Marmocchi	Marmocchi, Francesco Costantino (1805-1858)						1
+Marino	Marino, Giambattista (1569-1625)						1
+Marenco	Marenco, Leopoldo (1831-1899)						1
+Marchetti	Marchetti, Alessandro (1633-1714)						1
+Manzolli	Manzolli, Pier Angelo (1500?-1543)						1
+Malte-Brun	Malte-Brun, Conrad (1775-1826)						1
+Malesherbes	Malesherbes, Chrétien-Guillaume de Lamoignon de (1721-1794)						1
+Luther	Luther, Martin (1483-1546)						1
+Lucilius	Lucilius, Caius (0180?-0102? av. J.-C.)						1
+Lori	Lori, Andrea (1520?-1579)						1
+Lorenzi	Lorenzi, Giuseppe (1583-1647)						1
+Loi des Douze Tables	Loi des Douze Tables						1
+Lévy	Lévy, Michel (1809-1872)						1
+Le Verrier	Le Verrier, Urbain-Jean-Joseph (1811-1877)						1
+Lavaur	Lavaur, Guillaume de (1653-1730)						1
+Lasus	Lasus (0548-... av. J.-C.)						1
+Laplace	Laplace, Pierre-Simon de (1749-1827)						1
+Lampride	Lampride (03..-03..)						1
+Lami	Lami, Giovanni (1697-1770?)						1
+Lamberti	Lamberti, Luigi (1756-1813) 						1
+Labus	Labus, Giovanni (1775-1853)						1
+La Mennais	La Mennais, Félicité de (1782-1854)						1
+La Lande	La Lande, Jérôme de (1732-1807)						1
+Krebs	Krebs, Johann Tobias (1718-1782)						1
+Kirchner	Kirchner, Ambrosius (150.?-1560?)						1
+Kipping	Kipping, Heinrich (1623-1678)						1
+Kepler	Kepler, Johannes (1571-1630)						1
+Kempelen	Kempelen, Wolfgang von (1734-1804)						1
+Jozzelli	Jozzelli, Jacopo (18..?-1853)						1
+Jouvancy	Jouvancy, Joseph de (1643-1719)						1
+Jean de Lydie	Jean de Lydie (0490-0565?)						1
+Jablonski	Jablonski, Paul Ernst (1693-1757)						1
+Isocrate	Isocrate (0435?-0338 av. J.-C.)						1
+Inscription grecque	Inscription grecque						1
+Ictinos	Ictinos (04..?-04..? av. J.-C.)						1
+Hume	Hume, David (1711-1776)						1
+Hipponax	Hipponax (05..?-05..? av. J.-C.)						1
+Hind	Hind, John Russell (1823-1895)						1
+Hencke	Hencke, Georg Johann (1681-1720)						1
+Hardouin	Hardouin, Jean (1646-1729)						1
+Harding	Harding, Karl Ludwig (1765-1834)						1
+Guys	Guys, Pierre-Augustin (1721-1799)						1
+Guidi	Guidi, Carlo Alessandro (1650-1712)						1
+Guerchin	Guerchin, Le (1591-1666)						1
+Guarini	Guarini, Battista (1538-1612)						1
+Guadagnoli	Guadagnoli, Antonio (1798-1858)						1
+Giordani	Giordani, Gaetano (17..-18..)						1
+Germanicus	Germanicus, Caesar (0015 av. J.-C.-0019)						1
+Genovesi	Genovesi, Antonio (1712-1769)						1
+Ganot	Ganot, Adolphe (1804-1887)						1
+Galien	Galien, Claude (0131?-0201?)						1
+Furetière	Furetière, Antoine (1619-1688)						1
+Foy-Vaillant	Foy-Vaillant, Jean (1632-1706)						1
+Forcellini	Forcellini, Egidio (1688-1768)						1
+Fontana	Fontana, Antonio (1784-1865)						1
+Florus	Florus, Lucius Annaeus (0001-00..)						1
+Firmicus Maternus	Firmicus Maternus, Julius (02..-03..)						1
+Firenzuola	Firenzuola, Agnolo (1493-1543)						1
+Fiacchi	Fiacchi, Luigi (1754-1825)						1
+Festus	Festus, Pescennius						1
+Ferrario	Ferrario, Giulio (1767-1847)						1
+Fedi	Fedi, Pio (1816-1892)						1
+Fazello	Fazello, Tommaso (1498-1570)						1
+Favorinus d'Arles	Favorinus d'Arles (0080?-0150?)						1
+Ézéchiel	Ézéchiel (prophète biblique)						1
+Eupolis	Eupolis (0446?-0411 av. J.-C.)						1
+Eumenius	Eumenius (0260?-0311?)						1
+Eudoxe de Cnide	Eudoxe de Cnide (0406?-0355? av. J.-C.)						1
+Euclide de Mégare	Euclide de Mégare (0450?-0380? av. J.-C.)						1
+Eschenbach	Eschenbach, Andreas Christian (1663-1722)						1
+Épiphane	Épiphane (saint ; 0315?-0403)						1
+Ephoros de Cumes	Ephoros de Cumes (0405?-0330? av. J.-C.)						1
+Ébion	Ébion						1
+Dinocrate de Rhodes	Dinocrate de Rhodes (03..?-03..? av. J.-C.)						1
+Dictys de Crète	Dictys de Crète (auteur prétendu)						1
+Démétrios de Phalère	Démétrios de Phalère (0350?-0283? av. J.-C.)						1
+Della Torre	Della Torre, Filippo (1657-1717)						1
+Delandine	Delandine, Antoine-François (1756-1820)						1
+De' Venuti	De' Venuti, Filippo (1709-1768)						1
+Daniello	Daniello, Bernardino (1500?-1565)						1
+Cyrille	Cyrille (0376?-0444 ; saint)						1
+Crespin	Crespin, Daniel (1641-1716)						1
+Costa	Costa, Paolo (1771-1836)						1
+Corpus juris civilis	Corpus juris civilis						1
+Cornelius Nepos	Cornelius Nepos (0099?-0024? av. J.-C.)						1
+Conon	Conon (0036 av. J.-C.-0017)						1
+Condorcet	Condorcet, Jean-Antoine-Nicolas de Caritat (1743-1794 ; marquis de)						1
+Codice civile del Regno d'Italia	Codice civile del Regno d'Italia						1
+Code théodosien	Code théodosien						1
+Cocchi	Cocchi, Igino (1827-1913)						1
+Clüver	Clüver, Philipp (1580-1622)						1
+Clinton	Clinton, Henry Fines (1781-1852)						1
+Cléanthe	Cléanthe (0331?-0232 av. J.-C.)						1
+Chrysippe	Chrysippe (0280-0200? av. J.-C.)						1
+Choirilos de Samos	Choirilos de Samos (0467-0402 av. J.-C.)						1
+Chateaubriand	Chateaubriand, François René de (1768-1848)						1
+Cérinthe	Cérinthe (00..?-00..?)						1
+Céphisodote le Jeune	Céphisodote le Jeune (03..-02.. av. J.-C.)						1
+Centofanti	Centofanti, Silvestro (1794-1880)						1
+Cébès de Thèbes	Cébès de Thèbes						1
+Caton l'Ancien	Caton l'Ancien (0234-0149 av. J.-C.)						1
+Cassiodore	Cassiodore (0490?-0580?)						1
+Casaubon	Casaubon, Isaac (1559-1614)						1
+Carpocrate	Carpocrate (01..?-01..? av. J.-C.)						1
+Carcano	Carcano, Giulio (1812-1884)						1
+Capitolinus	Capitolinus, Julius (02..?-03..?)						1
+Camposeo	Camposeo, Stefano						1
+Cameron	Cameron, Jean (1579-1625)						1
+Cadmos de Milet	Cadmos de Milet (05..-05.. av. J-C.)						1
+Burmann	Burmann, Pieter (1668-1741)						1
+Budé	Budé, Guillaume (1468-1540)						1
+Brunck	Brunck, Richard-François-Philippe (1729-1803)						1
+Boucher	Boucher, François (1703-1770)						1
+Botticelli	Botticelli (1444-1510)						1
+Borghini	Borghini, Maria Selvaggia (1656-1731)						1
+Boissard	Boissard, Jean-Jacques (1528-1602)						1
+Bias de Priène	Bias de Priène (0570?-05..? av. J.-C.)						1
+Bianchini	Bianchini, Francesco (1662-1729)						1
+Berzelius	Berzelius, Jöns Jacob (1779-1848)						1
+Bertoli	Bertoli, Giandomenico (1676-1763)						1
+Beroaldo	Beroaldo, Filippo (1453-1505)						1
+Berni	Berni, Francesco (1497-1535)						1
+Benvenuti	Benvenuti, Pietro (1769-1844)						1
+Bauhuis	Bauhuis, Bernard (1575-1629)						1
+Bartolini	Bartolini, Lorenzo (1777-1850)						1
+Barthélemy	Barthélemy, Jean-Jacques (1716-1795)						1
+Bacci	Bacci, Andrea (1524-1600)						1
+Babbage	Babbage, Charles (1791-1871)						1
+Aubry de Trois-Fontaines	Aubry de Trois-Fontaines (12..-12..)						1
+Athénion	Athénion (02..?-02..? av. J.-C.)						1
+Athénagore	Athénagore (0133?-0190?)						1
+Athanase	Athanase (saint ; 0295?-0373)						1
+Arrien	Arrien (0095?-0175?)						1
+Aristarque de Samos	Aristarque de Samos (0320?-0250? av. J.-C.)						1
+Arici	Arici, Cesare (1782-1836)						1
+Archytas de Tarente	Archytas de Tarente (0430?-0350? av. J.-C.)						1
+Arago	Arago, François (1786-1853)						1
+Appien	Appien (0095?-0160?)						1
+Antiphane	Antiphane (408?-334? av. J.-C.)						1
+Anthologie latine	Anthologie latine						1
+Andriscus	Andriscus						1
+Ampelius	Ampelius (02..?-02..?)						1
+Ammien Marcellin	Ammien Marcellin (0330?-0395?)						1
+Ambroise	Ambroise (saint ; 0340?-0397)						1
+Alexis	Alexis (0375?-275? av. J.-C.)						1
+Alcméon de Crotone	Alcméon de Crotone (0570?-0500? av. J.-C.)						1
+Albert le Grand	Albert le Grand (saint ; 1200?-1280)						1
+Agathosthène	Agathosthène						1
+Abati Olivieri Giordani	Abati Olivieri Giordani, Annibale degli (1708-1789)						1
+Abaris	Abaris						1
