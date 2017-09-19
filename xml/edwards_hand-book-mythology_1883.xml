@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T16:00:51+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Edwards (1883)">
   <teiHeader>
     <fileDesc>
@@ -210,7 +210,7 @@
         <p>On the south side of the earth, close to the stream of Ocean, dwelt a people happy and virtuous as the Hyperboreans. They were named the Æthiopians. The gods favored them so highly, that they were wont to leave at times their Olympian abodes, and go to share their sacrifices and banquets.</p>
         <p>On the western margin of the earth, by the stream of Ocean, lay a happy place named the Elysian Plain, whither mortals favored by the gods were transported, without suffering death, to enjoy an immortality of bliss. This happy region was also called the “Fortunate Fields,” and the “Isles of the Blessed.”</p>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_014.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_014.png"/>
         </figure>
         <p>We thus see that the Greeks of the early ages knew little of any people except those to the east and south of their own country, or near the coast of the Mediterranean. Their imagination peopled the western portion of this sea with giants, monsters, and enchantresses; while they placed around the disk of the earth nations enjoying the peculiar favor of the gods, and blessed with happiness and longevity.</p>
         <p>The Dawn, the Sun, and the Moon were supposed to rise out of the Ocean, and to drive through the air, giving light to gods and men. The stars also, except those forming Charles’s Wain, or Bear, rose out of and sunk into the stream of Ocean. There the sun-god embarked in a winged boat, which conveyed him round by the northern part of the earth, back to his place of rising in the east.
@@ -273,7 +273,7 @@
       <div>
         <head>Uranus* (The Heavens)</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_020.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_020.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Uranus*; <hi rend="i">Roman</hi>, Cœlum*; <hi rend="i">Hindu</hi>, Varuna*.</p>
         <p>The sun, moon, and stars were emblems of Uranus or Cœlum. He is represented clothed with a starred mantle, his hands uplifted, pointing to the moon and stars.</p>
@@ -288,7 +288,7 @@
       <div>
         <head>Nyx* (The Night).</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_022.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_022.png"/>
         </figure>
         <p>Nyx was the daughter of Chaos, and sister of Erebus, to whom she bore Hemera and Æther. She is said then to have produced without a sire Mœræ* (Parcæ*, or Fates), Thanatos* (Death), Hypnos* (Sleep), Oneiros* (Dreams), Momus (Laughter), Cocytos* (Woe), Nemesis* (Vengeance), Eris* (Strife), the Hesperides*, and several other deities.</p>
         <p>It is a principle of all cosmogony that darkness preceded light, which sprung from it; a truth here expressed by making Night the parent of Day and Æther.</p>
@@ -332,7 +332,7 @@
       <div>
         <head>Eos* (The Dawn).</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_026.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_026.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Eos*; <hi rend="i">Roman</hi>, Aurora*; <hi rend="i">Hindu</hi>, Sarunya*.</p>
         <p>Eos, the goddess of the dawn, was daughter of Hyperion and Thea, and a sister of Helios and Selene. She was first married to Astræus, by whom she became the mother of the winds — Boreas* (north), Zephyrus* (west), Eurus* (east), and Notus (south). This is a mythological way of intimating the fact that the wind generally rises at dawn. She was also mother of Eosphorus* (dawn-bearer) and of the Stars of Heaven. She afterwards became united to Tithonus*, son of Laomedon*, king of Troy. Eos obtained for him from Zeus* the gift of immortality, forgetting, however, to add to it that of eternal youth. When Tithonus grew old, and lost the beauty which had won her admiration, Eos became disgusted with his infirmities, and at last shut him up in a chamber, where soon little else was left of him but his voice. Eos, pitying his unhappy condition, exerted her divine power, and changed him into a grasshopper.</p>
@@ -359,7 +359,7 @@
       <div>
         <head>Hecate*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_029.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_029.png"/>
         </figure>
         <p>Hecate was originally a moon-goddess worshiped by the Thracians*. She was the daughter of Perses* and Asteria, and her sway extended over earth, heaven, and the lower regions, for which reason she was invoked as the “triple goddess.” Hecate represented the moon in her invisible phases, and it was thought that when she was absent from the earth she was in the lower world.</p>
         <p>As operating in the heavens, Hecate is identified with Selene; in her influence on the earth, with Artemis* (Diana*), and as having power in the lower world, with Persephone* (Proserpine*). She was believed to wander by night over the earth, seen only by the dogs, whose barking announced her approach.</p>
@@ -403,7 +403,7 @@
       <div>
         <head>Rhea*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_034.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_034.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Rhea; <hi rend="i">Roman</hi>, Ops*; <hi rend="i">Phrygian</hi>, Cybele*.</p>
         <p>Rhea, the wife of Chronos and mother of Zeus and the other great gods of Olympus, like Gæa, personified the earth, and was regarded as the Great Mother, and unceasing producer of all plant-life. She was also believed to exercise unbounded sway over the animal creation, more especially over the lion.</p>
@@ -416,7 +416,7 @@
       <div>
         <head>Zeus*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_036.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_036.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Zeus*; <hi rend="i">Roman</hi>, Jove <hi rend="i">or</hi> Jupiter; <hi rend="i">Hindu</hi>, Dyaus.</p>
         <p>Zeus, the son of Chronos and Rhea, when born, was concealed by his mother in a cave of Mount Ida, in Crete. A goat called Amalthea* provided him with milk; nymphs called Melissæ fed him with honey, and eagles and doves brought him nectar and ambrosia. The Curetes, or priests of Rhea, by beating their shields together, kept up a constant noise, which drowned the cries of the child and frightened away all intruders.</p>
@@ -479,7 +479,7 @@
       <div>
         <head>Hera*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_046.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_046.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Hera*; <hi rend="i">Roman</hi>, Juno*; <hi rend="i">Egyptian</hi>, Sati*.</p>
         <p>Hera, daughter of Chronos and Rhea, was believed to have been educated by Oceanus and Tethys. She seems, originally, to have personified the air (the lower aërial regions), but among the Greeks this natural signification seems to have quickly disappeared, and she was chiefly honored as the guardian of the marriage-tie.</p>
@@ -509,7 +509,7 @@
       <div>
         <head>Poseidon*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_049.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_049.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Poseidon*; <hi rend="i">Roman</hi>, Neptune; <hi rend="i">Hindu</hi>, Varuna*.</p>
         <p>Poseidon was a son of Chronos and Rhea. He was god of the sea, as having under his control the forces that affect its movements rather than as himself inhabiting its waters. Nereus* was believed to live in the deep waters, and he stood in the same relation to Poseidon which Helios, who was believed to dwell in the sun, bore to Phœbus Apollo, the lord of light.</p>
@@ -535,7 +535,7 @@
       <div>
         <head>Aïdes*, or Pluto</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_053.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_053.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Aïdes*, <hi rend="i">or</hi> Pluto; <hi rend="i">Roman</hi>, Orcus*, <hi rend="i">or</hi> Dis; <hi rend="i">Egyptian</hi>, Osiris*, <hi rend="i">or</hi> Serapis*; <hi rend="i">Hindu</hi>, Yama*.</p>
         <p>Aides (Hades) was a son of Chronos and Rhea. The name Aides signifies dark, gloomy, melancholy, and invisible. The term Hades at a later time denoted the unseen world beneath the earth. When it was said that the dead had gone to Hades, all that was literally meant was that they had gone to the unseen place.</p>
@@ -575,7 +575,7 @@
       <div>
         <head>[Sisyphus*. Ixion*. Tantalus*.]</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_058.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_058.png"/>
         </figure>
         <p>The punishments of great criminals in the infernal regions were a fruitful theme for the imagination of the poets. The most celebrated criminals were Tityus*, Tantalus*, Sisyphus*, Phlegyas*, Ixion*, and the Danaides*. The punishment of Tityus, who had offered violence to Leto*, consisted in having an enormous vulture prey without ceasing upon his liver, Tantalus had been deemed worthy to hold intercourse with the gods, until he put their omniscience to the test by setting before them the flesh of his son Pelops*. This crime he was condemned to expiate by the torments of continual hunger and thirst. Above his head were suspended the most beautiful fruits, but when he attempted to snatch them, a gust of wind blew them beyond his reach. At his feet gushed a fountain of purest water, but when he tried to quench his thirst, it suddenly vanished into the ground. Sisyphus, King of Corinth, was condemned, in consequence of his numerous crimes, to roll a huge stone up a high mountain, which, on reaching the top, always rolls down again to the plain.</p>
         <quote>
@@ -634,7 +634,7 @@
       <div>
         <head>Demeter*</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_063.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_063.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Demeter*; <hi rend="i">Roman</hi>, Ceres*.</p>
         <p>Demeter (from Ge-meter, earth-mother) was a daughter of Chronos and Rhea. She was the goddess of agriculture, and represented that portion of Gæa (the whole solid earth) which we call the earth’s crust, and which produces all vegetation. It is necessary to keep clearly in view the distinctive difference between the three great earth-goddesses Gæa, Rhea, and Demeter. Gæa represents the earth as a whole, with its mighty subterranean forces; Rhea is that productive power which causes vegetation to spring forth, thus sustaining men and animals; Demeter, by presiding over agriculture, directs and utilizes Rhea’s productive powers. The thriving of the crops was ascribed to her influence. She was regarded as the patroness of all those arts which are connected with agriculture, by means of which men were rescued from the lower grades of hunters and shepherds, and brought into subjection to law and morality. She thus becomes that
@@ -672,7 +672,7 @@
       <div>
         <head>Persephone*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_068.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_068.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Persephone*, <hi rend="i">or</hi> Cora*; <hi rend="i">Roman</hi>, Proserpina*.</p>
         <p>Persephone, the daughter of Zeus and Demeter, was queen of the lower world. The Athenians preferred to call her by her mystic name of Cora. She embodied two distinct conceptions. On the one hand, she appears as the wife of the dark god of the lower world, like him, a gloomy, awe-inspiring deity, who pitilessly drags down all that lives into the hidden depths of the earth, whence the grave is called “the chamber of Persephone.” On the other hand, she appears as Cora, the lovely daughter of Demeter, a personification of that force of nature which yearly causes the most luxuriant vegetation to spring up, only, however, to die again in the autumn.</p>
@@ -686,7 +686,7 @@
       <div>
         <head>Ares*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_070.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_070.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Ares*; <hi rend="i">Roman</hi>, Mars.</p>
         <quote>
@@ -721,7 +721,7 @@
       <div>
         <head>Pallas Athene*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_073.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_073.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Pallas Athene*; <hi rend="i">Roman</hi>, Minerva; <hi rend="i">Hindu</hi>, Ushas; <hi rend="i">Egyptian</hi>, Neith*.</p>
         <p>Athene was said to have been produced from the head of Zeus, which Hephæstus had been ordered to cleave open. The goddess of war, in full armor, sprung forth, while a great commotion both on sea and land announced the event to the world. She is also the goddess of wisdom, and as such is the protectress of states; all that their welfare requires in peace or war proceeds from her. Thus she appears as goddess of peace as well as of war. It was she who first taught mankind to manage the horse, to build ships and chariots, and to use the rake and the plough. By later writers she is represented as the patroness of every branch of science, art, and manufacture.</p>
@@ -759,7 +759,7 @@
       <div>
         <head>Hephæstus*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_078.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_078.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Hephæstus*; <hi rend="i">Roman</hi>, Vulcan, <hi rend="i">or</hi> Mulciber*; <hi rend="i">Egyptian</hi>, Pthah.</p>
         <p>Hephæstus, the god of fire, was a son of Zeus and Hera. According to one account, he was born lame, and his mother cast him from heaven into the sea. The Oceanides Eurynome* and Thetis* tended him for nine years in a deep grotto of the sea, in return for which he made them many ornaments. Another story is that on the occasion of a quarrel between Zeus and Hera, Hephæstus assisted his mother, whereupon the angry god of heaven seized him by the foot and hurled him from Olympus. He fell for a whole day, and alighted at sundown on the isle of Lemnos. The inhabitants received him in their arms, but his leg was broken by the fall, and he remained lame in one foot. Grateful for the kindness of the Lemnians, he henceforth abode in their island.</p>
@@ -787,7 +787,7 @@
       <div>
         <head>Aphrodite*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_081.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_081.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Aphrodite*; <hi rend="i">Roman</hi>, Venus; <hi rend="i">Assyrian</hi>, Ishtar*; <hi rend="i">Babylonian</hi>, Mylitta*; <hi rend="i">Egyptian</hi>, Athor*; <hi rend="i">Phœnician</hi>, Astarte*; <hi rend="i">Jewish</hi>, Ashtoreth*.</p>
         <p>In the <title>Iliad</title>, Aphrodite is represented as the daughter of Zeus and Dione, the goddess of moisture. This account was replaced by another, that she was born of the foam of the sea, and first touched land on the island of Cyprus, which was henceforth sacred to her. She was probably a personification of the creative and generative forces of nature. Among the Greeks she was worshiped as the goddess of beauty and love.</p>
@@ -845,7 +845,7 @@
       <div>
         <head>Eros*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_085.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_085.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Eros*; <hi rend="i">Roman</hi>, Cupid*, <hi rend="i">or</hi> Amor*.</p>
         <p>Eros is apparently a personification of the principle of attraction, on which the coherence of the physical world depends. Eros, the divine spirit of Love, was said to have sprung forth from Chaos, and by his beneficent power to have reduced to harmony the shapeless elements. This beautiful conception gradually faded away, and he was replaced by the mischief-loving little god of love, the son of Ares and Aphrodite. His characteristic weapon is a golden bow, with which he shoots forth his arrows from secret lurking-places. Zeus himself is represented as unable to withstand his influence, an intimation that love is one of the most terrible and mighty forces of nature.</p>
@@ -878,7 +878,7 @@
       <div>
         <head>Phœbus Apollo*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_089.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_089.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Phœbus Apollo*; <hi rend="i">Roman</hi>, Apollo; <hi rend="i">Phœnician</hi>, Reshiph-Mical*; <hi rend="i">Egyptian</hi>, Horus*.</p>
         <p>Apollo was the son of Zeus and Leto. The island of Delos was his birthplace. He was the god of light, prophecy, archery, music, poetry, and of the arts and sciences.</p>
@@ -895,7 +895,7 @@
         <bibl>
             <author key="Cox G. W."><hi rend="i">Cox</hi></author>.</bibl></quote>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_091.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_091.png"/>
         </figure>
         <p><hi rend="sc">The</hi> renowned singer Orpheus* was the son of Apollo and the muse Calliope*. He was a poet, a teacher of the Orphic mysteries, and great musician. The trees and rocks moved to the tones of his lyre. He married Eurydice*, and their life was full of happiness. But Eurydice, while fleeing from Aristæus*, was bitten in the foot by a venomous snake, and died of the wound. Her disconsolate husband determined to brave the horrors of the lower world to entreat Aides to restore her to him. He struck the chords of his lyre, and drew forth tones which softened the heart of the stern monarch of Erebus, and Eurydice was restored on condition that he should not look back upon her until they reached the upper world. They journeyed on through the gloomy regions of Erebus, and were about to pass the extreme limits, when Orpheus, to convince himself that his beloved wife was really behind him, looked back. The glance was fatal; she was caught back, and vanished from his sight forever. He shunned all society, music was his sole companion. At last he was torn to pieces by some Thracian women who were performing the rites of Dionysus (Bacchus). His head was thrown into the river Hebrus, and, as it floated down the stream, the lips continued to murmur the name of Eurydice.</p>
         <quote>
@@ -907,7 +907,7 @@
         <p>Apollo afterwards married Coronis*. One day, his favorite bird, the raven, flew to him with the intelligence that his wife had transferred her affections to another. Apollo instantly destroyed her with one of his death-bringing darts. He repented when too late. He punished the raven for its garrulity by changing its color from white to black.<note place="bottom">Read
           <author key="Saxe">Saxe</author>’s “<title>How the Raven became Black</title>.”</note></p>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_093.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_093.png"/>
         </figure>
         <p>Coronis left an infant son named Asclepius* (Æsculapius*), who was educated by the Centaur Chiron*. He became a celebrated physician, and was so skilful that he could restore the dead to life. Aides complained to Zeus, who killed Asclepius with one of his thunderbolts. Apollo was so exasperated that he killed the Cyclops who had forged it. For this offence he was banished from Olympus. Coming to earth, he for nine years served Admetus* as a shepherd, and was treated by him with the utmost kindness. By the aid of Apollo, Admetus gained the hand of Alcestis, daughter of Pelias*. The exiled god obtained from the Fates the gift of immortality for Admetus, on condition that when his last hour approached some member of his family should be willing to die in his place. When the fatal time came, Alcestis took his place. But Heracles* (Hercules), happening to arrive at the house of Admetus, engaged and overcame death, and restored Alcestis to her family.</p>
         <p>Hyacinthus* was a beautiful youth beloved by Apollo. As the god and his favorite were one day playing with the discus, it rebounded, and killed the youth. Apollo changed him into a flower, called for him the Hyacinth.</p>
@@ -926,7 +926,7 @@
       <div>
         <head>Artemis*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_096.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_096.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Artemis*; <hi rend="i">Roman</hi>, Diana*; <hi rend="i">Egyptian</hi>, Bubastis*.</p>
         <p>Artemis was worshiped by the Greeks under various appellations. Thus she is known as the Arcadian, Ephesian, and Brauronian Artemis, and also as Selene-Artemis.</p>
@@ -954,7 +954,7 @@
       <div>
         <head>Hermes*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_099.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_099.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Hermes*; <hi rend="i">Roman</hi>, Mercury*; <hi rend="i">Hindu</hi>, Sarameyas; <hi rend="i">Egyptian</hi>, Thoth* (as god of letters and wisdom), Anubis (as conductor of souls to the lower world).</p>
         <p>Hermes was the son of Zeus and Maia* (one of the daughters of Atlas). He was the god that presided over commerce, eloquence, wrestling, thieving, and everything that required skill and ingenuity. He was messenger of Zeus, and conductor of souls to the underworld; as the latter he was called Psychopompos*. He was also god of the fertilizing rain. Later poets make him the inventor of the alphabet, and of the art of interpreting languages.</p>
@@ -995,7 +995,7 @@
       <div>
         <head>Dionysus*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_102.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_102.png"/>
         </figure>
         <p><hi rend="b">Comparative Mythology.</hi> — <hi rend="i">Greek</hi>, Dionysus*; <hi rend="i">Roman</hi>, Bacchus*, <hi rend="i">or</hi> Liber*; <hi rend="i">Hindu</hi>, Schiva; <hi rend="i">Egyptian</hi>, Osiris*.</p>
         <quote>
@@ -1036,13 +1036,13 @@
       <div>
         <head>Musæ* (The Muses).</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_106.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_106.png"/>
         </figure>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_107a.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_107a.png"/>
         </figure>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_107b.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_107b.png"/>
         </figure>
         <quote>
           <p>“The parents of the nine Muses were Zeus and Mnemosyne* (Memory).
@@ -1103,7 +1103,7 @@
       <div>
         <head>Iris* (The Rainbow).</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_112.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_112.png"/>
         </figure>
         <p>Iris*, the daughter of Thaumas* (Wonder) and Electra* (Brightness), personified the rainbow, and was the messenger of Hera.</p>
         <quote>
@@ -1115,7 +1115,7 @@
       <div>
         <head>Hebe* (Juventas).</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_113.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_113.png"/>
         </figure>
         <p>Hebe* was the daughter of Zeus and Hera, and she represented the youthful bloom of nature.</p>
         <p>Hebe was cup-bearer to the gods. In consequence of having slipped while serving them, she was deprived of her office, which was then assigned to Ganymedes*.</p>
@@ -1131,7 +1131,7 @@
       <div>
         <head>Ganymedes*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_114.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_114.png"/>
         </figure>
         <p>Ganymedes* was a son of Tros*, king of Troy. He was made immortal by Zeus, and installed as cup-bearer to the gods. It was said that Zeus had observed him drawing water from a well on Mount Ida, and, struck with his wonderful beauty, had sent his eagle to transport him to Olympus.</p>
       </div>
@@ -1155,7 +1155,7 @@
       <div>
         <head>Janus*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_116.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_116.png"/>
         </figure>
         <p>Among the most important gods of the Romans was the celebrated Janus*, a deity unknown to the Greeks. In his original character, he was probably a god of the light and sun.</p>
         <p>Janus was believed to begin the new year, whose first month, January, was called for him and dedicated to him. New-Year’s day was the most important festival of this god; the houses and doors were adorned with garlands and laurel boughs. Relatives and friends exchanged presents and good wishes for the coming year. The god himself received offerings of cake, wine, and incense, and his statue was adorned with fresh laurel boughs. This offering was repeated on the first day of every month, because he was believed to open every month. In the same way Janus was believed to begin every new day, and was called Matutinus Pater*. He appears also as the door-keeper of heaven, whose gates he opened in the morning and closed in the evening. He was regarded, also, as the presiding deity over ah gates, entrances, etc., on earth. In this character he was the protecting deity of the home, for which reason little shrines were erected to him over the doors of houses.</p>
@@ -1230,7 +1230,7 @@
       <div>
         <head>Pan*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_122.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_122.png"/>
         </figure>
         <p>Pan* was the god of fertility, and the special patron of shepherds and huntsmen. He presided over all rural occupations, was chief of the Satyrs, and of all rural divinities.</p>
         <p>He was the son of Hermes and an Arcadian nymph. He had horns sprouting from his forehead, beard and feet like a goat. At sight of him his mother tied in dismay. Hermes wrapped him in a hare-skin and carried him to Olympus. The assembled gods weie much pleased with the curious little creature, and they bestowed upon him the name of Pan (all), because he had delighted them <hi rend="i">all</hi>.</p>
@@ -1360,7 +1360,7 @@
       <div>
         <head>Centaurs* and Lapithæ*.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_136.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_136.png"/>
         </figure>
         <p>Centaurs* and Lapithæ* are two mythic tribes which are always mentioned together. According to the ancient fable, the Centaurs were part man and part horse.</p>
         <p>The most renowned of the Centaurs was Chiron*. He was famous for his wisdom and his knowledge of medicine, and for being the preceptor of Jason*, Asclepius* (Æsculapius), and Achilles. He was so superior to his savage kindred that he was reported to be a son of Chronos and Philyra*, one of the Oceanides. He inhabited a cave on Mount Pelion, afterwards he removed to Malea*. Heracles accidentally wounded him with a poisoned arrow. He suffered extreme pain, and in answer to his prayer to Zeus for relief he was placed among the stars as the constellation Sagittarius*.</p>
@@ -1445,7 +1445,7 @@
       <div>
         <head>Heracles* (Hercules).</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_151.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_151.png"/>
         </figure>
         <p>Heracles*, the most renowned hero of antiquity, was the son of Zeus and Alcmena*. On the day on which he was to be born, Zeus announced to the gods that on that day would be born one of his race who should rule over all his neighbors. Hera hated Alcmena, so, hastening to earth, she caused the birth of Eurystheus*, grandson of Perseus, to occur before that of Heracles. Iphicles* was twin-brother of Heracles.</p>
         <p>Not satisfied with having subjected the hero to the will of the weak and cowardly Eurystheus, Hera sent two serpents to kill the child ivhen he was about eight months old. Heracles, however, gave the first proof of his divine origin by strangling them with his hands. Zeus then acknowledged his son. Finding Hera sleeping, he laid Heracles by her side, who by this means obtained the divine milk without her consent. When Hera awoke she flung him away from her, sprinkling upon the vault of the sky the milk that fell from her breast, the marks of which form the Galaxy, or Milky Way, on which the gods walk.</p>
@@ -1535,14 +1535,14 @@
         <head>Dædalus* and Icarus*.</head>
         <p>Dædalus was one of the most celebrated artificers of the legendary period. He was so proud of his achievements that he could not endure the thought of having a rival. His nephew gave striking evidences of ingenuity. Walking on the sea-shore, he picked up the spine of a fish. Imitating it, he notched a piece of iron on the edge, and thus invented the <hi rend="i">saw</hi>. He also invented a pair of compasses. Dædalus, envious of his nephew’s performances, one day pushed him off the top of a high tower. Athene, who saw him falling, changed him into a bird called the partridge. This bird always avoids high places.</p>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_170.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_170.png"/>
         </figure>
         <p>Dædalus fled with his son Icarus to Crete, where they were welcomed by Minos. He built the Labyrinth, besides many other wonderful works of art, but afterwards, having lost the favor of the king, both father and son were imprisoned. They contrived to escape from the prison, but, as the king kept strict watch on all the vessels, they could not leave the island by sea; so Dædalus made wings of feathers fastened together with wax, and equipped himself and son. He taught Icarus to fly, and charged him to keep at a moderate height. Icarus fell into the sea, which was named for him Icarium* Mare, but Dædalus reached Cumæ in safety.</p>
       </div>
       <div>
         <head>The Argonautic Expedition.</head>
         <figure>
-          <graphic url="edwards_hand-book-mythology_1883_images/edwards_hand-book-mythology_1883_171.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/edwards_hand-book-mythology_1883_171.png"/>
         </figure>
         <div>
           <head>Jason*.</head>

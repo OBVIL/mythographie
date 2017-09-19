@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T12:12:31+02:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Gayley (1898)">
   <teiHeader>
     <fileDesc>
@@ -346,7 +346,7 @@
       </div>
     </front>
     <body>
-      <div type="chapter">
+      <div>
         <head>Chapter I. <lb/>The Origin and Elements of Myth.</head>
         <p>§ 1. <hi rend="b">Purpose of the Study</hi>. — Interwoven with the fabric of our English literature, of our epics, dramas, lyrics, and novels, of our essays and orations, like a golden warp where the woof is only too often of silver, are the myths of certain ancient nations. It is the purpose of this work to relate some of these myths, and to illustrate the uses to which they have been put in English literature, and, incidentally, in modern art.</p>
         <p><hi rend="b">The Fable and the Myth</hi>. — Careful discrimination must be made between the fable and the myth. A fable is a story, like that of King Log, or the Fox and the Grapes, in which characters and plot, neither pretending to reality nor demanding credence, are fabricated confessedly as the vehicle of moral or didactic instruction.
@@ -503,7 +503,7 @@
           <author key="Paul H.">Hermann Paul</author>, <title>Grundriss d. Germ. Phil.</title> Bd. <num>i</num>, Lfg. 5, 982-995, <title>Mythologie</title> (von
           <author key="Mogk">E. Mogk</author>).</note></p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter II. <lb/>The Distribution of Myths.</head>
         <p>§ 9. Several theories of the appearance of the same explanatory or æsthetic myth, under various guises, in lands remote one from another, have been advanced; but none of them fully unveils the mystery. The difficulty lies not so much in accounting for the similarity of thought or material in different stories, as for the resemblance in isolated incidents and in the arrangement of incidents or plot. The principal theories of the distribution of myths are as follows: —</p>
         <p>(1) That the resemblances between the myths of different nations are purely <hi rend="i">accidental.</hi> This theory leaves us no wiser than we were.</p>
@@ -531,7 +531,7 @@
         <p>The distribution of myth, like its origin, is inexplicable by any one theory. The discovery of racial families and of family traditions narrows the problem, but does not solve it. The existence of the same story in unrelated nationalities remains a perplexing fact, toward the explanation of which the theories of “borrowing” and of “similar historic tradition,” while plausible, are but unsubstantiated contributions. And until we possess the earliest records of those unrelated nationalities that have similar myths, or until we discover monuments and log-books of some commercial nation that, in prehistoric times, circumnavigated the globe, and deposited on remote shores and islands the seeds of the parent mythic plant, we must accept as our only scientific explanation the psychological, or so-called <hi rend="i">human</hi>, theory: — Given similar mental condition with similar surroundings, similar imaginative products, called myths, will result.<note place="bottom">See
           <author key="Johnston T. C.">T. C. Johnston</author>’s <title>Did the Phœnicians Discover America</title>? 1892. </note></p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter III. <lb/>The Preservation of Myths.</head>
         <p>§ 10. Before the introduction of writing, myths were preserved in popular traditions, in the sacred ceremonials of colleges of priests, in the narratives chanted by families of minstrels or by professional bards wandering from village to village—from court to court, and in occasional hymns sung by privileged harpists, like Demodocus of Phæacia,<note place="bottom"><title>Odyssey</title> 8: 250.</note> in honor of a chieftain, an ancestor, or a god. Many of these early bards are mere names to us. Most of them are probably as mythical as the songs with which they are accredited. The following is a brief account of mythical prophets, of mythical musicians and poets, and of the actual poets and historians who recorded the mythologies from which English literature draws its classical myths: the Greek, the Roman, the Norse, and the German.</p>
         <p>§ 11. <hi rend="b">In Greece</hi>. — (1) <hi rend="i">Mythical Prophets</hi>. — To some of the oldest bards was attributed the gift of prophecy. Indeed, nearly every expedition of mythology was accompanied by one of these seers, priests, or “medicine-men,” as we might call them.</p>
@@ -720,7 +720,7 @@
         <p rend="image">Insérer image gayley_classic-myths_1898_map01</p>
         <p rend="legend">Map. 1. Greece and the Greek Colonies.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter IV. <lb/>Greek Myths of the Creation.<note place="bottom">Supplementary information concerning many of the myths may be found in the corresponding sections of the Commentary.</note></head>
         <p rend="image">Insérer image gayley_classic-myths_1898_fig001</p>
         <p rend="legend">Fig. 1. Jupiter surveying the World. <lb/>[Wall painting: <title>H. and P. (Herculaneum and Pompei)</title> by
@@ -896,7 +896,7 @@
         <ab type="ornament">————</ab>
         <p>Since most of the myths in Chapters IV to XXVII are best known to English poetry in their Latin form, the Latin designations, or Latinized forms of Greek names, have been retained; but, for the poetic conception of all these stories, except such as are contained in Sections 55, 56, 98 and 124, we are indebted not to the Roman but the Greek imagination.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter V. <lb/>Attributes of the Gods of Heaven.<note place="bottom">Consult, in general, corresponding sections of the Commentary.</note></head>
         <p>§ 31. <hi rend="b">Olympus</hi>. —The heaven of the Greek gods was the summit of an ideal mountain called Olympus.<note place="bottom">Symbolized on earth by Mt. Olympus in Thessaly.</note> A gate of clouds, kept by goddesses, the Hours or Seasons, opened to permit the passage of the Celestials to earth, and to receive them on their return. The gods had their separate dwellings; but all, when summoned, repaired to the palace of Jupiter, — even the deities whose usual abode was the earth, the waters, or the underworld. In the great hall of the Olympian king the gods feasted each day on ambrosia and nectar. Here they conversed of the affairs of heaven and earth; and as they quaffed the nectar that Hebe poured, Apollo made melody with his lyre, and the Muses sang in responsive strain. When the sun was set, the gods withdrew to their respective dwellings for the night.</p>
         <p rend="image">Insérer image gayley_classic-myths_1898_fig004</p>
@@ -1228,7 +1228,7 @@
         <p rend="legend">Fig. 21. Iris carrying a Child. <lb/>[Vase picture:
           <author key="Roscher">Roscher</author> 20: 351.]</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter VI. <lb/>The Gods of Earth.<note place="bottom">For references to poetry and works of art, see Commentary. </note></head>
         <p>§ 44. <hi rend="b">Conception of the World</hi>. — The Greek poets believed the earth to be flat and circular. In their opinion, their own country occupied the middle of it, and the central point was either Mount Olympus, the abode of the gods, or Delphi, famous for its oracle. The circular disk of the earth was crossed from west to east, and divided into two equal parts by the <hi rend="i">Sea</hi>, as they called the Mediterranean and its continuation, the Euxine, the only seas with which they were acquainted. Around the earth flowed <hi rend="i">River Ocean</hi>, from south to north on the western side, in a contrary direction on the eastern. It flowed in a steady, equable current, unvexed by storm or tempest. The sea, and all the rivers on earth, received their waters from it.</p>
         <p>The northern portion of the earth was inhabited by the Hyperboreans, dwelling in bliss and everlasting spring beyond the mountains whose caverns sent forth the piercing blasts of the north wind. Their country was inaccessible by land or sea. They lived exempt from disease or old age, from toils and warfare. “I come” sings one of them:<note place="bottom">According to
@@ -1279,7 +1279,7 @@
           <author key="Pitt">Pitt</author>’s
           <author key="Virgile">Vergil</author>.]</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter VII: The gods of the underworld.</head>
         <p>§ 48. <hi rend="b">The Underworld</hi> was the region of darkness inhabited by the spirits of the dead, and governed by Pluto (Hades) and Proserpina, his queen. According to the <title>Iliad</title>,
           <quote>this realm lay deep in the bowels of the Earth</quote><note place="bottom"><title>Iliad</title> 9: 568; 22: 482; 20: 61. </note> but in the <title>Odyssey</title>,
@@ -1403,7 +1403,7 @@
         <p>(4) <hi rend="b">Sleep</hi>, or <hi rend="b">Somnus</hi> (<hi rend="b">Hypnos</hi>), and <hi rend="b">Death</hi> (<hi rend="b">Thanatos</hi>), sons of Night.<note place="bottom"><title>Iliad</title> 14: 231; 16: 672. </note> They dwell in subterranean darkness. The former brings to mortals solace and fair dreams, and can lull the shining eyes of Jove himself. The latter closes forever the eyes of men. Dreams, too, are sons of Night.<note place="bottom"><title>Odyssey</title> 24: 12; 19: 560.
           <author key="Ovide">Ovid</author>, <title>Metamorphoses</title> 11: 592.</note> They dwell beside their brother, Death, along the Western Sea. Their abode has two gates, — one of ivory, whence issue false and flattering visions; the other of horn, through which true dreams and noble pass to men.<note place="bottom">For genealogical table, see Commentary, § 51.</note></p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter VIII. <lb/>The Gods of the Waters.<note place="bottom">The references to poetry and works of art, see Commentary.</note></head>
         <p>§ 52. There were two dynasties of the sea. The Older, which flourished during the rule of Cronus, was founded by the Titans, Oceanus and Tethys, from whom sprang three thousand rivers, and ocean-nymphs unnumbered. The palace of Oceanus was beyond the limits of the bountiful earth,<note place="bottom"><title>Iliad</title> 14: 303.</note> surrounded by gardens and all things fair. From ages immemorial another dweller in the glimmering caves of Ocean was <hi rend="b">Pontus</hi> (the <hi rend="i">deep sea</hi>, or the <hi rend="i">water-way</hi>), who became, by Mother Earth, father of Nereus. This <hi rend="b">Nereus</hi>, a genial old man of the sea, was distinguished for his prophetic gifts, his knowledge, his love of truth and justice. Taking to wife one of the daughters of Oceanus, the nymph Doris, he was blessed with a family of fifty fair daughters, the <hi rend="b">Nereïds</hi>. Of these daughters, the most famous are Galatea, Thetis, and Amphitrite; the last of whom gave her hand to Neptune, brother of Jove, and thus united the Older and the Younger dynasties of the sea.</p>
         <p rend="image">Insérer image gayley_classic-myths_1898_fig029</p>
@@ -1445,7 +1445,7 @@
         <p rend="image">Insérer image gayley_classic-myths_1898_fig031</p>
         <p rend="legend">Fig. 31. Sirens. <lb/>[Engraved relief: <title>Mittheilungen d. K. Deutsch. Archäol. Instituts, Athens</title>.]</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter IX. <lb/>The Roman Divinities.</head>
         <p>§ 55. <hi rend="b">Gods Common to Greece and Italy</hi>. — Of the deities already mentioned, the following, although they were later identified with certain Greek gods and goddesses<note place="bottom">Names of the corresponding Greek divinities are in parentheses.</note> whose characteristics and adventures they assumed, had developed an independent worship in Italy: Jupiter (Zeus); Juno (Hera); Minerva (Athene) Diana (Artemis); Mars (Ares); Venus (Aphrodite); Vulcanus, or Mulciber (Hephæstus); Vesta (Hestia); Mercurius (Hermes); Neptunus (Posidon); Ceres (Demeter); Liber (Bacchus); Libera (Proserpina); Magna Mater, the great mother of the gods (Rhea, Cybele); Orcus (Pluto, Hades); Tellus, the Earth (Gæa).</p>
         <p>§ 56. <hi rend="b">Italian Gods</hi>. — There were also divinities always peculiar to Roman mythology. Of these the more important are: —</p>
@@ -1481,7 +1481,7 @@
         <p rend="image">Insérer image gayley_classic-myths_1898_map02</p>
         <p rend="legend">Map 2. Greece in the Fifth Century <hi rend="sc">b.c.</hi></p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter X. <lb/>Myths of the Great Divinities of Heaven.</head>
         <div>
           <head>1. Myths of Jupiter and Juno.</head>
@@ -2851,7 +2851,7 @@
           <p>The most famous exploit of the Messenger, the slaughter of Argus, has already been narrated.<note place="bottom">§ 59.</note></p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XI. <lb/>Myths of the Great Divinities of Earth. <lb/>Myths of Bacchus.</head>
         <p>§ 102. Since the adventures of <hi rend="b">Ceres</hi>, although she was a goddess of earth, are intimately connected with the life of the underworld, they will be related in the sections pertaining to Proserpine and Pluto. The god of vernal sap and vegetation, of the gladness that comes of youth or of wine, the golden-curled, sleepy-eyed Bacchus, — his wanderings, and the fortunes of mortals brought under his influence: Pentheus, Acetes, Ariadne, and Midas, here challenge our attention.</p>
         <p rend="image">Insérer image gayley_classic-myths_1898_fig054</p>
@@ -2927,7 +2927,7 @@
         <p>He strove to divest himself of his power; he hated the gift he had lately coveted. He raised his arms, all shining with gold, in prayer to Bacchus, begging to be delivered from this glittering destruction. The merciful deity heard, and sent him to wash away his fault and its punishment in the fountain head of the river Pactolus. Scarce had Midas touched the waters, before the gold-creating power passed into them, and the river sands became golden, as they remain to this day.</p>
         <p>Thenceforth Midas, hating wealth and splendor, dwelt in the country, and became a worshipper of Pan, the god of the fields. But that he had not gained common sense is shown by the decision that he delivered somewhat later in favor of Pan’s superiority, as a musician, over Apollo.<note place="bottom">See § 83.</note></p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XII. <lb/>From the Earth to the Underworld. <lb/>Myths of Ceres, Pluto, and Proserpine.</head>
         <p>The search of Ceres for Proserpine, and of Orpheus for Eurydice, are stories pertaining both to Earth and Hades.</p>
         <p rend="image">Insérer image gayley_classic-myths_1898_fig059</p>
@@ -3039,7 +3039,7 @@
         </quote>
         <p>Other mortals who visited the Stygian realm and returned were Hercules, Theseus, Ulysses, and Æneas.<note place="bottom">See Index.</note></p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XIII. <lb/>Myths of Neptune, Ruler of the Waters.</head>
         <p rend="image">Insérer image gayley_classic-myths_1898_fig065</p>
         <p rend="legend">Fig. 65. Neptune with trident. <lb/>[Relief:
@@ -3054,7 +3054,7 @@
           <author key="Hygin">Hyginus</author>, <title>Fab.</title> 84, 253;
           <author key="Pindare">Pindar</author>, <title>Olymp.</title> 1: 114.</note>— To Pelops, brother of Niobe, Neptune imparted skill in training and driving horses, — and with good effect. For it happened that Pelops fell in love with Hippodamia, daughter of Œnomaüs, king of Elis and son of Mars, — a girl of whom it was reported that none could win her save by worsting the father in a chariot race, and that none might fail in that race and come off alive. Since an oracle, too, had warned Œnomaüs to beware of the future husband of his daughter, he had provided himself with horses whose speed was like the cyclone. But Pelops, obtaining from Neptune winged steeds, entered the race and won it, — whether by the speed of his horses or by the aid of Hippodamia, who, it is said, bribed her father’s charioteer, Myrtilus, to take a bolt out of the chariot of Œnomaüs, is uncertain. At any rate, Pelops married Hippodamia. He was so injudicious, however, as to throw Myrtilus into the sea; and from that treachery sprang the misfortunes of the house of Pelops. For Myrtilus, dying, cursed the murderer and his race.<note place="bottom">For the house of Pelops see § 77, and Commentary.</note></p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XIV. <lb/>Myths of the Lesser Divinities of Heaven.</head>
         <p>§ 111. The tales of the Stars and the Winds, lesser powers of the celestial regions, are closely interwoven. That the winds, which sweep heaven, should kiss the stars is easy to understand. The stories of Aurora, and of Aura, of Phosphor, and of Halcyone form, therefore, a ready sequence.</p>
         <p rend="image">Insérer image gayley_classic-myths_1898_fig066</p>
@@ -3390,7 +3390,7 @@
             <author key="Darwin E.">Darwin</author>’s <title>Botanic Garden</title>.</note></l>
         </quote>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XV. <lb/>Myths of the Lesser Divinities of Earth, and the Underworld.</head>
         <p>§ 116. <hi rend="b">Pan and the Personification of Nature</hi>. — It was a pleasing trait in the old paganism that it loved to trace in evei <hi rend="i">y</hi> operation of nature the agency of deity. The imagination of the Greeks peopled the regions of earth and sea with divinities, to whose agency it attributed the phenomena that our philosophy ascribes to the operation of natural law. So Pan, the god of woods and fields,<note place="bottom">His name is not derived from the Greek <hi rend="i">pān</hi> = <hi rend="i">all</hi>, but from the root <hi rend="i">pă</hi> = to feed, to pasture (<hi rend="i">i.e.</hi> the flocks and herds).</note> whose name seemed to signify <hi rend="i">all</hi>, came to be considered a symbol of the universe and a personification of Nature. “Universal Pan,” says
           <author key="Milton">Milton</author> in his description of the creation: —</p>
@@ -3797,7 +3797,7 @@
           <quote>!”</quote> A dark object sailed across the sky.
           <quote>“The murderer has informed against himself,”</quote> shouted the assemblage. The inference was correct. The criminals, straightway seized, confessed the crime and suffered the penalty.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XVI. <lb/>Myths of Lesser Divinities of the Waters.</head>
         <p>These gods may be roughly classed as dwellers in the sea, and dwellers in the streams.</p>
         <p>§ 126. <hi rend="b">Galatea</hi>. — Of the sea-divinities, daughters of Nereus and Doris, none was fairer than Galatea, sister of Amphitrite and Thetis. She loved Acis, the son of Faunus by a Naiad, and was loved in return; but her happiness was disturbed and finally ruined by the persistent and jealous attentions of the Cyclops Polyphemus.</p>
@@ -3908,7 +3908,7 @@
         <p rend="image">Insérer image gayley_classic-myths_1898_map03</p>
         <p rend="legend">Map 3. Greece below Thermopylæ.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XVII. <lb/>Myths of the Older Heroes. <lb/>The House of Danaüs.</head>
         <p>§ 132. <hi rend="b">The Older and the Younger Heroes</hi>. — We have already narrated the adventures of certain demigods and heroes, such as Prometheus, Deucalion, Cadmus, Amphion, Orpheus. Others of importance were Perseus, Hercules, Minos, Œdipus, Theseus, Jason, Meleager, Peleus, Pelops, Castor and Pollux. These and their contemporaries may be called the <hi rend="i">Older Heroes</hi>. They are renowned either for individual exploits or for the part played by them in one or more of three great expeditions, — the War against Laomedon of Troy,<note place="bottom">§ 142.</note> the Voyage for the Golden Fleece,<note place="bottom">§ 145.</note> and the Hunt of the Calydonian Boar.<note place="bottom">§ 148.</note></p>
         <p>The <hi rend="i">Younger Heroes</hi> were of a later generation, which was concerned in four important enterprises, — the War of the Seven against Thebes,<note place="bottom">§ 163.</note> the Trojan War,<note place="bottom">§ 167.</note> the Wanderings of Ulysses,<note place="bottom">§ 171.</note> and the Adventures of Æneas.<note place="bottom">§ 174.</note></p>
@@ -4139,7 +4139,7 @@
         <p rend="legend">Fig. 85. The Apotheosis of Hercules. <lb/>[Vase picture:
           <author key="Baumeister">Baumeister</author>.]</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XVIII. <lb/>The Family of Æolus.</head>
         <p>§ 144. <hi rend="b">The Descendants of Deucalion</hi>. — Athamas, brother of Sisyphus, was descended from Æolus, whose father, Hellen, was the son of Deucalion of Thessaly. Athamas had, by his wife Nephele, two children, Phryxus and Helle. After a time, growing indifferent to his wife, Athamas put her away, and took Ino, the daughter of Cadmus. The unfortunate sequel of this second marriage we have already seen.<note place="bottom">§ 129. </note></p>
         <p>Nephele, apprehending danger to her children from the influence of their step-mother, took measures to put them out of her reach. Mercury gave her a ram with a golden fleece, on which she set the two children. Vaulting into the air, the animal took his course to the East; but when he was crossing the strait that divides Europe and Asia, the girl Helle fell from his back into the sea, which from her was afterward called the Hellespont — now the Dardanelles. The ram safely landed the boy Phryxus in Colchis, where he was hospitably received by Æetes, the king of that country. Phryxus sacrificed the ram to Jupiter, but the fleece he gave to Æetes, who placed it in a consecrated grove, under the care of a sleepless dragon.<note place="bottom">
@@ -4205,7 +4205,7 @@
           <l>Root of hemlock digged i’ the dark.”<note place="bottom"><title>Macbeth</title>, Act IV, 1. Consult.</note></l>
         </quote>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XIX. <lb/>The Family of Ætolus.</head>
         <p>§ 148. <hi rend="b">The Calydonian Hunt.</hi><note place="bottom">
           <author key="Ovide">Ovid</author>, <title>Metam.</title> 8: 260-546.</note> — One of the heroes of the Argonautic expedition had been Meleager, a son of Œneus and Althæa, rulers of Calydon in Ætolia. His parents were cousins, descended from a son of Endymion named Ætolus, who had colonized that realm. By ties of kinship and marriage they were allied with many historic figures. Their daughter Dejanira had become, as we have already noted, the wife of Hercules;<note place="bottom">§ 143.</note> while Leda, the sister of Althæa, was mother of Castor and Pollux,<note place="bottom">§§ 165, 166.</note> and of Clytemnestra and Helen, intimately concerned in the Trojan War.</p>
@@ -4298,7 +4298,7 @@
         <p>Of this fearful sequel to the hunt, Althæa has heard nothing. As she bears thank-offering to the temples for the victory of her son, the bodies of her murdered brothers meet her sight. She shrieks, and beats her breast, and hastens to change the garments of joy for those of mourning. But when the author of the deed is known, grief gives way to the stern desire of vengeance on her son. The fatal brand, which the Destinies have linked with Meleager’s life, she brings forth. She commands a fire to be prepared. Four times she essays to place the brand upon the pile; four times draws back, shuddering before the destruction of her son. The feelings of the mother and the sister contend within her. Now she is pale at the thought of the purposed deed, now flushed again with anger at the violence of her offspring. Finally the sister prevails over the mother: — turning away her face, she throws the fatal wood upon the burning pile. Meleager, absent and unconscious of the cause, feels a sudden pang. He burns; he calls upon those whom he loves, Atalanta and his mother. But speedily the brand is ashes, and the life of Meleager is breathed forth to the wandering winds.</p>
         <p>When, at last, the deed was done, the mother laid violent hands upon herself.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XX. <lb/>The House of Minos.</head>
         <p>§ 149. <hi rend="b">Minos of Crete</hi> was a descendant of Inachus, in the sixth generation. A son of Jupiter and Europa, he was, after death, transferred, with his brother Rhadamanthus and with King Æacus, to Hades, where the three became judges of the Shades. This is the Minos mentioned by
           <author key="Homère">Homer</author> and
@@ -4330,7 +4330,7 @@
         <p>It is said that Dædalus could not bear the idea of a rival. His sister had placed her son Perdix under his charge to be taught the mechanical arts. He was an apt scholar, and gave striking evidences of ingenuity. Walking on the seashore, he picked up the spine of a fish, and imitating it in iron, invented the saw. He invented, also, a pair of compasses. But Dædalus, envious of his nephew, pushed him off a tower, and killed him. Minerva, however, in pity of the boy, changed him into a bird, the partridge, which bears his name.</p>
         <p>To the descendants of Inachus we shall again return in the account of the house of Labdacus.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXI. <lb/>The Descendants of Cecrops and Erichthonius.</head>
         <p>§ 151. <hi rend="b">Cecrops</hi><anchor xml:id="footnote68"/><note place="bottom">
           <author key="Ovide">Ovid</author>, <title>Metam.</title> 2: 555;
@@ -4581,7 +4581,7 @@
         <p>§ 157. <hi rend="b">Phædra and Hippolytus</hi>. — After the death of Antiope, Theseus married Phædra, sister of the deserted Ariadne, daughter of Minos. But Phædra, seeing in Hippolytus, the son of Theseus, a youth endowed with all the graces and virtues of his father, and of an age corresponding to her own, loved him. When, however, he repulsed her advances, her love was changed to despair and hate. Hanging herself, she left for her husband a scroll containing false charges against Hippolytus. The infatuated husband, filled, therefore, with jealousy of his son, imprecated the vengeance of Neptune upon him. As Hippolytus, one day, drove his chariot along the shore, a sea-monster raised himself above the waters, and frightened the horses so that they ran away and dashed the chariot to pieces. Hippolytus was killed, but by Æsculapius was restored to life; and then removed by Diana from the power of his deluded father, was placed in Italy under the protection of the nymph Egeria.</p>
         <p>In his old age, Theseus, losing the favor of his people, retired to the court of Lycomedes, king of Scyros, who at first received him kindly, but afterwards treacherously put him to death.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXII. <lb/>The House of Labdacus.</head>
         <p>§ 158. <hi rend="b">The Misfortunes of Thebes</hi>. — Returning to the descendants of Inachus, we find that the curse which fell upon Cadmus when he slew the dragon of Mars followed inexorably every scion of his house. His daughters, Semele, Ino, Autonoë, Agave, — his grandsons, Melicertes, Actæon, Pentheus, — lived sorrowful lives, or suffered violent deaths. The misfortunes of one branch of his family, sprung from his son Polydorus, remain to be told. The curse seemed to have spared Polydorus himself. His son Labdacus, also, lived a quiet life as king of Thebes, and left a son, Lams upon the throne. But ere long Laïus was warned by an oracle that there was danger to his throne and life if his son, new-born, should reach man’s estate. He, therefore, committed the child to a herdsman, with orders for its destruction<hi rend="i">;</hi> but the herdsman, moved with pity, yet not daring entirely to disobey, pierced the child’s feet, purposing to expose him to the elements on Mount Cithæron.</p>
         <p>§ 159. <hi rend="b">Œdipus.</hi><note place="bottom">
@@ -4646,7 +4646,7 @@
         <p>There was sobbing, then silence. Then a voice called him, — and he followed. God took him from his troubles. Antigone returned to Thebes; — where, as we shall see, her sisterly fidelity showed itself as true as, aforetime, her filial affection.</p>
         <p>Her brothers, Eteocles and Polynices, had meanwhile agreed to share the kingdom between them, and to reign alternately year by year. The first year fell to the lot of Eteocles, who, when his time expired, refused to surrender the kingdom to his brother. Polynices, accordingly, fled to Adrastus, king of Argos, who gave him his daughter in marriage, and aided him with an army to enforce his claim to the kingdom. These causes led to the celebrated expedition of the “Seven against Thebes,” which furnished ample materials for the epic and tragic poets of Greece. And here the younger heroes of Greece make their appearance.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXIII. <lb/>The Younger Heroes.</head>
         <p>§ 162. <hi rend="b">Their Exploits</hi>. — The exploits of the sons and grandsons of the chieftains engaged in the Calydonian Hunt and the Quest of the Golden Fleece are narrated in four stories,— the Seven against Thebes, the Siege of Troy, the Wanderings of Ulysses, and the Adventures of Æneas.</p>
         <p>§ 163. <hi rend="b">The Seven against Thebes.</hi><note place="bottom">
@@ -4705,7 +4705,7 @@
           <author key="Hérodote">Herodotus</author> 5: 61;
           <author key="Apollodore">Apollodorus</author>.</note> — Such was the fall of the house of Labdacus. The bane of Cadmus expires with the family of Œdipus. But the wedding gear of Harmonia has not yet fulfilled its baleful mission. Amphiaraüs had, with his last breath, enjoined his son Alcmæon to avenge him on the faithless Eriphyle. Alcmæon engaged his word; but before accomplishing the fell purpose, he was ordered by an oracle of Delphi to conduct against Thebes a new expedition. Thereto his mother Eriphyle, influenced by Thersander, the son of Polynices, and bribed this time by the gift of Harmonia’s wedding garment, impelled not only Alcmæon, but her other son, Amphilochus. The descendants (<hi rend="i">Epigoni</hi>) of the former Seven thus renewed the war against Thebes. They levelled the city to the ground. Its inhabitants, counselled by Tiresias, took refuge in foreign lands. Tiresias, himself, perished during the flight. Alcmæon, returning to Argos, put his mother to death, but in consequence repeated in his own experience the penalty of Orestes. The outfit of Harmonia preserved its malign influence until, at last, it was devoted to the temple at Delphi, and removed from the sphere of mortal jealousies.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXIV. <lb/>Houses Concerned in the Trojan War.</head>
         <p rend="image">Insérer image gayley_classic-myths_1898_map04</p>
         <p rend="legend">Map 4. Orbis Terrarum ex Sententia
@@ -4850,7 +4850,7 @@
             <author key="Macaulay">Macaulay</author>, <title>Lays of Ancient Rome, The Battle of Lake Regillus</title>.</note></l>
         </quote>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXV. <lb/>The Trojan War.</head>
         <p rend="image">Insérer image gayley_classic-myths_1898_fig093</p>
         <p rend="legend">Fig. 93. Venus bringing together Paris and Helen. <lb/>[Relief in Naples:
@@ -4998,7 +4998,7 @@
             <author key="Pope">Pope</author>’s translation of the <title>Iliad</title>. </note></l>
         </quote>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXVI. <lb/>The Fall of Troy.</head>
         <p>§ 169. <hi rend="b">The Fall of Troy</hi>. — The story of the <title>Iliad</title> ends with the death of Hector, and it is from the <title>Odyssey</title> and later poems that we learn the fate of the other heroes. After the death of Hector, Troy did not immediately fall, but receiving aid from new allies still continued its resistance. One of these allies was Memnon, the Æthiopian prince, whose story has been already told.<note place="bottom">§ 115. </note> Another was Penthesilea, queen of the Amazons, who came with a band of female warriors. All the authorities attest the valor of these women and the fearful effect of their war cry. Penthesilea, having slain many of the bravest Greeks, was at last slain by Achilles. But when the hero bent over his fallen foe, and contemplated her beauty, youth, and valor, he bitterly regretted his victory. Thersites, an insolent brawler and demagogue, attempting to ridicule his grief, was in consequence slain by the hero.<note place="bottom">
           <author key="Pausanias">Pausanias</author> v. 11. § 2; and
@@ -5084,7 +5084,7 @@
         <p rend="legend">Fig. 102. Orestes taking refuge at Delphi: Fury, Apollo, Orestes, Tripod, Pallas. <lb/>[Vase picture:
           <author key="Millin">Millin</author>.]</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXVI. <lb/>The Wanderings of Ulysses.</head>
         <p rend="image">Insérer image gayley_classic-myths_1898_map06</p>
         <p rend="image">Map 6.
@@ -5405,7 +5405,7 @@
           <l>To strive, to seek, to find, and not to yield.”</l>
         </quote>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXVIII. <lb/>Adventures of Æneas.</head>
         <p>§ 174. <hi rend="b">From Troy to Italy</hi>. —
           <author key="Homère">Homer</author> tells the story of one of the Grecian heroes, Ulysses, in his wanderings, on his return home from Troy.
@@ -5472,7 +5472,7 @@
           <quote>“Whether thou be a goddess or a mortal beloved by the gods, by me thou shalt always be held in reverence. When I reach the upper air, I will cause a temple to be built to thy honor, and will myself bring offerings.”“I am no goddess,” said the Sibyl; “I have no claims to sacrifice or offering. I am mortal, yet, could I but have accepted the love of Apollo, I might have been immortal. He promised me the fulfilment of my wish, if I would consent to be his. I took a handful of sand, and holding it forth, said, ‘Grant me to see as many birthdays as there are sand-grains in my hand.’ Unluckily I forgot to ask for enduring youth. This also he would have granted, could I have accepted his love, but offended at my refusal, he allowed me to grow old. My youth and youthful strength fled long ago. I have lived seven hundred years, and to equal the number of the sand-grains, I have still to see three hundred springs and three hundred harvests. My body shrinks up as years increase, and in time, I shall be lost to sight, but my voice will remain, and future ages will respect my sayings.”</quote></p>
         <p>These concluding words of the Sibyl alluded to her prophetic power. In her cave she was accustomed to inscribe on leaves gathered from the trees the names and fates of individuals. The leaves thus inscribed were arranged in order within the cave, and might be consulted by her votaries. But if, perchance, at the opening of the door the wind rushed in and dispersed the leaves, the Sibyl gave no aid to restoring them again, and the oracle was irreparably lost.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXIX. <lb/>The War between Trojans And Latins.</head>
         <p>§ 176. Æneas, having parted from the Sibyl and rejoined his fleet, coasted along the shores of Italy and cast anchor in the mouth of the Tiber. The poet, having brought his hero to this spot, the destined termination of his wanderings, invokes his Muse to tell him the situation of things at that eventful moment. Latinus, third in descent from Saturn, ruled the country. He was now old and had no male descendant, but had one charming daughter, Lavinia, who was sought in marriage by many neighboring chiefs, one of whom, Turnus, king of the Rutulians, was favored by the wishes of her parents. But Latinus had been warned in a dream by his father Faunus, that the destined husband of Lavinia should come from a foreign land. From that union should spring a race destined to subdue the world.</p>
         <p>Our readers will remember that in the conflict with the Harpies, one of those half-human birds had threatened the Trojans with dire sufferings. in particular, she predicted that before their wanderings ceased they should be pressed by hunger to devour their tables. This portent now came true; for as they took their scanty meal, seated on the grass, the men placed their hard biscuit on their laps, and put thereon whatever their gleanings in the woods supplied. Having despatched the latter they finished by eating the crusts. Seeing which, the boy Iulus said playfully,
@@ -5528,7 +5528,7 @@
           <quote>“Pallas immolates thee with this blow,”</quote> he thrust him through with his sword.</p>
         <p>Here the poem of the <title>Æneid</title> closes, and we are left to infer that Æneas, having triumphed over his foes, obtained Lavinia for his bride. Tradition adds that he founded a city and called it Lavinium, after her name. His son Iulus founded Alba Longa, which became the birthplace of Romulus and Remus and the cradle of Rome.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXX. <lb/>Myths of the Norse Gods.<note place="bottom">For Records of Norse Mythology see § 13 and Commentary.</note></head>
         <p>§ 177. <hi rend="b">The Creation</hi>. — According to the <title>Eddas</title> there was once no heaven above nor earth beneath, but only a bottomless deep, Ginungagap, and a world of mist, Niflheim, in which sprang a fountain. Twelve rivers issued from this fountain, Vergelmer, and when they had flowed far from their source, they froze into ice, and one layer accumulating over another, the great deep was filled up.</p>
         <p>Southward from the world of mist was the world of light, Muspelheim. From this proceeded a warm wind upon the ice and melted it. The vapors rose in the air and formed clouds, from which sprang Ymir, the Frost giant and his progeny, and the cow Audhumbla, whose milk afforded nourishment and food to the giant. The cow got nourishment by licking the hoar frost and salt from the ice. While she was one day licking the salt stones there appeared at first the hair of some being, on the second day his whole head, and on the third the entire form endowed with beauty, agility, and power. This new being was a god, Bori, from whom and his wife, a daughter of the giant race, sprang Bor, the father of Odin, Vili, and Ve. They slew the giant Ymir, and out of his body formed the earth, of his blood the seas, of his bones the mountains, of his hair the trees, of his skull the heavens, and of his brain clouds, charged with hail and snow. Of Ymir’s eyebrows the gods built a fence around this Midgard or mid-earth between Nilfleim and Muspelheim, destined to become the abode of man.</p>
@@ -5885,7 +5885,7 @@
       </div>
     </body>
     <back>
-      <div type="chapter">
+      <div>
         <head>Chapter XXXI. <lb/>Myths of Norse and Old German Heroes.</head>
         <p>§ 185. <hi rend="b">The</hi> <title>Saga of the Volsungs</title>.<anchor xml:id="footnote88"/><note place="bottom"><p>See <title>the Story of the Volsungs</title>, by
           <author key="Morris W.">William Morris</author> and

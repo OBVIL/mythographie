@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:14:46+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Tressan (1822)">
   <teiHeader>
     <fileDesc>
@@ -199,7 +199,7 @@
           <p>Tel est le commencement de l’histoire de Persée : nous allons donner sa fable, et l’on s’apercevra combien l’une et l’autre se ressemblent.</p>
           <p>Persée, fils de Jupiter et de Danaé, naquit dans une tour d’airain qu’Acrisius, roi d’Argos, avait fait construire pour y tenir renfermée Danaé sa fille. Ce prince espéra, par cette précaution, empêcher l’accomplissement de l’oracle, qui lui avait prédit que de sa fille Danaé naîtrait un fils qui lui ravirait la couronne et la vie. Jupiter, métamorphosé en pluie d’or, pénétra dans la tour, et bientôt Persée vit le jour. Les gardes publièrent que Jupiter avait trompé leur vigilance ; mais Acrise, refusant de croire à la visite du plus grand des dieux, fit mourir la nourrice de Danaé, et fit enfermer sa fille et son petit-fils dans un coffre qu’il fit jeter à la mer. Ce coffre, poussé par les vagues vers l’une des Cyclades, fut recueilli par Dictys, frère de Polydecte. Le roi du pays fit le meilleur accueil à la mère et au jeune Persée. Il le fit élever dans sa cour ; mais, à mesure que ce héros grandissait, il portait ombrage à Polydecte, qui l’éloigna de sa cour, et lui fit courir les plus grands dangers, en lui ordonnant d’aller tuer Méduse et de lui rapporter sa tête. Les dieux vinrent au secours de Persée ; Minerve lui prêta son miroir ou plutôt son égide, pour lui servir de bouclier ; Mercure lui prêta ses ailes et son cimeterre forgé par Vulcain, et Pluton lui prêta son casque. Les ailes avaient le pouvoir de le transporter où il voulait ; le casque et le miroir laissaient, à celui qui les portait, le pouvoir de tout voir sans être vu. Ces secours puissans donnèrent à Persée les moyens de surprendre Méduse et de lui couper la tête. (<hi rend="i">Fig.</hi> 69.)</p>
           <figure>
-            <graphic url="tressan_mythologie-comparee-02_1822_images/tressan_mythologie-comparee-02_1822_img034.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-02_1822_img034.png"/>
           </figure>
           <p>La cruauté d’Acrise ne put le sauver de l’accomplissement de l’oracle : Persée lui donna la mort de la manière que nous dirons.</p>
           <p>Cette partie de la fable de Persée ressemble trop à son histoire pour avoir besoin d’être expliquée ; nous observerons seulement que son armure célébrée par les poëtes n’était qu’une allégorie. Par les ailes de Mercure, ils avaient voulu désigner le vaisseau qui conduisit Persée sur les côtes d’Afrique. Le casque de Pluton, qui couvrait sa tête, désignait le secret dont il avait besoin pour réussir dans son entreprise : et le bouclier de Minerve était le symbole de la prudence qui lui était si nécessaire.</p>
@@ -555,7 +555,7 @@
           <p>L’histoire dit que l’un et l’autre furent enterrés près de Scyades, bourg de Laconie ; et par une bizarrerie ordinaire à ces temps, leur temple se trouvait à côté de leur tombeau. On les honora d’abord comme des héros : la Grèce finit par les admettre au nombre de ses grands dieux ; et les Romains, imitateurs des Grecs, les honorèrent de même.</p>
           <p>On croyait qu’ils apparaissaient souvent aux hommes ; on les représentait ordinairement à cheval, on sous la figure de deux jeunes hommes, avec un bonnet surmonté d’une étoile. (<hi rend="i">Fig.</hi> 75.) Cette manière de les représenter prouve que l’art de l’équitation était antérieur au siége de Troie.</p>
           <figure>
-            <graphic url="tressan_mythologie-comparee-02_1822_images/tressan_mythologie-comparee-02_1822_img134.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-02_1822_img134.png"/>
           </figure>
         </div>
         <div>

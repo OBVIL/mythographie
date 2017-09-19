@@ -1,10 +1,7 @@
-import.xml
-toc/
 article/
-conf.php
+epub/
+kindle/
+toc/
 *.sqlite
-.htaccess
-~$*
+conf.php
 test*
-
-data/author_edges_old.tsv

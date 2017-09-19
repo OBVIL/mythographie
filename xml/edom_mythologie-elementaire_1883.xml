@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-14T16:42:12+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Édom (1883)">
   <teiHeader>
     <fileDesc>
@@ -120,7 +120,7 @@
       </div>
       <div>
         <head>Livre premier. <lb/>Dieux du premier ordre, ou grands dieux, et dieux inférieurs, ou du second ordre.</head>
-        <div type="chapter">
+        <div>
           <head>Chapitre I<hi rend="sup">er</hi>. <lb/>Le Destin. — Le Chaos<note place="bottom">Prononcez comme si ce nom était écrit kao.</note>. — Naissance des premiers dieux, Uranus, Tellus, les Titans.</head>
           <div>
             <head>5. Le Destin.</head>
@@ -163,7 +163,7 @@
             <p>7. Quelles sont les deux divinités qui naquirent du Chaos ? A quels dieux donnèrent-elles le jour ? Faites connaître trois Géants fameux. D’où vient le nom de Titans ? A qui était-il donné ? Qu’était-ce que les Cyclopes ? Expliquez leur nom.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre II. <lb/>Saturne.</head>
           <div>
             <head>8. Uranus détrôné par Saturne.</head>
@@ -230,7 +230,7 @@
             <p>12. Comment s’appelaient les fêtes de Saturne ? Quand et comment étaient-elles célébrées ? Quel usage parait être parmi nous un souvenir de ces fêtes ? Quelle tradition affaiblie rappelaient-elles ? Citez une description poétique de l’âge d’or ? Quels sont les trois autres âges qui ont succédé à celui-ci ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre III. <lb/>Cybèle.-Vesta.-Les Vestales.</head>
           <div>
             <head>13. Naissance de Cybèle.</head>
@@ -261,7 +261,7 @@
             <p>16. Quelle fut la fille de Cybèle, dont elle porte quelquefois le nom ? Qui est-ce qui apporta en Italie le culte de Vesta ? Quel roi de Rome lui bâtit un temple ? Qu’était-ce que les Vestales ? Quel vœu faisaient-elles ? Quel supplice leur infligeait-on lorsqu’elles le violaient ? Combien en compte-t-on qui furent reconnues coupables et punies ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre IV. <lb/>Jupiter.</head>
           <div>
             <head>17. Enfance de Jupiter.</head>
@@ -385,7 +385,7 @@
             <p>27. Quel était le culte de Jupiter, et que sacrifiait-on sur ses autels ? Quels étaient ses principaux oracles ? Comment représente-t-on Jupiter ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre V. <lb/>Junon.</head>
           <div>
             <head>28. Naissance, mariage, vengeance de Junon.</head>
@@ -404,7 +404,7 @@
             <p>29. Comment est considérée Junon dans le sens allégorique ? Comme reine des dieux, que protégeait-elle ? Quelles villes l’honoraient d’un culte particulier ? A quoi présidait Junon ? Comment la représente-t-on ? Quel oiseau lui était consacré ? Pourquoi l’environne-t-on quelquefois d’un arc-en-ciel ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre VI <lb/>Minerve.</head>
           <div>
             <head>30. Naissance et premier exploit de Minerve.</head>
@@ -438,7 +438,7 @@
               <author key="Démosthène">Démosthène</author> ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre VII. <lb/>Apollon.</head>
           <div>
             <head>34. Naissance d’Apollon.</head>
@@ -518,7 +518,7 @@
             <p>38. Faites connaître la manière dont se rendaient les oracles dans le temple de Delphes ? Quelle différence y a-t-il entre Phœbus et Apollon ? Comment représente-t-on l’un et autre ? Qu’est-ce que l’<title>Apollon du Belvédère</title> ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre VIII. <lb/>Diane.</head>
           <div>
             <head>39. Naissance de Diane ; ses emplois divers.</head>
@@ -617,7 +617,7 @@
             <p>44. Qu’appelle-t-on Zodiaque ? Enumérez les douze signes du Zodiaque ? Que représente la constellation du Bélier ? A quel mois de l’année correspond-elle ? Expliquez ainsi chacune des onze autres constellations ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre IX. <lb/>Mercure.</head>
           <div>
             <head>45. Naissance et attributs de Mercure.</head>
@@ -643,7 +643,7 @@
             <p>48. Dans quel pays le culte de Mercure était-il répandu ? Quelle singularité offrait-il ? Comment Mercure est-il représenté ? Quel nom donnait-on à ses statues à Athènes ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre X. <lb/>Mars.</head>
           <div>
             <head>49. Naissance et aventures de Mars.</head>
@@ -662,7 +662,7 @@
             <p>50. Quel était le culte de Mars chez les Grecs et chez les Romains ? Quels hommages les consuls rendaient-ils à ce dieu avant d’aller à la guerre ? Qu’était-ce que les Saliens ? Quel roi de Rome les avait institués, et dans quel but ? Quelle est la signification et quelle est l’origine de leur nom ? Qu’était-ce que les anciles ? Quelles victimes immolait-on à Mars ? Comment s’appelait ce dieu chez les Gaulois ? Comment représente-t-on le dieu Mars ? Quels oiseaux lui étaient consacrés ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XI. <lb/>Vénus.</head>
           <div>
             <head>51. Naissance de Vénus ; elle épouse Vulcain.</head>
@@ -696,7 +696,7 @@
               <author key="Praxitèle">Praxitèle</author> ? Qu’offrait-on à Vénus ? Comment représente-t-on cette déesse ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XII. <lb/>Cérès.</head>
           <div>
             <head>55. Naissance de Cérès ; enlèvement de sa fille Proserpine.</head>
@@ -718,7 +718,7 @@
             <p>57. Quelles étaient les principales fêtes de Cérès ? Comment représente-t-on cette déesse ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XIII. <lb/>Bacchus.</head>
           <div>
             <head>58. Naissance de Bacchus.</head>
@@ -763,7 +763,7 @@
             <p>62. Comment s’appelaient les fêtes de Bacchus à Athènes et à Rome ? Pourquoi les appela-t-on du nom d’orgies, et que signifie ce mot ? Comment représente-t-on Bacchus ? Pourquoi la pie lui était-elle consacrée ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XIV. <lb/>Vulcain.</head>
           <div>
             <head>63. Naissance, disgrâce, travaux de Vulcain.</head>
@@ -780,7 +780,7 @@
             <p>64. Comment s’appelaient à Athènes les fêtes de Vulcain, et comment se célébraient-elles ? De quoi étaient-elles l’emblème ? Comment est représenté Vulcain dans les anciens monuments ? Quel est le personnage de la <title>Genèse</title> que voient en lui certains auteurs ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XV. <lb/>Divinités inférieures de la terre. <lb/>Palès. – Flore. — Pomone. — Priape. — Pan. <lb/>Terme. — Sylvain. — Nymphes. <lb/>Lares. – Pénates.</head>
           <div>
             <head>65. Palès. — Flore.</head>
@@ -825,7 +825,7 @@
             <p>70. Qu’étaient les Lares, les Pénates, les Mânes ? Quelle est leur origine ? Quel culte leur rendait-on ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XVI. <lb/>Divinités de la mer.</head>
           <div>
             <head>71. Océan. — Téthys. — Les Océanides. — Nérée les Néréides.</head>
@@ -843,7 +843,7 @@
             <p>72. A quelles divinités donnèrent-ils le jour ? Comment représente-t-on Nérée et les Néréides ? De quoi ces divinités sont-elles l’emblème personnifié ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XVII. <lb/>Neptune.</head>
           <div>
             <head>73. Naissance et exploits de Neptune.</head>
@@ -866,7 +866,7 @@
             <p>75. Comment représente-t-on Neptune ? Dans quel pays se répandit son culte ? Quels jeux furent institués par les Grecs en son honneur ? Comment s’appelaient ses fêtes à Rome ? A qui en attribuait-on la première institution et le renouvellement ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XVIII. <lb/>Empire de Neptune. <lb/>Divinités secondaires de la mer.</head>
           <div>
             <head>76. Protée. — Fable de Ménélas, d’Aristée.</head>
@@ -923,7 +923,7 @@
             <p>81. De qui Aurore était-elle fille ? Racontez l’histoire de Tithon. Faites connaître Memnon, fils de Tithon et de l’Aurore. Quelle fut la destinée de Céphale et de Procris, sa femme ? Qu’indique cette fable ? Comment représente-t-on l’Aurore ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XIX. <lb/>Les Enfers. — Pluton.</head>
           <div>
             <head>82. Description des Enfers.</head>
@@ -952,7 +952,7 @@
             <p>83. Faites connaître Pluton, monarque des Enfers. Pourquoi était-il généralement haï et redouté ? Quel fut son culte en Grèce et en Italie ? Comment le représente-t-on ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XX. <lb/>Ministres de Pluton. <lb/>Les Juges des Enfers. — Les Parques. — Les Mânes. <lb/>Charon<note place="bottom">Prononcez Caron.</note>. — Némésis.</head>
           <div>
             <head>84. Juges des Enfers.</head>
@@ -982,7 +982,7 @@
             <p>87. Qu’était-ce que Némésis ? Quelle était sa double fonction ? Quels étaient ses attributs ? Comment la représente-t-on ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXI. <lb/>Supplices des grands coupables dans le Tartare.</head>
           <div>
             <head>88. Sisyphe.</head>
@@ -1028,7 +1028,7 @@
       </div>
       <div>
         <head>Livre II. <lb/>Divinités allégoriques.</head>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXII. <lb/>La Vérité.-La Vertu.-L’Honneur.-La Pitié. <lb/>Les Prières.-La Justice.-L’Espérance. <lb/>La Fortune. — La Paresse. — La Discorde, etc.</head>
           <div>
             <head>93. La Vérité.</head>
@@ -1227,7 +1227,7 @@
       </div>
       <div>
         <head>Livre III. <lb/>Héros, ou demi-dieux.</head>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXIII. <lb/>Persée.</head>
           <div>
             <head>104. Des temps héroïques.</head>
@@ -1280,7 +1280,7 @@
             <p>107. Racontez la délivrance d’Andromède et la vengeance que Persée tira de Phinée, oncle de cette princesse. Quelle fut la conduite de Persée envers sa mère et envers Polydecte, lorsqu’il fut de retour dans l’île de Sériphe ? Comment Persée devint-il le meurtrier involontaire d’Acrisius ? Quels honneurs furent rendus à Persée après sa mort ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXIV. <lb/>Bellérophon et la Chimère.</head>
           <div>
             <head>108. Naissance de Bellérophon, ses exploits, sa mort.</head>
@@ -1295,7 +1295,7 @@
             <p>108. De qui était fils Bellérophon ? Que signifie son nom, et d’où lui fut-il donné ? Que lui arriva-t-il à la cour du roi d’Argos ? Expliquez l’origine de ce qu’on appelle lettres de Bellérophon. Qu’était-ce que la Chimère ? Comment Bellérophon en triompha-t-il ? Quels autres succès obtint-il, et quels en furent les résultats ? Quelle fut l’entreprise insensée de Bellérophon ? Quelle fut la fin de sa vie ? Comment explique-t-on la fable de Bellérophon ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXV. <lb/>Hercule.</head>
           <div>
             <head>109. Naissance et éducation d’Hercule.</head>
@@ -1369,7 +1369,7 @@
             <p>112. Racontez l’histoire de sa mort. Que devint Hercule après sa mort ? Comment est-il représenté ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXVI. <lb/>Thésée.</head>
           <div>
             <head>113. Naissance et premiers exploits de Thésée.</head>
@@ -1404,7 +1404,7 @@
             <p>115. Que fit Thésée devenu roi d’Athènes ? Quels furent ses voyages et ses aventures ? Quel projet criminel forma-t-il en dernier lieu avec Pirithoüs ? Quelles en furent les suites funestes ? Quelle fut la fin de Thésée ? Quels honneurs rendit-on à sa mémoire ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXVII. <lb/>Expédition des Argonautes.- Conquête de la toison d’or<note place="bottom">Il n’est point dans l’histoire des temps fabuleux d’événement plus célèbre que l’expédition des Argonautes. Il reste encore trois poëmes sur ce sujet, celui d’
             <author key="Onomacrite">Onomacrite</author>, composé environ cinq cent cinquante ans avant Jésus-Christ, celui d’
             <author key="Apollonios de Rhodes">Apollonius de Rhodes, </author>qui vivait du temps de Ptolémée, et celui de
@@ -1458,7 +1458,7 @@
             <p>Sous quel double rapport peut-on, par conjecture, considérer l’expédition des Argonautes ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXVIII. <lb/>Guerre de Thèbes. <lb/>Environ 1250 ans avant J.-C.</head>
           <div>
             <head>120. Cadmus, fondateur de Thèbes. Naissance de Laïus et d’Œdipe.</head>
@@ -1621,7 +1621,7 @@
             <p>123. Qui hérita du trône de Thèbes ? Quel ordre rigoureux donna Créon ? Quelles en furent les conséquences ? Lui-même, quel sort éprouva-t-il ? Qu’était-ce que les Epigones ? Quel fut le résultat de la nouvelle guerre qu’ils vinrent faire aux Thébains ? Quels furent les derniers rejetons de la famille d’Œdipe ? Quel parti fut pris à l’égard de la royauté dans cette ville ? Quel gouvernement y fut enfin établi ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXIX. <lb/>Guerre de Troie. <lb/>1200 ans av. J.-C.</head>
           <div>
             <head>124. Causes de la guerre de Troie.</head>
@@ -1759,7 +1759,7 @@
       </div>
       <div>
         <head>Livre Quatrième. <lb/>Mythologie des Égyptiens, des Perses, des Indous, des Scandinaves et des Gaulois.</head>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXX. <lb/>Mythologie des Égyptiens.</head>
           <div>
             <head>127. Osiris et Isis.</head>
@@ -1802,7 +1802,7 @@
             <p>131. Qu’était-ce que Sérapis ? Que signifie ce nom ? A quoi présidait ce dieu ? Comment était-il représenté ? Où étaient ses principaux temples ? Pourquoi les fêtes de Sérapis furent-t-elles abolies à Rome ? Par qui y avaient-elles été introduites ? Quelles réflexions suggère cet aperçu des dieux de l’ancienne Égypte ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXXI. <lb/>Mythologie des Perses.</head>
           <div>
             <head>132. Mages. Zoroastre. Le Zend-Avesta.</head>
@@ -1827,7 +1827,7 @@
             <p>134. Qu’est-ce que Mithra ? Quelle personnification, quel emblème présente-t-il ? Comment est-il représenté ? A quelle époque son culte fut-il introduit à Rome ? Comment s’appelaient les fêtes de ce dieu ? Quel était leur caractère ? Dans quel siècle furent-elles abolies ? Que doit-on penser de la religion de Zoroastre et des mages de la Perse ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXXII. <lb/>Mythologie des Indous.</head>
           <div>
             <head>135. Para-Brahma ou Brahm — La Trimourti.</head>
@@ -1889,7 +1889,7 @@
             <p>138. Quel est le caractère distinctif de Siva ? Comment le représente-t-on ? Quels sont les principaux dogmes que renferment les Védas ? Quelles sont encore les pratiques superstitieuses des Indiens ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXXIII. <lb/>Mythologie des Scandinaves.</head>
           <div>
             <head>139. Les Scaldes ; l’Edda et les Sagas.</head>
@@ -1922,7 +1922,7 @@
             <p>142. Qu’est-ce que le Valhalla ? Qu’est-ce que les Valkiries ? Comment s’appelle l’enfer des Scandinaves ? Quels sont ceux qui sont condamnés à l’habiter ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre XXXIV. <lb/>Mythologie des Gaulois.</head>
           <div>
             <head>143. Les druides, prêtres des Gaulois.</head>

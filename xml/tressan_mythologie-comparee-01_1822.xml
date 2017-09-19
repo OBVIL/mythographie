@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:14:27+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Tressan (1822)">
   <teiHeader>
     <fileDesc>
@@ -427,7 +427,7 @@
         <p><name type="author"><hi rend="sc">Varron</hi></name>, le plus grand théologien du paganisme, en fait monter le nombre jusqu’à trente mille : ce qui ne surprendra pas, en considérant qu’on en avait inventé pour présider à toutes les parties de l’univers, aux passions, aux besoins de la vie. D’ailleurs, lorsque des nations ou des villes différentes adoraient le même dieu sous le nom de Jupiter, chacune de ces nations ou de ces villes prétendait avoir son Jupiter particulier :
           <author key="Varron">Varron</author> en compte plus de trois cents. Il en était de même des autres dieux et des demi-dieux. On comptait plus de quarante Hercules : mais, comme tant de dieux différens pouvaient cesser de s’accorder entre eux, les païens avaient senti la nécessité de croire et d’établir qu’il y avait une divinité supérieure aux autres. Elle se nommait le <hi rend="i">Destin</hi> ou <hi rend="i">Fatum</hi>. Ce dieu, que l’on supposait aveugle, gouvernait toutes choses par une nécessité absolue. Jupiter lui-même, le premier et le plus grand des dieux, était soumis à ses décrets. Le destin avait son genre de culte ; mais, comme il ne pouvait être compris par l’intelligence humaine, on n’osait point déterminer quelle était sa figure, de sorte que jamais on n’adorait sa statue comme celle des autres dieux. On essayait cependant de le représenter sous la forme d’un vieillard, tenant entre ses mains l’urne qui renferme le sort des humains. On plaçait devant lui un livre dans lequel l’avenir était écrit. (<hi rend="i">Voyez la fig.</hi> 1.) Tous les dieux, sans exception, devaient consulter ce livre, parce qu’ils ne pouvaient rien changer à ses décrets. Ce n’était même qu’en le lisant qu’ils pouvaient prévoir l’avenir. C’est à cela que l’on doit rapporter l’obscurité des oracles, dont les réponses pouvaient s’interpréter de mille manières différentes.</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img070.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img070.png"/>
         </figure>
         <p>Cette idée du destin est le plus bel aveu que les hommes aient fait de la nécessité d’un dieu suprême et unique ; mais il n’était plus en leur pouvoir de le définir et de le comprendre, depuis qu’ils avaient oublié les instructions que Dieu avait données aux premiers patriarches.</p>
       </div>
@@ -513,7 +513,7 @@
         <p>Pendant les dix premières aimées, on les instruisait des fonctions de leur ministère ; elles les exerçaient pendant les dix secondes, et pendant les dix dernières elles instruisaient les novices.</p>
         <p>Le principal emploi des vestales consistait à entretenir sans cesse le feu sacré qui brûlait en l’honneur de Vesta. (<hi rend="i">Fig.</hi> 5.) Tous les ans, aux calendes de mars, ce feu se renouvelait aux rayons du soleil.</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img089.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img089.png"/>
         </figure>
         <p>On attachait une telle importance à la conservation du feu sacré, que, lorsqu’il venait à s’éteindre, on interrompait tous les exercices publics. Cet événement causait un deuil général ; on en tirait les plus tristes présages, tous les yeux cherchaient attentivement la cause de ce malheur public ; on se livrait à tous les soupçons, et quelquefois ils tombaient sur les vestales. Il était difficile d’échapper aux recherches ; et, si l’une d’elles avait manqué à ses vœux, rien ne pouvait la soustraire à la mort : on l’enterrait vivante. Ce fut dans une de ces occasions qu’Émilie, l’une des vestales, ayant été soupçonnée, jeta son voile au milieu de la cendre sacrée, et le feu se ralluma sur-le-champ.</p>
         <p>On croit qu’Énée fut le premier instituteur des vestales, et que Numa Pompilius ne fit que les rétablir. L’opinion commune était qu’outre le feu sacré on conservait dans le temple de Testa le Palladium, les dieux pénates et d’autres images des dieux que le pieux Énée avait rapportés de Phrygie, et qu’il avait sauvés des ruines de Troie.</p>
@@ -736,7 +736,7 @@
         <p><hi rend="sc">L’histoire</hi> et la fable de Cérès tiennent à celles des dieux des enfers ; mais nous croyons devoir les rapporter en partie, pour faciliter davantage la connaissance de la famille des Titans. La même raison nous fera donner, à sa suite, quelques détails sur Atlas et ses filles.</p>
         <p>Cérès (<hi rend="i">fig.</hi> 9) était fille de Saturne et de Cybèle : on la regarde comme la première inventrice de l’art de cultiver la terre. Pluton, son frère, lui ayant enlevé sa fille Proserpine pour la transporter dans les enfers (c’est-à-dire dans l’Espagne), Cérès se plaignit de cet enlèvement à Jupiter. Ce dieu décida qu’elle irait aux enfers redemander sa fille, et que Pluton serait forcé de la rendre, pourvu qu’elle restât sans boire et sans manger pendant le séjour qu’elle y ferait. Malheureusement, elle avait déjà sucé quelques grains de grenade : Ascalaphe la dénonça ; ce qui irrita tellement Cérès, qu’elle lui jeta de l’eau du Phlégéton sur le visage, et aussitôt Ascalaphe fut métamorphosé en hibou, oiseau qui annonce les malheurs. Minerve le prit depuis sous sa protection, parce qu’il veille et distingue les objets pendant la nuit (allégorie qui convient parfaitement à la sagesse, toujours en garde contre la surprise).</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img148.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img148.png"/>
         </figure>
         <p>En cherchant le sens de-cette fable, on trouve que les conseils d’Ascalaphe déterminèrent Proserpine à recevoir Pluton pour époux ; ce que Cérès vit avec douleur. Ascalaphe devint l’objet de sa vengeance ; mais il paraît que sa prudence et sa sagesse engagèrent Minerve à le prendre sous sa protection.</p>
         <p>Jupiter, voulant apaiser et consoler Cérès, permit à Proserpine de passer seulement une moitié de l’année dans les enfers, et l’autre moitié dans le ciel. Ce partage de l’année peut s’expliquer de deux manières différentes : souvent Proserpine était prise pour la lune, et l’on voulait exprimer par cette fable le temps où elle paraît à la vue de la terre, et le temps où elle disparaît. On l’explique encore plus naturellement en disant que le roi Jupiter lui permit de passer une partie de l’année dans le royaume de Pluton, et l’autre partie dans le séjour ordinairement habité par Cérès sa mère.</p>
@@ -845,7 +845,7 @@
         <p>Voici l’origine de cette fable : Avant l’invention de la lyre, la flûte était l’instrument préféré. Apollon, avec sa lyre, trouva le moyen d’unir à la beauté du chant le charme des accords ; il la fit préférer à la flûte, et les poëtes peignirent les regrets et la jalousie de Marsyas, en disant qu’Apollon l’avait écorché.</p>
         <p>Les auteurs anciens ne sont pas entièrement d’accord sur les noms des Muses et sur leurs symboles : nous allons rapporter la manière la plus ordinaire de les nommer et de les peindre.</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img174.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img174.png"/>
         </figure>
         <p>1. <hi rend="i">Clio</hi>, la première des Muses, prend son nom de la gloire et de la renommée ; elle préside à l’histoire. On la croit inventrice de la guitare : on en place ordinairement une dans sa main droite : et dans sa main gauche on remarque un plectre au lieu d’archet. On la représente aussi très-souvent écrivant l’histoire. (<hi rend="i">Fig.</hi> 12.)</p>
         <p>2. <hi rend="i">Thalie</hi> préside à la comédie. Son nom veut dire la <hi rend="i">florissante</hi>, et lui est donné à cause de sa voix. On la représente appuyée sur une colonne, tenant un masque à la main. (<hi rend="i">Fig.</hi> 13.)</p>
@@ -875,7 +875,7 @@
         <p>Le second temple était situé dans la Chersonèse taurique (aujourd’hui la Crimée). Sa plus grande célébrité venait de ce que l’on y offrait des victimes humaines à Diane. Tous les étrangers que la tempête jetait sur ces côtes, ou que le hasard y faisait aborder, servaient de victimes dans ces barbares sacrifices. Oreste et Pylade, si connus par leur tendre amitié, tuèrent le pontife Thoas, emportèrent la statue de la déesse, et vinrent la déposer en Italie, où elle fut appelée Phazelis, parce qu’ils la cachèrent dans un fagot de bois.</p>
         <p>Sur la terre, Diane présidait à la chasse : Soixante nymphes, filles de l’Océan, et vingt autres filles, avaient soin de son équipage. On la représente ordinairement chaussée d’un cothurne, portant un arc et un carquois. Son front est orné d’un croissant, et son char est tiré par des biches. (<hi rend="i">Fig.</hi> 21.)</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img180.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img180.png"/>
         </figure>
         <p>Diane était regardée comme la déesse de la chasteté. Les nymphes de sa suite devaient l’imiter, et les fautes, même involontaires, étaient sévèrement punies. Le malheureux Actéon, conduit par Junon, ennemie de sa famille, pénétra, sans le vouloir, jusqu’à la grotte solitaire où Diane et les nymphes de sa suite prenaient le bain : dans l’instant même, la déesse le métamorphosa en cerf, et il fut dévoré par ses propres chiens.</p>
         <p>Calisto, nymphe d’Arcadie et favorite de la déesse, ne put éviter sa vengeance. Jupiter, pour la séduire, avait pris la forme de Diane elle-même. Cette excuse ne la garantit point ; la déesse la chassa de sa cour, et l’abandonna à la jalousie de Junon, qui la métamorphosa en ourse. Réduite à se cacher au fond des bois, elle ne put toujours échapper aux poursuites des chasseurs. Arcas, son propre fils, ayant atteint l’âge pendant lequel on trouve tant de charmes à la chasse, rencontra sa mère sans la reconnaître. Calisto, retrouvant en lui tous les traits de Jupiter, qu’elle ne pouvait oublier, ne songea plus à fuir ; ses yeux se fixèrent sur le jeune prince, qui s’apprêtait à la percer d’un dard. Jupiter, pour empêcher ce crime horrible, le métamorphosa en ours, et les plaça l’un et l’autre dans le ciel. Telle est la fable que les poëtes ont imaginée sur la constellation composée de sept étoiles, que l’on nomme aujourd’hui la grande Ourse où le Chariot. L’étoile nommée <hi rend="i">Bootès</hi> ou le Bouvier, qui suit la grande Ourse, représente le fils de Calisto.</p>
@@ -1009,7 +1009,7 @@
         <p>Pendant la fête des anciles, qui commençait aux calendes de mars, et durait treize jours, on les portait en procession en dansant et en chantant des vers qui avaient rapport à la solennité. Pendant la durée de ces fêtes, on ne pouvait entreprendre aucune expédition militaire, aucun voyage, aucune affaire importante.</p>
         <p>Les anciens monumens représentent ordinairement le dieu Mars sous la figure d’un homme très-fort, armé d’un casque, d’une pique et d’un bouclier. (<hi rend="i">Fig.</hi> 25.) Quelquefois il est nu, quelquefois il est couvert d’un habit militaire et d’un manteau. Mars vainqueur porte un trophée ; Mars Gradivus est dans l’attitude d’un homme qui marche à grands pas.</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img212.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img212.png"/>
         </figure>
       </div>
       <div>
@@ -1133,7 +1133,7 @@
         <p>Les fêtes célébrées en l’honneur de Vulcain se nommaient <hi rend="i">lampadophories</hi>, ou <hi rend="i">porte-flambeaux</hi>. Les jouteurs couraient jusqu’au bout de la carrière avec une torche allumée dans leur main. Lorsqu’elle s’éteignait, on était chassé de l’arène, et le prix appartenait à celui qui le premier touchait le but et conservait sa torche allumée.</p>
         <p>Dans les anciens monumens, Vulcain paraît toujours avec la barbe et la chevelure négligées ; son habit descend jusqu’au-dessus des genoux ; il porte un bonnet rond et pointu ; sa main droite tient un marteau, et sa gauche des tenailles. (<hi rend="i">Fig.</hi> 29.)</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img237.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img237.png"/>
         </figure>
         <p>Les Romains, dans leurs traités les plus solennels, prenaient le feu vengeur pour témoin ; et les assemblées où l’on traitait les affaires les plus graves de l’état se tenaient dans le temple de Vulcain.</p>
         <p>Parmi les peuples anciens les Égyptiens sont ceux qui ont le plus honoré ce dieu. Il avait à Memphis un temple magnifique, devant lequel on avait placé une statue colossale de soixante-quinze pieds de hauteur. Celle du temple petite et mesquine, excita les rires de Cambyse, lorsqu’il conquit Memphis ; il la fit jeter au feu par mépris.</p>
@@ -1291,7 +1291,7 @@
         <head>Démogorgon.</head>
         <p><hi rend="sc">Cette</hi> divinité allégorique était le génie de la terre. On avait tant de crainte et de vénération pour son nom, que personne n’osait le prononcer hautement. Les philosophes regardaient cette divinité comme l’esprit de chaleur qui produit les plantes et leur donne la vie. Le peuple l’honorait comme un véritable dieu. On le représentait sous la forme d’un vieillard crasseux, couvert de mousse, pâle et défiguré, habitant toujours les entrailles de la terre. Il avait pour compagnons l’Éternité et le Chaos. (<hi rend="i">Fig.</hi> 32.)</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img268.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img268.png"/>
         </figure>
         <p>Nous croyons devoir donner une partie de la description que les poëtes nous ont transmise de cette obscure et singulière divinité.</p>
         <quote>
@@ -1326,7 +1326,7 @@
         <p><hi rend="i">Vertumnus</hi>, son époux, dont le nom vient de <hi rend="i">vertere, changer, tourner</hi>, était le symbole de l’année et des variations des saisons. On le représentait souvent sous les formes de laboureur, de moissonneur, de vigneron, et sous celle d’une vieille, pour signifier le printemps, l’été, l’automne et l’hiver. Quelques auteurs le confondent avec Janus ; d’autres le disent un ancien roi d’Étrurie, célèbre par son amour de la culture des jardins.</p>
         <p>On représente Pomone sous la figuré d’une belle et jeune femme, assise sur un panier de fruits, ayant des pommes sur ses genoux, et des branches chargées de fruits autour d’elle. (<hi rend="i">Fig.</hi> 35.)</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img274.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img274.png"/>
         </figure>
         <p>On peint Vertumnus sous la figure d’un jeune homme, tenant des fruits dans une main, et dans l’autre urne corne d’abondance. Son habillement ne le couvre qu’à demi. (<hi rend="i">Fig.</hi> 36.)</p>
         <p><hi rend="i">Priape</hi> était aussi regardé comme dieu des jardins : on le disait fils de Vénus et de Bacchus. Il naquit à Lampsaque. Sa figure hideuse servait ordinairement d’épouvantail pour écarter les voleurs et les oiseaux. Les Orientaux adoraient ce même dieu sous le nom de Béelphégor.</p>
@@ -1430,7 +1430,7 @@
         <p><hi rend="sc">Pluton</hi>, troisième fils de Saturne et d’Ops, régnait dans les enfers avec Proserpine. Ses noms les plus ordinaires étaient <hi rend="i">Dis, Adès, Orcus</hi> et <hi rend="i">Februus. Dis</hi> exprime <hi rend="i">les richesses</hi> ; il y présidait, parce qu’elles sont renfermées dans les entrailles de la terre. <hi rend="i">Adès</hi> signifie <hi rend="i">triste et sombre. Orcus</hi> vient du latin <hi rend="i">urgere, pousser</hi>, parce que ce dieu poussait vers la mort. <hi rend="i">Februus</hi> vient de <hi rend="i">februare, faire des lustrations</hi>, parce qu’on en faisait toujours dans les cérémonies funèbres.</p>
         <p>Le sceptre de Pluton était une fourche à deux pointes ; il tenait dans ses mains les clefs de son empire, pour annoncer qu’on n’en sortait point (<hi rend="i">Fig.</hi> 39), et dans les sacrifices, les brebis noires lui étaient immolées.</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img294.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img294.png"/>
         </figure>
         <p>Pluton était le plus jeune des frères de Jupiter ; dans le partage du monde, il eut les pays occidentaux, qui s’étendent jusqu’à l’Océan, et fixa son séjour au fond de l’Espagne. Il y fit exploiter des mines d’or et d’argent. Ce travail ne pouvant s’exercer que sous la terre, on publia qu’il avait pénétré jusqu’aux enfers et s’en était emparé.</p>
         <p>Quoique <hi rend="i">Plutus</hi> fût aussi le dieu des richesses, il ne faut pas le confondre avec Pluton, divinité qui lui était très-supérieure. Plutus était fils de Cérès et de Jasion. On le représentait aveugle comme la Fortune, pour montrer que les richesses sont dispensées aux bons et aux mauvais.</p>
@@ -1465,7 +1465,7 @@
         <p>Les dieux <hi rend="i">Mânes</hi> n’étaient pas bien clairement connus par les anciens. Souvent ils les confondaient avec les âmes des morts, et quelquefois avec les dieux lares. Ces divinités présidaient aux sépultures et aux ombres, (pie I on croyait errantes autour des lieux funèbres.</p>
         <p>La Nuit était fille du Chaos ; on la représentait couverte d’un grand voile noir parsemé d’étoiles, parcourant sur un char d’ébène la vaste étendue des cieux, ou sans char, avec un voile qui voltigeait au gré des vents, pendant qu’elle s’approchait de la terre pour éteindre la torche qu’elle tient à la main. (<hi rend="i">Fig.</hi> 43.)</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img301.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img301.png"/>
         </figure>
         <p>Le Sommeil, fils de la Nuit et frère de la Mort, se représente sous la figure d’un enfant dormant profondément. Une de ses mains tient des pavots, qui servent aussi à reposer sa tête, et près de lui est un vase rempli d’une liqueur assoupissante. (<hi rend="i">Fig.</hi> 44.)</p>
         <p>La Mort, fille de la Nuit et sœur du Sommeil, est représentée sous la forme effrayante d’un squelette. Sa robe noire est parsemée d’étoiles ; elle a des ailes immenses, et son bras décharné est armé d’une faux. (<hi rend="i">Fig.</hi> 45.)</p>
@@ -1499,7 +1499,7 @@
           <quote>attribue les tremblemens de terre de la Sicile aux mouvemens qu’il fait pour se dégager, et les éruptions de l’Etna sont les efforts qu’il fait encore pour attaquer le ciel</quote>.</p>
         <p>Sisyphe est forcé de rouler une pierre énorme jusqu’au haut d’une montagne, d’où elle retombe dès qu’elle a touché le sommet. (<hi rend="i">Fig.</hi> 47.) On l’accusait d’avoir essayé de tromper Pluton, et de se rendre immortel, en retournant sur la terre. On trouve dans l’histoire que pendant sa jeunesse il avait échappé à une maladie très-dangereuse, et avait ensuite vécu très-long-temps.</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img307.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img307.png"/>
         </figure>
         <p>Salmonée, prince d’Élide, voulut s’égaler à Jupiter ; il crut imiter sa foudre, en faisant rouler sur un pont d’airain un char éclairé de flambeaux. Jupiter le précipita d’un coup de foudre.</p>
         <p>Phlégias, ayant brûlé un temple d’Apollon, voit sans cesse un énorme rocher suspendu sur sa tête et prêt à l’écraser. Ses plaintes éternelles servent à effrayer les ombres coupables.</p>
@@ -1521,7 +1521,7 @@
         <p>Les Grecs honoraient la <hi rend="i">Félicité</hi> sous le nom d’<hi rend="i">Endémonia</hi>, ou de <hi rend="i">Macaria</hi>. Un oracle ayant dit aux Athéniens qu’ils remporteraient la victoire si un des enfans d’Hercule se donnait volontairement la mort, Macarie, une de ses filles se tua elle-même. Les Athéniens furent victorieux, et honorèrent sous le nom de <hi rend="i">Macaria Félicité</hi> celle qui s’était dévouée pour eux.</p>
         <p>Les Romains n’honorèrent la <hi rend="i">Félicité</hi> que long-temps après la fondation de Rome. Lucullus lui fit élever un temple après la guerre contre Mithridate et Tigrane. On la représentait comme une reine assise sur un trône, tenant une corne d’abondance, avec cette légende : <hi rend="i">La Félicité publique</hi>. (<hi rend="i">Fig.</hi> 51.)</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img312.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img312.png"/>
         </figure>
         <p>L’<hi rend="i">Espérance</hi>, cette dernière ressource des hommes contre les maux qui les accablent, fut bientôt divinisée par eux. Les Grecs honoraient l’<hi rend="i">Espérance</hi> sous le nom d’<hi rend="i">Elpis</hi>, et les Romains sous celui de <hi rend="i">publica, Espérance publique</hi>.
           <author key="Cicéron">Cicéron</author>
@@ -1547,7 +1547,7 @@
         <p>La <hi rend="i">Providence</hi> était représentée par une femme appuyée sur une colonne, tenant de la main gauche une corne d’abondance, et montrant un globe avec sa main droite, pour apprendre qu’elle étend ses soins sur tout l’univers, et qu’elle dispense tous les biens. (<hi rend="i">Fig. 59</hi>.)</p>
         <p>On représente la <hi rend="i">Justice</hi> sous la figure d’une jeune fille, tenant une balance égale des deux côtés, ayant une épée nue à la main et un bandeau sur les yeux ; elle est assise sur un bloc de pierre, prête à prescrire des peines contre le crime et des récompenses pour la vertu. (<hi rend="i">Fig.</hi> 60.)</p>
         <figure>
-          <graphic url="tressan_mythologie-comparee-01_1822_images/tressan_mythologie-comparee-01_1822_img317.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/tressan_mythologie-comparee-01_1822_img317.png"/>
         </figure>
         <p>La <hi rend="i">Fortune</hi> présidait au bien et au mal. On la représentait sous la figure d’une femme aveugle et presque chauve, avec des ailes aux deux pieds. L’un d’eux est posé sur une roue qui tourne avec vitesse, et l’autre est en l’air. (<hi rend="i">Fig.</hi> 61.)</p>
         <p>L’<hi rend="i">Occasion</hi> se représentait de même, mais elle avait une touffe de cheveux sur la tête, afin de laisser un moyen de la saisir. (<hi rend="i">Fig.</hi> 62.)</p>

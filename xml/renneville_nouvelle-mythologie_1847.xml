@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-11-13T19:54:16+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Renneville (1847)">
   <teiHeader>
     <fileDesc>
@@ -53,7 +53,7 @@
       <div>
         <head>Introduction.</head>
         <figure>
-          <graphic url="renneville_nouvelle-mythologie_1847_images/renneville_fig1.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/renneville_fig1.png"/>
         </figure>
         <p>La Fable est l’histoire fabuleuse des divinités du paganisme. On lui donne le nom de <hi rend="i">Mythologie</hi>. Ce sont des récits inventés par les anciens en l’honneur des dieux et des héros qu’ils regardaient comme leurs premiers chefs. Une partie de ces récits n’est que la vérité de l’histoire, déguisée par l’amour-propre du merveilleux ; une autre partie est une allégorie des vérités morales des propriétés physiques ; il en est enfin qui ne sont que le jeu de l’imagination des poètes.</p>
         <p>On divinisait les héros, les princes, les grands capitaines qui s’étaient illustrés par des actions héroïques. C’est ainsi que <hi rend="i">Jupiter</hi>, roi de l’île de Crète, qu’on appelle à présent <hi rend="i">Candie</hi>, fut mis au rang des dieux à cause de sa valeur et de sa puissance, qui le faisaient respecter de ses voisins. Ses deux frères, <hi rend="i">Neptune</hi> et <hi rend="i">Pluton</hi>, reçurent les mêmes honneurs. Neptune commandait une armée navale : on l’appela dieu des mers. <hi rend="i">Pluton</hi> fut nommé le Dieu des enfers, parce qu’il avait inventé les funérailles. Ainsi, dans ces siècles d’ignorance, on regardait comme des hommes extraordinaires, divins, ceux qui inventaient des choses pour les commodités et les agrémens de la vie qui savaient la conserver ou la prolonger. C’est ainsi qu’Esculape, médecin célèbre, fut honoré comme un dieu.</p>
@@ -1441,7 +1441,7 @@
               <author key="Demoustier">Demoustier</author>.</bibl>
           </quote>
           <figure>
-            <graphic url="renneville_nouvelle-mythologie_1847_images/renneville_fig2.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/renneville_fig2.png"/>
           </figure>
         </div>
         <div>

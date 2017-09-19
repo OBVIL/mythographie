@@ -1,0 +1,7 @@
+Options Indexes FollowSymLinks
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# évite RewriteBase, rappel avec %1, le ? permet de faire fonctionner la règle partout
+RewriteCond %{THE_REQUEST} ^[^/]*(.*/mythographies/)?
+RewriteRule   ^(.*)$ %1index.php/$1 [QSA,L]

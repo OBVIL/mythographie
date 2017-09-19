@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:07:21+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Le Tellier (1812)">
   <teiHeader>
     <fileDesc>
@@ -53,7 +53,7 @@
       <div>
         <head>Frontispice</head>
         <figure>
-          <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img000.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img000.png"/>
         </figure>
       </div>
       <div>
@@ -213,7 +213,7 @@
           <div>
             <head>Saturne.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img014.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img014.png"/>
             </figure>
             <p>D. De qui Saturne étoit-il fils ?</p>
             <p><hi rend="i">R. Saturne</hi> étoit fils du Ciel, le plus ancien des dieux, et de la Terre, la plus ancienne des déesses. Le Ciel s’appeloit encore <hi rend="i">Uranus</hi>, et la Terre étoit aussi nommée <hi rend="i">Vesta</hi>. Mais elle doit être alors distinguée de <hi rend="i">Vesta</hi>, déesse du feu et de la virginité.</p>
@@ -275,7 +275,7 @@
           <div>
             <head>Jupiter.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img021.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img021.png"/>
             </figure>
             <p>D. Quel rang tient Jupiter parmi les dieux ?</p>
             <p><hi rend="i">R. Jupiter</hi>, fils de Saturne et Cybèle, est regardé comme le plus grand et le plus puissant des dieux : c’étoit le roi du ciel et de la terre.</p>
@@ -465,7 +465,7 @@
           <div>
             <head>Cérès.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img038.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img038.png"/>
             </figure>
             <p>D. De qui Cérès fut-elle fille ?</p>
             <p><hi rend="i">R.</hi> Elle fut fille de Saturne et de Cybèle. Elle étoit la déesse des moissons. Elle enseigna aux hommes l’agriculture, en parcourant l’univers, pour chercher sa fille Proserpine que Pluton avoit enlevée.</p>
@@ -763,7 +763,7 @@
           <div>
             <head>Pluton.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img058.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img058.png"/>
             </figure>
             <p>D. Qu’étoit Pluton ?</p>
             <p><hi rend="i">R. Pluton</hi>, troisième fils de Saturne et de Cybèle, régnoit dans les enfers. Par le nom d’<hi rend="i">enfers</hi>, les poëtes et les mythologues entendent les lieux souterrains où alloient les ames des morts, pour être punies ou récompensées. Les enfers contenoient le <hi rend="i">Tartare</hi> et les <hi rend="i">Champs élysées</hi>. Le Tartare étoit un lieu de supplices, destiné aux méchants. Les Champs élysées étoient un lieu de délices, ou les ombres de ceux, qui avoient bien vécu, jouissoient d’un bonheur parfait.</p>
@@ -1019,7 +1019,7 @@
           <div>
             <head>Mercure.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img078.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img078.png"/>
             </figure>
             <p>D. Qu’étoit Mercure ?</p>
             <p>12. <hi rend="i">Mercure</hi>, fils de Jupiter et de Maïa, étoit l’interprète et le messager des dieux, et en particulier de son père. Il conduisoit aux enfers les ames des morts, et les en ramenoit. Il présidoit à l’éloquence et au commerce. On le représente avec des ailes à la tête et aux pieds, et un caducée à la main.</p>
@@ -1051,7 +1051,7 @@
           <div>
             <head>Mars.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img083.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img083.png"/>
             </figure>
             <p>D. De qui Mars étoit-il fils ?</p>
             <p><hi rend="i">R. Mars</hi> étoit fils de Junon, qui lui donna seule le jour par l’attouchement d’une fleur des champs d’Olène. Ce dieu présidoit à la guerre.
@@ -1086,7 +1086,7 @@
           <div>
             <head>Vénus</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img085.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img085.png"/>
             </figure>
             <p>D. Racontez l’origine de Vénus.</p>
             <p><hi rend="i">R. Vénus</hi>, déesse de la beauté et des amours, étoit fille de Jupiter et de Dioné, l’une des nymphes de la mer. D’autres prétendent qu’elle fut formée de l’écume des eaux. Aussitôt qu’elle fut née, Zéphire la porta dans l’île de Chypre, ou les Heures se chargèrent de la nourrir ; et, bientôt après, elles la conduisirent avec pompe dans le ciel. Touts les dieux la trouvèrent si belle, que chacun d’eux voulut l’épouser. Jupiter accorda la préférence à Vulcain, pour le récompenser des services qu’il lui avoit rendus en forgeant des foudres contre les géants. Ainsi, le plus laid des dieux devint l’époux de la plus belle des déesses. Vénus, mécontente d’un tel choix, eut plusieurs amants, dont les principaux sont Mars, Bacchus, Anchise prince troyen, et Adonis jeune chasseur.</p>
@@ -1145,7 +1145,7 @@
           <div>
             <head>Apollon.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img094.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img094.png"/>
             </figure>
             <p>D. De qui Apollon étoit-il fils ?</p>
             <p><hi rend="i">R. Apollon</hi> étoit fils de Jupiter et de Latone. La jalouse Junon suscita contre Latone le serpent Python, qui la poursuivoit sans relâche. La Terre avoit juré à la reine des dieux de ne point donner d’asile, à sa rivale. Latone, arrivée au bord de la mer, ne pouvoit plus échapper aux poursuites du monstre ; mais Neptune vint au secours de l’infortunée Latone. Le dieu de la mer poussa contre le rivage l’île de Délos, qui étoit flottante, et qui fut alors rendue stable. Latone s’y réfugia, et y mit au monde Apollon et Diane. Apollon fut surnommé <hi rend="i">Délien</hi>, du lieu où il avoit pris naissance.</p>
@@ -1403,7 +1403,7 @@
                 <num>.</num>
               </head>
               <figure>
-                <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img115.png"/>
+                <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img115.png"/>
               </figure>
               <p><hi rend="sc">Demande</hi>. Quel dieu tenoit le premier rang parmi les divinités champêtres ?</p>
               <p><hi rend="i"><hi rend="sc">Réponse</hi></hi>. C’étoit le dieu <hi rend="i">Pan</hi> ; il étoit l’inventeur de la flûte, et le dieu des bergers, des bois et des prairies.</p>
@@ -1654,7 +1654,7 @@
               <p><hi rend="i">R. Harpocrate</hi>, dieu Égyptien, fils d’Osiris et d’Isis, présidoit au silence. Cette divinité allégorique est représentée sous la figure d’un homme ou d’une femme qui tient un doigt sur la bouche.</p>
               <head>Thémis, Astrée</head>
               <figure>
-                <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img129.png"/>
+                <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img129.png"/>
               </figure>
               <p>D. Quelle est la déesse de la justice ?</p>
               <p><hi rend="i">R.</hi> C’est <hi rend="i">Thémis</hi>, fille du Ciel et de la Terre. On la représente ordinairement avec une balance à la main et un bandeau sur les yeux. Quelques-uns la représentent tenant une épée à la main.</p>
@@ -1890,7 +1890,7 @@
           <div>
             <head>Hercule.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img141.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img141.png"/>
             </figure>
             <p>D. Quel a été le plus célèbre des héros de l’antiquité ?</p>
             <p><hi rend="i">R.</hi> C’est <hi rend="i">Hercule</hi>, fils de Jupiter et d’Alcmène femme d’Amphitrion roi de Thèbes. Jupiter vint se présenter à Alcmène, sous les traits d’Amphitrion, pendant que celui-ci étoit occupé à la guerre. Alcmène, déjà enceinte, mit au monde deux jumeaux, dont l’un nommé <hi rend="i">Eurysthée</hi> fut fils d’Amphitrion, et l’autre appelé <hi rend="i">Hercule y</hi> eut pour père Jupiter.</p>
@@ -2752,7 +2752,7 @@
           <div>
             <head>Œdipe.</head>
             <figure>
-              <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img202.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img202.png"/>
             </figure>
             <p>D. De qui Œdipe étoit-il fils ?</p>
             <p><hi rend="i">R.</hi> Il étoit fils de <hi rend="i">Laïus</hi>, roi de Thèbes. Laïus avoit appris de l’oracle qu’il périroit de la main de son propre fils ; et ordonna à <hi rend="i">Jocaste</hi> sa femme, d’ôter la vie à l’enfant qu’elle mettroit au monde. La mère eut horreur de ce crime, et en confia l’exécution à un berger. Le berger, à son tour, touché des grâces de l’enfant, lui perça les talons et l’attacha à un arbre sur le mont Cithéron. Icare, berger de Polybe roi de Corinthe, ayant conduit par hasard son troupeau dans ce lieu, trouva le jeune prince, le détacha et l’emporta. La reine de Corinthe voulut le voir ; et, comme elle n’avoit point d’enfants, elle l’adopta et prit soin de son éducation. Elle lui donna le nom d’<hi rend="i">Œdipe</hi>, à cause de l’enflure de ses pieds.</p>
@@ -3065,7 +3065,7 @@
             <div>
               <head>Agamemnon, Ménélas.</head>
               <figure>
-                <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img223.png"/>
+                <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img223.png"/>
               </figure>
               <p>D. De qui les deux frères Agamemnon et Ménélas étoient-ils fils ?</p>
               <p><hi rend="i">R.</hi> Ces deux princes avoient pour père <hi rend="i">Plisthène</hi>, un des fils de Pélops. Plisthène, en mourant, recommanda ses deux fils encore jeunes à son frère Atrée, qui les fit élever comme ses propres enfants. C’est ce qui leur fit donner le nom d’<hi rend="i">Atrides</hi>.</p>
@@ -3280,7 +3280,7 @@
               <p><hi rend="i">R.</hi> Il consulta l’oracle d’Apollon, qui lui répondit qu’il devoit aller en Tauride enlever la statue de Diane, et délivrer sa sœur Iphigénie. <hi rend="i">Pylade</hi>, fils de Strophius, roi de Phocide, lié d’une étroite amitié avec Oreste, voulut accompagner ce prince dans son voyage. Mais, ayant été surpris touts deux, ils furent chargés de chaînes pour être immolés à Diane. Thoas, roi de la Tauride, consentit à sauver l’un des deux étrangers. Ce fut alors qu’il s’éleva une dispute célèbre entre Oreste et Pylade : l’un vouloit mourir pour l’autre. Le sort tomba sur Oreste ; mais, au moment qu’Iphigénie alloit le frapper, elle le reconnut pour son frère. Oreste et Pylade tuèrent Thoas, pour le punir de ses cruautés, enlevèrent la statue de Diane, et revinrent dans la Grèce avec Iphigénie. Oreste donna sa sœur Électre en mariage à Pylade ; ensuite il épousa Hermione, fille de son oncle Ménélas, et joignit au royaume de Mycènes celui de Sparte.</p>
               <p><seg>Achille</seg>.</p>
               <figure>
-                <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img234.png"/>
+                <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img234.png"/>
               </figure>
               <p>D. De qui naquit Achille ?</p>
               <p><hi rend="i">R : Achille</hi> étoit fils de Thétis et de Pelée. Il fut élevé par le centaure Chiron qui ne le nourrit que de moëlle de lion. Sa mère le plongea dans le Styx, pour le rendre invulnérable. Mais le talon par où elle le tenoit, ne reçut point la même vertu que les autres parties de son corps. Thétis, instruite par les oracles, que Troie ne pouvoit être prise sans le secours de son fis, et que le jeune héros périroit sous les murs de cette ville, l’envoya en habits de fille, et sous le nom de <hi rend="i">Pyrrha</hi>, à la cour de Lycomède, roi de Scyros. Achille se fit aimer de Déidamie, fille de Lycomède, et en eut un fils nommé <hi rend="i">Pyrrhus</hi>.</p>
@@ -3752,7 +3752,7 @@
             <div>
               <head>Priam.</head>
               <figure>
-                <graphic url="letellier_manuel-mythologique_1812_images/letellier_manuel-mythologique_1812_img268.png"/>
+                <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img268.png"/>
               </figure>
               <p>D. Racontez les malheurs de Priam.</p>
               <p><hi rend="i">R. Priam</hi>, roi de Troie, épousa <hi rend="i">Hécube</hi>, dont il eut un grand nombre d’enfants. Il releva les murs de la ville, et fit fleurir son empire. Mais son bonheur fut troublé par son fils <hi rend="i">Pâris</hi>, qui ravit Hélène à Ménélas. A la prise de Troie, Priam fut tué par Pyrrhus, à la vue de sa femme et au milieu de ses dieux. Énée raconte ainsi à Didon la mort de Priam.</p>

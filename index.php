@@ -1,11 +1,4 @@
 <?php
-// page demandée ?
-// si rien, liste des livres
-// si recherche, concordance
-// si livre, vérifier qu'il existe
-// si recherche concordance locale
-// si pas de chapitre, donner page accueil du livre
-
 ini_set('display_errors', '1');
 error_reporting(-1);
 $conf = include( dirname(__FILE__)."/conf.php" );
@@ -18,9 +11,13 @@ $teinte = $basehref."../Teinte/";
 
 // chercher le doc dans la base
 $docid = current( explode( '/', $path ) );
-$q = $base->pdo->prepare("SELECT * FROM doc WHERE code = ?; ");
-$q->execute( array( $docid ) );
-$doc = $q->fetch();
+$query = $base->pdo->prepare("SELECT * FROM doc WHERE code = ?; ");
+$query->execute( array( $docid ) );
+$doc = $query->fetch();
+
+$q = null;
+if ( isset($_REQUEST['q']) ) $q=$_REQUEST['q'];
+
 
 ?><!DOCTYPE html>
 <html>
@@ -49,30 +46,38 @@ else echo '<a href="'.$basehref.'">Corpus : Mythographie</a>';
           <?php
 // document
 if ( $doc ) {
-  // TODO, download
-  // auteur, titre, date
+  // formats alternatifs à télécharger
   echo "\n".'<header>';
+  echo '<nav id="download"><small>Télécharger :</small>'."\n";
+  echo "\n".'<a type="application/epub+zip" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>';
+  echo ",\n".'<a type="application/x-mobipocket-ebook" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>';
+  echo ".\n</nav>";
+
+
   if ($doc['byline']) echo "\n".'<div class="byline">'.$doc['byline'] .'</div>';
   echo "\n".'<a class="title" href="' . $basehref . $doc['code'] . '/">';
   if ($doc['date']) echo $doc['date'].', ';
   echo $doc['title'].'</a>';
+  echo '
+<form action="#mark1">
+  <a title="Retour aux résultats" href="'.$basehref.'?'.$_COOKIE['lastsearch'].'"><img src="'.$basehref.'../theme/img/fleche-retour-corpus.png" alt="←"/></a>
+  <input name="q" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/><button type="submit">🔎</button>
+</form>
+';
   echo "\n".'</header>';
   // table des matières
-  readfile("toc/".$doc['code'].".html");
+  if ( file_exists( $f="toc/".$doc['code']."_toc.html" ) ) readfile( $f );
 }
-// accueil ? formulaire de recherche général
+// accueil, formulaire de recherche général
 else {
-  /*
   echo'
-    <form action="">
-      <input name="q" class="text" placeholder="Rechercher" value="'.str_replace('"', '&quot;', $pot->q).'"/>
-      <div><label>De <input placeholder="année" name="start" class="year" value="'.$pot->start.'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'. $pot->end .'"/></label></div>
-      '.$pot->bylist().'
-      <button type="reset" onclick="return Form.reset(this.form)">Effacer</button>
-      <button type="submit">Rechercher</button>
-    </form>
+<form action="">
+  <input style="width: 100%;" name="q" class="text" placeholder="Rechercher de mots" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/>
+  <div><label>De <input placeholder="année" name="start" class="year" value="'.$base->p['start'].'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'.$base->p['end'].'"/></label></div>
+  <button type="reset" onclick="Form.reset(this.form); this.form.submit(); ">Effacer</button>
+  <button type="submit" style="float: right; ">Rechercher</button>
+</form>
   ';
-  */
 }
           ?>
         </aside>
@@ -80,77 +85,31 @@ else {
           <div id="article">
             <?php
 if ( $doc ) {
-  readfile("article/".$doc['code'].".html");
+  $html = file_get_contents( "article/".$doc['code']."_art.html" );
+  if ( $q ) echo $base->hilite( $doc['id'], $q, $html );
+  else echo $html;
+}
+else if ( $base->search ) {
+  $base->biblio( array( "no", "date", "author", "title", "occs" ), "SEARCH" );
 }
 // pas de livre demandé, montrer un rapport général
 else {
   echo '<h1 style="padding-top:0">Mythographie 1800-1950</h1>';
-  echo '<img src="accueil/mitologia.png"/>';
+  echo '<img src="images/mitologia.png"/>';
   echo '
 <p>Le projet « Mythographie 1800-1950 » porte sur le corpus des dictionnaires, manuels et recueils de récits mythologiques dont la publication prend un essor considérable au XIXe siècle.</p>
 <p>Une bibliographie des ouvrages publiés dans les langues française, anglaise, italienne, allemande, espagnole et grecque moderne est en cours d’élaboration. Les livres recensés font l’objet d’un travail collectif d’édition et d’interprétation dans le cadre d’une réflexion sur l’autorité littéraire.</p>
 <p>L’équipe, dirigée par Véronique Gély avec le soutien de Diego Pellizzari, réunit pour ces travaux de bibliographie et d’édition Cécile Chapon, Elodie Coutier, Cyril Gendry, Marie-Pierre Harder, Georgios Meli, François Vassogne, des étudiants de Master et les ingénieurs de l’Obvil.</p>
 ';
-  // catalogue
-  $cols=array("no", "creator", "date", "title");
-  $labels = array(
-    "no"=>"N°",
-    "publisher" => "Éditeur",
-    "creator" => "Auteur",
-    "date" => "Date",
-    "title" => "Titre",
-    "downloads" => "Téléchargements",
-    "relation" => "Téléchargements",
-  );
-  echo '<table class="sortable">'."\n  <tr>\n";
-  foreach ($cols as $code) {
-    echo '    <th>'.$labels[$code]."</th>\n";
-  }
-  echo "  </tr>\n";
-  $i = 1;
-  foreach ($base->pdo->query("SELECT * FROM doc ORDER BY code") as $doc ) {
-    echo "  <tr>\n";
-    foreach ($cols as $code) {
-      if (!isset($labels[$code])) continue;
-      echo "    <td>";
-      if ("no" == $code) {
-        echo $i;
-      }
-      else if( "creator" == $code || "author" == $code || "byline" == $code ) {
-        echo $doc['byline'];
-      }
-      else if( "date" == $code || "year" == $code ) {
-        echo $doc['date'];
-      }
-      else if( "title" == $code ) {
-        echo '<a href="'.$doc['code'].'">'.$doc['title']."</a>";
-      }
-      echo "</td>\n";
-    }
-    echo "  </tr>\n";
-    $i++;
-  }
-  echo "\n</table>\n";
-  /*
-  // nombre de résultats
-  echo $pot->report();
-  // présentation chronologique des résultats
-  echo $pot->chrono();
-  // présentation bibliographique des résultats
-  echo $pot->biblio(array('date', 'title', 'occs'));
-  // concordance s’il y a recherche plein texte
-  echo $pot->concByBook();
-  */
+  $base->biblio( array("no", "creator", "date", "title") );
 }
             ?>
+            <a id="gotop" href="#top">▲</a>
           </div>
         </div>
-      </div></div>
-      <?php
-// footer
-      ?>
     </div>
     <script type="text/javascript" src="<?= $teinte ?>Tree.js">//</script>
     <script type="text/javascript" src="<?= $teinte ?>Sortable.js">//</script>
+    <script type="text/javascript" src="<?= $teinte ?>Teinte.js">//</script>
   </body>
 </html>

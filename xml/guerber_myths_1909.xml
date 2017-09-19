@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T12:27:37+02:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Guerber (1909)">
   <teiHeader>
     <fileDesc>
@@ -81,7 +81,7 @@
           <author key="Conington">Conington</author>’s translation of the “<title>Æneid</title>,” and to
           <author key="Morris L.">Sir Lewis Morris</author> and others whose works have similarly been placed under contribution.</p>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter I: The Beginning</head>
         <div>
           <head>Myths of Creation</head>
@@ -447,7 +447,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter II: Jupiter</head>
         <div>
           <head>The Power of Jupiter</head>
@@ -591,7 +591,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter III: Juno</head>
         <div>
           <head>The Consort of Jupiter</head>
@@ -627,7 +627,7 @@
           <p>The mother was so touched by her sons’ affection, that, as she knelt before the altar, she fervently prayed Juno to bestow upon them the greatest boon in her power. At the conclusion of the services the ex-priestess went into the portico, where her sons had thrown themselves down to rest after their unwonted exertions; but instead of finding them merely asleep, as she expected, she found them dead. The Queen of Heaven had transported them while asleep to the Elysian Fields, the place of endless bliss, where such as they enjoyed eternal life.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter IV: Minerva</head>
         <div>
           <head>The Birth of Minerva</head>
@@ -716,7 +716,7 @@
             <author key="Phidias">Phidias</author>, measured full forty feet in height. Festivals were celebrated in honour of Minerva wherever her worship was held — some, the Greek Panathenæa, for instance, only every four years; others, such as the Minervalia and Quinquatria, every year. At these festivals the Palladium, a statue of the goddess, said to have fallen from heaven, was carried in procession through the city, where the people hailed its appearance with joyful cries and songs of praise.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter V: Apollo</head>
         <div>
           <head>The Beautiful God</head>
@@ -1277,7 +1277,7 @@
           <p>One of the Seven Wonders of the ancient world, the famous Colossus of Rhodes, was a statue of Apollo, his head encircled with a halo of bright sunbeams, and his legs spread wide apart to allow vessels, with all their sails spread, to pass in and out of the harbour, whose entrance he guarded for many a year.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter VI: Diana</head>
         <div>
           <head>The Goddess of the Chase</head>
@@ -1458,7 +1458,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter VII: Venus</head>
         <div>
           <head>The Birth of Venus</head>
@@ -1918,7 +1918,7 @@
           <p>Venus’ festivals were always scenes of graceful amusements; and her votaries wore wreaths of fresh, fragrant flowers, the emblem of all natural beauty.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter VIII: Mercury</head>
         <div>
           <head>The Childhood of Mercury</head>
@@ -2020,7 +2020,7 @@
           <p>He was one of the twelve principal gods of Olympus, and was widely worshipped. Temples, altars, and shrines were dedicated to his service throughout the ancient world. His statues were considered sacred boundary marks, and their removal punished by death. Solemn annual festivals were held in Rome in Mercury’s honour in the month of May, and from him received their name of Mercuralia.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter IX: Mars</head>
         <div>
           <head>The Character of Mars</head>
@@ -2084,7 +2084,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter X: Vulcan</head>
         <div>
           <head>The Fall of Vulcan</head>
@@ -2144,7 +2144,7 @@
           <p>Great festivals, the Vulcanalia and the Hephæstia, were celebrated in honour of this god, who is generally represented as a short, muscular man, with one leg shorter than the other, a workman’s cap on his curly locks, a short upper garment, and a smith’s tools in his hand.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XI: Neptune</head>
         <div>
           <head>The Realm of Neptune</head>
@@ -2307,7 +2307,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XII: Pluto</head>
         <div>
           <head>The Realm of Pluto</head>
@@ -2536,7 +2536,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XIII: Bacchus</head>
         <div>
           <head>The Story of Semele</head>
@@ -2765,7 +2765,7 @@
           <p>Bacchus is generally represented as a handsome youth, crowned with ivy or grape leaves and clusters, bearing the thyrsus, an ivy-circled wand, as sceptre, and riding in a chariot drawn by panthers or leopards.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XIV: Ceres and Proserpina</head>
         <div>
           <head>Pluto and Proserpina</head>
@@ -2989,7 +2989,7 @@
           <p>Another anecdote illustrating Ceres’ power is told about a lad, Stellio, who made fun of the goddess when she was journeying, on account of the haste with which she disposed of a bowl of gruel offered by some charitable person. To punish the boy for his rudeness, Ceres flung the remainder of the gruel into his face, and changed him into a lizard.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XV: Vesta</head>
         <div>
           <head>The Worship of Vesta</head>
@@ -3034,7 +3034,7 @@
           <p>Upon removing from one house to another or from one place to another, it was customary for the head of the family to remove his household gods also, and establish them suitably before he thought of his own or his family’s comfort, and in return for this kindly care the Penates blessed him with peace and prosperity.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XVI: Janus</head>
         <div>
           <head>Janus’ Two Faces</head>
@@ -3075,7 +3075,7 @@
           <p>Janus is not the only one among the Greek and Latin divinities whose name has been given to a part of the year or week; for in Latin the names of the days are <hi rend="i">dies Solis</hi> (Sun day), <hi rend="i">dies Lunæ</hi> (Moon day), <hi rend="i">dies Martis</hi> (Mars’ day), <hi rend="i">dies Mercurii</hi> (Mercury’s day), <hi rend="i">dies Jovis</hi> (Jove’s day), <hi rend="i">dies Veneris</hi> (Venus’ day), <hi rend="i">dies Saturni</hi> (Saturn’s day); Latin names which are still in use in legislative and judiciary acts, while in English the common nomenclature is derived from the names of the corresponding Saxon divinities.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XVII: Somnus and Mors</head>
         <div>
           <head>The Cave of Sleep</head>
@@ -3146,7 +3146,7 @@
           <p>As for Morpheus, the son as well as the prime minister of Somnus, he was also called the god of sleep, and mortals were wont to intercede for his good offices. He is generally represented as a sleeping child of great corpulence, and with wings. Morpheus held a vase in one hand, and poppies in the other, which he gently shook to induce a state of drowsiness, — according to him, the acme of bliss.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XVIII: Æolus</head>
         <div>
           <head>The Home of Æolus</head>
@@ -3199,7 +3199,7 @@
           <p>On another occasion, Boreas, having changed himself into a horse and united himself to the mares of Dardanus, King of Troy, became the father of twelve steeds so swift that none could overtake them.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XIX: Hercules</head>
         <div>
           <head>Hercules and the Serpents</head>
@@ -3505,7 +3505,7 @@
           <p>It is said that some of the games celebrated at Olympia were held in his honour, although originally instituted by him in honour of Jupiter, his father. The Nemean Games, celebrated in the forest of Nemea, the scene of his first great labour, were the principal games held in Greece in commemoration of his noble deeds and early death.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XX: Perseus</head>
         <div>
           <head>Acrisius and Danae</head>
@@ -3651,7 +3651,7 @@
           <p>But the gods’ decree was always sure to be fulfilled sooner or later; and one day, when Perseus was playing quoits, he accidentally killed his grandfather. To remain at Argos, haunted by the memory of this involuntary crime was too painful for him: so he exchanged his kingdom for another, that of Mycenæ, which he ruled wisely and well. When Perseus died, after a long and glorious reign, the gods, who had always loved him, placed him among the stars, where he can still be seen, with his wife Andromeda, and mother-in-law Cassiopeia.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXI: Theseus</head>
         <div>
           <head>The Childhood of Theseus</head>
@@ -3776,7 +3776,7 @@
           <p>As for Theseus, soured by these repeated misfortunes, he grew so stern and tyrannical, that he gradually alienated his people’s affections, until at last they hated him, and banished him to the Island of Scyros, where, in obedience to a secret order, Lycomedes, the king, treacherously slew him by hurling him from the top of a steep cliff into the sea. As usual, when too late the Athenians repented of their ingratitude, and in a fit of tardy remorse deified this hero, and built a magnificent temple on the Acropolis in his honour. This building, now used as a museum, contains many relics of Greek art. Theseus’ bones were piously brought back, and interred in Athens, where he was long worshipped as a demi-god.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXII: Jason</head>
         <div>
           <head>The Education of Jason</head>
@@ -3904,7 +3904,7 @@
           <p>The Argonautic expedition is emblematic of the first long maritime voyage undertaken by the Greeks for commercial purposes; while the golden fleece which Jason brought back from Colchis is but a symbol of the untold riches they found in the East, and carried to their native land.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXIII: The Calydonian Hunt</head>
         <div>
           <head>The Birth of Meleager</head>
@@ -3961,7 +3961,7 @@
           <p>Festivals celebrated in honour of these twin brethren, and called the Dioscuria, were held in many places, but specially in Sparta, their birthplace, where they had world renowned wrestling matches.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXIV: Œdipus</head>
         <div>
           <head>The Destiny of Œdipus</head>
@@ -4143,7 +4143,7 @@
           <p>The Epigoni (or those who come after), as these youths are collectively designated, received this proposal with rapture; and Thebes, again besieged, fell into their hands, and was duly sacked, burned, and destroyed, the Delphic oracle had foretold so many years before.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXV: Bellerophon</head>
         <div>
           <head>The Flight of Bellerophon</head>
@@ -4197,7 +4197,7 @@
           <p>This story, like many others, is merely a sun myth, in which Bellerophon, the orb of day, rides across the sky on Pegasus, the fleecy white clouds, and slays Chimæra, the dread monster of darkness, which he alone can overcome. Driven from home early in life, Bellerophon wanders throughout the world like his brilliant prototype, and like it, ends his career in total darkness.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXVI: Minor divinities</head>
         <div>
           <head>Their Provinces and Duties</head>
@@ -4415,7 +4415,7 @@
           <p>Glaucus was worshipped most particularly by the fishermen and boatmen, whose vessels he was supposed to guard from evil, and whose nets were often filled to overflowing through his intervention.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXVII: The Trojan War</head>
         <div>
           <head>Jupiter and Thetis</head>
@@ -4995,7 +4995,7 @@
           <p>Arrived at Delphi, Orestes consulted the oracle, and learned that his crime would be forgiven if he brought a statue of Diana in Tauris back to Greece. The young prince hastened thither, accompanied by the ever-faithful Pylades, who never left his side; and there, in a temple, he found his long-lost sister Iphigenia, who helped him obtain the image he sought, and accompanied him back to his native land, where Nemesis left him forever.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXVIII: Adventures of Ulysses.</head>
         <p><hi rend="sc">The</hi> Greek chiefs, on their return from Troy, were, as we have seen, all more or less visited by the wrath of the gods; but none of them endured as many hardships as Ulysses (Odysseus), King of Ithaca, the hero of
           <author key="Homère">Homer</author>’s world-renowned epic the Odyssey. During ten long years he roamed the seas, driven away from his native land by adverse winds, sailing about from place to place, losing his ships and companions, until at last the gods allowed him to return home. His marvelous adventures and numerous mishaps during these ten years form the theme of the Odyssey, which is about as follows.</p>
@@ -5335,7 +5335,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXIX: Æneas</head>
         <div>
           <head>The Adventures of Æneas</head>
@@ -5620,7 +5620,7 @@
           <p>Æneas, as the gods had predicted, became the father of a son named Æneas Silvia, who founded Alba Longa, where his descendants reigned for many a year, and where one of his race, the Vestal Virgin Ilia, after marrying Mars, gave birth to Remus and Romulus, the founders of Rome,</p>
         </div>
       </div>
-      <div type="chapter">
+      <div>
         <head>Chapter XXX: Analysis of Myths</head>
         <div>
           <head>The Various Theories</head>

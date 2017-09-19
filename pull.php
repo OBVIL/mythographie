@@ -38,7 +38,7 @@ include( dirname(dirname(__FILE__))."/Teinte/Build.php" );
     echo '</pre>'."\n";
     // envoyer le csv au build
     echo 'Transformations <pre style="white-space: pre-wrap;">'."\n";
-    $build = new Teinte_Build( $conf['sqlite'] );
+    $build = new Teinte_Build( $conf );
     if ( isset($_POST['force']) ) $build->clean();
     $build->glob( );
     echo '</pre>'."\n";

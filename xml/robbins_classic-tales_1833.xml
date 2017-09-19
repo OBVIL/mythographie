@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-01-11T11:39:35+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Robbins (1833)">
   <teiHeader>
     <fileDesc>
@@ -88,7 +88,7 @@
         <p>Psyche had the weakness to listen to this foolish and wicked counsel. The very next night after her sisters had left her, when Psyche presumed that her husband was asleep, she arose, and went into the next room for a lamp, which she had purposely placed there. With the lamp in her hand, she next approached the bed when Cupid was lying.</p>
         <p>What was the surprise and delight of Psyche, when, instead of a distorted and repulsive figure, she beheld one of the loveliest forms and faces imaginable; the beautiful rosy cheek was partly concealed by clusters of golden curls, and the ruby lips looked like a half opened flower. She was struck with admiration as she saw revealed to her this lovely object. She could hardly believe her own eyes; but in her delightful surprise, the hand which held the lamp trembled — a single drop of scalding oil fell upon the shoulder of Cupid — the dagger dropped from the grasp of Psyche, and fell to the floor — Cupid, waked by the smart and the noise, started up; and, what should he behold but the blushing and affrighted Psyche, with a lamp in her hand, and a dagger at her feet.</p>
         <figure>
-          <graphic url="robbins_classic-tales_1833_images/robbins_classic-tales_1833_pl01.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_classic-tales_1833_pl01.png"/>
         </figure>
         <p>At this sight, Cupid darted at Psyche a look of the keenest displeasure and reproach, and spreading his light wings, flew toward the open window of the room. The wretched culprit caught one of his feet, hoping to detain him, but she was drawn after him into the open air, and instantly dropped to the ground.</p>
         <p>As Cupid flew off, Psyche heard these angry words from his lips: “I quit you, ungrateful Psyche. My mother commanded me to find a monster, and force you to marry him; but instead of obeying her, I gave you myself! To reward my tenderness, you formed a design to kill me, even before you knew me. I go to punish your wicked sisters — you I abandon.”</p>
@@ -129,7 +129,7 @@
         <p>Venus was not much pleased with this decision, but she could not dispute the <hi rend="i">fiat</hi> of Jove, and so she was forced to consent to the marriage of her son. All the gods, the celestial, terrestrial, marine, and infernal, were called to the celebration. Jupiter introduced Psyche to all the gods and goddesses, and presented her with a cup of nectar with his own hand.</p>
         <p>“Receive,” said be, fair Psyche, this mark of my favour. When you drink of this, your human nature will be exalted to that of the immortals.”</p>
         <figure>
-          <graphic url="robbins_classic-tales_1833_images/robbins_classic-tales_1833_pl02.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_classic-tales_1833_pl02.png"/>
         </figure>
         <p>The blooming pair then made a vow to love each other eternally, and a benediction was pronounced upon them. The festivity ended in a dance, and Venus was the gayest of the gay.</p>
       </div>

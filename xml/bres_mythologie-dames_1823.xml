@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T15:39:01+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brès (1823)">
   <teiHeader>
     <fileDesc>
@@ -53,7 +53,7 @@
       <div>
         <head>[Couverture]</head>
         <figure>
-          <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img01.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img01.png"/>
         </figure>
       </div>
       <div>
@@ -132,7 +132,7 @@
           <p>Jupiter était fier du droit de lancer la foudre, et dont il usait cruellement dans sa colère. Salmonée, roi d’Élide, ayant voulu tenter d’imiter la foudre de Jupiter, en faisant passer son char sur un pont d’airain et en lançant des feux de toute part, le maître des dieux le frappa du véritable tonnerre, et le précipita dans les enfers. On ne peut douter que ce dieu, si jaloux de ses droits, n’eût foudroyé Francklin, le jour même où il aurait songé à faire un paratonnerre. Cependant on assure que Junon a quelquefois lancé la foudre contre ses ennemis.</p>
           <p>Le roi des dieux s’ennuyait quelquefois à la cour céleste, et venait rendre hommage à la beauté des jeunes mortelles. Il ne dédaigna point de se métamorphoser pour séduire ses amantes : on le vit tour-à-tour sous la forme d’un taureau, d’un coucou, d’une pluie d’or, d’une flamme, d’un cygne, et sous celle d’Amphitryon, général des Thébains. L’histoire de ses conquêtes amoureuses formerait un volume d’une grosseur raisonnable.</p>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img02.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img02.png"/>
           </figure>
           <p>La jeune Léda se baignait dans les eaux de l’Eurotas, près de Sparte : tout-à-coup, elle voit s’avancer vers elle un cygne poursuivi par un aigle aux serres cruelles ; Léda d’une main caressante flatte le col d’albâtre du bel oiseau qui semblait implorer son secours. Cet oiseau était Jupiter lui-même ; l’aigle qui le poursuivait était Vénus, qui avait consenti à servir les desseins du maître des dieux. Les peintres se sont plu souvent à nous montrer la suite de cette aventure amoureuse.
             <author key="Correggio">Le Corrège</author> en fit le sujet d’un de ses chefs-d’œuvre. Au bout de neuf mois, Léda accoucha de deux œufs, de l’un desquels sortirent Pollux et cette Hélène si célèbre par sa beauté, et de l’autre Castor et Clytemnestre qui fut l’épouse d’Agamemnon.</p>
@@ -292,7 +292,7 @@
         <div>
           <head>Vénus.</head>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img03.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img03.png"/>
           </figure>
           <p>Cette déesse naquit de l’écume de la mer, près de l’île de Cypre. A peine avait-elle essayé la vie que Zéphyre la porta dans cette île. Les Saisons, jeunes divinités filles de Jupiter et de Thémis, l’attendaient sur le rivage : après l’avoir parée comme une divinité, elles la conduisirent dans l’Olympe.</p>
           <p>Cette présentation à la cour céleste tut le premier triomphe de Vénus. L’admiration des dieux parut égale à la jalousie des déesses. Elle but le nectar et devint immortelle.</p>
@@ -785,7 +785,7 @@
         <div>
           <head>L’Aurore.</head>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img04.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img04.png"/>
           </figure>
           <p>Lorsque Apollon se disposait à répandre sur l’univers la lumière du Soleil, il se faisait précéder de l’Aurore, une des plus aimables des jeunes divinités, fille de Titan et de la Terre. La douce clarté qu’amène sa présence prépare nos yeux à la lumière éclatante du soleil. Son front, couvert de fleurs, brille de rayons doux et modérés ; avec ses belles mains, dont les doigts ont la couleur des boutons de la rose, elle écarte les nuages, et elle tient les rênes des chevaux qui conduisent son char brillant des couleurs les plus agréables. Lorsqu’elle se montre, un vent frais, appelé Aure, se répand sur la terre, et annonce son retour aux fleurs et aux oiseaux des bocages. Souvent les fleurs, à son approche, se couvrent d’une brillante rosée que l’on croit être ses larmes. Les pleurs cependant semblent peu naturels à cette riante déité, à moins qu’on ne les attribue aux inquiétudes de l’amour. Plusieurs fois en effet l’Aurore fut soumise à la puissance du dieu de Paphos.</p>
           <p>Le premier objet de sa tendresse fut Tithon, fils de Laomédon, roi de Troie, et de Strymo, fille du Scamandre. L’Aurore l’ayant vu un jour à la chasse, lorsqu’elle répandait ses premiers rayons, l’enleva pour en faire son époux ; il la rendit mère de Memnon et d’Émathion. Memnon fut roi d’Éthiopie : s’étant rendu au siège de Troie, il y périt de la main d’Achille. Les Égyptiens lui élevèrent une statue qui prononçait des sons articulés au lever de l’Aurore, et qui le soir, dans l’ombre, rendait des sons lugubres.</p>
@@ -1084,7 +1084,7 @@
           <p>Les filles de Minée, après avoir travaillé un jour de fête consacrée à Bacchus, furent métamorphosées en chauves-souris.</p>
           <p>Corésus, prêtre de Bacchus, dans le temple de Calydon, ville d’Étolie, aimait la jeune Callirhoé, et n’obtint d’elle que des mépris. Dans sa douleur, il supplia le dieu de lui être favorable. Pour venger son prêtre de l’insensibilité de Callirhoé, Bacchus répandit dans la ville de Calydon une maladie semblable à l’ivresse, et qui bientôt frappait de mort ceux qui en étaient atteints. L’oracle de Dodone répondit que pour faire cesser cette maladie, il fallait que Corésus immolât sur l’autel de Bacchus l’insensible Callirhoé. Déjà elle était au pied de l’autel, parée de fleurs et des tristes ornements des victimes, lorsque Corésus, sentant tout-à-coup expirer son ressentiment, se frappe lui-même du couteau sacré, et tombe aux pieds de Callirhoé, qui, désespérée d’avoir si mal payé tant d’amour, alla se tuer le même jour au bord d’une fontaine qui fut appelée de son nom.</p>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img05.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img05.png"/>
           </figure>
           <p>Bacchus aima avec tendresse la jeune Érigone, fille d’Icarius, et sœur de Pénélope. Modèle de piété filiale, cette princesse fut long-temps insensible aux traits de l’Amour. Bacchus eut recours aux métamorphoses : sous la forme d’une grappe de raisin d’une grosseur extraordinaire, il parvint à se faire aimer, et à conduire Érigone à ses plus joyeuses fêtes et à tous ses mystères. Un thyrse à la main, et le front couronné de lierre, elle suivait le dieu des vendanges, qui la regardait comme sa conquête la plus chère.</p>
           <p>Cependant Érigone, ayant appris la mort de son père, assassiné par des bergers ; et, par le secours d’un chien, étant parvenue à découvrir le lieu de sa sépulture, elle l’arrosa de ses larmes, et ne pouvant vaincre sa douleur, elle se donna la mort.</p>
@@ -1472,7 +1472,7 @@
         <div>
           <head>Hébé.</head>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img06.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img06.png"/>
           </figure>
           <p>On croit généralement qu’elle était fille de Jupiter et de Junon. Sa fraîcheur et sa beauté lui firent donner le nom de déesse de la jeunesse. Ses fonctions dans l’Olympe étaient de verser le nectar à la table des dieux. Il serait impossible à nous autres mortels de nous faire une idée des aliments des convives célestes. Le nectar et l’ambrosie étaient les seules substances que l’on servît dans le banquet ; mais l’ambrosie prenait différents goûts, selon le desir de ceux qui en mangeaient. C’était aussi un parfum, dont les déesses ne manquaient pas de faire usage pour leurs cheveux et pour leurs habits : l’odeur d’ambrosie annonçait l’approche d’une déesse une lieue à la ronde. L’<hi rend="i">huile de Macassar</hi> n’eût sans doute été d’aucun prix auprès de ce divin parfum. Cette substance avait la propriété de guérir toutes les blessures des mortels : les déesses s’en servirent plusieurs fois pour guérir les héros auxquels elles avaient donné naissance.</p>
           <p>Il faut remarquer qu’il n’y avait que les divinités de l’Olympe qui eussent le privilège de se nourrir de nectar et d’ambrosie. Les dieux terrestres s’accommodaient de ce qu’ils pouvaient trouver : le vin était pour eux une liqueur précieuse. On dit que Silène, le compagnon de Bacchus, marchandant un jour le vin d’Ulysse, en avala d’abord une outre pour en connaître mieux la qualité. Le vin de l’île de Naxos, dans laquelle Bacchus était principalement honoré, passait pour être la liqueur qui avait le plus de rapport avec le nectar.</p>
@@ -1702,7 +1702,7 @@
         <div>
           <head>Amphitrite.</head>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img07.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img07.png"/>
           </figure>
           <p>Neptune, devenu amoureux d’Amphitrite, une des Océanides, employa toute sorte de moyens pour la séduire ; car elle avait fait vœu de virginité. La rigueur et les mépris de cette déesse mirent long-temps sa constance à l’épreuve, et peut-être ne serait-il jamais parvenu à la fléchir, sans le secours d’un Dauphin qui la fit enfin résoudre à prendre ce dieu pour époux. Neptune, en récompense du service que le Dauphin lui avait rendu, le plaça parmi les astres, où il forme la constellation de son nom.</p>
           <p>Amphitrite partagea l’empire des eaux avec son mari. Il la rendit mère de Triton, un des dieux marins, et de Rhode, qui donna son nom à une île de la mer Égée.</p>
@@ -1755,12 +1755,12 @@
           <p>Thalie préside à la comédie et aux divertissements.</p>
           <p>Melpomène ou la Mélodieuse, règne sur la scène tragique.</p>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img08.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img08.png"/>
           </figure>
           <p>Therpsichore, ou l’Amusante, préside à la danse et aux jeux.</p>
           <p>Érato, ou l’Amoureuse, a pour son partage les poésies galantes.</p>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img09.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img09.png"/>
           </figure>
           <p>Polymnie est la déesse de la musique vocale.</p>
           <p>Calliope est la souveraine des chants nobles et élevés, et préside à l’éloquence et à la poésie épique.</p>
@@ -1960,7 +1960,7 @@
           <head>Les Vallons.</head>
           <p>Terminons notre cours de <hi rend="i">Géographie mythologique</hi> par l’étude des vallons. C’était dans leurs sites variés que se réunissaient les divinités les plus riantes : là, souvent les Sylvains, les Oréades, les Nappées, les Dryades, conduits par le dieu Pan, venaient célébrer leurs fêtes joyeuses. Écho s’éveillait sous les rochers, et se plaisait à répéter les refrains harmonieux des nymphes qui dansaient au bord des fontaines, en se tenant par la main et en s’entrelaçant de fleurs.</p>
           <figure>
-            <graphic url="bres_mythologie-dames_1823_images/bres_mythologie-dames_1823_img10.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/bres_mythologie-dames_1823_img10.png"/>
           </figure>
           <p>Souvent au lever de l’Aurore, ou le soir, lorsque Apollon jette ses derniers regards sur la Terre, on voit sortir des plus frais bocages la jeune Flore : elle erre sur le bord des ruisseaux ; sa tête est couronnée de fleurs ; quelquefois elle tient dans ses mains des guirlandes, ou une corne d’abondance remplie de toute sorte de fleurs.</p>
           <p>Zéphire, le plus léger des vents, est l’amant de cette aimable déesse. Le premier jour qu’elle le vit, elle prit la fuite ; mais le jeune dieu l’atteignit, lui peignit son amour, et depuis ce temps, ils vont ensemble dans les prés et dans les vallons émaillés. Zéphire de son souffle léger rafraîchit les jeunes tiges, et de son aile il fait courber les roses naissantes qu’il semble caresser avec volupté. Quelquefois on le voit sous des berceaux auprès de son amante.</p>

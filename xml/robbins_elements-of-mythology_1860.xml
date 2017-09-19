@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T18:02:47+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Robbins (1860)">
   <teiHeader>
     <fileDesc>
@@ -138,7 +138,7 @@
           <p>What is a personification?</p>
         </q>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_016.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_016.png"/>
         </figure>
       </div>
       <div>
@@ -195,7 +195,7 @@
         <head>Janus.</head>
         <p><hi rend="sc">Janus</hi> was a king of Italy, who received Saturn when he was expelled from heaven by Jupiter. The true history of Saturn must be, that he was a wise man, who was driven from some little kingdom by a successful usurper, who was perhaps his son; and, as a fugitive prince, escaping from injustice, was hospitably received by Janus.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_021.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_021.png"/>
         </figure>
         <p>The people of Italy were probably, at that remote period, less instructed in the useful arts and the comforts of life, than the inhabitants of Crete, over which the usurper Jupiter acquired dominion. Janus was a patriotic king, one who wished to make his subjects wiser and better, and who devoted himself to improving them; therefore, he gladly admitted Saturn to a share of the government, and acquired useful knowledge from him.</p>
         <p>Janus, from his wisdom, was regarded as a prophet, and was supposed to be as well acquainted with the <hi rend="i">future</hi> as the <hi rend="i">past</hi>. This double gift of <hi rend="i">looking before and after</hi>, was nothing more than the <hi rend="i">experience</hi> and <hi rend="i">foresight</hi> of a wise man; nevertheless, ignorant people supposed that he was a <hi rend="i">supernatural</hi> being, and therefore, after his death he was deified.</p>
@@ -341,7 +341,7 @@
         <p>Apollo had a son named Esculapius. Esculapius was the best physician of antiquitv; he prolonged the lives of so many mortals, that Pluto complained to Jupiter that Esculapius prevented his dominions from being peopled, therefore Jupiter struck Esculapius with lightning and killed him.</p>
         <p>Apollo, enraged by the death of Esculapius, destroyed the Cyclops, huge one-eyed giants who had forged the thunderbolts of Jupiter. The Cyclops were servants and favourites of Jupiter, so he was angry at Apollo for destroying them, and expelled him from heaven as a punishment.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_031.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_031.png"/>
         </figure>
         <p>When Apollo dwelt upon earth, he employed himself in tending the flocks of Admetus, king of Thessaly. Admetus treated Apollo so kindly that the god promised, whenever the former should be summoned from the world by death, that his life should be spared, provided he could find another person who would die in his place. A mortal disease afterwards seized Admetus, and his wife, Alceste, offered herself to die instead of her husband. This act of generous devotion has often been commended.</p>
         <p>It is asserted by the poets that Apollo raised the walls of Troy by the music of his harp; and that a stone upon which he laid his lyre became so melodious, that whenever it was struck, it sounded like that instrument. Having unfortunately killed a very beautiful boy, called Hyacinthus, by the blow of a quoit, Apollo caused to spring up from his blood, the flower called after his name.</p>
@@ -402,7 +402,7 @@
         <head>Mars.</head>
         <p><hi rend="sc">Mars</hi> was the god of war. He was commonly depicted by his worshippers as a warrior completely armed, and attended by Bellona, his sister, a goddess, fierce as himself. They were represented in a chariot drawn by two wild horses, whose names were Flight and Terror.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_037.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_037.png"/>
         </figure>
         <p>Discord, Clamour, Anger, and Fear attended the chariot of Mars. The <hi rend="i">dog</hi>, for his eagerness in pursuit of prey; the <hi rend="i">wolf</hi>, for his fierceness; the <hi rend="i">raven</hi>, which feeds upon the slain; the <hi rend="i">cock</hi>, for his wakefulness, were all consecrated to a god, who was himself without pity, forbearance, or fear.</p>
         <p>Men worshipped Mars, to engage his assistance against their enemies, or through fear of his power. They could not feel love and trust in a being who was neither just nor benevolent. Mars was dreaded upon earth, and detested in heaven. In the <title>Iliad</title>, Jupiter addresses him thus:</p>
@@ -586,7 +586,7 @@
         <p><hi rend="sc">In</hi> the <title>Hebrew Scriptures</title> the rainbow is the symbol of peace, God’s peace with the guilty world, which was punished and pardoned. When the first bow was set in the cloud this gracious promise was uttered,
           <quote>“henceforth, summer and winter, day and night, seed-time and harvest shall never fail.”</quote> <title>Gen.</title> ch. ix. ver. 12.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_049.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_049.png"/>
         </figure>
         <p>The heathens seem to have known that the rainbow intimated God’s goodness, for they personified this meteor under the figure of Iris, who was the messenger of peace to the dying. Iris was a beautiful female, the constant attendant of Juno, and more particularly the messenger of that goddess.</p>
         <p>Iris was frequently employed by Juno to stir up strife among men. She is commonly represented with wings, and with her head encircled by a rainbow. The most benevolent office of Iris was to disengage the soul from the body, and she descended from heaven on this errand. Iris attended only dying persons of the female sex.</p>
@@ -673,7 +673,7 @@
           <quote>“<hi rend="i">blue-eyed maid</hi>,”</quote> for she never married.</p>
         <p>The fable relates, that Neptune and Minerva disputed for the honour of giving a name to the capital of Attica. The gods decided that whichsoever should bestow the most useful gift upon the citizens, should give a name to the city. Neptune gave them a horse, and Minerva an <hi rend="i">olive tree</hi>. The latter gift was the most valued by the inhabitants of Cecropia, and from that time they called their city Athenæ.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_055.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_055.png"/>
         </figure>
         <p>Minerva was represented as a beautiful woman, of a countenance somewhat severe. On her head was a golden helmet, and her breastplate was also of gold. In her right hand Minerva bore a beaming lance, and in her left a buckler, called the Egis.</p>
         <p>The Egis of Minerva had embossed upon it the head of Medusa. Medusa was one of the Gorgons, a sea nymph — she offended Minerva, and the goddess transformed her beautiful hair to frightful serpents. Thus disfigured. Medusa became an object of aversion and horror. Perseus, a prince of Argos, was employed to cut off this terrific head.</p>
@@ -811,7 +811,7 @@
         <p>It appears, however, that Pluto had nothing frightful in the apprehension of Proserpine, and that she was taken without much resistance. The ground opened upon the occasion, the ebon coursers descended, and where the earth closed over the car of Pluto and Proserpine a fountain gushed out. This fountain was called Cyane, and thither the Sicilians would afterwards resort, and celebrate the descent of Proserpine in annual festivals.</p>
         <p>Ceres, alarmed at the absence of Proserpine, sought for her among the flowers of Enna, but she only found her daughter’s veil. It is related of Ceres, that in her distress she kindled a torch at the flames of Mount Ætna, and carrying it in her hand, to light her in all dark places, went over the world in search of her lost child.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_065.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_065.png"/>
         </figure>
         <p>Ceres, after a while, discovered whither Proserpine had been carried. Angry and grieved at this act of violence, Ceres supplicated Jupiter that Proserpine by his supreme authority might be restored to earth. Jupiter, to comfort and appease Ceres, consented, on condition that Proserpine had not tasted any thing in hell.</p>
         <p>Ceres, upon this, descended to the dark dominions of Pluto, and was welcomed by Proserpine, who gladly prepared to return to earth with her mother. Pluto, however, was not to be deceived; he had employed a spy called Ascalaphus to watch Proserpine, and when she was about to depart Ascalaphus declared that he had seen her eating a pomegranate. Therefore Proserpine was detained, and Ceres compelled to leave her.</p>
@@ -927,7 +927,7 @@
         <p>Sometimes he appears mounted on a dolphin; and sometimes he is represented as breaking the winged thunderbolt of Jove. He was the son of Venus; his wife was Psyche — a Greek word, signifying spirit, or soul.</p>
         <p>The love of Cupid for Psyche was an allegory intended to show that all true affection is towards the mind. The most beautiful object in nature without <hi rend="i">life</hi> cannot be loved. The gift of life to an intelligent being is only of value according to the degree of understanding, sensibility, and goodness which he possesses. We can only be beloved by the intelligent and good, according to the goodness, the ability, and the generous sympathies of our nature.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_073.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_073.png"/>
         </figure>
       </div>
       <div>
@@ -1006,7 +1006,7 @@
         <div>
           <head>Neptune.</head>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_081.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_081.png"/>
           </figure>
           <p><hi rend="sc">Neptune</hi> was the brother of Jupiter. In the division of their father’s kingdom the empire of the seas fell to his share. He was worshipped as the god of the seas. Amphitrite was his wife. He was represented with black hair and blue eyes, standing erect in a chariot formed of a vast shell drawn by sea-horses; clothed in an azure mantle, and holding in his hand the trident which commanded the waves. Around him played the sea-nymphs, and the Tritons sounding their trumpet of shells.</p>
           <p>He was the ruler of the waters, the god of ships and of all maritime affairs, and his supreme command could raise the stormy waves, or calm the wildest fury of the tempest.</p>
@@ -1107,7 +1107,7 @@
           <p>Bacchus, drawn by wild beasts, subject to his will, attended by rural deities, — Pan, Silenus, and the Satyrs, and making a peaceable progress from one country to another, exhibits a benefactor and not a disturber of nations. The fir, the ivy, the fig, and the vine, were sacred to Bacchus. The goat was slain in his sacrifices, because that animal is injurious to vines.</p>
           <p>The festivals of Bacchus were celebrated in the woods. Women were his principal worshippers His priestesses were called Bacchæ, Bacchantes, and Menades, the Bacchæ ran about disguised in the skins of beasts with dishevelled hair, bearing torches in their hands, and waving the thyrsus, and sometimes bearing upon their shoulders young kids for the sacrifice.</p>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_087.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_087.png"/>
           </figure>
           <p>The feasts of Bacchus were sometimes noisy, and those who attended them were often intoxicated. These feasts were called Bachanalia, Revels, and Orgies. Riotous meetings of those who drink much wine and keep late hours are now often called orgies. The Bacchæ hung little images of Bacchus upon the pine trees when they went into the woods to celebrate his worship.</p>
           <quote>
@@ -1223,7 +1223,7 @@
             <author key="Anacréon">Anacreon</author> wrote some pretty verses to the grasshopper, which have been translated by
             <author key="Moore Th.">Thomas Moore</author>.</p>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_097.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_097.png"/>
           </figure>
           <quote>
             <l>Oh thou, of all creation blest,</l>
@@ -1282,7 +1282,7 @@
           <head>Pluto.</head>
           <p><hi rend="sc">Pluto</hi>, the supreme ruler of the infernal regions, sometimes called Dis, was the third son of Saturn and Ops. He was represented seated on a throne, surrounded with gloomy darkness, his countenance severe and frowning; in his hand a two-pronged fork, or a key, denoting the impossibility of returning from his dominions; his head crowned with the flowers of the narcissus, or with cypress or ebony. Sometimes he was seen in a chariot drawn by black horses, with a helmet on his head, which had the power of rendering him invisible. The victims offered to him generally were black sheep.</p>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_101.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_101.png"/>
           </figure>
           <p>The wife of Pluto was Proserpine; her history is related with that of her mother, Ceres. The following verses describe the rape of Proserpine prettily.</p>
           <quote>
@@ -1620,7 +1620,7 @@
           <p>If, in this state of peril, some man of a more powerful body, and a more courageous spirit than others of these small communities, encourages his affrighted associates, arms himself with a strong club; invents snares to entrap the invaders; kills them when they come near the habitations of men: seeks out their retreats: sets fire to their dens; strangles their little ones; and, at last, by his fearlessness, ingenuity, and perseverance, clears the country of these ravagers, he becomes the greatest benefactor of society.</p>
           <p>Men who are delivered from danger and fear, feel lively gratitude to their deliverer; they admire his generosity and courage; he has exposed his life for their security; he has endangered himself, but he has preserved them. They delight to remember his extraordinary exploits, and to speak of all his goodness. When he is dead they relate his sufferings and his triumphs, and observe days to commemorate him. At first, they say the gods assisted him, but after many years, those who <hi rend="i">hear</hi> of his achievements declare that he was a <hi rend="i">god</hi> who accomplished these services to mankind. And so heroes come to be “as <hi rend="i">gods</hi> revered.”</p>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_121.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_121.png"/>
           </figure>
           <p>Hercules, one of the most renowned of the heroes of antiquity, was reputed to be the son of Jupiter and Alcmena. From his birth Hercules was favoured with extraordinary abilities: but notwithstanding his strength, courage, and accomplishments, he was destined by the will of Jupiter to be subject to Eurystheus. King of Argos and Mycenæ.</p>
           <p>The first exploit which is related of the infant Hercules was the strangling of two serpents while he was in his cradle. Juno, who hated Hercules, sent the serpents to destroy him, but when they aimed at him their dreadful stings, the fearless babe, with his little hands, squeezed them to death, while his elder brother, Iphiclus, who saw the deed, ran about shrieking through fright.</p>
@@ -1747,7 +1747,7 @@
         <div>
           <head>Jason.</head>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_132.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_132.png"/>
           </figure>
           <p><hi rend="sc">Jason</hi> is chiefly known as the chief of the Argonautic expedition, which took place, according to common chronology, B. C. 1243. This expedition was probably the first considerable voyage undertaken by the Greeks to buy and sell: to exchange the commodities of their own with those of a distant country.</p>
           <p>The voyage of Jason was from Aulis in Thessaly to Colchis on the Euxine sea, and he was accompanied by many young and adventurous Greeks. Jason’s ship was called the Argo, and his companions the Argonauts.</p>
@@ -1893,7 +1893,7 @@
             <quote>“Thou shalt not covet thy neighbour’s wife,”</quote> and often stole each other’s wives.</p>
           <p>Aristæus one day ran after Eurydice; she fled from him, and as she was running, a serpent in the grass stung her to death; so she went to the dark dominions of Pluto and Proserpine. Orpheus in his grief at the loss of Eurydice, thought he could persuade Pluto to restore her to him, and with his lyre in his hand, he descended to the infernal regions, and played most delightfully when he had entered the domain of “gloomy Dis.”</p>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_149.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_149.png"/>
           </figure>
           <p>At the sound of this music, say the poets, the wheel of Ixion stopped, the stone of Sisyphus stood still, Tantalus forgot his thirst, and even the Furies relented. Pluto and his queen, charmed with the music, and pitying the affliction of Orpheus, consented that Eurydice should return to earth, if her husband would refrain from looking at her till she should be come to upper air.</p>
           <p>Orpheus thus satisfied, proceeded to the region of day, and Eurydice followed; but before he had set his foot upon earth, Orpheus forgot the command of the god, and turned about to look at Eurydice; he saw her, but she vanished directly from his eyes. Thus deprived of Eurydice forever, Orpheus consoled himself for the loss of her by playing upon his lyre as he wandered about Mount Rhodope, in the rude country of Thrace.</p>
@@ -1996,7 +1996,7 @@
           <p>Calchas being consulted in this emergency, declared that Agamemnon had provoked Diana, by killing her favourite stag, and that it was the pleasure of the goddess to detain the Greeks by adverse winds, until the king should sacrifice to her, his daughter Iphigenia. At first, Agamemnon chose rather to abandon the expedition, but the other princes at length persuaded him to yield to the will of Diana.</p>
           <p>In obedience to this suggestion, the King of Mycenæ sent a message to his wife Clytemnestra, requesting her to bring to him Iphigenia, that he might marry her to Achilles. Clytemnestra gladly obeyed this summons, but nothing could exceed her grief and indignation when she was informed of her daughter’s cruel destiny.</p>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_159.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_159.png"/>
           </figure>
           <p>Iphigenia saw the preparation for a sacrifice, and when she learned that she was the victim, she entreated her father to save her life; but a fatal superstition hardened him against her supplications. Calchas took the knife in his hand, and was about to strike Iphigenia to the heart, when she suddenly disappeared, and a goat was found in her place, and sacrificed accordingly.</p>
           <p>The mythologists explain this story thus: they say Diana had compassion upon the innocent virgin, and carried her away miraculously to her temple in Taurica, (the Crimea of modern geography,) where she made her a priestess. After this, the <hi rend="i">Argive host</hi>, as
@@ -2448,7 +2448,7 @@
             <quote>“In the beginning God created the heavens and the earth; and the earth was without form and void, and darkness was upon the face of the deep, and the Spirit of God moved on the face of the waters.”</quote></p>
           <p>The world being created, was divided into ten parts, each of which was committed to the care of a guardian spirit. Besides Brahma in his three characters, and the guardian spirits, the Hindus believe in many inferior deities: the chief of these are,</p>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_191.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_191.png"/>
           </figure>
           <p>Casgapa, the ancient god of the heavens, with Aditi his consort, parents of many of the inferior deities.</p>
           <p>Ganesa, son of Seva, the god of wisdom, is depicted with an elephant’s head, the symbol of sagacious discernment, and attended by a rat, which the Indians regarded as a wise and provident animal. All sacrifices and religious ceremonies; addresses to superior gods; serious writings, and worldly affairs of moment, are begun by pious Hindus, with an invocation of Ganesa. His image is set up in their streets and their high roads: and against their temples and houses. They daily sprinkle it with oil, and adorn it with flowers.</p>
@@ -2546,7 +2546,7 @@
         <div>
           <head>Hindu Temples.</head>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_199.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_199.png"/>
           </figure>
           <p><hi rend="sc">The</hi> Hindu temples of the highest antiquity are the subterranean temples at Salsette, and in the small isle of Elephanta near Bombay, which is thus denominated from the figure of a large elephant admirably well cut in the solid rock, of which the island is composed.</p>
           <p>This astonishing cavern, which, as containing an assemblage of all the deified heroes and princes of India, may be called the Hindu Pantheon: is about half way up the steep side of the mountain, from whose stony bosom it is excavated. The temple is about one hundred and twenty feet square, and eighteen feet high. The enormous mass of solid rock which forms its roof, is supported by four rows of pillars, of beautiful proportion, and finely fluted. Over these columns runs a ridge of stone, so cut as to resemble a huge beam, which is richly adorned with carved work.</p>
@@ -2833,7 +2833,7 @@
         <p>The Druids had no letters nor any costly temples. They composed poems which they sung, and which were taught orally. They sometimes performed their religious ceremonies in consecrated groves. The oak was their favourite tree; and the mistletoe, or parasitic plant which grows upon the oak, was used m their worship.</p>
         <p>The sacred groves were surrounded by a ditch or mound. In their centre was a circular area, inclosed with one or two rows of large stones. This was their only temple. Close to that was the Cromlech or stone of sacrifice. Human victims were frequently offered by those who laboured under disease, or were about to go to battle. Upon important public occasions, the Druids constructed colossal images of wicker work; filled them with human beings, and consumed them, together, by fire. Criminals were deemed the offerings most acceptable to the gods; but when these were wanting, innocent persons were frequently immolated.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_215.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_215.png"/>
         </figure>
         <p>When the Romans possessed themselves of Britain, they abolished the Druidical priesthood. The poor conquered Britons were excessively grieved at this: but if the Romans did not destroy the lives or the Druids, they were right to abolish a worship which permitted human sacrifices: besides the loss of one religion made the Britons feel the want of another; and, in the first or second century, perhaps, the Roman soldiers first brought the Christian religion into Britain, where it was cordially received, and where, either in the Catholic or Protestant form, it has since been cherished.</p>
         <p>The Hell of the Druids was a region of utter darkness, which no beam of the sun, no ray of light ever visited. There serpents stung and hissed, wolves devoured, and lions roared. Some nations considered hell, a
@@ -2907,7 +2907,7 @@
         <p>The principal Egyptian deities were Osiris, Isis, Horus, Typlion, Serapis, Anubis, Harpocrates, with many others, known as Grecian Deities, such as Mercury, Jupiter Ammon, and Juno.</p>
         <ab type="ornament">———</ab>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_222.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_222.png"/>
         </figure>
         <p><hi rend="sc">Osiris</hi>, the great object of the adoration of the Egyptians, was sometimes regarded as some illustrious prince in a very early age of the world. He was the supposed author of all good; in constant opposition to Typhon, the author of evil. Osiris was adored under the form of the ox Apis.</p>
         <p><hi rend="sc">Isis</hi>, the consort of Osiris, appears to have been an emblem of the moon. She was esteemed as the cause of abundance, and regarded, like Osiris, to be one of the sources of the inundation of the Nile. The cow was her symbol. Her image was usually in the form of a woman, with cows’ horns on her head.</p>
@@ -3003,7 +3003,7 @@
         <p>The Hebrews in Asia were, without doubt, the only nation which, before the birth of Christ, preserved the knowledge of the true God; but it is curious to compare the history of God’s people and their worship, with that of the heathens; and curious also to compare heathen nations with each other. There are many particulars in which the Greek mythology resembled the history related in the <title>Bible</title>, and many others in which the religion of the Asiatics and North American savages resemble the fables of the Greeks and Romans.</p>
         <p>The <title>Bible</title> relates the history of the Deluge or flood; it also gives the history of Samson, and the sacrifice of Jephthah’s daughter. The Greeks had a fable that the world had been drowned; that a good man and woman, Deucalion and Pyrrha, survived, and that their descendants peopled the earth. The Greek Hercules was a man of irresistible strength, and performed wonders like the Hebrew Samson. Jephthah, a Hebrew general, offered his daughter to his god; and Agamemnon, the Greek chief, sacrificed his daughter Iphigenia to Diana. These are only a few of the <hi rend="i">analogies</hi> which may be found between true and false religions.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_229.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_229.png"/>
         </figure>
         <p>The Romans celebrate the reign of Saturn, and call the time of his government the Golden Age; and they honoured his memory, because he loved peace and detested war, and taught his subjects to be industrious, and to love one another. The ancient Mexicans had a Golden Age, which was commenced under the instructions of a good king, who kept his people in peace and order, and they worshipped him after his death as their benefactor. The Mexicans could never have heard of Saturn: but people honour their benefactors sooner or later everywhere; and this <hi rend="i">analogous fact</hi> serves to show how much men of all countries resemble one another.</p>
         <q type="questions">
@@ -3163,7 +3163,7 @@
         <p>In the latter ages of Rome, after the conquest of Greece, (B. C. 146,) Rome itself and the chief cities of the provinces were adorned with statues and temples, in honour of the gods of Greece. The most celebrated temples of Rome were the Capitol, or temple of Jupiter Capitolinus, and the Pantheon.</p>
         <p>The Capitol stood upon the Capitoline hill. This celebrated structure was erected by the King Tarquinius Priscus. It occupied four acres of ground, and was approached by an ascent of a hundred steps. During the civil wars, the Capitol was twice destroyed. The last Capitol was raised by the Emperor Domitian; it was afterwards converted into a Christian church; and modern travellers still visit this celebrated monument of antiquity.</p>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_245.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_245.png"/>
         </figure>
         <div>
           <head>Pantheon.</head>
@@ -3430,7 +3430,7 @@
       <div>
         <head>Jewish Priests.</head>
         <figure>
-          <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_271.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_271.png"/>
         </figure>
         <p><hi rend="sc">The</hi> Hebrew religion, like the Pagan, had its holy <hi rend="i">persons</hi>, holy <hi rend="i">times</hi>, holy <hi rend="i">places</hi>, holy <hi rend="i">actions</hi>, and holy <hi rend="i">things</hi>. Those <hi rend="i">things</hi> are termed <hi rend="i">holy</hi>, which belong to God; or such objects, services, and thought, as belong to the Deity only.</p>
         <p>The Priests, the Nazarites, and the Levites, were the <hi rend="i">holy persons</hi> among the Israelites or Hebrews. Aaron, the brother, companion, and counsellor of Moses, was appointed the first high-priest.</p>
@@ -3474,7 +3474,7 @@
         <div>
           <head>Ark.</head>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_275.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_275.png"/>
           </figure>
           <p><hi rend="sc">The</hi> Ark was a box or coffer of wood, overlaid with gold. In the ark were kept the <hi rend="i">Tables of the Law</hi>, these were stones on which the ten commandments were engraved. The book of the Law was that commonly called <title>Leviticus</title>.</p>
           <p>The <hi rend="i">Mercy-Seat</hi> was of pure gold, and formed the covering of the ark. A <hi rend="i">cherub</hi> was placed at each end of it. A cherub was the image of a human face attached to a form with wings. It was an emblematical figure, denoting God’s presence.</p>
@@ -3504,7 +3504,7 @@
           <head>[Jewish Holy Times.]</head>
           <p>The <hi rend="i">holy times</hi> chiefly observed by the Hebrews, were the morning and evening sacrifice, the Sabbath, the new moons, and the feasts of the Passover, the Pentecost, and the feast of Tabernacles.</p>
           <figure>
-            <graphic url="robbins_elements-of-mythology_1860_images/robbins_elements-of-mythology_1860_278.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/robbins_elements-of-mythology_1860_278.png"/>
           </figure>
           <p>The Passover was celebrated during seven days of Abib, the first month of the Hebrew year. The Passover commemorated God’s <hi rend="i">passing over</hi> the dwellings of the Hebrews in Egypt, while an angel smote with death the first-born of every Egyptian family. The lamb sacrificed and eaten by the Hebrews on this occasion was called the paschal lamb. Ripe corn (barley) was also offered at the Passover. On the last day of the Passover was held a solemn assembly of the people, called a holy convocation.</p>
           <p>The Pentecost was observed fifty days after the passover. It celebrated the beginning of the wheat harvest, and was a thanksgiving for the divine mercy in bestowing the fruits of the earth.</p>

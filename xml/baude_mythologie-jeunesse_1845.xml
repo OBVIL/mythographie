@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-01-11T11:33:55+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Baude (1845)">
   <teiHeader>
     <fileDesc>
@@ -53,14 +53,14 @@
       <div>
         <head>[Frontispice]</head>
         <figure>
-          <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_004.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_004.png"/>
           <label>[Fig. 1]</label>
         </figure>
       </div>
       <div>
         <head>[Page de titre]</head>
         <figure>
-          <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_005.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_005.png"/>
           <label>[Fig. 2]</label>
         </figure>
       </div>
@@ -75,7 +75,7 @@
           <author key="Rollin">Rollin</author> en rejetant dans des notes explicatives les interprétations, quelquefois arbitraires, qu’on peut donner des fables, soit historiques, soit allégoriques, et qui, lorsqu’elles se trouvent mêlées au récit de chaque fiction, ne servent qu’à en ôter tout le charme.</p>
         <signed>L. B.</signed>
         <figure>
-          <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_009.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_009.png"/>
           <label>[Fig. 3]</label>
         </figure>
       </div>
@@ -94,7 +94,7 @@
             <quote><l>Qu’on fait d’injure à l’art de lui voler la fable !</l><l>C’est interdire aux vers ce qu’ils ont d’agréable,</l><l>Anéantir leur pompe, éteindre leur vigueur</l><l> Et hasarder la muse à sécher de langueur.</l><l>…………………………………………….</l><l>Quoi ! bannir des enfers Proserpine et Pluton ;</l><l>Dire toujours le diable, et jamais Alecton ;</l><l>Sacrifier Hécate et Diane à la lune,</l><l>Et dans son propre sein noyer le vieux Neptune !</l><l>Un berger chantera ses déplaisirs secrets,</l><l>Sans que la triste Écho répète ses regrets ?</l><l>Les bois autour de lui n’auront point de dryades ?</l><l>L’air sera sans zéphyrs, les fleuves sans naïades ?</l><l>…………………………………………….</l><l>Ôtez Pan et sa flûte, adieu les pâturages !</l><l>Ôtez Pomone et Flore, adieu les jardinages !</l><l>Des roses et des lis le plus superbe éclat,</l><l>Sans la fable, en nos vers, n’aura rien que de plat.</l><l>Qu’on y peigne en savant une plante nourrie</l><l>Des impures vapeurs d’une plante pourrie :</l><l>Le portrait plaira-t-il, s’il n’a pour ornement</l><l>Les larmes d’une amante ou le sang d’un amant ?</l><l>Qu’aura de beau la guerre, à moins qu’on ne crayonne</l><l>Ici le char de Mars, là celui de Bellone ;</l><l>Que la victoire vole, et que les grands exploits</l><l>Soient portés en cent lieux par la Nymphe aux cent voix ?</l><l>Qu’ont la terre et la mer, si l’on n’ose décrire</l><l>Ce qu’il faut de Tritons à pousser un navire ?</l><l>Cet empire qu’Éole a sur les tourbillons,</l><l>Bacchus sur les coteaux, Cérès sur les sillons ;</l><l>Tous ces vieux ornements, traitez-les d’antiquailles :</l><l>Moi, si je peins jamais Trianon et Versailles,</l><l>Les Nymphes, malgré vous, danseront à l’entour,</l><l>Cent demi-dieux badins leur parleront d’amour ;</l><l>Des Satyres cachés les brusques échappées</l><l>Dans les bras de Sylvains feront fuir les Napées ;</l><l>Et si le bal s’ouvrait en ces aimables lieux,</l><l>J’y ferais, malgré vous, trépigner tous les dieux.
             <author key="Corneille"/></l></quote></note>.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_011.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_011.png"/>
             <label>[Fig. 4]</label>
           </figure>
         </div>
@@ -104,7 +104,7 @@
           <p>La première traitera de la généalogie et des attributs des dieux, et de l’histoire des demi-dieux et des héros.</p>
           <p>La seconde traitera des métamorphoses<note place="bottom"><hi rend="i">Métamorphose</hi> est un mot dérivé du grec, qui signifie <hi rend="i">changement d’une forme en une autre</hi>.</note>.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_012.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_012.png"/>
             <label>[Fig. 5]</label>
           </figure>
         </div>
@@ -112,7 +112,7 @@
       <div>
         <head>Première partie</head>
         <figure>
-          <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_013.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_013.png"/>
           <label>[Fig. 6]</label>
         </figure>
         <div>
@@ -123,31 +123,31 @@
           <p>C’est alors que parurent le soleil, la lune, les étoiles, les animaux de l’air, de la terre et des mers, et enfin l’homme.</p>
           <p>On vit d’abord fleurir l’innocence et la justice. La terre produisait sans culture, et des fleuves de lait et de miel coulaient de toutes parts. C’était l’<hi rend="i">âge d’or</hi><note place="bottom">L’âge d’or, l’innocence primitive de l’homme, sa dégradation, le déluge universel, sont encore des souvenirs de l’histoire de la <title xml:lang="en">Genèse</title>.</note> [Fig. 7].</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_014.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_014.png"/>
             <label>[Fig. 7]</label>
           </figure>
           <p>À cet âge heureux succéda l’<hi rend="i">âge d’argent</hi>, où l’homme, déchu, de sa pureté, fut condamné à se vêtir, à bâtir des maisons et à cultiver la terre [Fig. 7]. Il fut suivi de l’<hi rend="i">âge d’airain</hi>, où commencèrent les crimes et les combats [Fig. 8]. Enfin se leva l’<hi rend="i">âge de fer</hi>, époque où l’impiété amena le débordement de tous les crimes [Fig. 9].</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_015a.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_015a.png"/>
             <label>[Fig. 8]</label>
           </figure>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_015b.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_015b.png"/>
             <label>[Fig. 9]</label>
           </figure>
           <p>Jupiter, voyant la corruption générale des hommes, résolut de les exterminer par un déluge universel. La surface de la terre fut inondée, et le genre humain périt tout entier, à l’exception de Deucalion, le plus juste des hommes, et de Pyrrha, la plus vertueuse des femmes. Ils se sauvèrent dans une barque, qui s’arrêta sur le sommet du Parnasse [Fig. 10]. Quand les eaux se furent tout à fait retirées, ils allèrent consulter la déesse Thémis, qui rendait les oracles au pied de ce mont. L’invisible divinité leur fit cette réponse mystérieuse :
             <quote>« Sortez du temple, voilez-vous le visage, détachez vos ceintures, et jetez derrière vous les os de votre mère. »</quote> Deucalion, après avoir cherché pendant quelque temps le sens de ces paroles, comprit qu’il s’agissait de la terre, mère commune des hommes, et des pierres de la terre, qui sont comme les os de ce grand corps. Ils en ramassèrent donc, et firent ce que Thémis avait ordonné.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_016.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_016.png"/>
             <label>[Fig. 10]</label>
           </figure>
           <p>Les pierres de Deucalion devinrent des hommes, et celles de Pyrrha furent changées en femmes [Fig. 11]. La terre, ainsi repeuplée, vit renaître les arts et le culte des dieux [Fig. 12].</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_017a.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_017a.png"/>
             <label>[Fig. 11]</label>
           </figure>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_017b.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_017b.png"/>
             <label>[Fig. 12]</label>
           </figure>
           <p>Les anciens reconnaissaient trois classes de dieux : les grands dieux, les dieux subalternes, et les demi-dieux, au nombre desquels on comptait les héros. On distinguait aussi parmi les grands dieux ceux qui composaient le conseil céleste : c’étaient <hi rend="i">Jupiter, Junon, Neptune, Cérès, Mercure, Minerve, Vesta</hi> ou <hi rend="i">Cybèle, Apollon, Diane, Vénus, Mars</hi> et <hi rend="i">Vulcain</hi>.</p>
@@ -159,7 +159,7 @@
             <p>Au-dessus de tous les dieux était le <hi rend="i">Destin</hi>, divinité toute puissante, née du Chaos et de la Nuit. Ses arrêts étaient irrévocables, et Jupiter lui-même ne pouvait en empêcher l’exécution <note place="bottom">Le Destin est une image voilée du vrai Dieu. Dieu, tel que nous le concevons, est infini et tout-puissant ; mais, s’il est infini dans sa puissance, il est aussi infini dans sa bonté, et les prières de l’homme peuvent le fléchir. Les païens, au contraire, faisaient le Destin inflexible. Ce n’est que depuis Jésus-Christ que le genre humain a appris à voir en Dieu un père et à l’aimer.</note>.</p>
             <p>On représentait ce dieu sous la figure d’un vieillard aveugle, ayant un pied sur le globe de la terre, et la tête surmontée d’une couronne d’étoiles, pour indiquer que tout lui était soumis : le ciel, la terre et les enfers. Il tenait en main un livre ou une urne qui renfermait le sort de tous les êtres [Fig. 13].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_018.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_018.png"/>
               <label>[Fig. 13]</label>
             </figure>
           </div>
@@ -167,7 +167,7 @@
             <head>Uranus et Tellus.</head>
             <p>Les plus anciennes divinités, après le Destin, étaient <hi rend="i">Uranus</hi> ou <hi rend="i">Cœlus</hi> (le Ciel) et <hi rend="i">Tellus</hi> (la Terre), qu’on appelait aussi <hi rend="i">Titéa</hi>. Uranus épousa la Terre, et de leur mariage naquirent les <hi rend="i">Titans</hi>, géants monstrueux, au nombre desquels était <hi rend="i">Saturne</hi>. Épouvanté, Uranus voulut les précipiter dans le Tartare ; mais Tellus, qui aimait ses enfants malgré leur laideur, fit venir Saturne, et, après l’avoir excité à la révolte, l’arma d’une faux qu’elle avait fabriquée avec le fer tiré de son sein [Fig. 14]. Saturne remonta au ciel, attendit son père à l’écart et le frappa du tranchant de sa faux.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_019.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_019.png"/>
               <label>[Fig. 14]</label>
             </figure>
           </div>
@@ -175,26 +175,26 @@
             <head>Saturne.</head>
             <p>Après avoir dépossédé Uranus, <hi rend="i">Saturne</hi> régna à sa place, du consentement de <hi rend="i">Titan</hi>, son frère aîné, mais à condition qu’il n’élèverait aucun enfant mâle. Le but de Titan était de se réserver le moyen de remonter sur le trône après la mort de Saturne, ou d’y placer ses enfants. Saturne y consentit ; et, fidèle, à sa parole, il dévorait ses fils aussitôt qu’ils venaient au monde. Cependant sa femme <hi rend="i">Rhéa</hi> fille d’Uranus et de Titéa, en déroba plusieurs à sa voracité, en leur substituant des pierres emmaillottées [Fig. 15]. C’est ainsi qu’elle sauva Jupiter, Neptune et Pluton. Titan, instruit de cette supercherie, déclara la guerre à Saturne, le vainquit et l’emprisonna. Jupiter, devenu grand, vengea son père et lui rendit son trône ; mais Saturne, ayant appris du destin que Jupiter était appelé à commander un jour à l’univers, chercha tous les moyens de perdre son fils, qui prévint ses desseins et le chassa du ciel.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_020.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_020.png"/>
               <label>[Fig. 15]</label>
             </figure>
             <p>Saturne, exilé, se réfugia dans cette partie de l’Italie, qui depuis fut appelée <hi rend="i">Latium</hi> (de <hi rend="i">latere</hi>, se cacher). <hi rend="i">Janus</hi>, qui régnait alors dans cette contrée, le reçut avec honneur et partagea son trône avec lui. Saturne civilisa les peuples encore sauvages de l’Italie, leur apprit à cultiver la terre, et fit fleurir chez eux l’abondance et la paix. Les poètes ont célébré cette époque d’innocence et de bonheur sous le nom d’<hi rend="i">âge d’or</hi>. Pour récompenser Janus de sa généreuse hospitalité, Saturne lui accorda le don de connaître l’avenir et de ne jamais oublier le passé. C’est pour cela que les Romains donnaient deux visages à Janus [Fig. 16]. Comme son règne avait été fort paisible, ils firent de lui le dieu de la paix, et Numa Pompilius, second roi de Rome, lui éleva un temple dont les portes ne se fermaient que pendant la paix. On ne les ferma que trois fois dans l’espace de sept cents ans : la première sous Numa, la seconde après la deuxième guerre punique, et la troisième pendant le règne d’Auguste.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_021.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_021.png"/>
               <label>[Fig. 16]</label>
             </figure>
             <p>Saturne figurait le temps. On le représentait sous les traits d’un vieillard chauve, tenant d’une main une faux, et de l’autre un sablier, pour montrer que le temps détruit tout et s’écoule incessamment [Fig. 17]. On lui donnait aussi pour attribut un serpent qui se mord la queue, symbole de l’éternité. On lui sacrifia d’abord des victimes humaines ; mais Hercule abolit cette barbare coutume [Fig. 18].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_022a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_022a.png"/>
               <label>[Fig. 17]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_022b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_022b.png"/>
               <label>[Fig. 18]</label>
             </figure>
             <p>Les Romains l’honoraient par des fêtes appelées <hi rend="i">Saturnales</hi>, qui se célébraient au mois de décembre et duraient trois jours. La liberté la plus entière régnait dans ces solennités [Fig. 19]. Toutes les distinctions de rang étaient oubliées : les esclaves étaient servis par leurs maîtres, et pouvaient leur dire tout ce qu’ils voulaient ; les tribunaux, les écoles étaient fermés ; on n’entreprenait aucune guerre, on n’exécutait aucun criminel ; la cuisine devait absorber tous les soins. Nos trois jours de carnaval sont, sans doute, une réminiscence des anciennes Saturnales.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_023.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_023.png"/>
               <label>[Fig. 19]</label>
             </figure>
           </div>
@@ -202,11 +202,11 @@
             <head>Jupiter.</head>
             <p><hi rend="i">Jupiter</hi>, fils de Saturne et de Rhéa, qu’on nommait aussi <hi rend="i">Cybèle</hi>, était le dieu suprême des Grecs et des Romains. Pour le soustraire à la voracité de Saturne, Rhéa le fit élever secrètement dans l’île de Crète. Le jeune dieu fut allaité dans une grotte du mont Ida par la chèvre Amalthée, et soigné par deux nymphes appelées Mélisses<note place="bottom"><hi rend="i">Mélisses</hi> est un mot qui signifie, en grec, <hi rend="i">mouches à miel</hi>. En disant que Jupiter fut allaité par la chèvre Amalthée et nourri par deux nymphes, appelées Mélisses, la mythologie nous fait entendre que le lait et le miel furent la nourriture du fils de Saturne.</note> [Fig. 20]. Les Curètes, appelés aussi <hi rend="i">Corybantes</hi> ou <hi rend="i">Dactyles</hi>, prêtres de Cybèle, pour empêcher les cris de l’enfant de parvenir aux oreilles de son père, dansaient autour de la grotte, en frappant leurs boucliers et en faisant retentir l’air du bruit des cymbales et des tambours [Fig. 21]. Devenu grand, Jupiter détrôna Saturne, et partagea l’empire du monde avec ses deux frères. Neptune régna sur la mer, et Pluton dans les enfers ; Jupiter se réserva le ciel.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_024a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_024a.png"/>
               <label>[Fig. 20]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_024b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_024b.png"/>
               <label>[Fig. 21]</label>
             </figure>
             <p>Les commencements de son règne furent troublés par la révolte des <hi rend="i">Géants</hi> <note place="bottom">La lutte des géants contre Jupiter a quelques traits de ressemblance avec la révolte des mauvais anges contre Dieu. On pourrait encore l’expliquer comme un symbole des phénomènes redoutables de la nature. Les géants seraient les montagnes et les volcans, dont les cimes ou les flammes semblent menacer le ciel ; et Jupiter, dieu des régions supérieures de l’air, serait le ciel, dont la foudre frappe ordinairement les hauts lieux. Enfin il est à remarquer que l’existence des géants est un fait attesté par toutes les traditions. On lit dans la <title>Genèse</title> (ch. VI, v. 4) :
@@ -221,31 +221,31 @@
                 <author key="Boileau" resp="editor"/></l>
             </quote>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_025.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_025.png"/>
               <label>[Fig. 22]</label>
             </figure>
             <p>Cependant Jupiter ne se laissa pas intimider par le danger ; il prit sa foudre et vint à bout d’exterminer toute la race des Géants [Fig. 23]. Les plus redoutables étaient <hi rend="i">Typhon, Typhée, Encelade, Ephialte</hi> et <hi rend="i">Titye.</hi> Encelade fut enseveli sous, l’Etna, et les poètes ont supposé que son haleine exhalait les feux que lance ce volcan, et qu’il causait des tremblements de terre toutes les fois qu’il voulait changer de place. Après la révolte des Géants, Jupiter ne fut pas tout à fait tranquille. <hi rend="i">Prométhée</hi>, fils du Titan Japet, ayant formé un homme du limon de la terre, monta au ciel par le secours de Minerve, et y déroba un rayon du soleil pour animer son ouvrage. Jupiter, irrité de ce larcin, ordonna à Mercure de l’attacher sur le Caucase où un vautour rongeait continuellement ses entrailles toujours renaissantes<note place="bottom">La fable de Prométhée est visiblement une tradition altérée de la création de l’homme. Suivant les livres saints, Dieu forma le corps de l’homme du limon de la terre et y souffla son esprit pour l’animer.</note> [Fig. 24]. Les autres dieux virent avec douleur que Jupiter voulait s’attribuer seul le droit de créer des hommes. De concert entre eux, ils formèrent une femme à laquelle chaque dieu ou déesse fit un don particulier. Minerve lui donna la sagesse, Vénus la beauté ; Apollon lui enseigna la musique, et Mercure l’éloquence ; enfin les Grâces en firent une créature accomplie. Ils l’appelèrent <hi rend="i">Pandore</hi>, c’est-à-dire <hi rend="i">assemblage de tous les dons</hi>. Pour Jupiter, il lui donna une boîte mystérieuse, avec ordre de la présenter à celui qui devait l’épouser [Fig. 25] ; puis il commanda à Mercure de la conduire à Prométhée. Celui-ci, qui se défiait de Jupiter, ne voulut recevoir ni Pandore ni la boîte ; mais son frère <hi rend="i">Épiméthée</hi>, séduit par la merveilleuse beauté de Pandore, la prit pour épouse et ouvrit la boîte fatale, d’où
               s’échappèrent aussitôt tous les maux qui depuis n’ont cessé de désoler la terre [Fig. 26] : il ne resta au fond que l’<hi rend="i">Espérance</hi><note place="bottom">L’allégorie de la boîte de Pandore rappelle également la chute d’Adam et ses suites funestes. Dans la Fable comme dans l’<title>Histoire sainte</title>, l’époux cède aux instances d’une femme qui a su le séduire.</note>.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_026.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_026.png"/>
               <label>[Fig. 23]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_027.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_027.png"/>
               <label>[Fig. 24]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_028a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_028a.png"/>
               <label>[Fig. 25]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_028b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_028b.png"/>
               <label>[Fig. 26]</label>
             </figure>
             <p>Devenu paisible possesseur de son empire, Jupiter ne s’occupa plus que de ses plaisirs. Ce que la Fable raconte de la vie privée de ce maître des dieux fait peu d’honneur au paganisme. On retrouve cependant quelques attributs imparfaits de la divinité dans plusieurs de ses hymens. Ainsi il épousa successivement <hi rend="i">Métis</hi>, qui signifie la pensée ; <hi rend="i">Thémis</hi>, c’est-à-dire la justice ; <hi rend="i">Mnémosyne</hi>, ou la mémoire ; <hi rend="i">Latone</hi>, ou la lumière, etc. La plus célèbre de ses femmes fut Junon, qui s’asseyait à ses côtés sur le trône du ciel. Comme cette déesse était d’une humeur querelleuse, il descendait souvent sur la terre pour s’y désennuyer<note place="bottom"><space/>Jupiter représentait l’air pur ou l’éther ; et Junon, l’air grossier ou l’atmosphère terrestre, où se forment les pluies et les orages. C’est pour cela sans doute qu’on a dit que Jupiter et Junon faisaient souvent mauvais ménage.</note>.</p>
             <p>On se figurait ce dieu avec un air majestueux, une longue barbe, assis sur un trône d’or ou d’ivoire, tenant d’une main la foudre et de l’autre un sceptre, et ayant à ses pieds un aigle aux ailes déployées [Fig. 27]. D’un signe de tête il ébranlait le ciel et la terre.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_029.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_029.png"/>
               <label>[Fig. 27]</label>
             </figure>
             <p>Il avait des temples dans toutes les villes et dans tous les pays du monde. La forêt de Dodone<note place="bottom">Dodone, ville de l’Épire, dans le voisinage de laquelle Jupiter avait un temple, au milieu d’une épaisse forêt Ce temple avait été fondé par une prêtresse dont le nom, en grec, signifiait <hi rend="i">colombe</hi> : de là vint la fable que les colombes et les chênes de la forêt rendaient des oracles.</note>, en Épire, et l’antre de Trophonius, en Béotie<note place="bottom">Trophonius était un habile architecte qui construisit, avec son frère Agamède, le temple d’Apollon à Delphes, et qui périt dans une caverne. Après sa mort, il resta entièrement oublié. Dans la suite, la Béotie se trouvant affligée d’une sécheresse extraordinaire, on consulta l’oracle de Delphes. Apollon répondit que c’était à Trophonius qu’il fallait s’adresser. Les députés se rendirent donc à l’antre de Trophonius, et y entendirent une voix qui leur enseigna le moyen de faire cesser la sécheresse. Depuis ce temps, Trophonius fut honoré comme un dieu, et son antre devint un des plus célèbres oracles de la Grèce.</note>, étaient ses deux plus célèbres oracles. Jamais ses autels ne furent, comme ceux de Saturne et de Diane, souillés de sang humain.</p>
@@ -255,13 +255,13 @@
             <p><hi rend="i">Junon</hi>, fille de Saturne et de Rhéa, épousa Jupiter et devint la reine du ciel et des dieux. Elle était d’un caractère impérieux, jaloux et vindicatif. Elle protégeait le mariage, et, sous le nom de <hi rend="i">Lucine</hi>, elle présidait à la naissance.</p>
             <p>On lui donne trois enfants : <hi rend="i">Hébé</hi>, déesse de la jeunesse, qui servait aux dieux le nectar et l’ambroisie<note place="bottom">Le nectar était le breuvage des dieux, et l’ambroisie, leur nourriture.</note> [Fig. 28], et fut plus tard remplacée dans cette fonction par <hi rend="i">Ganymède</hi>, prince troyen, enlevé au ciel par l’aigle de Jupiter ; <hi rend="i">Mars</hi>, dieu de la guerre, et <hi rend="i">Vulcain</hi>, dieu du feu et des forges.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_030.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_030.png"/>
               <label>[Fig. 28]</label>
             </figure>
             <p><hi rend="i">Iris</hi>, ou l’arc-en-ciel, était sa confidente et sa messagère. Elle avait encore pour espion <hi rend="i">Argus</hi> aux cent yeux ; après que Mercure l’eut tué, Junon, pour récompenser Argus de ses services, le métamorphosa en paon, et voulut que ses yeux restassent empreints sur le plumage de cet oiseau.</p>
             <p>Elle était principalement honorée à Argos, à Samos, à Carthage et à Rome. Appuyée sur un arc-en-ciel, le sceptre en main, la tête couronnée de lis, elle avait à ses pieds un paon, symbole de la fierté, de la beauté et de l’empire [Fig. 29].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_031.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_031.png"/>
               <label>[Fig. 29]</label>
             </figure>
           </div>
@@ -270,17 +270,17 @@
             <p><hi rend="i">Neptune</hi>, frère de Jupiter, obtint en partage l’empire des mers. Il épousa <hi rend="i">Amphitrite</hi>, fille de Nérée et de Doris, dont il eut, entre autres enfants, les <hi rend="i">Tritons</hi> et les <hi rend="i">Harpies</hi>.</p>
             <p>Les <hi rend="i">Tritons</hi> précédaient son char, armés d’une conque recourbée qui leur servait de trompette. Ils offraient aux yeux l’aspect d’un homme-poisson [Fig. 30].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_032a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_032a.png"/>
               <label>[Fig. 30]</label>
             </figure>
             <p>Les <hi rend="i">Harpies</hi> présidaient aux vents et aux tempêtes. Il y en avait un grand nombre ; mais les principales étaient <hi rend="i">Aello, Ocypète</hi> et <hi rend="i">Céléno</hi>. Elles avaient un visage de vieille femme, un corps de vautour, des oreilles d’ours, et des griffes aux pieds et aux mains. Elles causaient la famine partout où elles passaient, enlevaient les viandes de dessus les tables, ou les souillaient d’immondices<note place="bottom">Les Harpies étaient généralement regardées comme des bandes de corsaires qui infestaient les mers.</note> [Fig. 31].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_032b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_032b.png"/>
               <label>[Fig. 31]</label>
             </figure>
             <p>On représentait Neptune sur un char en forme de coquille, traîné par des chevaux marins, et tenant en sa main un trident [Fig. 32].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_033.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_033.png"/>
               <label>[Fig. 32]</label>
             </figure>
             <quote>
@@ -313,26 +313,26 @@
             <p>Les principales divinités auxquelles Neptune commandait en qualité de dieu des mers étaient : l’<hi rend="i">Océan</hi> et <hi rend="i">Téthys</hi><note place="bottom">Il ne faut pas confondre Téthys, femme de l’Océan, avec Thétis, une des Néréides, mère d’Achille. Ces deux noms, comme on le voit, ne s’écrivent pas de la même manière.</note>, <hi rend="i">Nérée</hi> et <hi rend="i">Doris, Protée, Glaucus, Éole</hi>, les <hi rend="i">Sirènes</hi> et les <hi rend="i">Nymphes</hi>.</p>
             <p>L’<hi rend="i">Océan</hi>, fils d’Uranus et de Tellus, était regardé comme le père des fleuves. Il habitait au fond des mers un palais de corail et de perles. Il épousa sa sœur <hi rend="i">Téthys</hi> [Fig. 33], et de leur union naquirent <hi rend="i">Nérée</hi> et <hi rend="i">Doris</hi>, qui se marièrent ensemble et donnèrent naissance aux <hi rend="i">Nymphes</hi>.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_035.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_035.png"/>
               <label>[Fig. 33]</label>
             </figure>
             <p><hi rend="i">Protée</hi>, fils de l’Océan ou de Neptune, était le gardien des troupeaux du dieu des mers, qui, pour le récompenser de ses soins, lui donna la connaissance du passé, du présent et de l’avenir. Pour le consulter, il fallait le surprendre pendant qu’il dormait, et le lier de manière qu’il ne pût échapper, car il prenait toutes sortes de formes pour épouvanter ceux qui rapprochaient. Mais, si l’on persévérait à le tenir bien lié, il reprenait sa première forme, et répondait à toutes les questions qu’on lui faisait<note place="bottom">Protée peut être considéré comme un symbole de la vérité, qui semble se dérober, sous mille formes diverses, à la curiosité ou à la raison faible et imparfaite de l’homme.</note>.</p>
             <p><hi rend="i">Glaucus</hi> était un célèbre pêcheur de la ville d’Anthédon, en Béotie. Un jour qu’il faisait sécher ses filets sur l’herbe du rivage, et qu’il comptait les poissons qu’il avait pris, il s’aperçut que ces poissons s’agitaient d’une manière extraordinaire et se replongeaient dans la mer. Persuadé que cette herbe sur laquelle il les avait posés avait une vertu particulière, il en mâcha quelques brins, et, atteint aussitôt du même vertige, il se précipita dans les ondes. L’Océan et Téthys le dépouillèrent de ce qu’il avait de mortel, et l’admirent au nombre des dieux marins<note place="bottom">La fable de Glaucus indique les progrès de la pêche qui se fit d’abord sur les rivages et plus tard en pleine mer.</note>.</p>
             <p><hi rend="i">Éole</hi>, dieu des Vents, habitait les îles Vulcaniennes ou Éoliennes, entre la Sicile et l’Italie. Les Vents, ses sujets, y étaient enfermés dans des cavernes profondes [Fig. 34]. C’étaient, entre autres, <hi rend="i">Borée</hi>, vent du nord ; <hi rend="i">Eurus</hi>, vent de l’est ; <hi rend="i">Notus</hi>, vent du sud ; <hi rend="i">Zéphyre</hi>, vent de l’ouest.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_036.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_036.png"/>
               <label>[Fig. 34]</label>
             </figure>
             <p>Les <hi rend="i">Sirènes</hi>, filles d’Achéloüs et de Calliope, célèbres par la douceur magique de leur voix, habitaient des rochers escarpés entre l’île de Caprée et la côte d’Italie. L’oracle avait prédit qu’elles vivraient autant de temps qu’elles pourraient arrêter les voyageurs qui navigueraient près des côtes, mais que, dès qu’un seul passerait sans être séduit par leurs chants, elles périraient. Aussi, à peine apercevaient-elles une voile à l’horizon, qu’elles faisaient entendre leur voix enchanteresse ; et les voyageurs, ravis en extase, oubliaient de boire et de manger, et périssaient d’inanition. Cependant Ulysse, comme on le verra plus tard, échappa à leurs séductions et à la mort, et les Sirènes, de dépit, se précipitèrent dans la mer, où elles furent changées en rochers.</p>
             <p>On les représentait sous la figure de jeunes filles, dont le corps se terminait en poisson [Fig. 35]. On leur donnait quelquefois des ailes<note place="bottom">Les Sirènes, avec leur voix enchanteresse, représentent les faux plaisirs et les regrets dont ils sont toujours suivis.</note>.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_037a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_037a.png"/>
               <label>[Fig. 35]</label>
             </figure>
             <p>La ville de Naples porta d’abord le nom de <hi rend="i">Parthénope</hi>, parce qu’elle fut bâtie, dit-on, sur le tombeau d’une des Sirènes qui portait ce nom.</p>
             <p>Au nombre des divinités de la mer, on mettait aussi les <hi rend="i">Nymphes</hi>, dont les unes étaient filles de l’Océan et de Téthys ; les autres, filles de Nérée et de Doris. Sous le nom d’<hi rend="i">Océanides</hi> ou de <hi rend="i">Néréides</hi>, elles habitaient la mer. Penchées sur une urne, au milieu des roseaux, les <hi rend="i">Naïades</hi> présidaient aux fleuves, aux lacs et aux fontaines [Fig. 36]. Les <hi rend="i">Napées</hi> erraient dans les bocages et les prairies, et les <hi rend="i">Oréades</hi>, sur les montagnes. Les <hi rend="i">Dryades</hi> et les <hi rend="i">Hamadryades</hi> protégeaient les arbres et les forêts. Les Hamadryades naissaient et mouraient avec l’arbre auquel elles étaient incorporées.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_037b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_037b.png"/>
               <label>[Fig. 36]</label>
             </figure>
             <p>Jeunes filles aux formes légères et aériennes, elles étaient le type de la grâce et de la naïveté.</p>
@@ -341,12 +341,12 @@
             <head>Pluton.</head>
             <p><hi rend="i">Pluton</hi> frère de Jupiter, régnait dans les Enfers. Le royaume qui lui était échu en partage était si triste, qu’aucune déesse ne voulut le partager avec lui. Aussi fut-il obligé de recourir à la violence pour se procurer une épouse. Il enleva <hi rend="i">Proserpine</hi>, fille de Jupiter et de Cérès, un jour que cette nymphe cueillait des fleurs dans la vallée d’Enna, en Sicile, sur les bords de la fontaine Aréthuse [Fig. 37]. Femme du dieu des morts, elle était pâle et stérile.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_038.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_038.png"/>
               <label>[Fig. 37]</label>
             </figure>
             <p>Pluton était généralement haï et redouté, parce qu’on le croyait inflexible. On ne lui érigeait ni temples, ni autels, et l’on ne chantait point d’hymnes en son honneur. On ne pouvait lui sacrifier qu’au milieu des ténèbres, et on ne lui offrait que des victimes noires, dont on faisait couler le sang dans une fosse. On le représentait tantôt sur un trône d’ébène, tantôt sur un char traîné par des chevaux noirs, tenant de la main droite une espèce de fourche ou des clefs [Fig. 38], et souvent ayant la tête couverte d’un casque, présent des Cyclopes, et dont la propriété était de le rendre invisible.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_039.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_039.png"/>
               <label>[Fig. 38]</label>
             </figure>
             <p>Les <hi rend="i">Enfers</hi> étaient des lieux souterrains, où les âmes se rendaient après la mort. Ils se divisaient en deux parties : les <hi rend="i">Champs-Élysées</hi>, séjour des bons, et le <hi rend="i">Tartare</hi>, séjour des méchants. Quelquefois on les désignait indistinctement par les noms d’<hi rend="i">Érèbe</hi>, de <hi rend="i">Tartare</hi>, de <hi rend="i">Ténare</hi>, d’<hi rend="i">Orcus</hi>, quoique ces noms ne désignassent proprement que certaines parties des Enfers.</p>
@@ -359,38 +359,38 @@
             <p>L’empire souterrain avait, comme les royaumes d’en haut, ses agents, ses ministres.</p>
             <p>Le vieux <hi rend="i">Caron</hi>, nocher des Enfers, transportait, pour une obole, les âmes des morts au delà du Styx [Fig. 39]. Il n’admettait dans sa barque que les ombres de ceux qui avaient reçu les honneurs de la sépulture. Aussi était-ce une impiété chez les anciens que de ne pas jeter un peu de terre sur un cadavre qu’on rencontrait sur une route ou sur un rivage.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_041a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_041a.png"/>
               <label>[Fig. 39]</label>
             </figure>
             <p>Au delà des cinq fleuves, <hi rend="i">Cerbère</hi>, chien à trois têtes hérissées de serpents, gardait la Porte des Enfers et du palais de Pluton [Fig. 40]. Il caressait les ombres qui entraient, et menaçait de ses aboiements et de ses trois gueules béantes celles qui voulaient sortir. Les âmes, en arrivant devant le trône de Pluton, étaient jugées par <hi rend="i">Minos, Eaque</hi> et <hi rend="i">Rhadamanthe</hi>, juges incorruptibles, qui avaient été sur la terre des rois renommés par leur sagesse et leur justice [Fig. 41].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_041b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_041b.png"/>
               <label>[Fig. 40]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_042a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_042a.png"/>
               <label>[Fig. 41]</label>
             </figure>
             <p>Quand la sentence était prononcée, les ombres de ceux qui avaient bien vécu passaient dans les Champs-Élysées, et celles des méchants étaient entraînées par une main invisible dans le Tartare, où les attendaient les <hi rend="i">Furies</hi>, ministres de la vengeance des dieux. On en comptait trois : <hi rend="i">Tisiphone, Mégère</hi> et <hi rend="i">Alecton</hi>. On les représentait avec un air sévère et menaçant, la bouche béante, des vêtements noirs et ensanglantés, des serpents entrelacés autour de la tête, tenant d’une main une torche ardente, et de l’autre un fouet de couleuvres [Fig. 42]. Elles étaient le symbole des remords qui déchirent presque toujours le cœur des coupables.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_042b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_042b.png"/>
               <label>[Fig. 42]</label>
             </figure>
             <p>Filles de l’Erèbe et de la Nuit, les <hi rend="i">Parques</hi> présidaient à la vie et à la mort. Elles filaient les jours de chaque mortel. <hi rend="i">Clotho</hi> tenait la quenouille, <hi rend="i">Lachésis</hi> tournait le fuseau, et <hi rend="i">Atropos</hi> coupait le fil avec des ciseaux [Fig. 43].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_043a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_043a.png"/>
               <label>[Fig. 43]</label>
             </figure>
             <p>Parmi les autres divinités infernales, on comptait encore la <hi rend="i">Nuit</hi>, la <hi rend="i">Mort</hi>, le <hi rend="i">Sommeil</hi>, les <hi rend="i">Songes</hi> et les <hi rend="i">Dieux Mânes</hi>.</p>
             <p>La <hi rend="i">Nuit</hi>, fille du Chaos, dormait assise sur un char, et couverte d’un voile noir parsemé d’étoiles [Fig. 44]. Sa main tenait un flambeau renversé.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_043b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_043b.png"/>
               <label>[Fig. 44]</label>
             </figure>
             <p>Elle avait enfanté la <hi rend="i">Mort</hi> sans le secours d’aucun dieu. Celle-ci était accroupie au pied du trône de Pluton, pâle et les yeux fermés, couverte d’un voile, et tenant une faux à la main. Le coq, l’if et le cyprès lui étaient consacrés.</p>
             <p>Plus loin le <hi rend="i">Sommeil</hi>, frère de la Mort et père des <hi rend="i">Songes</hi>, reposait sur un lit d’ébène, dans un antre inaccessible aux rayons du soleil, et dont l’entrée était obstruée par d’énormes touffes de pavots et d’autres plantes somnifères [Fig. 45]. Un ruisseau, émané du Léthé, coulait devant la porte, et on n’y entendait d’autre bruit que le murmure de ses eaux. C’est là que, autour du dieu couché et endormi, voltigeaient les <hi rend="i">Songes</hi>, aussi nombreux que les feuilles des bois et que les sables de la mer. Les uns étaient faux, les autres vrais ; les premiers sortaient des Enfers par une porte d’ivoire, les seconds par une porte de corne. <hi rend="i">Morphée</hi>, principal ministre du Sommeil, entretenait dans son palais un silence perpétuel.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_044.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_044.png"/>
               <label>[Fig. 45]</label>
             </figure>
             <p>Les <hi rend="i">Dieux Mânes</hi> étaient pris, tantôt pour les âmes des morts, tantôt pour des dieux infernaux ou génies des morts, qui veillaient sur les tombeaux. Aussi trouve-t-on souvent sur les tombes des anciens ces deux lettres initiales DM, c’est-à-dire <hi rend="i">Diis Manibus</hi>, aux Dieux Mânes, comme pour leur recommander l’ombre du mort.</p>
@@ -398,15 +398,15 @@
             <p>Les <hi rend="i">Champs-Élysées</hi> étaient un séjour délicieux, où les ombres vertueuses jouissaient d’une félicité parfaite. Il y régnait un printemps perpétuel.</p>
             <p>Le <hi rend="i">Tartare</hi>, au contraire, était une prison profonde, fortifiée de trois enceintes de murailles et entourée du Phlégéton. Parmi les principaux coupables, torturés dans cet affreux séjour, les anciens nommaient avec effroi <hi rend="i">Sisyphe</hi>, fils d’Éole, condamné à rouler continuellement une énorme pierre au sommet d’une montagne, d’où elle retombait aussitôt [Fig. 46] ; <hi rend="i">Ixion</hi>, fils de Phlégias, attaché à une roue environnée de serpents, et qui, tournant sans cesse, rendait son supplice éternel ; <hi rend="i">Titye</hi>, géant monstrueux, étendu sur le dos et couvrant un espace de neuf arpents, tandis qu’un vautour insatiable, attaché sur sa poitrine, lui dévorait sans cesse le foie et les entrailles, qui renaissaient éternellement pour son supplice ; <hi rend="i">Tantale</hi>, fils de Jupiter, tourmenté par une faim et une soif perpétuelles, au milieu d’un étang dont l’eau échappait sans cesse à ses lèvres desséchées, et sous des arbres chargés de fruits, dont les branches se redressaient chaque fois qu’il voulait y porter la main [Fig. 47] ; et les <hi rend="i">cinquante filles de Danaüs</hi>, condamnées à porter éternellement des cruches d’eau dans une cuve sans fond, et à essayer de la remplir [Fig. 48].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_045.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_045.png"/>
               <label>[Fig. 46]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_046.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_046.png"/>
               <label>[Fig. 47]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_047.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_047.png"/>
               <label>[Fig. 48]</label>
             </figure>
           </div>
@@ -415,7 +415,7 @@
             <p><hi rend="i">Cérès</hi>, fille de Saturne, était la bienfaitrice du genre humain. Elle voyagea longtemps avec Bacchus, enseignant aux hommes l’art d’ensemencer la terre. Inconsolable de la perte de sa fille <hi rend="i">Proserpine</hi>, que lui avait enlevée Pluton, elle alluma deux torches de pin aux flammes de l’Etna, et se mit à la chercher nuit et jour de tous côtés. Fatiguée de ses poursuites, elle s’arrêta chez <hi rend="i">Triptolème</hi>, roi d’Éleusis, qui l’accueillit avec bonté. La déesse, par reconnaissance, lui enseigna l’agriculture. Enfin, après des recherches inutiles, elle revint en Sicile, où la nymphe <hi rend="i">Aréthuse</hi> lui apprit que Proserpine était devenue l’épouse de Pluton. Aussitôt elle alla implorer l’assistance de Jupiter en faveur de sa fille. Le maître des dieux décida que Proserpine serait rendue à sa mère, si toutefois elle n’avait pris aucune nourriture dans les Enfers. Malheureusement elle avait mangé quelques grains de grenade, et son gardien <hi rend="i">Ascalaphe</hi> l’avait vue. Proserpine resta donc dans les Enfers ; seulement elle obtint la grâce de passer tour à tour six mois auprès de son époux et six mois auprès de sa mère<note place="bottom">Proserpine, passant alternativement six mois avec son époux et six mois avec sa mère, est l’emblème du grain de blé qui reste d’abord enfoui pendant six mois dans le sein de la terre.</note>.</p>
             <p>L’imagination a fait de Cérès une belle femme, couronnée d’une guirlande d’épis, et tenant dans ses mains une gerbe de blé et une faucille [Fig. 49].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_048.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_048.png"/>
               <label>[Fig. 49]</label>
             </figure>
             <p>Les Grecs avaient institué en son honneur des fêtes appelées <hi rend="i">Éleusinies</hi>, du nom de la ville d’Éleusis, où l’on commença à les célébrer ; c’était un crime de révéler ce qui s’y était passé. C’est pour cela qu’on leur donnait aussi le nom de <hi rend="i">Mystères</hi>.</p>
@@ -424,12 +424,12 @@
             <head>Vesta.</head>
             <p>On adorait, sous le nom de <hi rend="i">Vesta</hi>, plusieurs déesses, qu’il n’est pas toujours aisé de distinguer. Femme d’Uranus, Vesta était la même que <hi rend="i">Tellus</hi> ; fille d’Uranus et de Tellus et femme de Saturne, elle était communément nommée <hi rend="i">Cybèle</hi>, et avait, entre autres surnoms, ceux de <hi rend="i">Bonne Déesse</hi> et de <hi rend="i">Mère des Dieux</hi>. On l’appelait encore <hi rend="i">Bérécynthie, Dyndimène</hi> et <hi rend="i">Idée</hi>, du nom de trois montagnes de Phrygie où elle était honorée d’un culte particulier. Sous le nom de Cybèle, elle était ordinairement représentée sur un char traîné par des lions, la tête couronnée de créneaux [Fig. 50]. Enfin, comme fille de Saturne et de Rhéa, et c’est la plus connue, elle était la déesse du feu. Énée apporta son culte en Italie, et Numa lui bâtit un temple à coupole, où des vierges, appelées <hi rend="i">Vestales</hi>, entretenaient un feu perpétuel dans une cassolette d’or. La prêtresse qui le laissait éteindre était sévèrement punie ; mais le grand crime des Vestales était la violation du vœu qu’elles faisaient, en se consacrant à Vesta, de vivre étrangères au monde. On enterrait toute vive celle qui se trouvait convaincue d’y avoir manqué.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_049.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_049.png"/>
               <label>[Fig. 50]</label>
             </figure>
             <p>La déesse était représentée vêtue d’une longue robe, le front voilé, et tenant de la main droite une lampe [Fig. 51].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_050a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_050a.png"/>
               <label>[Fig. 51]</label>
             </figure>
           </div>
@@ -440,7 +440,7 @@
               <author key="Homère">Homère</author> et
               <author key="Virgile">Virgile</author> l’ont peint sous les traits d’un jeune homme, avec des ailes aux épaules et aux talons, la tête ornée d’une espèce de chapeau ailé, tenant à la main le caducée, symbole de la paix [Fig. 52]. Ce caducée était une baguette surmontée de deux ailes et entrelacée de deux serpents, dont voici l’histoire : Mercure, après avoir reçu d’Apollon une baguette en échange de sa lyre, rencontra un jour deux serpents qui se battaient, et les sépara avec sa baguette, autour de laquelle ils s’entortillèrent, et qui devint depuis l’emblème de la concorde.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_050b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_050b.png"/>
               <label>[Fig. 52]</label>
             </figure>
           </div>
@@ -448,7 +448,7 @@
             <head>Mars.</head>
             <p><hi rend="i">Mars</hi>, dieu de la guerre, était, suivant l’ancien poète Hésiode, fils de Jupiter et de Junon ; mais, selon d’autres, Junon seule lui donna le jour en touchant une fleur, qui croissait dans les champs d’Olène, ville d’Achaïe. On le représentait sous la figure d’un guerrier terrible qu’un char traîné par des coursiers fougueux emportait au milieu des combats [Fig. 53]. Le coq, symbole de la vigilance, lui était consacré.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_051.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_051.png"/>
               <label>[Fig. 53]</label>
             </figure>
             <p>C’est à Rome que le culte de Mars était le plus en honneur. Les Romains le regardaient comme le père de Romulus et le protecteur de leur empire. Les prêtres de ce dieu se nommaient <hi rend="i">Saliens</hi>, d’un mot latin qui signifie <hi rend="i">sauter, danser</hi>, parce que, dans les fêtes de Mars, ils dansaient en chantant des hymnes.</p>
@@ -460,11 +460,11 @@
             <p>Vénus manqua souvent à la fidélité qu’elle devait à son époux. Elle aima, entre autres, le dieu Mars, et le bel Adonis pour qui elle abandonna l’Olympe.</p>
             <p>Elle était ordinairement accompagnée de <hi rend="i">Cupidon</hi>, son fils, et des trois <hi rend="i">Grâces</hi>, Aglaé, Thalie et Euphrosine [Fig. 54]. Elle portait une merveilleuse ceinture, qui donnait une puissance irrésistible à celle qui la possédait. On la représentait tantôt sous la forme d’une jeune fille sortant du sein des eaux, tantôt assise sur un char traîné par des colombes [Fig. 55], quelquefois les yeux baissés et les pieds posés sur une écaille de tortue.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_053a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_053a.png"/>
               <label>[Fig. 54]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_053b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_053b.png"/>
               <label>[Fig. 55]</label>
             </figure>
             <p>On l’adorait surtout à Paphos, ville de Chypre ; à Cnide, ville de Carie, et à Cythère, île au sud du Péloponèse.</p>
@@ -474,13 +474,13 @@
             <p><hi rend="i">Vulcain</hi>, fils de Jupiter et de Junon, était le dieu du feu et des forgerons. Lorsqu’il vint au monde, Jupiter le trouva si laid, qu’il le précipita d’un coup de pied sur la terre ; dans sa chute il se cassa la cuisse, et il resta boiteux toute sa vie.</p>
             <p>Chargé de fournir des foudres au maître des dieux, il établit ses forges dans l’île de Lemnos et dans les cavernes de l’Etna [Fig. 56]. Les compagnons de ses travaux étaient les <hi rend="i">Cyclopes</hi>, géants monstrueux, qui n’avaient qu’un œil au milieu du front. On lui attribuait tous les ouvrages qui passaient pour des chefs-d’œuvre dans l’art de forger, comme la couronne d’Ariane, le bouclier d’Hercule, les armes d’Achille, le sceptre d’Agamemnon.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_054.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_054.png"/>
               <label>[Fig. 56]</label>
             </figure>
             <p>Malgré sa difformité, il épousa Vénus, la plus belle des déesses.</p>
             <p>On le représentait noir et crasseux, avec une barbe touffue, une chevelure négligée, à demi nu, portant un bonnet rond et pointu. et tenant un marteau et des tenailles [Fig. 57].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_055.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_055.png"/>
               <label>[Fig. 57]</label>
             </figure>
           </div>
@@ -490,7 +490,7 @@
             <p>Un des traits les plus célèbres de l’histoire de Minerve est son différend avec Neptune, à qui elle disputa l’honneur de nommer la ville bâtie par Cécrops. Les douze grands dieux, choisis pour arbitres, décidèrent que celui des deux qui produirait la chose la plus utile à cette ville lui donnerait son nom. Le dieu des eaux, d’un coup de son trident, fit sortir de terre un cheval, emblème de la guerre ; et Minerve, d’un coup de sa lance, donna naissance à l’olivier, symbole de la paix. Les dieux prononcèrent en faveur de Minerve, et la ville fut appelée Athènes, du nom d’<hi rend="i">Athéna</hi>, que les Grecs donnaient à cette déesse.</p>
             <p>On la représentait avec un casque à visière, une lance d’une main, un bouclier de l’autre, et l’égide<note place="bottom">L’Égide était un bouclier ou une cuirasse couverte de la peau de la chèvre Amalthée. Ce nom vient d’un mot grec qui signifie <hi rend="i">chèvre</hi>.</note> sur la poitrine [Fig. 58]. La chouette, symbole de la prudence, qui ne s’endort jamais, lui était consacrée.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_056.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_056.png"/>
               <label>[Fig. 58]</label>
             </figure>
             <p>Athènes institua en son honneur des fêtes qu’on appelait Panathénées, et lui éleva un temple, le <hi rend="i">Parthénon</hi>, dont les ruines subsistent encore. Elle avait aussi un temple dans la citadelle de Troie. Les Troyens y gardaient précieusement sa statue, appelée <hi rend="i">palladium</hi>, qu’ils regardaient comme un talisman et le gage du salut de leur patrie.</p>
@@ -501,23 +501,23 @@
             <p>Le premier usage qu’Apollon fit de ses traits fut de venger sa mère du serpent <hi rend="i">Python</hi>, que Junon avait suscité contre elle. Cette victoire lui fit donner le nom de <hi rend="i">Pythien</hi>.</p>
             <p>La joie de ce triomphe fut troublée par la mort de son fils <hi rend="i">Esculape</hi>, dieu de la médecine [Fig. 59], que Jupiter foudroya pour le punir d’avoir rendu la vie à Hippolyte. Apollon, furieux, tua les Cyclopes qui avaient forgé la foudre dont Jupiter avait frappé son fils. Cet attentat le fit chasser du ciel.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_057.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_057.png"/>
               <label>[Fig. 59]</label>
             </figure>
             <p>Réduit à la condition de simple mortel, Apollon se réfugia chez Admète, roi de Thessalie, qui lui confia le soin de ses troupeaux. Ce fut pendant son séjour chez Admète qu’il inventa la musique. Ensuite, ne sachant que devenir, il alla avec Neptune faire des briques, pour aider Laomédon à relever les murs de Troie, et n’en reçut aucun salaire. Après quelques années d’exil, il fut rappelé par Jupiter qui lui rendit sa divinité.</p>
             <p>Comme dieu des beaux-arts, Apollon présidait le chœur des <hi rend="i">Muses</hi>, et habitait le Parnasse, le Pinde, l’Hélicon, les bords du Permesse, et les autres lieux de la Grèce chantés par les poètes. Sous le nom de <hi rend="i">Phébus</hi>, il conduisait le char du Soleil [Fig. 60].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_058a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_058a.png"/>
               <label>[Fig. 60]</label>
             </figure>
             <p>Il eut un grand nombre d’oracles, dont les plus célèbres furent ceux de Delphes, de Délos et de Claros.</p>
             <p>On le représentait sous la figure d’un beau jeune homme sans barbe, la tête ceinte d’une couronne de laurier et une lyre à la main [Fig. 61]. Le souvenir de sa victoire sur le serpent Python a inspiré un des chefs-d’œuvre de la sculpture grecque, connu sous le nom d’Apollon du Belvédère [Fig. 62].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_058b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_058b.png"/>
               <label>[Fig. 61]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_059.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_059.png"/>
               <label>[Fig. 62]</label>
             </figure>
           </div>
@@ -526,7 +526,7 @@
             <p><hi rend="i">Diane</hi>, belle, chaste et sévère, était sœur d’Apollon. Jupiter composa son cortège de soixante Océanides et de vingt autres Nymphes, qui renoncèrent, comme elle, au mariage. Cependant elle aima Endymion, berger de Carie, qu’elle allait visiter toutes les nuits dans une grotte du mont Latmus<note place="bottom">Endymion était un berger qui passait les nuits à la belle étoile. La Fable, qui embellit tout, en a fait un chasseur aimé de la lune, qui venait le visiter pendant son sommeil.</note>. À la vérité, l’amie d’Endymion n’était point Diane proprement dite, mais Phébé ou la Lune ; car la sœur d’Apollon avait trois fonctions, trois séjours et trois noms différents. Sur la terre, on l’appelait Diane, et elle présidait à la chasse ; sous le nom de Phébé, elle conduisait le char de la Lune ; et, sous celui d’Hécate elle régnait aux Enfers, et on la confondait alors avec Proserpine. De là le nom de <hi rend="i">triple Hécate</hi> que lui donnent quelquefois les poètes. On la surnommait aussi <hi rend="i">Trivia</hi>, parce qu’on l’adorait dans les carrefours, qui en latin s’appelaient <hi rend="i">trivia</hi>.</p>
             <p>Il était aisé de la reconnaître dans ses statues. Comme déesse de la chasse, elle était représentée sous les traits d’une jeune fille, chaussée d’un cothurne, vêtue d’une tunique légère, un carquois sur l’épaule, un arc et une flèche à la main, un chien ou une biche à ses côtés [Fig. 63]. Prise pour la Lune, elle avait la tête ornée d’un croissant.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_060.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_060.png"/>
               <label>[Fig. 63]</label>
             </figure>
             <p>Diane avait à Éphèse un temple fameux, qui fut mis au nombre des sept merveilles du monde<note place="bottom">Les six autres merveilles du monde étaient le mausolée ou tombeau du roi Mausole, le colosse de Rhodes, la statue de Jupiter Olympien, le palais royal d’Ecbatane, les murs de Babylone et les pyramides d’Égypte.</note>, et auquel Érostrate mit le feu dans l’espoir de rendre son nom célèbre. On l’honorait encore dans la Chersonèse Taurique, où les étrangers que la tempête jetait sur le rivage étaient immolés sur ses autels<note place="bottom">Après le meurtre de sa mère, Oreste, fils d’Agamemnon, contraint par les Furies d’errer de pays en pays, arriva dans la Tauride. L’usage était de sacrifier tous les étrangers que leur mauvais génie amenait dans cette contrée ; mais Iphigénie reconnut son frère Oreste au moment où elle allait l’immoler, et le délivra ainsi que son ami Pylade. Ils s’enfuirent tous trois, après avoir tué Thoas, roi du pays, en emportant la statue de Diane.</note>.</p>
@@ -536,12 +536,12 @@
             <p><hi rend="i">Bacchus</hi>, dieu du vin, devait le jour à Jupiter et à Sémélé. Sémélé mourut avant la naissance de son fils, victime de l’artifice de Junon. Cette déesse s’était introduite auprès de la fille de Cadmus, sous la figure de Béroé, sa nourrice, et lui avait conseillé de demander à Jupiter qu’il lui apparût dans tout l’éclat de sa gloire. Sémélé suivit ce perfide conseil, et Jupiter, qui avait juré par le Styx, la satisfit à regret ; il parut devant elle armé des éclairs et de la foudre. Sémélé fut aussitôt consumée par le feu ; mais l’enfant qu’elle portait dans son sein fut sauvé par Mercure.</p>
             <p>Bacchus fut élevé par les Nymphes de Nysa<note place="bottom">Nysa, ancienne ville d’Arabie consacrée à Bacchus.</note> et par <hi rend="i">Silène</hi>, que les poètes nous représentent comme un vieil ivrogne, monté sur un âne. Devenu grand, il fit la conquête des Indes, accompagné de son père nourricier, et suivi d’une multitude d’hommes et de femmes, portant, au lieu d’armes, des thyrses et des tambours [Fig. 64]. Il civilisa les peuples de ces contrées lointaines, et leur enseigna l’art de cultiver la vigne.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_061.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_061.png"/>
               <label>[Fig. 64]</label>
             </figure>
             <p>On donnait à Bacchus les traits d’un jeune homme riant et sans barbe, couronné de pampres et de lierre, tenant d’une main des grappes de raisin ou une coupe, et de l’autre un thyrse, baguette surmontée d’une pomme de pin [Fig. 65] ; tantôt assis sur un tonneau, tantôt sur un char traîné par des tigres ou des lions.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_062.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_062.png"/>
               <label>[Fig. 65]</label>
             </figure>
             <p>Les fêtes de ce dieu s’appelaient <hi rend="i">Orgies</hi> ou <hi rend="i">Bacchanales</hi>. Des femmes, demi-nues, échevelées, armées de thyrses et de flambeaux, couraient çà et là dans la campagne, poussant des cris et des hurlements, et bondissant au son des tambours et des cymbales. Elles portaient le nom de <hi rend="i">Bacchantes</hi>.</p>
@@ -551,13 +551,13 @@
             <p>Suivant
               <author key="Hésiode">Hésiode</author>, l’<hi rend="i">Amour</hi> était, avec le Chaos, le Tartare et la Terre, un des quatre grands principes des êtres. Dans la mythologie vulgaire, l’<hi rend="i">Amour</hi> était le fils de Vénus et de Mars, et s’appelait aussi <hi rend="i">Cupidon</hi>. On le représentait sous les traits d’un enfant nu, qui se balançait dans l’air sur des ailes, armé d’un arc et d’un carquois rempli de flèches ardentes [Fig. 66], quelquefois avec un bandeau sur les yeux et une torche à la main.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_063.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_063.png"/>
               <label>[Fig. 66]</label>
             </figure>
             <p>Il épousa <hi rend="i">Psyché</hi>, malgré sa mère, qui s’opposait à leur union. Psyché était une jeune princesse d’une si grande beauté, qu’on la comparait à Vénus, et qu’elle se fit aimer de l’Amour même. Un oracle avait prédit qu’elle serait l’épouse d’un monstre, tyran des dieux et des hommes, et avait ordonné qu’elle fût exposée sur un rocher désert, parée comme pour un jour de noces. Zéphyre, par l’ordre de l’Amour, vint l’en arracher pendant qu’elle dormait, et la transporta dans un palais délicieux, où elle était servie par des Nymphes invisibles qui prévenaient tous ses désirs. L’Amour y devint son époux ; mais, présent pendant la nuit, il s’échappait aux premières lueurs du jour, en lui recommandant de ne point souhaiter de le voir. Une nuit qu’il était endormi auprès d’elle, Psyché se lève si doucement, qu’il ne se réveille pas, allume une lampe, et s’approchant du lit, reconnaît, au lieu d’un monstre, le fils de Vénus. Tandis qu’elle se penchait pour contempler ses traits, elle laissa tomber une goutte d’huile, qui l’éveilla aussitôt. L’Amour, irrité, s’envole en lui reprochant sa défiance, le palais enchanté s’évanouit, et Psyché reste seule au milieu d’un affreux désert [Fig. 67]. Dans sa douleur, elle veut se donner la mort, mais son invisible époux arrête ses transports. Toujours persécutée par Vénus, qu’elle n’avait pu attendrir par ses pleurs, elle reçoit de cette déesse l’ordre de descendre aux Enfers, et d’aller demander à Proserpine une boîte mystérieuse que l’épouse de Pluton doit lui remettre. Psyché devait succomber dans ce message ; mais elle descendit au sombre Averne avec cette sécurité qui accompagne l’innocence, et tous les obstacles s’évanouirent sous ses pas. Proserpine lui remit la boîte destinée à Vénus, en lui recommandant de ne pas l’ouvrir. Mais Psyché ne put résister à sa curiosité, elle entr’ouvrit la boîte, et aussitôt il s’en échappa une épaisse fumée qui lui noircit le visage. Elle pensait que la boîte
               contenait le fard qui entretenait l’éternelle beauté des déesses. Alors elle tomba dans une profonde léthargie ; mais l’Amour, qui n’avait pas cessé de l’aimer, vint l’arracher à ce sommeil de mort, et l’emporta au ciel où Jupiter légitima leur mariage. De leur union naquit la Volupté. On représentait Psyché avec des ailes de papillon aux épaules. Son nom, en grec, signifie <hi rend="i">âme</hi><note place="bottom">La fable de Psyché est un symbole de la curiosité et de ses funestes résultats. Psyché, comme l’indique son nom, c’est l’<hi rend="i">âme</hi> humaine, c’est le premier homme, qui, voulant tout connaître, porte la main à l’arbre de la science du bien et du mal et encourt la disgrâce de Dieu.</note>.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_064.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_064.png"/>
               <label>[Fig. 67]</label>
             </figure>
           </div>
@@ -568,7 +568,7 @@
             <head>Les Muses.</head>
             <p>Les <hi rend="i">Muses</hi>, filles de Jupiter et de Mnémosyne<note place="bottom">Les Muses étaient filles de Jupiter et de Mnémosyne, c’est-à-dire de Dieu, en qui réside toute sagesse, et de la mémoire, qui transmet, de génération en génération, les révélations primitives.</note>, présidaient aux sciences et aux arts ; elles étaient au nombre de neuf [Fig. 68].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_066.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_066.png"/>
               <label>[Fig. 68]</label>
             </figure>
             <p><hi rend="i">Calliope</hi> était la muse de la poésie héroïque. Le front ceint de lauriers, elle tenait d’une main une trompette, et de l’autre un livre.</p>
@@ -594,7 +594,7 @@
             <head>Comus.</head>
             <p><hi rend="i">Comus</hi>, dieu de la bonne chère et des danses nocturnes, inspirait les chansons qui assaisonnent la joie des festins. Jeune, gras, la tête couronnée de roses, il tenait un flambeau de la main droite, et de la gauche s’appuyait sur un pieu [Fig. 69].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_068.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_068.png"/>
               <label>[Fig. 69]</label>
             </figure>
           </div>
@@ -602,7 +602,7 @@
             <head>Momus.</head>
             <p><hi rend="i">Momus</hi>, dieu de la raillerie et des bons mots, était fils du Sommeil et de la Nuit. Ses sarcasmes n’épargnaient pas même les dieux. Livré à la paresse, et ne sachant rien faire de bon, il s’occupait à critiquer les œuvres d’autrui. Neptune ayant fait un taureau, Vulcain un homme, et Minerve une maison, Momus fut choisi pour juger de l’excellence de leurs ouvrages. Il trouva que les cornes du taureau étaient mal plantées, et qu’il aurait fallu qu’elles fussent placées plus près des yeux, pour frapper plus sûrement, ou des épaules, afin de donner des coups plus violents. Quant à l’homme, il aurait dû avoir une petite fenêtre au cœur, pour qu’il fût possible de voir ses pensées les plus secrètes. Enfin, la maison lui parut trop massive pour être transportée en cas de mauvais voisinage. Momus critiqua aussi la chaussure de Vénus ; mais s’arrêter à la chaussure, et se taire sur le reste, c’était rendre hommage à la déesse. On le représentait levant le masque de dessus son visage, et tenant une marotte [Fig. 70].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_069.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_069.png"/>
               <label>[Fig. 70]</label>
             </figure>
           </div>
@@ -610,7 +610,7 @@
             <head>Harpocrate.</head>
             <p><hi rend="i">Harpocrate</hi>, dieu égyptien, fils d’Osiris et d’Isis, était, chez les Grecs, le dieu du silence. On le représentait sous la figure d’un jeune homme demi-nu, tenant d’une main une corne, et ayant un doigt sur la bouche [Fig. 71]. Sa statue se trouvait à l’entrée de la plupart des temples. Chez les Romains, c’était la déesse <hi rend="i">Angerona</hi> qui présidait au silence.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_070a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_070a.png"/>
               <label>[Fig. 71]</label>
             </figure>
           </div>
@@ -618,7 +618,7 @@
             <head>Pan.</head>
             <p><hi rend="i">Pan</hi>, dieu des bergers, des troupeaux et des campagnes, était fils de Jupiter ou de Mercure et d’une Nymphe. Il naquit sur les bords du fleuve Ladon, et faisait sa principale résidence dans les bois et sur les montagnes de l’Arcadie. Il se plaisait à y chasser et à répandre, par de soudaines apparitions, la terreur parmi les bêtes sauvages. De là le nom de <hi rend="i">panique</hi> donné à cette terreur qui saisit tout à coup sans qu’on en sache la cause. Il passait pour l’inventeur de la flûte à sept tuyaux [Fig. 72].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_070b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_070b.png"/>
               <label>[Fig. 72]</label>
             </figure>
             <p>Le culte de Pan fut porté dans l’Italie par Évandre, qui était originaire de l’Arcadie, et les Romains honoraient ce dieu d’un culte particulier, en mémoire de Romulus et de Rémus allaités par une louve. De là le nom de <hi rend="i">Lupercales</hi> donné à ses fêtes, qui se célébraient dans le mois de février. On le représentait avec un visage enflammé, des cornes sur la tête, l’estomac couvert d’étoiles, et la partie inférieure du corps semblable à celle d’un bouc.</p>
@@ -629,7 +629,7 @@
             <head>Flore.</head>
             <p><hi rend="i">Flore</hi>, que les Grecs appelaient <hi rend="i">Chloris</hi>, était, comme l’indique son nom, la déesse des fleurs, et femme de Zéphyre. On la représentait sous la figure d’une jeune fille, ornée de guirlandes, et portant une corbeille de fleurs [Fig. 73].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_071.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_071.png"/>
               <label>[Fig. 73]</label>
             </figure>
           </div>
@@ -637,7 +637,7 @@
             <head>Pomone et Vertumne.</head>
             <p><hi rend="i">Pomone</hi>, déesse des fruits, avait pour époux Vertumne, dieu des jardins. On la représentait couronnée de feuilles de vignes et de grappes de raisin, et portant des fruits dans les plis de sa robe. Vertumne était couronné d’herbes, et tenait à la main des fruits et une corne d’abondance [Fig. 74].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_072a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_072a.png"/>
               <label>[Fig. 74]</label>
             </figure>
           </div>
@@ -645,7 +645,7 @@
             <head>Priape.</head>
             <p><hi rend="i">Priape</hi>, dieu des jardins et des arbres fruitiers, était fils de Jupiter ou de Bacchus et de Vénus. Il était principalement honoré à Lampsaque, capitale de la Mysie, d’où son culte passa à Rome. On le représentait sous la forme d’un nain, avec des cornes et des oreilles de bouc, tenant une baguette ou une faucille [Fig. 75]. On le plaçait ordinairement dans les jardins pour servir d’épouvantail. Il présidait aussi aux routes et aux chemins.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_072b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_072b.png"/>
               <label>[Fig. 75]</label>
             </figure>
           </div>
@@ -653,7 +653,7 @@
             <head>Faune.</head>
             <p><hi rend="i">Faune</hi> fils de Picus, roi des Latins, et petit-fils de Saturne, fut mis, après sa mort, au rang des dieux. C’est de lui que descendaient les <hi rend="i">Faunes</hi>, génies des campagnes, qui étaient chez les Romains ce qu’étaient les <hi rend="i">Satyres</hi> chez les Grecs. On les confondait avec les <hi rend="i">Silènes</hi> et les <hi rend="i">Sylvains</hi>. Ces différentes divinités étaient ordinairement représentées sous la forme de petits hommes très velus, avec des cornes et des pieds de boucs. Ils étaient la terreur des Nymphes. Toutefois, d’après les traditions de l’art antique, les Faunes étaient de jeunes hommes d’une figure fine et railleuse, qui n’avaient du bouc que deux petites cornes au front [Fig. 76] ; on les représentait quelquefois avec des oreilles allongées et une queue de chèvre.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_073.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_073.png"/>
               <label>[Fig. 76]</label>
             </figure>
           </div>
@@ -662,7 +662,7 @@
             <p><hi rend="i">Terme</hi>, dieu latin, présidait aux bornes des champs. Numa introduisit son culte à Rome, et lui bâtit un petit temple sur la roche Tarpéienne. Tarquin le Superbe ayant formé le projet d’élever à Jupiter un temple au même endroit, il, fallut déplacer les statues des dieux qui y étaient déjà. La légende raconte que tous les dieux cédèrent sans résistance la place qu’ils occupaient, mais que nul effort humain ne put faire bouger la statue du dieu Terme, et qu’il fallut nécessairement le laisser en place.</p>
             <p>On le représenta d’abord sous la forme d’une borne ou d’un pieu fiché en terre ; dans la suite on lui donna une tête humaine placée sur une pierre pyramidale [Fig. 77] ; mais il resta toujours sans bras et sans pieds.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_074.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_074.png"/>
               <label>[Fig. 77]</label>
             </figure>
           </div>
@@ -674,7 +674,7 @@
             <head>Thémis et Astrée.</head>
             <p><hi rend="i">Thémis</hi>, fille du Ciel et de la Terre, présidait à la justice. On la représentait avec une balance à la main et un bandeau sur les yeux [Fig. 78].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_075.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_075.png"/>
               <label>[Fig. 78]</label>
             </figure>
             <p><hi rend="i">Astrée</hi>, sa fille, descendit du ciel, dans l’âge d’or, pour habiter la terre. Au commencement de l’âge d’airain, elle retourna au ciel. Comme présidant à la justice, on la confondait souvent avec Thémis.</p>
@@ -683,7 +683,7 @@
             <head>Némésis.</head>
             <p><hi rend="i">Némésis</hi>, fille de Jupiter et de la Nécessité, était la déesse de la vengeance. Elle châtiait les méchants et ceux qui abusaient des dons de la fortune ; elle punissait l’orgueil, la vanité et l’impudence, et l’on avait soin de l’invoquer tout bas, comme pour lui demander grâce, lorsqu’on voulait parler avantageusement de soi, afin de ne pas s’attirer son indignation. Des ailes, un griffon qui semble voler, un glaive, et quelquefois un voile, symbole de l’impénétrabilité des vengeances célestes : tels étaient les principaux attributs de Némésis [Fig. 79]. On l’appelait aussi <hi rend="i">Adrastée</hi>.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_076a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_076a.png"/>
               <label>[Fig. 79]</label>
             </figure>
           </div>
@@ -691,7 +691,7 @@
             <head>La Fortune.</head>
             <p>La <hi rend="i">Fortune</hi> distribuait les biens et les maux suivant son caprice. Elle était particulièrement honorée chez les Romains. On la représentait chauve, aveugle, ou ayant un bandeau sur les yeux, debout, avec des ailes aux pieds, l’un posé sur une roue, et l’autre en l’air [Fig. 80] ; quelquefois au milieu des flots agités, cherchant à fixer son pied sur un globe mobile et glissant.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_076b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_076b.png"/>
               <label>[Fig. 80]</label>
             </figure>
           </div>
@@ -699,7 +699,7 @@
             <head>Plutus.</head>
             <p><hi rend="i">Plutus</hi>, dieu des richesses [Fig. 81], avait originairement la vue bonne, et n’accordait ses faveurs qu’aux justes ; mais, plus tard, Jupiter lui creva les yeux, et les richesses de vinrent indifféremment le partage des bons et des méchants.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_077.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_077.png"/>
               <label>[Fig. 81]</label>
             </figure>
           </div>
@@ -712,7 +712,7 @@
             <head>La Discorde.</head>
             <p>La <hi rend="i">Discorde</hi> naquit de la Nuit qui l’enfanta en même temps que la Mort et le Sommeil. Jupiter la chassa du ciel, parce qu’elle brouillait continuellement les dieux. Irritée de n’avoir point été invitée aux noces de Thétis et de Pélée, elle jeta au milieu des déesses la pomme d’or, sur laquelle était écrit : <hi rend="i">À la plus belle</hi>. On la représentait avec des yeux hagards et enflammés, la tête entourée de serpents, tenant d’une main une torche ardente, et de l’autre une couleuvre et un poignard [Fig. 82].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_078a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_078a.png"/>
               <label>[Fig. 82]</label>
             </figure>
           </div>
@@ -720,7 +720,7 @@
             <head>L’Envie.</head>
             <p>L’<hi rend="i">Envie</hi>, fille de la Nuit, habitait, au fond d’une vallée, une caverne ténébreuse, où elle ne pouvait jouir d’un seul instant de sommeil, et versait sur des lauriers le fiel amer que sa langue distillait sans cesse. Elle était représentée sous la figure d’une femme au regard louche et sombre, au teint livide, tenant des vipères dans ses mains, et entourée d’un serpent qui lui rongeait le sein [Fig. 83]. À son approche, l’herbe se fanait et les fleurs se flétrissaient sur leur tige.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_078b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_078b.png"/>
               <label>[Fig. 83]</label>
             </figure>
           </div>
@@ -732,7 +732,7 @@
             <head>La Force.</head>
             <p>La <hi rend="i">Force</hi> était la fille de Thémis. On la représentait sous les traits d’une amazone, embrassant d’une main une colonne, et tenant de l’autre un rameau de chêne ; à ses pieds reposait un lion [Fig. 84].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_079.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_079.png"/>
               <label>[Fig. 84]</label>
             </figure>
           </div>
@@ -740,7 +740,7 @@
             <head>La Fraude.</head>
             <p>La <hi rend="i">Fraude</hi> était représentée avec une tête humaine d’une physionomie agréable, et le reste du corps en forme de serpent, avec une queue de scorpion [Fig. 85]. Le Cocyte était sa demeure ordinaire ; elle n’élevait que la tête hors de l’eau.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_080a.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_080a.png"/>
               <label>[Fig. 85]</label>
             </figure>
           </div>
@@ -748,7 +748,7 @@
             <head>La Paix.</head>
             <p>Les Romains avaient élevé à la <hi rend="i">Paix</hi> un temple magnifique. Elle était représentée sous les traits d’une belle femme, tenant d’une main une branche d’olivier, et de l’autre un caducée [Fig. 86]. On lui donnait encore pour attributs la corne d’abondance, des épis de blé, un flambeau renversé.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_080b.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_080b.png"/>
               <label>[Fig. 86]</label>
             </figure>
           </div>
@@ -765,7 +765,7 @@
             <head>La Victoire.</head>
             <p>La <hi rend="i">Victoire</hi> tenait d’une main une couronne, une palme de l’autre, et s’appuyait d’un pied sur un globe [Fig. 87].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_081.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_081.png"/>
               <label>[Fig. 87]</label>
             </figure>
           </div>
@@ -780,7 +780,7 @@
             <head>La Pudeur.</head>
             <p>La <hi rend="i">Pudeur</hi> avait des temples en Grèce et en Italie. Tantôt c’était une femme voilée, tantôt une vierge qui approchait sa main de son visage, pour montrer qu’elle n’a aucun sujet de rougir [Fig. 88].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_082.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_082.png"/>
               <label>[Fig. 88]</label>
             </figure>
           </div>
@@ -792,7 +792,7 @@
             <head>La Liberté.</head>
             <p>Les Romains, après l’expulsion des rois, élevèrent des temples et des autels à la <hi rend="i">Liberté</hi>. Ils la représentaient sous la figure d’une femme qui se tient debout, et qui a dans sa main un bonnet, symbole de la liberté [Fig. 89], car les esclaves avaient toujours la tête nue.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_083.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_083.png"/>
               <label>[Fig. 89]</label>
             </figure>
           </div>
@@ -805,13 +805,13 @@
             <p><hi rend="i">Hercule</hi> eut pour père Jupiter, et pour mère Alcmène, femme d’Amphitryon, roi de Thèbes. Pendant qu’Alcmène portait Hercule dans son sein, la femme de Sthénélus, roi d’Argos, était aussi enceinte. Junon, animée d’une haine jalouse contre Alcmène, fit déclarer par Jupiter que celui qui naîtrait le premier aurait un empire absolu sur le second<note place="bottom">Les savants trouvent une explication de cette prééminence d’Eurysthée sur Hercule dans les contestations fréquentes auxquelles la souveraineté donnait lieu entre les petits rois de l’Argolide.</note> ; puis elle hâta la délivrance de la reine d’Argos, qui fut mère d’Eurysthée ; et celui-ci imposa, au fils d’Alcmène les plus rudes épreuves.</p>
             <p>Hercule se signala de bonne heure par sa force et son courage. Étant encore au berceau, il étouffa sans peine deux serpents monstrueux que Junon avait envoyés contre lui pour le faire périr. Obligé, par le sort de la naissance, d’obéir à Eurysthée, il exécuta, d’après ses ordres, ces périlleuses entreprises appelées communément <hi rend="i">les douze travaux d’Hercule</hi>. Il étrangla dans la forêt de Némée un lion furieux, dont il porta depuis la dépouille comme un monument de sa victoire. Il abattit d’un seul coup de sa massue les sept têtes de l’hydre de Lerne. Il prit en Arcadie le sanglier d’Erymanthe, qui faisait d’affreux ravages dans cette contrée. Il atteignit la biche aux pieds d’airain, qui jusqu’alors avait toujours échappé à la poursuite des chasseurs par la rapidité de sa course. Il extermina à coups de flèches les oiseaux de proie du lac Stymphale. Il dompta le taureau monstrueux qui désolait l’île de Crète [Fig. 90]. Il triompha de Diomède, roi de Thrace, qui nourrissait ses chevaux de chair humaine. Vainqueur des Amazones, il prit leur reine Hippolyte, qu’il fit épouser à Thésée, son compagnon dans cette expédition. Il nettoya les étables d’Augias, roi d’Élide, en détournant le cours de l’Alphée. Il terrassa Géryon, roi de l’île de Gadès (Cadix), qui nourrissait ses bœufs de la chair de ses sujets. Il enleva les pommes d’or du jardin des Hespérides<note place="bottom">Les Hespérides étaient filles d’Hespérus, frère d’Atlas, et possédaient un beau jardin rempli de fruits d’or. On devine aisément que ces fruits n’étaient tout simplement que des oranges et des citrons dont la Mauritanie est remplie.</note>, dont un dragon à sept têtes gardait l’entrée. Enfin il descendit aux Enfers pour en retirer Thésée, ou, suivant une autre tradition, Alceste, femme d’Admète, roi de Thessalie, qu’il arracha des bras mêmes de la Mort.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_085.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_085.png"/>
               <label>[Fig. 90]</label>
             </figure>
             <p>À ces douze travaux il ajouta un grand nombre d’actions mémorables. Il tua Busiris, tyran d’Égypte, le géant Antée et le brigand Cacus, dont il délivra l’Italie. Arrivé aux bords de l’océan Atlantique, il sépara les deux montagnes de Calpé et d’Abyla, depuis appelées <hi rend="i">les Colonnes d’Hercule</hi>, et sur lesquelles il inscrivit, en grec sans doute : <hi rend="i">Non plus ultra</hi><note place="bottom"><hi rend="i">Non plus ultra</hi> : On ne peut aller au delà. De là cette expression proverbiale : C’est le <hi rend="i">non plus ultra</hi> du luxe, du raffinement, etc.</note>.</p>
             <p>Il épousa Déjanire, qui lui avait été disputée par le fleuve Acheloüs. Après avoir vaincu ce rival, il emmenait son épouse, lorsqu’il fût arrêté par les eaux d’une rivière. Comme il délibérait s’il retournerait sur ses pas, le centaure Nessus<note place="bottom">Nessus, centaure, fils d’Ixion et de la Nue.</note> vint s’offrir pour passer Déjanire sur son dos. Mais à peine fut-il arrivé à l’autre bord, qu’il voulut enlever la jeune princesse. Hercule, indigné de cette perfidie, lui décocha une flèche teinte du sang de l’hydre de Lerne, et le blessa mortellement [Fig. 91]. Nessus, pour se venger, donna à Déjanire sa tunique ensanglantée, comme un talisman propre à ramener à elle son mari, si jamais il l’abandonnait.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_087.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_087.png"/>
               <label>[Fig. 91]</label>
             </figure>
             <p>Les dernières années du héros furent moins glorieuses. Il devint l’esclave d’Omphale, reine de Lydie, auprès de laquelle il oublia honteusement sa valeur et ses exploits. Tandis qu’Omphale, couverte de la peau du lion de Némée, tenait la massue, Hercule, habillé en femme, filait à ses pieds avec ses suivantes. De temps en temps la reine frappait légèrement le héros avec sa sandale, pour le punir de la maladresse avec laquelle il tenait la quenouille et le fuseau.</p>
@@ -821,7 +821,7 @@
             <head>Thésée.</head>
             <p><hi rend="i">Thésée</hi> était fils d’Égée, roi d’Athènes, et d’Éthra, fille du roi de Trézène. Il fut élevé à la cour du sage Pitthée, son aïeul maternel. Il marcha sur les traces d’Hercule, et commença par purger l’Attique des brigands qui l’infestaient : tels que Scyron, qui, non content de dépouiller les passants, les précipitait du haut des rochers dans la mer ; Procuste, qui étendait ses hôtes sur un lit de fer, leur coupait l’extrémité des jambes lorsqu’elles dépassaient le lit, et faisait tirer avec des cordes ceux qui n’étaient pas assez longs, jusqu’à ce qu’ils en atteignissent la longueur. Il affranchit les Athéniens du honteux tribut qu’ils payaient à Minos, en tuant le Minotaure, monstre moitié homme, moitié taureau [Fig. 92], et trouva l’issue du Labyrinthe, où ce montre était enfermé, à l’aide du peloton de fil que lui avait donné Ariane, fille de Minos. Après la mort de son père, il régna sur l’Attique, et y établit de sages lois ; puis il se mit à courir de nouveau les aventures. Il prit part à l’expédition des Argonautes ; il mit en fuite les Amazones, et épousa leur reine Antiope ou Hippolyte, dont il eut un fils du même nom. Ayant formé, avec son ami Pirithoüs, le dessein d’enlever Proserpine, il fut retenu prisonnier dans les Enfers jusqu’au moment où Hercule vint le délivrer. À son retour il eut le malheur de perdre son fils Hippolyte, que, sur une fausse accusation de Phèdre, son épouse, il avait dévoué à la vengeance de Neptune. La perte de son fils fut suivie de la révolte des Athéniens. Le malheureux Thésée se réfugia chez Lycomède, roi de Scyros, qui, jaloux de sa réputation, ou gagné par ses ennemis, le fit précipiter du haut d’un rocher.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_089.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_089.png"/>
               <label>[Fig. 92]</label>
             </figure>
           </div>
@@ -830,7 +830,7 @@
             <p>Acrisius, roi d’Argos, avait appris de l’oracle que Danaé, sa fille, mettrait au monde un fils qui lui ravirait la couronne et la vie. Pour échapper aux menaces de cet oracle, il fit enfermer cette jeune princesse dans une tour d’airain ; mais Jupiter s’y introduisit changé en pluie d’or, et Danaé devint mère de <hi rend="i">Persée</hi>. Acrisius, instruit de la naissance de l’enfant, le fit exposer sur la mer dans une nacelle avec Danaé. La malheureuse fut poussée par les vents sur les côtes de l’île de Sériphe, où un pêcheur recueillit la mère et l’enfant, et les conduisit à Polydecte, roi de cette île. Polydecte les reçut avec humanité, et prit soin de l’éducation du jeune Persée. Devenu grand, Persée se signala par diverses actions d’éclat. Muni du bouclier de Minerve, du casque de Pluton, des ailes et des talonnières de Mercure, il coupa la tête de Méduse<note place="bottom">Méduse, une des Gorgones. Ces Gorgones étaient trois sœurs, filles du dieu marin Phorcus et de Céto, qui habitaient l’extrémité occidentale de la Libye. Elles n’avaient à elles trois qu’un œil dont elles se servaient tour à tour. Toutes trois avaient les cheveux entrelacés de serpents, les mains d’airain, et leur regard pétrifiait.</note>. Monté sur le cheval Pégase, il se transporta dans la Mauritanie, où il changea Atlas en montagne, en lui présentant cette tête. Il délivra Andromède, fille du roi d’Éthiopie, qui était exposée sur un rocher pour être dévorée par un monstre marin [Fig. 93]. Après avoir épousé cette princesse, et pétrifié Phinée qui avait voulu s’opposer à son mariage, il retourna en Grèce, rétablit Acrisius sur le trône d’Argos, d’où il avait été chassé par Prœtus, et tua l’usurpateur. Bientôt après il eut le malheur de tuer son père en jouant au palet. Désespéré de ce meurtre involontaire, il résolut d’abandonner Argos, et échangea le royaume de son aïeul avec Mégapenthe, fils de Prœtus, contre le territoire de Mycènes. Dans la suite Mégapenthe, voulant
               venger la mort de son père, dressa des embûches à Persée et le fit périr. Ce héros fut placé dans le ciel, parmi les constellations, avec Andromède, son épouse.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_091.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_091.png"/>
               <label>[Fig. 93]</label>
             </figure>
           </div>
@@ -838,13 +838,13 @@
             <head>Jason et les Argonautes.</head>
             <p>Phryxus et Hellé, sa sœur, ne pouvant souffrir les mauvais traitements d’Ino, leur belle-mère, femme d’Athamas, roi de Thèbes, résolurent de quitter leur pays ; ils montèrent sur un bélier dont la toison était d’or afin de passer la mer. Hellé eut un vertige dans le passage, et se noya dans le détroit qui, depuis, fut nommé <hi rend="i">Hellespont</hi>. Quant à Phryxus, il acheva heureusement le voyage et arriva en Colchide. Là, il sacrifia son bélier sur l’autel de Mars, suspendit la dépouille à un arbre dans un bois consacré à ce dieu, et le mit sous la garde d’un énorme dragon<note place="bottom">On croyait que la Colchide possédait des mines d’or. De là, sans doute, la fable de la Toison d’or.</note> [Fig. 94].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_092.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_092.png"/>
               <label>[Fig. 94]</label>
             </figure>
             <p>Dans le même temps, <hi rend="i">Jason</hi>, fils d’Eson, roi d’Iolchos, avait été dépouillé de l’héritage de son père par l’usurpateur Pélias. Celui-ci promit à ce jeune prince de lui rendre son trône, s’il parvenait à reconquérir la toison d’or. Son intention était de le perdre ; cependant cette entreprise, quoique périlleuse, tenta le courage du jeune héros. Dès que la nouvelle du projet aventureux fut répandue, l’élite de la Grèce voulut y prendre part, et s’embarqua avec Jason sur le navire <hi rend="i">Argo</hi>, ainsi nommé, soit d’Argus, qui présida à sa construction, soit des Argiens qui s’y trouvaient en plus grand nombre ; soit enfin du mot grec <hi rend="i">argos</hi>, qui signifie léger. Parmi les guerriers qui partirent avec Jason, on distinguait Hercule, Thésée, Orphée, qui devait charmer l’ennui du voyage par ses chants et les sons de sa lyre ; le pilote Tiphys ; Lyncée, qui avait la vue très perçante, et qui était chargé de signaler les écueils ; Castor et Pollux, etc.</p>
             <p>Arrivé en Colchide, Jason parvint à se faire aimer de Médée, fille du roi et habile magicienne ; avec son secours, il endormit et tua le dragon, et se rendit maître de la toison. Après cet heureux succès, Jason s’enfuit avec Médée et ses compagnons, et revint en Thessalie. Là, comme Pélias différait toujours de lui rendre la couronne, Médée feignit d’avoir un secret pour rajeunir ce prince, et engagea ses filles à tuer leur père et à faire bouillir ses membres dans une chaudière, leur faisant espérer qu’il renaîtrait plein de vigueur et de jeunesse. Pélias perdit la vie ; mais ce crime ne rendit pas la couronne à Jason. Acaste, fils de Pélias, s’en empara, et força Jason et Médée à s’enfuir à Corinthe. Là, Jason conçut de l’amour pour Creüse, fille du roi Créon. Médée, pour se venger, fit périr sa rivale, égorgea les enfants qu’elle avait eus de Jason [Fig. 95], et s’enfuit sur un char attelé de dragons ailés. Jason mena ensuite une vie errante, et ne put se fixer en aucun lieu. Médée lui avait prédit qu’il périrait sous les débris du vaisseau des Argonautes ; la prédiction se réalisa. Un jour qu’il se reposait sur le bord de la mer à l’abri de ce vaisseau, il fut écrasé par une poutre qui s’en détacha.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_094.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_094.png"/>
               <label>[Fig. 95]</label>
             </figure>
           </div>
@@ -857,7 +857,7 @@
             <p>Hipponoüs, fils de Glaucus, roi d’Ephyre (ancien nom de Corinthe) et d’Eurymède, reçut le nom de Bellérophon après avoir tué par mégarde à la chasse son frère Bellerus<note place="bottom">Le nom de Bellérophon est composé de deux mots grecs, qui signifient <hi rend="i">meurtrier de Bellérus</hi>.</note>. Forcé de s’expatrier, il se rendit à Tirynthe, à la cour de Prœtus. Sténobée, femme de ce prince, ayant conçu une violente passion pour Bellérophon, et s’en voyant dédaignée, l’accusa auprès de son mari d’avoir voulu la séduire. Prœtus, n’osant violer les lois de l’hospitalité en punissant lui-même Bellérophon, l’envoya, sous un faux prétexte, à la cour du roi de Lycie, Iobate son beau-père, avec une lettre par laquelle il priait ce roi de tirer vengeance d’un homme qui avait voulu attenter à l’honneur de sa fille. De là le proverbe : <hi rend="i">Prenez garde de porter une lettre de Bellérophon.</hi> Iobate, suivant l’usage, commença par donner l’hospitalité à Bellérophon, et ce ne fut qu’au bout de neuf jours qu’il ouvrit la lettre de Prœtus. Cependant, Iobate lui-même, n’osant souiller ses mains du sang de son hôte, le pria de délivrer le pays de la Chimère, monstre terrible, qui avait la tête d’un lion, le corps d’une chèvre et la queue d’un dragon, et dont la gueule béante vomissait des tourbillons de flamme<note place="bottom">La Chimère, suivant l’opinion la plus raisonnable, était une montagne de Lycie, qui vomissait des flammes et qu’habitaient une multitude de lions et d’autres bêtes féroces.</note>. Bellérophon semblait devoir succomber dans cette entreprise ; mais, avec le secours de Minerve et à l’aide du cheval Pégase, il triompha de la Chimère [Fig. 96]. Iobate l’exposa à de nouvelles épreuves en l’envoyant contre les Amazones et les Solymes. Bellérophon sortit vainqueur de cette guerre, et, à son retour, tua les soldats qu’Iobate avait apostés pour l’assassiner. Un bonheur si constant convainquit le roi de l’innocence de Bellérophon ;
               forcé de reconnaître en lui un mortel aimé des dieux, Iobate lui donna sa fille Philonoé en mariage, et partagea son royaume avec lui. Iobate étant mort sans laisser d’enfants mâles, Bellérophon lui succéda ; mais, sur la fin de sa vie, il encourut la haine des dieux, et tomba dans une profonde mélancolie, qui le portait à errer seul dans les déserts, dévoré de soucis, et fuyant tout commerce avec les hommes.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_096.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_096.png"/>
               <label>[Fig. 96]</label>
             </figure>
           </div>
@@ -867,26 +867,26 @@
             <p>Polydore, leur fils, fut déchiré par les Bacchantes ; et Labdacus, qui lui succéda, mourut prématurément, ne laissant qu’un fils au berceau. Ce fils fut Laïus, époux de Jocaste. L’oracle avait prédit que le fils qui naîtrait de leur union serait le meurtrier de son père et le mari de sa mère. Aussi fut-il confié, quelques heures après sa naissance, à un pâtre, qui devait l’égorger, et qui, par pitié, se contenta de lui percer les pieds et de le suspendre à un arbre sur le mont Cithéron [Fig. 97]. Par hasard, Phorbas, berger de Polybe, roi de Corinthe, vint en ce lieu, et, attiré par les cris de l’enfant, le détacha de l’arbre et l’emporta. Péribée, reine de Corinthe, voulut le voir ; et, comme elle n’avait point d’enfants, elle l’adopta. Ce fut alors qu’il reçut le nom d’<hi rend="i">Œdipe</hi> (<hi rend="i">oidéin</hi>, s’enfler, <hi rend="i">pous</hi>, pied), à cause de l’enflure de ses pieds. Œdipe, devenu grand, alla consulter sur sa destinée l’oracle de Delphes, qui lui fit une réponse semblable à celle qu’avait reçue Laïus. Comme il se croyait fils de Polybe et de Péribée, il résolut de ne jamais retourner à Corinthe, et partit pour la Phocide. Ayant rencontré Laïus dans un chemin étroit, où celui-ci lui disputa le pas, il le tua, sans le connaître, à la suite d’une rixe qui s’était engagée entre eux [Fig. 98]. Arrivé à Thèbes, Œdipe trouva la ville désolée par le <hi rend="i">Sphinx</hi><note place="bottom"><p>On prétend qu’une fille de Laïus, nommée Sphinge, a fait imaginer la fable du Sphinx. Mécontente de son père, elle se serait associée à une troupe de brigands qui désolaient les environs de Thèbes. Ses griffes marquaient sa cruauté ; son corps de chien, ses désordres ; ses ailes, son adresse à éviter les pièges des Thébains ; et ses énigmes, les embûches qu’elle leur tendait.</p><p>Chez les Égyptiens, le sphinx, représenté avec une tête d’homme ou de femme, unie à un corps de lion, était le symbole de l’intelligence et de la force. On le
               plaçait à l’entrée des temples.</p></note>. Ce monstre, qui avait la tête et le sein d’une jeune femme, le corps d’un chien, les griffes d’un lion, les ailes d’un aigle et une queue armée d’un dard aigu, proposait une énigme aux passants, et dévorait ceux qui ne pouvaient la deviner. Voici cette fameuse énigme : — Quel est l’animal qui a quatre pieds le matin, deux à midi, et trois le soir ? On avait promis le trône de Laïus et la main de Jocaste à celui qui devinerait le sens de ces paroles. Œdipe y réussit, et répondit que cet animal est l’homme, qui, dans son enfance, se traîne sur ses pieds et sur ses mains ; qui, dans la force de l’âge, se tient debout sur ses deux jambes, et qui, dans sa vieillesse, s’appuie sur un bâton. Le monstre, vaincu par cette explication, se précipita du haut du rocher, où il faisait sa demeure, et se brisa la tête. Œdipe devint donc roi de Thèbes et épousa Jocaste, dont il eut deux fils, Étéocle et Polynice, et deux filles, Antigone et Ismène. Quelques années après, le royaume fut désolé par une peste cruelle. On consulta l’oracle, qui déclara que ce fléau ne cesserait qu’après l’exil du meurtrier de Laïus. Après bien des perquisitions, Œdipe aboutit à dévoiler le mystère de sa naissance, et à se reconnaître parricide et incestueux.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_098.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_098.png"/>
               <label>[Fig. 97]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_099.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_099.png"/>
               <label>[Fig. 98]</label>
             </figure>
             <p>Dans l’excès de sa douleur, il s’arracha les yeux, et s’exila de Thèbes. Il alla dans l’Attique avec sa pieuse fille Antigone, qui lui servait de guide, et s’arrêta près d’un bourg nommé Colone, dans un bois consacré aux Euménides [Fig. 99]. C’est là qu’il disparut de la terre, au milieu des foudres et des éclairs.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_100.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_100.png"/>
               <label>[Fig. 99]</label>
             </figure>
             <p>Les fils d’Œdipe, <hi rend="i">Étéocle</hi> et <hi rend="i">Polynice</hi>, héritèrent de la malédiction attachée à la race de Cadmus. Ces deux frères donnèrent l’exemple unique d’une inimitié invincible, qui avait commencé même avant qu’ils eussent vu le jour. Ils se battaient dans le sein de leur mère. Après la mort d’Œdipe, ils convinrent de régner chacun une année alternativement. Étéocle, qui était l’aîné, régna le premier ; mais, l’année révolue, il refusa de céder la couronne à son frère. Cette usurpation causa la fameuse <hi rend="i">guerre de Thèbes</hi>, tant célébrée par les poètes. Polynice alla implorer le secours d’Adraste, roi d’Argos, qui lui donna en mariage sa fille Argie, et organisa en sa faveur une puissante armée. Sept chefs intrépides commandaient cette armée ; ils sont appelés <hi rend="i">les sept chefs devant Thèbes</hi> : c’étaient Polynice, Adraste, Tydée, Capanée, le devin Amphiaraüs, Hippomédon et Parthénopée.</p>
             <p>Après une guerre sanglante et inutile, Étéocle et Polynice voulurent terminer leur différend par un combat singulier, et ils s’entre-tuèrent [Fig. 100]. Créon, frère de Jocaste, se trouva, par cette mort, possesseur du trône. Il fit donner la sépulture à Étéocle, et défendit, sous peine de mort, d’ensevelir le corps de Polynice. La pieuse Antigone brava cet ordre cruel, et alla avec sa belle-sœur Argie rendre à cet infortuné les honneurs funèbres [Fig. 101]. Créon, loin d’être touché de ce dévouement, condamna Antigone à être enterrée vive ; mais elle prévint cet affreux supplice en s’étranglant. Suivant une autre tradition, les corps d’Étéocle et de Polynice furent mis sur le même bûcher, et l’on crut remarquer que les flammes se divisaient pour ne pas confondre les cendres de ces deux frères, ennemis jusque dans la mort.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_101.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_101.png"/>
               <label>[Fig. 100]</label>
             </figure>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_102.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_102.png"/>
               <label>[Fig. 101]</label>
             </figure>
             <p>Adraste, qui était resté seul des sept chefs, reprit la route d’Argos. Mais, dix ans après, Alcméon, fils d’Amphiaraüs, Égialée, fils d’Adraste, Diomède, fils de Tydée, Promaque, fils de Parthénopée, Sténélus, fils de Capanée, Thersandre, fils de Polynice, et Polydore, fils d’Hippomédon, s’armèrent pour venger leurs pères. On les appela les <hi rend="i">Épigones</hi> ou dépendants. Thèbes fut prise et livrée au pillage, et Thersandre, fils de Polynice, remonta sur le trône de Laïus ; mais il fut tué quelques années après en allant au siège de Troie. Après sa mort, deux princes de sa famille régnèrent à Thèbes ; mais le second fut tout à coup saisi d’une noire frénésie, et les Thébains, persuadés que les Furies ne cesseraient pas de poursuivre le sang d’Œdipe et la race de Cadmus, mirent une autre famille sur le trône.</p>
@@ -900,14 +900,14 @@
             <p>La <hi rend="i">guerre de Troie</hi> est le grand événement qui termine l’histoire fabuleuse. Le jugement de Pâris et l’enlèvement d’Hélène en furent la cause.</p>
             <p>Pâris, surnommé Alexandre, était fils de Priam, roi de Troie. Pendant qu’Hécube le portait dans son sein, elle songea qu’elle enfermait une torche qui devait un jour embraser Troie. Sur la foi des devins, qui avaient prédit que cet enfant causerait la ruine de sa patrie, Priam, aussitôt qu’il fut né, le donna à un de ses esclaves pour le faire périr ; mais Hécube, n’écoutant que la tendresse maternelle, le déroba et le confia à des bergers du mont Ida. Pâris trahit bientôt sa naissance par sa beauté, son esprit et son adresse, et inspira de l’amour à la nymphe Œnone, qu’il épousa. Quoiqu’il ne fût en apparence qu’un simple pâtre, Jupiter le choisit pour arbitre du différend qui s’était élevé entre Junon, Minerve et Vénus, au sujet de la pomme d’or jetée par la Discorde aux noces de Thétis et de Pélée, et sur laquelle était cette inscription : <hi rend="i">À la plus belle</hi> ! Plus tard, Pâris se rendit à Lacédémone, et, secondé par Vénus, à qui il avait adjugé la pomme, il se fit aimer d’Hélène, femme du roi Ménélas, et l’enleva [Fig. 102]. Une ligue se forma pour venger l’affront fait à Ménélas ; et, à la tête d’une armée formidable, les principaux chefs de la Grèce vinrent mettre le siège devant Troie.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_105.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_105.png"/>
               <label>[Fig. 102]</label>
             </figure>
             <p>Les plus célèbres furent : Agamemnon, roi de Mycènes et frère de Ménélas ; Ulysse, roi d’Ithaque ; Achille, fils de Thétis et de Pélée, roi de la Phtiotide, et Patrocle, son ami ; Nestor, roi de Pylos, célèbre par sa sagesse et son éloquence ; Diomède, roi d’Étolie, fils de Tydée ; Sthénélus, fils de Capanée ; Ajax, roi de Salamine, fils de Télamon ; un autre Ajax, roi des Locriens, fils d’Oïlée ; Idoménée, roi de l’île de Crète, et le brave Mérion, qui l’avait accompagné ; Philoctète, héritier des flèches d’Hercule, etc.</p>
             <p>Tous ces princes étaient arrivés dans l’Aulide avec leurs vaisseaux et leurs troupes, à l’exception d’Ulysse et d’Achille. Marié depuis peu de temps avec Pénélope, qu’il aimait tendrement, Ulysse, pour s’exempter d’aller au siège de Troie, imagina de contrefaire l’insensé ; pour mieux faire croire qu’il avait l’esprit aliéné, il s’avisa de labourer le sable sur le bord de la mer avec une charrue attelée de deux bêtes de différente espèce et d’y semer du sel. Mais Palamède découvrit la feinte, en plaçant le jeune Télémaque devant le soc de la charrue. Ulysse, craignant de blesser son fils, leva la charrue, et fit connaître par là que sa folie n’était que simulée.</p>
             <p>Thétis, sachant que son fils devait périr au siège de Troie s’il s’y rendait, l’envoya, déguisé en femme sous le nom de Pyrrha, à la cour de Lycomède, roi de Scyros. Cependant, comme Troie, d’après la prédiction de Chalcas, ne pouvait être prise sans Achille, les princes grecs chargèrent Ulysse de découvrir le lieu de sa retraite. Celui-ci, s’étant déguisé en marchand, se rendit à Scyros, où il soupçonnait qu’il était caché, et présenta aux jeunes filles de la cour des parures, des bijoux et des armes. Les princesses choisirent naturellement les parures ; mais Achille se trahit par l’impétuosité avec laquelle il se jeta sur les armes, et ne put se refuser à suivre Ulysse au siège de Troie. Après l’arrivée de ces deux héros, les Grecs partirent. Leur départ coûta la vie à Iphigénie, fille d’Agamemnon, que Chalcas, prêtre et devin des Grecs, sacrifia sur l’autel de Diane, pour obtenir un vent favorable [Fig. 103].</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_107.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_107.png"/>
               <label>[Fig. 103]</label>
             </figure>
             <p>Troie, ville célèbre de l’Asie Mineure, était située sur les bords du fleuve Scamandre ou Xanthe, dans la partie de la Phrygie qui regardait l’Hellespont.</p>
@@ -915,7 +915,7 @@
             <p>Les dieux eux-mêmes prirent parti dans cette grande querelle ; Jupiter seul resta neutre. Vénus, Mars et Apollon défendaient les Troyens ; Junon, Minerve, Neptune et Vulcain protégeaient les Grecs.</p>
             <p>Après dix années de siège, la ville fut prise et réduite en cendres [Fig. 104]. Énée fut presque le seul qui échappa à la mort ou à l’esclavage. Protégé dans sa fuite par Vénus, sa mère, il alla s’établir en Italie, où il fonda une ville qui fut le berceau de Rome.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_108.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_108.png"/>
               <label>[Fig. 104]</label>
             </figure>
             <p>Les princes grecs, pour la plupart, furent moins heureux qu’Énée. Agamemnon trouva son trône occupé par un indigne usurpateur, et périt assassiné par Clytemnestre, son épouse ; Diomède perdit tous ses compagnons et ne put retourner dans sa patrie ; Ajax, fils d’Oïlée, fut tué de la foudre en pleine mer ; d’autres, comme Idoménée, Diomède, Teucer, trahis par leurs parents et leurs amis, furent forcés d’aller chercher dans des pays lointains une nouvelle patrie ; Ulysse erra pendant dix ans sur les mers avant de pouvoir regagner Ithaque.</p>
@@ -937,7 +937,7 @@
             <p>Ulysse, que ses malheurs passés avaient rendu encore plus circonspect, entre sans bruit dans le port ; mais le manque de vivres le met dans la nécessité de détacher une partie de ses compagnons pour aller reconnaître le pays. Ceux-ci pénètrent jusqu’au fond d’une vallée, où ils découvrent le palais de Circé, environné d’une épaisse forêt, et voient à l’entrée des loups et des lions que la magicienne avait apprivoisés, et qui, au lieu de se jeter sur eux, viennent en rampant les caresser. Circé les accueille avec de douces paroles, les fait asseoir sur des sièges magnifiques, et leur présente un breuvage, qu’ils ont l’imprudence d’accepter. À peine en ont-ils goûté, qu’ils sont convertis en pourceaux et s’enfuient dans une étable. Un seul, qui, par défiance, était resté hors du palais, courut avertir Ulysse de la disgrâce de ses compagnons. Le héros arrive et se jette, l’épée à la main, sur la déesse, comme pour lui ôter la vie. Celle-ci, effrayée, tombe à ses genoux, et reconnaît alors qu’il est ce sage et prudent Ulysse que Mercure lui avait autrefois annoncé. Elle lui tient, pour le fléchir, les discours les plus touchants ; mais il refuse de l’écouter, jusqu’à ce qu’elle ait rendu à ses compagnons leur première forme. Circé obéit, et Ulysse, satisfait, consent à demeurer un an dans son palais.</p>
             <p>Il descendit ensuite aux Enfers, pour y consulter l’ombre du devin Tirésias sur sa destinée. Il y apprit qu’il n’était pas encore arrivé au terme de ses épreuves ; mais il sut les surmonter toutes par sa prudence et son courage. Obligé de passer devant les rochers qu’habitaient les Sirènes, il trouva moyen d’échapper à leurs séductions. Il boucha soigneusement avec de la cire les oreilles de tous ses compagnons, et se fit attacher au grand mât du navire, après leur avoir ordonné que, si, charmé par les chants et les attraits des Sirènes, il lui prenait envie de s’arrêter, loin de condescendre à ses désirs, ils le liassent encore plus fort avec de nouvelles cordes. Il évita aussi les écueils de Charybde et de Scylla, dans le détroit de Sicile ; mais une nouvelle tempête fit périr son vaisseau et le reste de ses compagnons, et il se sauva seul dans l’île de Calypso. Il y passa sept ans, retenu par cette déesse qui lui offrit l’immortalité, s’il voulait l’épouser [Fig. 105] ; mais il préféra Pénélope et le bonheur de revoir la fumée du toit de son palais à un si brillant avantage, et Calypso le renvoya sur un radeau. Il gagna avec beaucoup de peine l’île des Phéaciens, où il fut reçu avec distinction par le roi Alcinoüs.</p>
             <figure>
-              <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_115.png"/>
+              <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_115.png"/>
               <label>[Fig. 105]</label>
             </figure>
             <p>Ce prince, après avoir entendu le récit de ses aventures, lui fournit les moyens de retourner à Ithaque. Ulysse y débarqua déguisé en mendiant, et se rendit d’abord à la cabane du vieil Eumée, son fidèle serviteur, qui le conduisit à la ville. À la porte du palais, Argus, son chien, le reconnut, après une si longue absence, et mourut de la joie d’avoir revu son maître, après avoir fait de vains efforts pour se traîner jusqu’à lui. Ayant trouvé moyen de pénétrer jusqu’à Pénélope, Ulysse l’entretint sans se faire connaître, lui donna des nouvelles de son époux, et l’assura qu’il serait bientôt de retour. Pénélope, de son côté, lui confia les chagrins et les embarras qu’elle avait éprouvés depuis le départ de son mari. Elle lui dit que, ne pouvant plus éluder les poursuites des prétendants, elle leur avait proposé pour le lendemain l’exercice de la bague avec l’arc d’Ulysse, et qu’elle avait juré d’épouser celui qui parviendrait à tendre cet arc. Ulysse, qui avait tout préparé pour se défaire des prétendants, approuva sa résolution. Le lendemain, au lever de l’aurore, on apporte l’arc immense d’Ulysse avec les douze anneaux que doit traverser la flèche. Cet exercice de la bague, qui ne paraissait qu’un jeu, devait devenir un spectacle tragique par le carnage dont il allait être suivi. Tous les princes font de vains efforts pour tendre l’arc. Ulysse, déguisé en mendiant, se présente à son tour et demande qu’il lui soit permis d’éprouver ses forces. Les prétendants se moquent d’abord de lui et s’opposent à ce qu’il se mettre au nombre des concurrents ; mais Pénélope les y fait consentir. Ulysse prend l’arc, le tend presque sans peine, et la flèche, rapide comme l’éclair, traverse les douze bagues. Les prétendants pâlissent. Ulysse se dépouille de ses haillons, se fait connaître, et, secondé de Télémaque et d’Eumée, il perce de ses flèches tous ses ennemis l’un après l’autre. On ne fit grâce qu’au musicien Phémius, en considération du don précieux qu’il
@@ -952,7 +952,7 @@
           <head>Lycaon.</head>
           <p><hi rend="i">Lycaon</hi>, roi d’Arcadie, prince impie et cruel, faisait périr tous les étrangers qui passaient dans ses États. Jupiter étant descendu chez lui, Lycaon se prépare à lui ôter la vie ; mais, frappé de la majesté de son visage, et voulant s’assurer si ce n’est pas un dieu, il lui fait servir de la chair humaine. À l’instant Jupiter s’arma de sa foudre ; le palais s’embrase et s’écroule, et Lycaon s’enfuit, en hurlant, dans un bois voisin, sous la forme d’un loup<note place="bottom">Le nom de <hi rend="i">Lycaon</hi> a pour racine <hi rend="i">lucos</hi>, mot grec qui signifie <hi rend="i">loup</hi>.</note> [Fig. 106].</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_118.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_118.png"/>
             <label>[Fig. 106]</label>
           </figure>
         </div>
@@ -960,7 +960,7 @@
           <head>Apollon et Daphné.</head>
           <p>Apollon aimait <hi rend="i">Daphné</hi>, jeune nymphe, fille du fleuve Pénée, et n’en était point aimé. Un jour, pour se dérober aux poursuites du dieu, qui était sur le point de l’atteindre, la- nymphe implora le secours de son père, et incontinent elle fut changée en l’arbre qui, de son nom, fut appelé <hi rend="i">laurier</hi><note place="bottom">Daphné, en grec, veut dire <hi rend="i">laurier</hi>.</note> [Fig. 107]. Apollon en détacha un rameau dont il se fit une couronne, et voulut que cet arbre lui fût consacré.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_119.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_119.png"/>
             <label>[Fig. 107]</label>
           </figure>
         </div>
@@ -1012,7 +1012,7 @@
           <head>Actéon.</head>
           <p><hi rend="i">Actéon</hi> aimait beaucoup la chasse. Un jour il passa près d’une fontaine où Diane se baignait avec ses nymphes. La déesse, honteuse de se voir ainsi surprise, puise de l’eau dans ses mains et en jette au visage du chasseur [Fig. 108]. Actéon s’enfuit, mais il était devenu cerf ; et aussitôt ses chiens, qui ne le reconnaissaient plus, se précipitent sur lui et le dévorent.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_124.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_124.png"/>
             <label>[Fig. 108]</label>
           </figure>
         </div>
@@ -1024,7 +1024,7 @@
           <head>La nymphe Écho.</head>
           <p><hi rend="i">Écho</hi>, fille de l’Air et de la Terre, nymphe de la suite de Junon, avait encouru par ses mensonges la haine de la déesse, qui la chassa du ciel et la condamna à ne pouvoir répéter que la dernière syllabe des mots qui lui étaient adressés. Exilée sur la terre, elle vit Narcisse et l’aima sans pouvoir s’en faire aimer. Dans sa douleur, elle se retira au fond d’un bois, et n’habita plus que les antres et le creux des rochers [Fig. 109]. Consumée à la fin de regret et de langueur, il ne lui resta plus que les os et la voix, et Junon la métamorphosa en pierre.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_125.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_125.png"/>
             <label>[Fig. 109]</label>
           </figure>
         </div>
@@ -1032,7 +1032,7 @@
           <head>Narcisse.</head>
           <p><hi rend="i">Narcisse</hi>, fils du fleuve Céphise et de la nymphe Liriope, était un jeune homme d’une rare beauté, qui fut aimé de plusieurs nymphes. Tirésias avait prédit à sa mère qu’il vivrait tant qu’il ne se verrait pas. Revenant un jour de la chasse, accablé de fatigue et consumé de soif, il passa près d’une fontaine, dont l’eau fraîche et limpide l’invita, pour son malheur, à s’y désaltérer. Tandis qu’il se penchait pour boire, il aperçut son image dans le miroir de l’eau, et devint tellement amoureux de lui-même, qu’il mourut de langueur sur le bord de la fontaine [Fig. 110]. Sa folle passion l’accompagna jusqu’aux Enfers, où il se regardait sans cesse dans les eaux du Styx. Les Naïades, ses sœurs, le cherchèrent longtemps et apprirent d’une nymphe qu’il avait été changé en cette fleur jaune qu’on appelle Narcisse.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_126.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_126.png"/>
             <label>[Fig. 110]</label>
           </figure>
         </div>
@@ -1040,7 +1040,7 @@
           <head>Pyrame et Thisbé.</head>
           <p><hi rend="i">Pyrame</hi> et <hi rend="i">Thisbé</hi> étaient tous deux de Babylone et s’aimaient tendrement. Comme leurs parents étaient ennemis mortels et se refusaient à les unir, ils ne pouvaient se parler qu’en secret et par une ouverture qu’ils avaient faite à un mur commun. Las enfin de cette contrainte, ils prirent la résolution de s’enfuir, et se donnèrent rendez-vous sous un mûrier, à quelque distance de la ville, près du tombeau de Ninus. Thisbé arriva la première ; mais, ayant aperçu une lionne qui rôdait autour du tombeau, la gueule béante et ensanglantée, elle se sauva, et en fuyant laissa tomber son voile que la lionne déchira et teignit de sang. Pyrame arrive ensuite ; il reconnaît le voile, aperçoit les traces du monstre, et, croyant que Thisbé a été dévorée, il se perce de son épée. Thisbé, qui n’entendait plus les rugissements de la lionne, revient un moment après et trouve Pyrame expirant. Après avoir cherché en vain à le rappeler à la vie, désespérée, elle ramasse le glaive, et se le plonge dans le cœur [Fig. 111]. Les fruits du mûrier, sur lequel avait rejailli le sang des deux amants, devinrent rouges, de blancs qu’ils étaient auparavant.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_127.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_127.png"/>
             <label>[Fig. 111]</label>
           </figure>
         </div>
@@ -1084,7 +1084,7 @@
           <head>Orphée et Eurydice.</head>
           <p><hi rend="i">Orphée</hi>, célèbre musicien de Thrace, était fils d’Apollon et de Calliope. Il jouait si bien de la lyre, que les bêtes féroces s’attroupaient autour de lui, les arbres descendaient des montagnes et les fleuves suspendaient leur cours. <hi rend="i">Eurydice</hi>, sa femme, étant morte de la blessure d’un serpent le jour même de ses noces, il descendit aux Enfers pour la redemander [Fig. 112], et toucha tellement Proserpine par ses chants et les accords de sa lyre, que cette déesse la lui fit rendre par Pluton, mais à condition qu’il ne regarderait pas derrière lui avant d’être sorti des Enfers. Orphée revenait donc avec Eurydice ; déjà il apercevait la lumière du jour, lorsque, tout à coup, ne pouvant maîtriser son impatience, il tourne la tête, il voit Eurydice, qui à l’instant disparaît au milieu des ténèbres, et pour toujours. Depuis ce malheur il vécut seul, avec sa lyre, dans les antres de la Thrace. Son indifférence irrita si fort les Bacchantes, qu’elles se liguèrent contre lui, le mirent en pièces, et jetèrent sa tête dans l’Hèbre.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_131.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_131.png"/>
             <label>[Fig. 112]</label>
           </figure>
           <p>Les Muses recueillirent ses membres dispersés et leur rendirent les honneurs funèbres. Il fut métamorphosé en cygne par son père, et sa lyre fut placée au nombre des constellations.</p>
@@ -1131,7 +1131,7 @@
           <head>Atalante et Hippomène.</head>
           <p><hi rend="i">Atalante</hi>, fille de Schœnée, était si légère à la course, qu’elle eût effleuré la surface d’un lac sans mouiller sa chaussure. Comme elle était recherchée en mariage par plusieurs jeunes princes, son père déclara que sa main serait le prix de celui qui la vaincrait à la course. Hippomène se présenta dans la lice ; il partit le premier et laissa tomber en courant, à quelque distance l’une de l’autre, trois pommes d’or du jardin des Hespérides, que Vénus lui avait données. Atalante, s’étant amusée à les ramasser, fut vaincue et devint l’épouse d’Hippomène [Fig. 113].</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_138.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_138.png"/>
             <label>[Fig. 113]</label>
           </figure>
         </div>
@@ -1157,7 +1157,7 @@
           <p>L’Aurore avait eu de son mariage avec Tithon le célèbre Memnon, qui fut tué par Achille au siège de Troie. À Thèbes, en Égypte, la statue de Memnon rendait, dit la légende, un son harmonieux lorsque les rayons du soleil venaient à la frapper.</p>
           <p>On représentait l’Aurore assise sur un char lumineux, parsemé de rubis et de roses, pour exprimer les brillantes couleurs du matin [Fig. 114]. De là les expressions : <hi rend="i">l’Aurore aux doigts de rose, au teint de rose</hi>, etc.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_141.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_141.png"/>
             <label>[Fig. 114]</label>
           </figure>
         </div>
@@ -1173,7 +1173,7 @@
           <head>Philémon et Baucis.</head>
           <p>Jupiter, voyageant un jour avec son fils Mercure, sous la figure d’un simple mortel, et se trouvant surpris par la nuit, alla demander l’hospitalité dans un bourg de la Phrygie. Tous les habitants le rebutèrent, à l’exception de Philémon et Baucis, qui, quoique fort pauvres, consentirent à le recevoir et lui ouvrirent la porte de leur petite cabane [Fig. 115]. Pour les récompenser, Jupiter leur ordonna de le suivre au haut d’une montagne. Arrivés au sommet, ils regardèrent derrière eux, et virent tout le bourg et les environs submergés, à l’exception de leur humble cabane, qui fut changée en un temple. Le dieu promit alors à ce couple fidèle de leur accorder ce qu’ils demanderaient. Les deux époux souhaitèrent seulement d’être les ministres de ce temple, et de ne point mourir l’un sans l’autre. Leurs souhaits furent accomplis. Parvenus à une extrême vieillesse, Philémon s’aperçut que Baucis devenait tilleul, et Baucis fut étonnée de voir que Philémon devenait chêne ; ils se dirent alors tendrement les derniers adieux.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_143.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_143.png"/>
             <label>[Fig. 115]</label>
           </figure>
         </div>
@@ -1186,7 +1186,7 @@
           <p>Après avoir en vain cherché par toute la terre sa fille Proserpine, Cérès était retenue en Sicile. Un jour, passant près d’une fontaine, elle aperçoit sur l’eau la ceinture de Proserpine ; elle ne doute plus de son malheur, et, dans la colère qui l’anime contre les hommes, elle maudit les présents qu’elle leur a faits en leur donnant l’usage du blé. Elle brise les charrues, fait périr les bœufs et condamne la terre à une affreuse stérilité. Une naïade, nommée Aréthuse, sort alors du fond des eaux, et représente à Cérès que la terre n’est point coupable de l’enlèvement de sa fille, mais qu’elle s’est ouverte, malgré elle, pour donner passage au ravisseur. Elle lui apprend que Proserpine a été enlevée par Pluton, et qu’elle règne avec lui dans les Enfers. Cérès, comme on l’a vu, alla redemander sa fille à Jupiter, et obtint, par l’entremise de ce dieu, que Proserpine passerait alternativement six mois sur la terre et six mois dans le séjour de son époux. À son retour, son premier soin fut de témoigner à la nymphe Aréthuse la reconnaissance qu’elle lui devait ; ensuite elle lui demanda par quelle aventure elle avait fixé sa demeure dans la Sicile.</p>
           <p>« Je suis de l’Élide, lui dit la nymphe, et Pise est le lieu de ma naissance. Entre les nymphes de la Grèce, j’étais la plus passionnée pour la chasse, et, quoiqu’on pût me trouver quelques attraits, je n’aspirais point à la réputation d’être belle ; je rougissais même des louanges qu’on me donnait, et je me faisais un crime de plaire par d’autres dons que ceux de l’esprit et du cœur. Un jour que j’étais lasse et accablée par la chaleur, je m’arrêtai sur les bords d’un fleuve, dont les eaux tranquilles étaient si transparentes, qu’on eût pu compter les cailloux qui en jonchaient le lit. Des saules et des peupliers ombrageaient ses rives. J’entrai dans l’eau pour m’y rafraîchir ; aussitôt j’entends autour de moi un murmure qui m’effraye ; je regagne à l’instant le bord, et je vois paraître Alphée, le dieu du fleuve. Il vient à moi, et je fuis comme la colombe devant l’épervier [Fig. 116]. Je cours à travers les bois et les campagnes ; le dieu me suit toujours. Enfin, ne pouvant plus marcher, j’implore la protection de Diane, et cette déesse, touchée de ma prière, m’enveloppe d’un nuage épais. Alphée me cherche sans pouvoir me découvrir ; il m’appelle et ne peut se résoudre à s’éloigner du nuage. Je tremble comme la brebis qui entend le loup hurler autour de l’étable. Alors une sueur froide se répand sur tout mon corps, des gouttes d’eau tombent de mes cheveux, comme la rosée des feuilles d’un arbre agité par le vent, je m’en vois inondée, et en un instant je suis transformée en fontaine. Alphée reconnaît le changement qui s’est fait en moi ; il quitte la figure humaine, et reprend celle de fleuve. Il s’attache encore à me poursuivre ; et, Diane m’ayant ouvert un passage sous terre, je suis venue me réfugier dans cette contrée, et je n’y ai revu le jour qu’après avoir longtemps coulé sous la mer. »</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_146.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_146.png"/>
             <label>[Fig. 116]</label>
           </figure>
         </div>
@@ -1194,7 +1194,7 @@
           <head>Niobé.</head>
           <p><hi rend="i">Niobé</hi>, fille de Tantale, épousa Amphion, dont elle eut sept fils et sept filles. Fière de ses quatorze enfants, elle méprisa Latone, qui n’en avait que deux, et voulut empêcher qu’on fît des sacrifices à cette déesse. Apollon et Diane, à la prière de leur mère, descendirent sur la terre et tuèrent à coups de flèches la famille entière de Niobé. Les fils tombèrent sous les coups d’Apollon, les filles sous ceux de Diane. La malheureuse Niobé quitta le séjour de Thèbes, après la mort de ses enfants, et retourna en Phrygie, où elle finit ses jours près du mont Sipyle, sur lequel on voyait une roche, qui, de loin, ressemblait à une femme affligée ; ce qui fit croire qu’un tourbillon de vent avait transporté cette mère infortunée sur cette montagne, et qu’elle avait été changée en pierre [Fig. 117]. La vérité est que son affliction l’avait rendue muette et immobile comme une pierre : effet ordinaire des grandes douleurs.</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_148.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_148.png"/>
             <label>[Fig. 117]</label>
           </figure>
         </div>
@@ -1206,7 +1206,7 @@
           <head>Dryope.</head>
           <p><hi rend="i">Dryope</hi>, fille d’Eurytus roi d’Œchalie, se promenait un jour près d’un lac bordé de myrtes et de lotos, tenant son fils entre ses bras. Elle cueillit une fleur de lotos pour l’amuser ; mais aussitôt elle s’aperçut qu’il sortait de cette fleur des gouttes de sang. Effrayée, elle veut s’enfuir ; mais ses pieds s’attachent à la terre, et elle est elle-même métamorphosée en lotos. Elle n’a que le temps d’appeler sa sœur pour prendre l’enfant, qui aurait été enfermé avec elle sous l’écorce<note place="bottom">La métamorphose de Dryope, si mystérieusement, si subitement punie pour avoir touché une fleur qu’elle ne connaissait pas, est une vive image des dangers de l’ignorance imprudente.</note> [Fig. 118].</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_149.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_149.png"/>
             <label>[Fig. 118]</label>
           </figure>
         </div>
@@ -1218,7 +1218,7 @@
           <head>La nymphe Égérie.</head>
           <p>Numa Pompilius, second roi de Rome, pour donner plus d’autorité à ses lois, feignait d’avoir des entretiens secrets avec une nymphe, nommée <hi rend="i">Égérie</hi>. Après la mort de ce prince, les Romains allèrent chercher cette nymphe dans la forêt d’Aricie, où Numa avait coutume de se promener seul, et n’y ayant trouvé qu’une source, ils s’imaginèrent que la nymphe avait été changée en fontaine [Fig. 119].</p>
           <figure>
-            <graphic url="baude_mythologie-jeunesse_images/baude_mythologie-jeunesse_1845_150.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_150.png"/>
             <label>[Fig. 119]</label>
           </figure>
         </div>

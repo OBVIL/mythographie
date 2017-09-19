@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T16:51:34+01:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Kupfer (1897)">
   <teiHeader>
     <fileDesc>
@@ -53,14 +53,14 @@
       <div>
         <head>[Frontispiece]</head>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_000.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_000.png"/>
         </figure>
         <desc>1. “Cupid once upon a bed <lb/>Of roses laid his weary head. <lb/><hi rend="sc">Sleeping Love</hi> (<name type="author"><hi rend="i">Perrault</hi></name>).</desc>
       </div>
       <div>
         <head>[Title Page]</head>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_001.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_001.png"/>
         </figure>
       </div>
       <div>
@@ -83,7 +83,7 @@
       <div>
         <head>Names Used in the Stories</head>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_008.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_008.png"/>
         </figure>
       </div>
       <div>
@@ -100,7 +100,7 @@
         <p>Besides Jupiter and Juno there were many other gods and goddesses; and as you are going to read stories about some of them, I will tell you who they were.</p>
         <p>Apollo was the god of the sun, of music, and of love. He was very beautiful, as indeed almost all the gods were; but he was the fairest of them all. He drove his golden sun chariot through the heavens every day, and on his lyre he played sweet music. He could heal all kinds of wounds, and could shoot wonderfully well with his golden arrows.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_011.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_011.png"/>
           <desc>2. “He drove his golden sun chariot through the heavens.” <lb/><hi rend="sc">Aurora</hi> (<name type="author"><hi rend="i">Guido Reni</hi></name>).</desc>
         </figure>
         <p>His twin sister was Diana, goddess of the moon. She drove her silver car at night when Apollo had gone to rest in the western sky. She was also the goddess of hunting; and, in the daytime, she wandered through the green woods, with her arrows at her side, while her fleet hounds sped on in front of her, and a train of young girls and wood nymphs followed.</p>
@@ -150,7 +150,7 @@
         <p>Many a time her thoughts went back to that day when she had last seen her little son, and she wondered what had become of the boy.</p>
         <p>So thrice five summers and winters passed, and, in the meanwhile, Arcas had grown to be a fine, tall youth, who, like his mother, was very fond of hunting. So good a marksman was he that he hardly ever missed his aim, and with his faithful hound, and his sharp hunting knife, brought many a wild deer to bay.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_017.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_017.png"/>
           <desc>3. “He and his hound brought the wild deer to bay.” <lb/><hi rend="sc">The Chase</hi> (<name type="author"><hi rend="i">Debay</hi></name>).</desc>
         </figure>
         <p>One day he took his bow and arrows, and started out alone. He had been hunting a long time, when, in following a deer’s track, he came suddenly into a little cleared space, and saw, standing within a few feet of him, a great, shaggy bear.</p>
@@ -235,7 +235,7 @@
           <head>Part II</head>
           <p><hi rend="sc">In</hi> the evening Ceres returned to her home; but her daughter, who usually came running to meet her, was nowhere to be seen. Ceres searched for her in all the rooms, but they were empty. Then she lighted a great torch from the fires of a volcano, and went wandering among the fields, looking for her child. When morning broke, and she had found no trace of Proserpine, her grief was terrible to see.</p>
           <figure>
-            <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_027.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_027.png"/>
             <desc>4. “Ceres lighted a torch and went searching for her child.” <lb/><hi rend="sc">Ceres</hi> (<hi rend="i">Glyptothek, Munich</hi>).</desc>
           </figure>
           <p>On that sad day, Ceres began a long, long wandering. Over land and sea she journeyed, bearing in her right hand the torch which had been kindled in the fiery volcano.</p>
@@ -313,7 +313,7 @@
         <p>Best of all, by the side of the cave, ran a brook of clear, sparkling water. It danced along over the pebbles, and wound its way across the little island, and seemed to sing a song of welcome to Latona. In fact, it was as lovely a home as any one could wish for.</p>
         <p>And here Latona lived for a long, long time. She was very happy, and hoped that Juno would never find her in this hidden corner of the earth. After a while one of the gods, who loved and pitied her, sent two beautiful twin babes to gladden her heart. She never wearied of watching her little boy and girl, as they lay asleep or played with their fingers and toes in true baby fashion. She named the boy Apollo, and the girl Diana.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_033.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_033.png"/>
           <desc>5. “Watching her little boy and girl, as they lay asleep.” <lb/><hi rend="sc">Latona and her Children</hi> (<name type="author"><hi rend="i">Rinehart</hi></name>).</desc>
         </figure>
         <p>One sad day, when she was sitting in the sunshine with her children, a black, angry-looking cloud spread over the sky; and when Latona looked up toward it, she saw Juno standing before her. With harsh words, the goddess ordered the poor mother to leave the island at once; and, although it made Latona very sad to go from the home where she had been so happy, she hastened away, for she feared that otherwise Juno might harm her two beautiful babes. So she took a little one in each arm, and again set forth on her wanderings.</p>
@@ -390,7 +390,7 @@
         <p>The moment the girl saw him she fell in love with him; and she followed him through the woods, longing for the power to speak to him. But alas! she could not speak.</p>
         <p>They went on in this way for some time, Narcissus parting the branches in search of his comrades, and Echo stealing softly behind him, until the boy suddenly saw that he had lost his way and called out, “Is there any one here?” Echo, who had stepped behind a tree, quickly answered “Here!”</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_039.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_039.png"/>
           <desc>6. “Echo quickly answered, ‘Here’.” <lb/><hi rend="sc">Echo</hi> (<name type="author"><hi rend="i">Roberts</hi></name>).</desc>
         </figure>
         <p>The youth was very much surprised, for he had thought himself alone in the woods. He looked all around, but not seeing any one to whom the voice could belong, he called, “Come!” whereupon Echo likewise called, “Come!”</p>
@@ -462,7 +462,7 @@
         <p><hi rend="sc">In</hi> an ancient city of Greece, there lived a young girl named Arachne, whose parents had once been very poor and humble. Arachne, however, brought wealth and comfort into their little cottage, through her great skill in spinning and embroidering.</p>
         <p>Such beautiful things did she fashion with her wool, and so graceful did she look as she worked with her spindle, that great lords and ladies came from every part of the land to see her at her work. Her name was famous throughout Greece, and princes and merchants paid her great prices for her wonderful embroidery.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_047.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_047.png"/>
           <desc>7. “So graceful she looked as she worked with her spindle.” <lb/><hi rend="sc">A Spinner</hi> (<name type="author"><hi rend="i">Moreau</hi></name>).</desc>
         </figure>
         <p>So, as I said, wealth and comfort took the place of poverty in Arachne’s home, and the parents blessed their daughter, and all of them lived very happily. Thus it might have gone on until they died, had not Arachne’s head been turned by the praises that were showered upon her from all sides. She became so vain about her work that she could think of nothing but how wonderful she was; and one day she boasted that, though she was only a humble girl, she was far greater in her skill than the goddess Minerva. Minerva, you remember, was the goddess of wisdom and of war; but in her spare moments she amused herself by doing just such work as had made Arachne famous, — embroidery in wool, or tapestry, as it was called.</p>
@@ -516,7 +516,7 @@
         <p>The golden arrow did its work only too well. For no sooner had the sun god caught a glimpse of the beautiful nymph than he fell deeply in love with her; and just as quickly, Daphne had been made to hate Apollo, and she turned to flee from him into the woods.</p>
         <p>Apollo followed in hot haste, calling to her not to be afraid and not to run so fast, for fear she might hurt herself on the thorns and brambles; and at last he cried, “Do not try to run from me. I love you, and will do you no harm. I am the great sun god Apollo.”</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_055.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_055.png"/>
           <desc>8. “I am the great sun god Apollo.” <lb/><hi rend="sc">Apollo Belvedere</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
         </figure>
         <p>But Daphne was only the more terrified at these words, and fled more swiftly, while Apollo still followed. He had almost reached her side, when she stretched out her arms to her father, the god of a river along whose banks she was fleeing. “Oh father,” she cried, “help me! help me! Either let the earth open and swallow me, or change this form of mine so that Apollo will not love me.”</p>
@@ -628,7 +628,7 @@
         <p>Every evening, when Apollo, her twin brother, sank from sight in his golden sun chariot, she arose and guided her silver car across the heavens. But when the dawn came, and Apollo began his daily journey around the world, Diana left her silvery chariot in the sky and came down to earth.</p>
         <p>Clad in her short hunting garments, her shining quiver of arrows slung over one shoulder, she spent the day in the green woods, enjoying the pleasures of the chase. She was followed by a train of young girls, who hunted and rested with her. But only the fairest and best maidens were thought worthy of the great honor of hunting with Diana.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_065.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_065.png"/>
           <desc>9. “Clad in her hunting skirt with her quiver of arrows.” <lb/><hi rend="sc">Diana of Versailles</hi> (<hi rend="i">Louvre, Paris</hi>).</desc>
         </figure>
         <p>When they were tired of the sport, they would seek a shady place where, perhaps, a cool brook sped along over the stones; and there they would bathe their hot limbs, and drink the cooling water, and lie on the soft grass under the trees. No one ever dared to enter these quiet, hidden groves, for they were sacred to Diana and her nymphs.</p>
@@ -736,7 +736,7 @@
         <p>With a cry of anger the three sisters darted in the direction from which the voice came. But Perseus was too quick for them. On his winged feet he rose high in the air, and then, from a safe distance, called out, “You shall not have your eye back, my friends, unless you tell me exactly how to find the island on which Medusa lives.”</p>
         <p>This was a secret with which the sisters would not have parted if they could have helped themselves; but the loss of their precious eye was a thing too terrible to think of. So, after a few minutes, they told Perseus all he wanted to know, and he set their hearts at rest by clapping the eye into the forehead of the sister standing nearest him.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_075.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_075.png"/>
           <desc>10. “Perseus clipped the eye into her forehead.”<hi rend="sc"><lb/>Perseus and the Graeae</hi> (<hi rend="i">Burne-Jones</hi>).</desc>
         </figure>
         <p>Then he flew back swiftly to the grove where Mercury was waiting, and thanked him for all his help, and, after bidding him farewell, started out on his errand.</p>
@@ -784,7 +784,7 @@
         <p>When his followers saw what had happened to their master, they turned and fled from the house; and the merrymaking went on as though it had never been interrupted.</p>
         <p>After that Perseus took his wife to his island home, and there they spent many happy days together in his mother’s little cottage.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_083.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_083.png"/>
           <desc>11. “Perseus led his Wife to his Island Home.” <lb/><hi rend="sc">Perseus</hi> (<name type="author"><hi rend="i">Canova</hi></name>).</desc>
         </figure>
       </div>
@@ -860,7 +860,7 @@
         <p>Now Apollo and Diana, on seeing Niobe’s terrible grief, felt almost sorry for their deed, and thought she had been punished enough. But when she spoke these words of scorn against their mother, their anger blazed forth afresh, and Diana seized her bow and shot her deadly arrows, one after another.</p>
         <p>As Niobe saw her daughters falling about her, she seized the youngest and tried to hide her in her cloak, crying, “Leave me but this one, ye gods, spare me this last and youngest one!” But the fatal arrow had already been loosed, and as the words left the mother’s lips’, the last of her children fell dead at her feet.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_093.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_093.png"/>
           <desc>12. “‘Spare me this last and youngest one,’ she cried.” <lb/><hi rend="sc">Niobe</hi> (<hi rend="i">Uffizi Palace, Florence</hi>).</desc>
         </figure>
         <p>Then the childless, humbled woman sat down upon the plain among her dead, and gazed about her in silent grief. And thus she sat, day after day, and never moved nor spoke. Her grief was hardening her, slowly but surely. The color left her cheeks, her eyes grew fixed in their look of pain, and at last, through her sorrow, she was changed to marble.</p>
@@ -935,7 +935,7 @@
         <p>The river god then appeared in his true shape, and yielded his claim. So Hercules gained the king’s fair daughter for his bride.</p>
         <p>In that last fierce struggle, one of the bull’s horns was broken off. The goddess of plenty, or Fortune, as she is sometimes called, found it lying forgotten on the ground. She was so much pleased with its shape that she filled it with her autumn fruits and flowers and took it for her emblem. And this is the story of the origin of the horn of plenty, which we see at so many of our autumn festivals.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_099.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_099.png"/>
           <desc>13. “She filled the horn with her autumn fruits.” <lb/><hi rend="sc">Fortune</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
         </figure>
       </div>
@@ -972,7 +972,7 @@
         <p>Thus all the uncle’s love for his nephew was turned to hatred, and he was anxious to get rid of the boy who was so much in his way. One evening, toward sunset, teacher and pupil were walking together at the side of some cliffs that overhung the sea. The boy, not noticing his uncle’s gloomy face, was talking happily about all the great things he meant to do by and by, when suddenly Daedalus grasped his arm and pushed him over the edge of the cliff into the sea below.</p>
         <p>Perdix would surely have been drowned, had he not been rescued by Minerva, the goddess of wisdom, who loved him because he was so skillful. She changed him into a partridge, and he flew off across the waters.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_107.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_107.png"/>
           <desc>14. “Minerva, the Goddess of Wisdom.” <lb/><hi rend="sc">Minerva de Velletri</hi> (<hi rend="i">Louvre, Paris</hi>).</desc>
         </figure>
         <p>Daedalus soon became afraid of what the people of Athens might do if they learned of his crime. So taking with him his young son, Icarus, he left Athens in the night and fled to the island of Crete, where King Minos received him very kindly.</p>
@@ -1168,7 +1168,7 @@
         <p>On the outskirts of the town, there stood a little, modest-looking cottage, thatched with straw. In it dwelt an old couple, Philemon and his wife Baucis. They were very poor; but, in spite of their poverty, they were contented and happy, and always glad to share their last crust with any one who came to their door.</p>
         <p>One evening two strangers entered the gates of the city. One was a tall, noble-looking man with massive head and fine features. His companion was much younger, and there was something bright and quick about him. Indeed, at times his feet seemed hardly to touch the ground, as he almost flew along. He wore a curious cap, too, and in his left hand he carried a staff wreathed with two snakes.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_125.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_125.png"/>
           <desc>15. “His feet seemed hardly to touch the ground.” <lb/><hi rend="sc">Flying Mercury</hi> (<name type="author"><hi rend="i">Bologna</hi></name>).</desc>
         </figure>
         <p>The strangers knocked at the door of the first cottage they came to, and asked for a night’s shelter. Not only was this refused, but harsh words were given in answer to the simple request.</p>
@@ -1358,7 +1358,7 @@
           <p>They were great, ugly creatures, with hoofs of brass, and horns pointed with iron. As they came tramping along, making the ground tremble at each step of their brazen hoofs, they breathed out curling flames from their nostrils, so that the fields and the whole air seemed on fire.</p>
           <p>But Jason did not feel the heat of the flames, thanks to Medea’s magic drug. He went up close to the angry creatures, and seizing them by the horns, dashed their heads together until the bulls were stunned. Then he quickly slipped the yoke over their heads. The bulls were now as gentle as cows, and Jason ploughed the four acres in a short time.</p>
           <figure>
-            <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_147.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_147.png"/>
             <desc>16. “He threw the magic drug into its eyes.” <lb/><hi rend="sc">Jason and the Dragon</hi> (<name type="author"><hi rend="i">Salvator Rosa</hi></name>).</desc>
           </figure>
           <p>Next he sowed the dragon’s teeth in the soil he had just turned up, and in less time than it takes to tell, a mass of helmets began to show above the ground, just as the little leaves pierce through the soil in the springtime. But, whereas the leaves are followed by pretty blossoms, the helmets covered a very ugly crop of fierce, armed soldiers, who all turned upon Jason at once. Remembering Medea’s advice, he seized a large stone and hurled it into the midst of his foes.</p>
@@ -1466,7 +1466,7 @@
         <p>One day, while they were resting in a shady nook, Apollo proposed to play a game of quoits. Quoits was a game of which the people of those days were very fond, — as fond as boys are nowadays of cricket and of ball. The quoits were flat circular discs about twelve inches across; they were made of iron or some other heavy substance. The players hurled their discs into the air, the object of the game being to see who could throw the quoits the farthest.</p>
         <p>Apollo and his companion were both fond of the game, and they began to play, and were enjoying themselves very much. Apollo hurled his disc high into the air, and it shot up through the clouds, and, after a long pause, fell to the ground with a crash.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_157.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_157.png"/>
           <desc>17. “He hurled his disc high into the air.” <lb/><hi rend="sc">The Discobolus</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
         </figure>
         <p>Then Hyacinthus, eager to show that he was as good a player as his friend, hurried forward to pick it up. But the disc had struck the ground with such force that it rebounded, and hit the thoughtless boy on the forehead.</p>
@@ -1510,7 +1510,7 @@
         <p>He could no longer sing at his work; in fact, he could no longer work, for he loved that fair image so dearly that he spent all his time kneeling before it, and marveling at the beauty he had wrought.</p>
         <p>So the days passed on, until the time of the great festival of Venus was at hand. Venus, you know, was the goddess of love, and once a year, the youths and maidens of Cyprus had a great celebration in her honor.</p>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_163.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_163.png"/>
           <desc>18. “The great goddess of love.” <lb/><hi rend="sc">Venus de Milo</hi> (<hi rend="i">Louvre, Paris</hi>).</desc>
         </figure>
         <p>On this day Pygmalion joined the train of young men and at last stood before the altar in the temple of Venus.</p>
@@ -1573,7 +1573,7 @@
             <author key="Longfellow"><hi rend="sc">Henry Wadsworth Longfellow</hi></author> (<title>Hiawatha</title>)</bibl>
         </quote>
         <figure>
-          <graphic url="kupfer_stories-of-long-ago_1897_images/kupfer_stories-of-long-ago_1897_171.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/kupfer_stories-of-long-ago_1897_171.png"/>
           <desc>19. “He the best of all musicians. <lb/>He the sweetest of all singers.” <lb/><hi rend="sc">Apollo Citharaedus</hi> (<hi rend="i">Vatican, Rome</hi>).</desc>
         </figure>
       </div>

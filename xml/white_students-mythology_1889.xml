@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-05-10T16:25:26+02:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="White (1889)">
   <teiHeader>
     <fileDesc>
@@ -70,7 +70,7 @@
       </div>
       <div xml:id="Page_14">
         <head>Mythology [Part I].</head>
-        <div type="chapter">
+        <div>
           <head>Chapter I.</head>
           <argument>
             <p>Origin of Mythology — Divinities called Celestial.</p>
@@ -161,7 +161,7 @@
             <p>To these higher divinities, Saturn, Janus, Vesta and others were sometimes added. There were also Terrestrial divinities, Gods of the Sea, Infernal deities, etc. etc.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter II. <lb/>Greek and Roman Divinities. <lb/>Celestial Gods. <lb/>Jupiter, (<hi rend="sc">Greek</hi>, <hi rend="i">Zeus</hi>.)</head>
           <argument>
             <p>Greek and Roman Divinities — Jupiter — Juno — How represented — Parentage and Actions — Probable Origin of these Fables — Adventures of Jupiter — Story of Europa — Search of Cadmus — Punishment of Lycaon.</p>
@@ -190,7 +190,7 @@
           <q><hi rend="i">Ques.</hi> Relate the punishment of Lycaon [Lyca′on].</q>
           <p><hi rend="i">Ans.</hi> During the Iron Age the wickedness of men had grown to such a height that Jupiter resolved to satisfy himself of the truth of the reports that reached him. For this purpose he descended to earth, and assuming the disguise of a poor traveller, sought hospitality of Lycaon, king of Arcadia. The impious prince had just received an ambassador from the Molossians. He ordered him to be slain, and his flesh to be served for the entertainment of his guest. Jupiter was seized with indignation; he overturned the tables, destroyed the palace with lightning, and when the tyrant strove to fly, he was transformed into a savage wolf.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter III. <lb/>Phœbus — Apollo.</head>
           <argument>
             <p>Apollo — His Parentage And Exploits — How Represented — Story Of Æsculapius — Banishment Of Apollo From Heaven — Transformation Of Hyacinthus And Cyparissus — Story Of Admetus And Alcestis — Attributes Of Apollo — Punishment Inflicted On Marsyas And On King Midas — Story Of Midas — Death Of Phæton — Transformation Of Daphne — Things Sacred To Apollo.</p>
@@ -221,7 +221,7 @@
           <q><hi rend="i">Ques.</hi> What things were especially sacred to Apollo?</q>
           <p><hi rend="i">Ans.</hi> Among plants, the laurel; among animals, the wolf; and among birds, the hawk, the crow, and the swan were sacred to this god.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter IV. <lb/>Mars — Ares.</head>
           <argument>
             <p>Mars (Ares) — His Parentage — How represented — Animals Sacred to Mars — Names given to Mars — His Temple — Priests called Salii.</p>
@@ -236,7 +236,7 @@
           <p><hi rend="i">Ans.</hi> He was called Quirinus [Quiri′nus] when he was quiet, Gradivus [Gradi′vus] when he was raging; therefore the Romans built him two temples, one to Mars Quirinus within the walls, that he might keep the city in peace; and one without, to Mars Gradivus, that he might defend them against their enemies. Among the Romans, priests called Salii attended to the sacrifices of Mars, and on festival days went about the city dancing with their shields. Their name comes from the Latin word “to dance,” and was considered appropriate, because Mars is inconstant in his temper, and inclines now to this side, now to that, in time of war. Except the story of his attachment to Venus, the poets relate but little of Mars.</p>
           <p>Bellona, the goddess of war, was, according to some, the sister of Mars. She is generally represented as above, but some poets have described her as rushing through the ranks of war, waving a flaming torch, and exciting the combatants by her cries. The temple of Bellona at Rome, was without the city, near the Carmental gate. Here the Senate gave audience to such ambassadors as they were not willing to admit within the walls. A pillar stood before the temple, over which the herald cast a spear when he proclaimed war. The priests of Bellona, when officiating, held naked swords, with which they gashed their arms and shoulders, making libations of their own blood, to the terrible goddess.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter V. <lb/>Mercury — Hermes.</head>
           <argument>
             <p>Mercury (Hermes) — His Parentage — How represented — Offices of Mercury — Benefits conferred by Mercury on Man — Why considered the Patron of Thieves — Story of Io and Argus.</p>
@@ -257,7 +257,7 @@
           <p><hi rend="i">Ans.</hi> Io, the daughter of Inachus [In′achus], was beloved by Jupiter. He strove to hide her from the anger of Juno by transforming her into a cow. The goddess suspected the deceit, and begged the beautiful heifer as a gift. Jupiter was afraid to refuse, and Juno consigned the unhappy Io to the guardianship of Argus. Escape seemed hopeless, as Argus had a hundred eyes, of which he closed only two in sleep, while the others watched. Jupiter commanded Mercury to slay Argus and deliver Io. To effect this, it was necessary to set all his eyes to sleep. Mercury disguised himself as a shepherd, entered into conversation with Argus, and at length played so sweetly on his pipe, that, one by one, the keeper’s hundred eyes were closed. The god then drew his falchion, and cut off the head of Argus with a single blow. Juno was grieved for her servant, and placed his eyes in her peacock’s tail. Io, still persecuted by Juno, wandered over the earth, and at length arrived, faint and weary, on the banks of the Nile. There she prayed Jupiter either to restore her to her original form, or to terminate her misfortunes by death. Juno was touched with compassion, and allowed Jupiter to grant her request. Io was restored to human form, and married to Osiris, king of Egypt; she was afterwards worshipped in that country under the name of Isis.</p>
           <p>The statues of Mercury were simply wooden posts, surmounted by a rude head with a pointed beard. They were set up in the fields, and at all cross roads. The Greeks had pillars of stone, which they called Hermæ, but the head which surmounted them was not always that of Mercury. These pillars were sometimes placed, by the Athenians, at the entrances of their houses as a protection against thieves. On one occasion, all the Hermæ in Athens were mutilated in the same night. Alcibiades was accused of this sacrilege, and was obliged to take refuge in Cergos from the indignation of the people.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter VI. <lb/>Bacchus — Dionysus.</head>
           <argument>
             <p>Bacchus (Dionysus) — Parentage of the God — How represented — Story of Semele — Infancy of Bacchus — Transformation of Nymphs into Stars — Silenus — How represented — Exploits of Bacchus — How worshipped — Plants Sacred to the God — Bacchanalia or Orgia — Story of Pentheus — Punishment inflicted on Alcithoe and her Sisters — Transformation of Mariners into Dolphins.</p>
@@ -291,7 +291,7 @@
           <q><hi rend="i">Ques.</hi> What is the origin of the history of Bacchus?</q>
           <p><hi rend="i">Ans.</hi> He was probably some prince who taught the people to till the ground, and cultivate the vine. They disgraced his memory in after times by the drunken revels they held in his honor.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter VII. <lb/>Celestial Goddesses. <lb/>Juno — Hera.</head>
           <argument>
             <p>Celestial Goddesses — Juno — Hera — Parentage of Juno — How represented — Iris, Messenger of Juno — Children of Juno — Jealousy of the Goddess — Transformation of Callista and Arcas into Bears — Sacrifices offered to the Goddess — Plants held Sacred to her.</p>
@@ -311,7 +311,7 @@
           <p>The goddess carried her complaint to Oceanus [Ocean′us], bidding him to observe, when the shades of night should darken the world, how her rival was exalted. The god of Ocean was moved, and promised Juno that he would never receive either Callisto or her offspring in his watery domain. Hence it is, that the Greater and the Lesser Bear continually circle around the pole, and never sink, like the other stars, beneath the waves of Ocean. In the fables of Bacchus and Hercules, Juno displays the same character, extending to these heroes the enmity she bore their mortal mothers.</p>
           <p>Juno was chiefly honored at Argos, Samos and Platæa. The victims offered to her were kine, ewe lambs, and sows. The cow was consecrated to her, and at Argos the priestess of Juno always rode in a chariot drawn by oxen. The sacred plants of the goddess were, the willow, pomegranate, the dittany and the lily. The peacock was chosen as the bird of Juno, because it was supposed by its cry to indicate a change of weather.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter VIII. <lb/>Minerva — Pallas Athena.</head>
           <argument>
             <p>Minerva — Pallas Athena — How represented — Origin of the Olive — The Palladium — Minerva, as the Patroness of Female Industry — Story of Arachne — The Bird of Minerva — Story of Medusa’s Head.</p>
@@ -337,7 +337,7 @@
           <q><hi rend="i">Ques.</hi> What is the story of Medusa’s [Medu′sa] head?</q>
           <p><hi rend="i">Ans.</hi> Medusa was one of three sisters, the daughters of Phorcus. These maidens were called Gorgons, and were all immortal, except Medusa. The latter was at one period distinguished for her personal beauty, and particularly for her flowing hair; but having offended Minerva, that goddess changed her locks into serpents, and rendered her appearance so frightful that all who beheld her were changed to stone. The hero Perseus undertook an expedition against the Gorgons, and as he saw the whole country around covered with figures of men and animals changed into stone by the sight of the monster, he was obliged to use great precaution to avoid the same misfortune. He looked, therefore, not at Medusa, but at her reflection in his polished shield, and when he perceived that she was asleep, Minerva guiding his sword, he struck off her head. Mercury had lent Perseus his wings, and as he flew over the Lybian desert bearing Medusa’s head, the blood fell upon the burning sands, and produced the serpents which have ever since infested that region. From the blood of Medusa, also, when her head was cut off, sprang the famous winged horse called Pegasus [Peg′asus]. This wonderful steed flew to Mount Helicon, the residence of the Muses, where, by striking the earth with his foot, he produced the fountain Hippocrene [Hippocre′ne]. All who drank of its waters were inspired by the Muses with a poetic spirit. Perseus went through many other adventures in which Medusa’s head did him good service, by changing his enemies into stone. He afterwards gave the head to Minerva, who fixed it on her shield.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter IX. <lb/>Venus — Aphrodite.</head>
           <argument>
             <p>Venus — Aphrodite — Birth and Education of Venus — Marriage with Vulcan — How represented — Temples of Venus — The Graces — Cupid — Festivals of the Goddess — Birds and Plants Sacred to her — Sacrifices — Temple of Venus Calva — The Apple of Discord — Decision of Paris — Story of Hippomenes and Atalanta — Death of Adonis — Origin of the Red Rose — Names of the Graces.</p>
@@ -372,7 +372,7 @@
           <q><hi rend="i">Ques.</hi> How many were there?</q>
           <p><hi rend="i">Ans.</hi> They were three in number. Their names were Euphrosyne [Euphro′syne], Aglaia [Agla′ia] and Thalia. They are represented as beautiful young women, standing in graceful attitudes with their hands joined.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter X. <lb/>Latona — Leto.</head>
           <argument>
             <p>Latona — Leto — Her Parentage — Persecution of Juno — Birth of Apollo and Diana — Transformation of Lycian Peasants into Frogs — Punishment of Tityus — Latona a Personification of Night — How represented by Painters and Sculptors.</p>
@@ -385,7 +385,7 @@
           <p>The Greeks personified Night, under the name of Latona; hence she was said to have been the first wife of Jupiter, the mother of Apollo and Diana, (the sun and moon) and the nurse of the earth and stars. The Egyptians had the same allegory, with a little variation, as, according to them, she was grandmother and nurse of Horus and Bubastis [Bu′bastis], their Apollo and Diana.</p>
           <p>This goddess is generally represented on ancient monuments, as a large and beautiful woman, wearing a veil. In paintings, the veil is always black; in cutting gems, artists sometimes availed themselves of a dark colored vein in the stone, to produce the same effect, and represent the shades of night. The veil is sometimes studded with stars.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XI. <lb/>Aurora — Eos.</head>
           <argument>
             <p>Aurora — Eos — Attributes of the Goddess — How represented — Story of Cephalus and Procris — Marriage of Aurora with Tithonus — Transformation of Tithonus — Memnon — His Death and Obsequies — Vocal Statue.</p>
@@ -411,7 +411,7 @@
             <author key="Wilkinson W. C.">Wilkinson</author> tried the experiment, and was convinced that he had discovered the secret of this famous statue.</p>
           <p>The face of the Memnon, like that of the Sphinx, has been mutilated by the Arabs; the positions of the figures which are yet uninjured show that the whole must have presented a beautiful and imposing appearance. The base of the throne is covered with ancient inscriptions in Greek and Latin, commemorating the visits of different illustrious persons, and testifying that they had heard the mysterious voice of Memnon.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XII. <lb/>Terrestrial Gods.</head>
           <argument>
             <p>Terrestrial Gods — Saturn — His Parentage — How represented — His History — The Golden Age — Sacrifices offered to Saturn — The Saturnalia — Modern Carnival — Janus — Contradictory Accounts of his Origin — Temple of Janus — Quirinus at Rome.</p>
@@ -437,7 +437,7 @@
             <p><hi rend="i">Ans.</hi> He was an ancient Italian deity, of whose origin very contradictory accounts are given. He was supposed to have reigned in Italy in the time of Saturn, and to have associated that god with him in the kingdom. He was generally represented with two faces, and was called hence, Janus Bifrons. He had many temples in Rome. The gates of the chief temple, that of Janus Quirinus, were always open in time of war, and closed when the Romans were at peace. It is a remarkable circumstance that the gates of Janus were closed but three times in seven hundred years. They were shut for the first time in the reign of Numa; again, after the first Punic war; and Augustus closed the temple the third time when he had given peace to the world. This occurred just before the coming of our Lord. The first month of the year is named from Janus.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XIII. <lb/>Vulcan — Hephæstus.</head>
           <argument>
             <p>Vulcan — Hephæstus — Parentage of this God — Why banished from Heaven — Occupation of Vulcan — His Most Celebrated Works — Marriage with Venus — The Cyclops — Vulcania — Temple on Mount Etna — Cacus — Cæculus — Other Works of Vulcan.</p>
@@ -461,7 +461,7 @@
           <q><hi rend="i">Ques.</hi> Can you name any works of Vulcan, beside those already mentioned?</q>
           <p><hi rend="i">Ans.</hi> Yes, he made for Alcinoüs, king of the Phæacians, gold and silver dogs which guarded his house. To Minos, king of Crete, he gave the brazen man Talus, who passed around the island three times every day, to guard it from invasion. For himself, Vulcan formed golden handmaidens, whom he endowed with reason and speech.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XIV.</head>
           <argument>
             <p>Æolus — Supposed origin of the Fable — Momus — His Parentage — Criticisms passed on other Divinities — His Banishment from Olympus.</p>
@@ -481,7 +481,7 @@
             <p><hi rend="i">Ans.</hi> Neptune, Vulcan, and Minerva contended for the prize of skill; Neptune made a bull, Minerva a house, and Vulcan a man. Momus was called upon to decide their merits, but he blamed them all. He said that Neptune was imprudent in not placing the bull’s horns in his forehead, before his eyes, that he might give a stronger and surer blow. He found fault with Minerva’s house, because it was immovable and could not be carried away if it were placed among bad neighbors. He said that Vulcan was the worst of all, because he did not put a window in the man’s breast so that his thoughts might be seen. No god could escape the censure of Momus. When he could find nothing to criticise in the person of Venus, he complained of the noise made by her golden sandals. Momus was at length driven from Olympus.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XV. <lb/>Terrestrial Goddesses. <lb/>Vesta — Hestia.</head>
           <argument>
             <p>Terrestrial Goddesses — Vesta — Hestia — Her Parentage and Attributes — How represented — Worship of Vesta at Rome — Vestal Virgins — Their Obligations and Privileges — Anecdote.</p>
@@ -501,7 +501,7 @@
           <q><hi rend="i">Ques.</hi> How many Vestal Virgins were there?</q>
           <p><hi rend="i">Ans.</hi> The number has been variously stated. Some authors mention six, others seven, as the number actually in office. They were chosen between the ages of six and ten; for ten years they were employed in learning their duty; they remained in office for ten, and ten other years were employed in instructing the novices. If there were seven Vestals always in office, the entire number must have been twenty-one. The thirty years being ended, the Vestals returned to their families. The law then permitted them to marry, but it was considered discreditable to do so.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XVI. <lb/>Cybele.</head>
           <argument>
             <p>Cybele — How called by the Greeks — Parentage and Attributes — How represented — Temple of Cybele on Mount Dindymus — Sacred Image — Festival of Megalesia — Galle and Corybantes — Bona Dea — Story of the Vestal Claudia.</p>
@@ -515,7 +515,7 @@
           <p>The divinity worshipped by the Roman women under the name of Bona Dea, or Good Goddess, is believed to be the same as Cybele.</p>
           <p>Ancient writers relate an extraordinary incident connected with the arrival of the image of Cybele in Rome. The ship which bore the sacred stone was stranded on a shoal in the Tiber. Claudia, a Vestal Virgin who was suspected of having violated her vow, attached her girdle to the prow, and drew the ship safely into port. Her innocence was established by this prodigy.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XVII. <lb/>Ceres — Demeter.</head>
           <argument>
             <p>Ceres — Demeter — Parentage and Attributes — How represented — Story of Proserpine — Eleusinian Mysteries — Rites practiced — Story of Triptolemus — Sacrifices offered to Ceres — Feasts called Ambarvalia — Described by Virgil.</p>
@@ -560,7 +560,7 @@
             <bibl><title>Georg. I</title>.</bibl>
           </quote>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XVIII. <lb/>Themis — Astræa — Nemesis.</head>
           <argument>
             <p>Themis — Origin and Attributes — Astræa changed into the Constellation Virgo — Erigone — Nemesis — Her Office — Temple of Nemesis at Rhamnus.</p>
@@ -580,7 +580,7 @@
           <p><hi rend="i">Ans.</hi> This temple was but a short distance from the plain of Marathon. The Persians had brought with them a great block of Parian marble for the trophy which they intended to erect in honor of their expected victory. This marble fell into the hands of the Athenians, and a sculptor, said by some to have been
             <author key="Phidias">Phidias</author>, afterwards carved from it a beautiful statue of Nemesis, which was placed in the temple of Rhamnus. A fragment was found in the ruins of this edifice, which is supposed to be the head of this statue; and has been presented as such to the British Museum.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XIX. <lb/>The Muses.</head>
           <argument>
             <p>The Muses — Their Number, Names and Attributes — Why there are Nine Muses — Punishment or the Daughters of Pierus.</p>
@@ -605,7 +605,7 @@
           <q><hi rend="i">Ques.</hi> What punishment did the Muses inflict on the nine daughters of Pierus, king of Æmathia?</q>
           <p><hi rend="i">Ans.</hi> These maidens challenged the Muses to a contest in music; they were defeated and transformed into magpies by the indignant goddesses. Thamyris [Tham′yris], a musician of Thrace, was struck blind for the same offence.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XX. <lb/>Gods of the Woods, and Rural Deities.</head>
           <argument>
             <p>Gods of the Woods, and Rural Deities — Pan — Names given to this Deity — His Origin — How represented — Famous Action related of Pan — Origin of Pan’s Reeds — Satyrs and Fauns — Terminus — Vertumnus — Pales.</p>
@@ -639,7 +639,7 @@
             <p><hi rend="i">Ans.</hi> He is generally reckoned as one of the rural divinities, and was worshipped as such by the ancient Sabines. The name comes from the Latin word verto, (to turn or change,) and was bestowed upon him in allusion to his power of taking any form he pleased. Vertumnus presided over the seasons; he was the husband of Pomona. Statues of this god were erected in every town of Italy. His festival called Vertumnalia, was kept in October.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXI. <lb/>Goddesses of the Woods.</head>
           <argument>
             <p>Goddesses of the Woods — Diana — Parentage and Attributes of this Goddess — How represented — Habits of Diana — Her Attendants — Punishment of Chione — Story of Niobe — Temple of Diana at Ephesus — Burned by Erostratus — Despoiled by Nero — Plundered by the Goths — Nymphs — Naiades — Oreades — Oceanides — Dryades and Hamadryades — Arethusa — Story of Echo — Transformation of Narcissus.</p>
@@ -682,7 +682,7 @@
             <p><hi rend="i">Ans.</hi> Yes, a great number; but only a few were well known. Among those we may mention Pomona, the goddess of orchards, and Flora, the goddess of flowers. Pales was the goddess of shepherds and pastures. The Romans celebrated feasts, called Pallia, in her honor. They offered milk, and cakes of millet, that she might drive away the wolves, and prevent diseases among the cattle.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXII. <lb/>Gods of the Sea. <lb/>Neptune — Poseidon.</head>
           <argument>
             <p>Gods of the Sea — Neptune — Poseidon — Parentage of the God — How represented — Offices of Neptune — Feasts held at Rome in his Honor — Children of Neptune — Triton — Phorcus or Proteus — Sirens — Ulysses — Orpheus — Scylla and Charybdis — Melicertes — Thetis — Glaucus.</p>
@@ -724,7 +724,7 @@
           <q><hi rend="i">Ques.</hi> Who was Thetis?</q>
           <p><hi rend="i">Ans.</hi> She was a sea-goddess, the daughter of Nereus and Doris, and sister of the Nereides. She was endowed with such beauty that Jupiter himself sought her in marriage; but Prometheus, the Titan, prophesied that Thetis would give birth to a son who should be greater than his father. Jupiter thereupon desisted from his suit, and Thetis was betrothed to Peleus, king of Thessaly. Their marriage was celebrated with much pomp, all the deities of Olympus honoring the nuptial rites with their presence. Achilles, the son of Thetis, fulfilled the Titan’s prophecy by his heroic exploits.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXIII. <lb/>Infernal Deities.</head>
           <argument>
             <p>Infernal Deities — Pluto — Hades — Parentage of the God — His Kingdom — Representations and Emblems — Dis — Plutus — Hell — Cerberus — Fates — Furies — Judges of the Dead — Punishment inflicted on the Condemned — Giants — Ixion — Sisyphus — Tantalus — The Belides — Salmoneus — Elysium.</p>
@@ -788,7 +788,7 @@
             <p><hi rend="i">Ans.</hi> After being purified from whatever slight offences they had committed in life, they were conducted to a place abounding in delights, called Elysium. When they had passed many ages in this blissful abode they returned to earth, but before doing so, they drank of the river Lethe, that they might forget the happiness they had enjoyed.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXIV. <lb/>Fabulous Monsters.</head>
           <argument>
             <p>Fabulous Monsters — Centaurs — Geryon — Harpies — Briareus — The Chimæra — Explanation of this Fable — The Sphinx — Fabulous History — Statue of the Sphinx in Egypt.</p>
@@ -806,7 +806,7 @@
           <q><hi rend="i">Ques.</hi> What was the Phœnix?</q>
           <p><hi rend="i">Ans.</hi> A fabulous bird of which there never existed more than one at the same time. It excelled all other birds in beauty of plumage, and fed only on frankincense and sweet gums. When the Phœnix had attained the age of five hundred years, it built a funeral pile of odorous wood, on which it was consumed. A new Phœnix also immediately arose from the flames. The first care of the young bird was to collect the ashes of its parent, which it carried, enclosed in myrrh, to the temple of the Sun in Egypt.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXV. <lb/>Household Divinities.</head>
           <argument>
             <p>Household Divinities — Penates — Offices and Attributes — Lares — Their Offices — Sacrifices offered to the Goddess Mania — Honors paid to the Lares — Virtues worshipped as Divinities.</p>
@@ -846,7 +846,7 @@
             <p>Discord, Fraud, etc., were represented with appropriate symbols.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXVI. <lb/>Demigods and Heroes.</head>
           <argument>
             <p>Demigods and Heroes — Their Origin — Hercules — His Parentage — Twelve Labors of the Hero — Field of Narbonne — Death of Hercules.</p>
@@ -876,7 +876,7 @@
           <p><hi rend="i">Ans.</hi> This hero had slain the Centaur Nessus to revenge an insult offered to his wife, Deianira [Deiani′ra]. When the monster was dying, he gave Deianira a charmed philter, telling her that if Hercules ever gave her cause to doubt his affection, she could secure his constancy by making him wear a garment which had been sprinkled with this potion. The credulous Deianira accepted the philter, which was nothing else but the venom of the hydra which had been infused into the Centaur’s blood; and it was not long before her jealousy led her to use it as she had been directed. Hercules had plundered Œchalia, and carried off, among other captives, the beautiful Iole [I′ole], daughter of the king of that city. The hero, who wished to keep a festival, and to offer sacrifice in honor of his victory, sent for a splendid robe befitting the occasion. Deianira’s jealousy was excited against Iole by the reports of the messenger, and she sent her husband a tunic impregnated with the venom of the hydra. The poison soon began to work, and Hercules endeavored in vain to tear off the tunic, which clung to his flesh and consumed even the marrow of his bones. In his fury he caught the youth who had brought him the garment, by the foot, and hurled him into the sea. He then fled in his agony to the summit of Mount Œta, where he erected a funeral pyre with forest trees which he tore up by the roots. On this he laid the skin of the Nemean lion and his famous club, after which he ascended the pile and directed his followers to set it on fire. All refused except Philoctetes [Philocte′tes], who pitied the sufferings of the dying hero, and obeyed his command. He received the bow and arrows of Hercules as a reward for this service. While the pyre was blazing, Jupiter sent a thunder-cloud, in which Hercules was conveyed to Olympus. Here he was endowed with immortality, and, according to some accounts, was reconciled with Juno, who gave him her daughter Hebe in
             marriage.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXVII.</head>
           <argument>
             <p>Jason — Expedition in search of the Golden Fleece — Medea — Her Revenge — Theseus — Tribute imposed on the Athenians — Departure of Theseus — Destruction of the Minotaur — Ariadne — Death of Ægeus.</p>
@@ -906,7 +906,7 @@
             <p><hi rend="i">Ans.</hi> He forgot his promise to his father with regard to the color of his sails, and Ægeus, who watched every day for his son’s return, saw the black sails in the distance. He believed from this that his son was dead. In his despair he cast himself into the sea, which was called Ægean [Æ′gean] from his name. Theseus, after performing many other wonderful actions, was banished from his country, and died in obscurity.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXVIII.</head>
           <argument>
             <p>Castor And Pollux — Their Parentage — Death of Castor — Constellation Gemini — Prometheus — His Parentage — His Impiety — Pandora’s Box — Punishment of Prometheus.</p>
@@ -928,7 +928,7 @@
             <p><hi rend="i">Ans.</hi> Jupiter commanded Mercury to chain him to a rock on Mount Caucasus; there an eagle fed on his liver, which was continually renewed. Prometheus had, at one time, rendered Jupiter a service. The king of the gods remembered this, and permitted that after a certain time, Hercules should kill the eagle and set him free.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXIX.</head>
           <argument>
             <p>Orpheus — Story of Eurydice — Death of Orpheus — Transformation of Thracian Women into Trees — Arion — Amphion.</p>
@@ -951,7 +951,7 @@
             <p><hi rend="i">Ans.</hi> He was the son of Antiope [Anti′ope] and Jupiter. He obtained the kingdom of Thebes, which he governed conjointly with his twin-brother Zethus. Amphion cultivated the art of music; he was instructed by Mercury, who gave him a golden lyre with which he is said to have built the walls of Thebes, causing the stones to move and place themselves in order, as he played. Amphion married Niobe, and became the father of seven sons and as many daughters, who were all slain by Apollo and Diana. He is said to have killed himself in despair. The legend of the building of the walls of Thebes, is probably an allusion to the old Dorian and Æolian custom of erecting the walls of cities with public solemnities, and to the sound of musical instruments.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXX.</head>
           <argument>
             <p>Atlas — His Parentage — Transformed by Perseus into a Mountain — Explanation of the Fable — Pleiades — Hyades — Hesperides — Orion — His Parentage, Exploits and Death — Transformation into a Constellation — Perseus — His Parentage — Rescue of Andromeda — Death of Acrisius.</p>
@@ -985,7 +985,7 @@
             <p>Perseus, Andromeda, Cepheus, and Cassiopeia were changed, after death, into the constellations which bear their names.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXI.</head>
           <argument>
             <p>Bellerophon — Victory over the Chimæra — His Presumption and its Punishment — Deucalion — Legend of the re-peopling of the Earth after the Deluge — Probable Explanation — Dædalus — Labyrinth — Death of Icarus — Ceyx — Alcyone — Halcyon Birds.</p>
@@ -1020,7 +1020,7 @@
               <author key="Linnée">Linnæus</author>, halcyonium.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXII.</head>
           <argument>
             <p>Meleager — The Calydonian Hunt — Erisichthon, Nisus and Scylla.</p>
@@ -1046,7 +1046,7 @@
             <p>All means proved insufficient to supply the wants of the unhappy Erisichthon, who was compelled by hunger to devour his own flesh before death came to end his misery.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXIII. <lb/>Poets of Classic Fable. <lb/>
             <author key="Homère">Homer</author> — 
             <author key="Hésiode">Hesiod</author> — 
@@ -1109,7 +1109,7 @@
           <p>The <title>Tristia</title> are not so generally admired. They turn principally on the poet’s personal misfortunes; and this subject, however absorbing to himself, soon becomes wearisome to the reader.
             <author key="Ovide">Ovid</author> composed a poem in the harsh dialect spoken by the Getæ who dwelt on the borders of the Euxine Sea. The barbarians listened with delight to his recitations, until their anger was excited by his constant complaints of their rude manners and inhospitable climate.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXIV. <lb/>Heroes Celebrated by the Poets.</head>
           <argument>
             <p>Heroes Celebrated by the Poets — Agamemnon — Sacrifice of Iphigenia — Quarrel with Achilles — Murder of Agamemnon by Ægisthus and Clytemnestra — Achilles — His Parentage — Discovered by Ulysses at the Court of Lycomedes — His Quarrel with Agamemnon — Death of Patroclus — Exploits during the Siege — Death of Achilles — Sacrifice of Polyxena — Transformation of Hecuba.</p>
@@ -1128,7 +1128,7 @@
             <p>The vindictive spirit of Achilles knew no repose, even in death. After the fall of Troy, his ghost appeared to the Greeks, and commanded them, with fearful menaces in case of refusal, to sacrifice on his tomb, Polyxena, one of the daughters of Priam. The unhappy maiden was torn from her mother’s arms, and immolated by Pyrrhus, the son of Achilles. Hecuba [Hec′uba] learned soon after the sad fate of her son Polydorus. This young prince, who had been commended by Priam to the care of Polymnestor, king of Thrace, was treacherously murdered by that monarch. The bereaved mother planned a terrible revenge. Promising disclosures with regard to hidden treasures, she induced Polymnestor and his children to visit her in secret. Then, aided by her fellow captives, Hecuba murdered the young princes and put out the father’s eyes. While endeavoring to escape from the vengeance of the Thracians, she was suddenly transformed into a dog.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXV. <lb/>Ulysses.</head>
           <argument>
             <p>Ulysses — His Marriage with Penelope — Feigned Insanity — Exploits during the Siege of Troy — Lotus Eaters — Slaying of the Sacred Cattle by the Sailors — Their destruction — Ulysses in the Island of Calypso — Cast on the Shores of Phæacia — His Arrival in Ithaca — Suitors of Penelope — Her Deliverance by Ulysses.</p>
@@ -1148,7 +1148,7 @@
           <p>The banquet proceeded, but Telemachus had much difficulty in dissembling his feelings when the suitors made his father a subject of mockery; and one of them carried his insolence so far as to strike the disguised hero. At length, the time arrived for the contest of skill which was to decide the fate of Penelope. Twelve rings were suspended at equal distances, and Telemachus brought from the armory the mighty bow of Ulysses, with its quiver of arrows; taking care, at the same time, to remove all other weapons from the hall.</p>
           <p>The first thing to be done, was to bend the bow, in order to attach the string. This Telemachus tried to do, and was obliged to confess that his strength was unequal to the effort. He passed the bow to one of the suitors, who was compelled to yield it in turn, amid the raillery of his companions. When several had failed in the same manner, Ulysses begged that he might be allowed to try his skill. The request was received with shouts of derision, and some would have driven the insolent beggar from the hall. Telemachus interfered, and remarking, with affected indifference, that they might as well gratify the old man, bade him try. Ulysses took the bow, and the suitors were amazed to see him handle the mighty weapon as if it had been a plaything. Their surprise was still greater, when, having adjusted the cord, and chosen an arrow from the quiver, he took such steady aim that the arrow sped unerringly through all the rings; he then exclaimed, “Now for another mark!” and aimed a second shaft at the most insolent of the suitors. He fell dead, and as the others rushed forward, Telemachus placed himself by his father’s side, with Eumæus and other armed retainers. The suitors, deprived of their weapons, and terrified at the aspect of the injured prince, whom they recognized too late, turned to fly, but Eumæus secured the doors. A desperate struggle ensued, in which all were slain, and Ulysses was left master of his palace and his kingdom. The <title>Odyssey</title> concludes with a description of the rejoicings which followed, and the happiness enjoyed by Ulysses and Penelope after their long separation.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXVI.</head>
           <argument>
             <p>Orestes — Education at the Court of Strophius — Pylades — Murder of Clytemnestra — Orestes pursued by the Furies — Discovery of Iphigenia at Tauris — Circumstances added by the Tragic Poets — Hector — Character and Exploits of the Hero; his Death — Fate of Astyanax — Œdipus — Eteocles and Polynices — Theban War — Heroism of Antigone.</p>
@@ -1204,7 +1204,7 @@
             </quote>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXVII. <lb/>Æneas.</head>
           <argument>
             <p>Æneas — His Parentage — His Flight from Troy — Interview with Andromache at Epirus — Prophecy of Helenus — Æneas driven by a Storm on the Coast of Africa — Received by Dido at Carthage — Departure of Æneas — Death of Dido — Funeral Games — Descent into the Infernal Regions — Landing of Æneas in Italy — War — Death of Turnus and Marriage of Æneas with Lavinia — His Death.</p>
@@ -1219,7 +1219,7 @@
           <p>The country around was governed by a prince named Latinus, the son of Faunus and the nymph Marica. This prince had one child, a daughter named Lavinia. Her hand had been promised to Turnus, prince of the Rutulians, but Latinus was warned by an oracle that his destined son-in-law was to come from afar, and that Lavinia was to wed a foreigner. When Æneas sent an embassy to Latinus, requesting permission to settle in the country, that prince believed that the Trojan chief was the person pointed out by the oracle, and invited him to his palace. All now seemed to promise a peaceful settlement to the harassed Trojans, but the enmity of Juno was not yet appeased. She sent the Fury Alecto to the palace of Turnus, with orders to excite this prince against the stranger, who was about to rob him of his promised bride. A long war ensued, which forms the subject of the concluding books of the <title>Æneid</title>. At length Turnus fell in a personal combat with Æneas. The hand of Lavinia was the price of victory, and from the Trojan hero were descended the founders of Rome.</p>
           <p>The <title>Æneid</title> concludes with the death of Turnus, but we have some further particulars handed down by tradition. Æneas built a city, called from his bride, Lavinium. Here he governed his Trojan and Italian subjects, who became one people under the common name of Latins. The new kingdom was attacked by several of the neighboring princes, led by Mezentius, king of Etruria. Æneas defeated the allies, but was killed in the moment of victory. The family of Julii, made illustrious by Julius Cæsar, claimed descent from Iulus, grandson of Æneas.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXVIII.</head>
           <argument>
             <p>Sibyls — Story of the Cumæan Sibyl — Legend of the Sibylline Books — Their destruction — Opinions entertained regarding these Verses — Divination by Omens — The Augurs — Different Classes of Omens — Anecdote.</p>
@@ -1243,7 +1243,7 @@
             <p>The fifth class of omens was taken from different casualties, such as spilling salt, stumbling on the threshold, sneezing, meeting a hare, wolf, fox, etc. Some of these last superstitions prevail, more or less, to the present day.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XXXIX. <lb/>Oracles.</head>
           <argument>
             <p>Oracles — Oracle of Jupiter at Dodona — Manner of giving Responses — Oracle of Delphi — Account given by Diodorus — The Pythia — Remarkable Responses — Unsuccessful attempts made to plunder this Temple — Despoiled by Nero and others — Oracle of Trophonius — Story of the Hero and his Brother — Agamedes — Discovery of the Oracle — Peculiar Rites observed by the Votaries — Oracle of Jupiter Ammon — Its Situation — Temple founded by Bacchus — Expedition sent by Cambyses — Ruins still existing — Fons Solis — Account given by Belzoni — Oracle of Esculapius at Epidaurus — Remarkable Embassy sent to Epidaurus by the Roman Senate — Treatment of Votaries in the different Oracles of Esculapius — Oracle of the Castalian Fount — Anecdote of the Emperor Hadrian — Opinions entertained with regard to these Oracles — Quotation from Milton.</p>
@@ -1303,7 +1303,7 @@
             <l>Inspires the pale-eyed priest from the prophetic cell.”</l>
           </quote>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XL. <lb/>Classic Games.</head>
           <argument>
             <p>Classic Games — Why connected with Mythology — Olympic Games — By Whom instituted — Time and Manner of their celebration — Olympiads — Nature of the Contests — Qualifications required of the Competitors — Prize awarded to the Victors — Honors bestowed — Horse and Chariot Races — Philip of Macedon — Alcibiades — Cynisca — Intellectual Contests — Herodotus — Dionysius — Pythian Games — By whom instituted — Time of their Celebration — Prize — Nemean Games — Crowns bestowed — Isthmian Games — Why so called — Instituted in Honor of Melicertes — Garland bestowed on the Victor.</p>
@@ -1330,7 +1330,7 @@
           <q><hi rend="i">Ques.</hi> Why were the Isthmian Games so called?</q>
           <p><hi rend="i">Ans.</hi> They were named from the Isthmus of Corinth, where they were celebrated. They were instituted in honor of Melicertes, who was changed into a sea deity. After falling into neglect, these games were restored by Theseus. They were celebrated every five years, and continued to be solemnized even after the destruction of Corinth by the Romans. The victors were at first rewarded with garlands of pine leaves, but this custom was changed, and the pine was replaced by a crown of withered parsley.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XLI. <lb/>Theatres.</head>
           <argument>
             <p>The Greek Drama — Peculiarities of the Greek Theatre — Description of the Theatre of Bacchus at Athens — Stage Machinery — Dress of the Actors — Masks — The Chorus — Measures of the Choral Dance — Chorus of the Furies — Story of Ibycus — Attempt made to revive the Ancient Chorus — Time occupied by Theatrical Entertainments — Their cost — Comparison with the Roman Amphitheatre.</p>
@@ -1361,7 +1361,7 @@
           <p>Whatever may have been the faults of the Greek drama, there is no doubt that it was intended to inculcate principles of religion and morality.</p>
           <p>The theatrical entertainments of the Greeks, and their public games, form a striking contrast to the inhuman sports of the Roman amphitheatre.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter XLII. <lb/>Celebrated Statues.</head>
           <argument>
             <p>Celebrated Statues — The Olympian Jupiter — Minerva of the Parthenon — Subsequent Fate of this Temple — Apollo Belvidere — Diana à la Biche.</p>
@@ -1385,7 +1385,7 @@
       </div>
       <div>
         <head>PART II.</head>
-        <div type="chapter">
+        <div>
           <head>Chapter LI. <lb/>Egyptian Divinities. <lb/>Osiris — Apis — Serapis — Isis — Anubis — Harpocrates.</head>
           <argument>
             <p>Egyptian Divinities — Osiris — Apis and Serapis — Parentage of Osiris — His Death and Sepulture — Isis — Attributes — Emblematic representation — Rites of Isis forbidden at Rome — Condemned by Juvenal — Apis — Manner of transmigration — Festivals in Honor of Apis — Discovery of a Successor — Oracles obtained from this Divinity — Germanicus — Harpocrates — Quotation.</p>
@@ -1426,7 +1426,7 @@
             <l>Where every orchard is o’er-run with gods.</l>
           </quote>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter II. <lb/>Eastern Mythology. <lb/>Deities of the Assyrians. <lb/>Baal, or Bel — Moloch.</head>
           <argument>
             <p>Eastern Mythology — Divinities of the Assyrians — Baal or Bel — Tower of Babel — Proper Names of the Phœnicians and Carthaginians — Worship of Baal introduced among the Israelites by Achab — Reproaches of Jeremias — Moloch — Nations devoted to his Worship — Human Sacrifices — Representation of this God — His Worship forbidden by Moses — Valley of Hinnom — Quotation from Milton — Astaroth or Astarte — Sacrifices in Honor of this Goddess — Abuses attending her Festivals — Thammuz identical with Adonis — Mourned by the Assyrian Women — Lines from Milton — Vision of Ezekiel — Oannes — Dagon.</p>
@@ -1496,7 +1496,7 @@
             <p><hi rend="i">Ans.</hi> He was a god of the Assyrians, half man, half fish, who was said to dwell in the sea, from which he came at stated times, to instruct the Babylonians in wisdom and science. Oannes is the Dagon of the Philistines.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter III. <lb/>Persia.</head>
           <argument>
             <p>Persia — The Zend-avesta — Doctrines of Zoroaster — Ormuzd or Ormasdes — Ahriman — Worship of Fire — The Guebers — Perpetual Fires — Bakoo — Magic and Astrology — Parsees of Hindostan.</p>
@@ -1537,7 +1537,7 @@
             <author key="Zarathushtra">Zoroaster</author> suppressed in Persia?</q>
           <p><hi rend="i">Ans.</hi> After the conquest of Persia, by the Arabs, which took place in the seventh century, those who refused to embrace the Koran fled to Hindostan, where they still exist under the name of Parsees. At Bombay they are an active, intelligent and wealthy class.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter IV. <lb/>Hindoo Mythology.</head>
           <argument>
             <p>Hindoo Mythology — Brahma — The Vedas — Doctrine of the Vedas — Brahma, Vishnu and Siva — Offices of these Deities — Avatars of Vishnu — Krishna — Siva — Doctrines regarding the Soul — Metempsychosis — Castes — Buddha — His Doctrines — Buddhism suppressed in India.</p>
@@ -1610,7 +1610,7 @@
             <p>The worship of the sun is the most important exterior part of their religion, and the Japanese were so much attached to this form of idolatry, that the Buddhists have incorporated it with their own rites.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter V. <lb/>China.</head>
           <argument>
             <p>China — Absence of any State Religion in China — Doctrine of the Lettered — Confucius — His Writings — Honors paid him in China — Difficulties occasioned among Christian Missionaries — Lao-tze, founder of the Religion of Tao or Reason — His Writings — Chinese Buddhists — Temple of Buddha at Pou-tou — General Feeling of the Chinese with regard to Religion.</p>
@@ -1664,7 +1664,7 @@
           <q><hi rend="i">Ques.</hi> If such total indifference prevails in China, on the subject of religion, how does it happen that Christianity should be so severely persecuted?</q>
           <p><hi rend="i">Ans.</hi> This arises partly from the political fears of the Chinese government, and its jealousy of strangers. The missionaries are, of course, foreigners, and it is natural that the emperors should imagine them to be working in the interest of the great western nations whose power they so much fear. There are other reasons; the purity of Christian morals has been always a reproach to pagan society, and the spirit of darkness never fails to rouse the prejudices and passions of men against the progress of the faith. In ancient Rome, where the idols and superstitions of every conquered nation found a ready welcome, Christianity obtained a foothold only after three centuries of persecution.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter VI. <lb/>Thibet. <lb/>The Grand Lama.</head>
           <argument>
             <p>Thibet — The Grand Lama — Prevailing Religion of Thibet and Tartary — Lamaseries — The Grand Lama, a Perpetual Incarnation of Buddha — His transmigrations — Mode of discovering his Successor.</p>
@@ -1680,7 +1680,7 @@
           <q><hi rend="i">Ques.</hi> How is the child discovered?</q>
           <p><hi rend="i">Ans.</hi> This is an affair of some difficulty, but the inferior Lamas always succeed in finding the hidden divinity. The child into whom they supposed the Lama’s soul has entered, is required to remember the most private acts of the Lama’s life, to recognize, as familiar objects, the articles which he was accustomed to use, etc. The children thus examined have sometimes answered in so extraordinary a manner that many have supposed Satan was permitted to aid in the imposture.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter VII. <lb/>Mythology of Scandinavia.</head>
           <argument>
             <p>Mythology of Scandinavia — Compared with that of Greece and Rome — The Eddas — Account of the Creation — Form of the Earth — Asgard, Odin — Names of this Deity — Valhalla — Thor — Recovery of Thor’s Hammer — Frey and Freya — Bragi — Heimdall — Vidar — Hodur — The Valkyrior — Loki and his Progeny — Death of Baldur — His Funeral — Loki’s Punishment — The Elves — Runic Letters — Ragnarok, the Twilight of the Gods.</p>
@@ -1809,7 +1809,7 @@
             </div>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter VIII. <lb/>Celtic Mythology. <lb/>Druidism.</head>
           <argument>
             <p>Celtic Mythology — Druidism — Derivation of the Word Druid — Origin of Druidical Worship — Account given by Cæsar — Characteristics — Divinities worshipped by the Druids — Esus — His Attributes — Bel — Teutates — Camul — Tarann — Priests — Their Duties — Bards — Their Influences — Druids, properly so called — Sacred Plants — Mystic Writing of the Druids — Their Political Authority — Druidesses — Of the Loire — Of the Island of Sena — Human Sacrifices offered by Druidesses — Virgins of Tara — Sacrifices offered by the Druids — Victims chosen — Belief of the Druids in a Future State — Festivals of the Druids — Festival — Solstices — Beltane or Beal-Tinne — Ceremonies observed in Ireland — St. Patrick at Tara — First of November — Breton Legend — Superstitious Practices belonging to the Day — Suppression of Druidism in Gaul — In England — Mona — Iona — Druidical Monuments — Menhirs — Dolmens — Cromlechs — Stonehenge — Carnac — Popular Superstitions.</p>
@@ -1887,7 +1887,7 @@
           <p>At Stonehenge, in England, is a large cromlech arranged in two circles and two ovals. There are in all about one hundred and forty stones, of which the smallest are estimated to weigh ten or twelve, and the largest seventy tons. In the centre of the work is a massive slab of fine sandstone, supposed to have been an altar. This cromlech is surrounded by a trench and an earthen embankment. Numerous ancient <hi rend="i">barrows</hi>, or burial mounds, are found in the neighborhood. In Ireland, monuments constructed of stone are sometimes found; but circular earthworks are more common. In this country, as in Brittany, many popular superstitions still attach to these remains of ancient paganism. Almost within our own day, many an Irish peasant has made his scanty harvest still smaller, rather than violate with the plough, the grass-grown “rath,” or Druid circle. Death within the year is the supposed penalty of such an act. In Brittany, malignant dwarfs and night-elves still haunt the deserted cromlech, and have power at certain times, to wreak their malice on the belated traveller. Some of these giant stones are themselves subject to mysterious laws. Once in a hundred years, they are obliged, at the hour of midnight, to pass in weird procession to bathe in the waters of the Northern Ocean.</p>
           <p>Then for a few brief moments the stars look down on the riches buried in ancient times beneath the enchanted circle. It is the treasure-seeker’s golden opportunity, but woe to the avaricious wretch who lingers over the spoil. He is crushed by the swift returning stones, and the morning sun finds the grim sentinels silent and motionless as before, bearing no trace of their wild nocturnal march.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter IX. <lb/>Mexico. <lb/>Mythology of the Aztecs.</head>
           <argument>
             <p>Mexico — Mythology of the Aztecs — Its Peculiar Characteristics — Belief of the Aztecs with regard to the Supreme Being — Subordinate Deities — Huitzilopotchli — Legend of Quetzalcoatl — Household Divinities — Belief of the Aztecs with regard to a Future State — Singular Ceremony — Rites of Burial — Aztec Priests — Priestesses — Mexican Temples — Pyramid of Cholula — Sacrifices — Their Number — Victims offered annually to Tezcatlipoca — Cannibal Repasts — Montezuma.</p>
@@ -1932,7 +1932,7 @@
           <p>When the fatal day arrived, the victim, who had been trained to perform his part with calmness and dignity, was conducted to the temple. As the melancholy procession wound up the sides of the pyramid, he played upon a musical instrument; at first, joyous airs, which grew graver and more mournful as the cortege advanced, until at length he broke his lute, and cast it aside. He then threw from him, one by one, his chaplets of flowers, and stood unadorned before the stone of sacrifice. The bloody work was soon accomplished, and the yet palpitating heart of the victim was thrown at the feet of the idol. The career of this captive, and his progress to the altar, was intended as an allegorical representation of human life, which, joyous at first, terminates in sorrow and in death. In speaking of human sacrifices, we have yet to mention the most revolting feature. The Mexicans, both men and women, feasted on the bodies of the victims; and no Aztec noble would venture to entertain his friends on a festival day without placing before them this loathsome food.</p>
           <p>It is worthy of remark that Montezuma surpassed all his predecessors in the pomp with which he celebrated the festivals of the Aztec gods, and the number of human victims which he offered on their altars.</p>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapter X. <lb/>Peru.</head>
           <argument>
             <p>Mythology of the Ancient Peruvians — Belief in One God — Worship of the Sun, Moon, and Stars — Legend of Manco-Capac — Pretended Origin of the Inca Race — Legend of the Deluge — Tradition of White Men from the East — Temple of the Sun in the Island of Titicaca — Temple of Cuzco — Peruvian Priesthood — Sacrifices offered to the Sun — Festivals of the Sun — Feast of Raymi — Resemblance of certain Peruvian Rites to those observed by the Ancient Romans — Virgins of the Sun — Burial Rites of the Peruvians — Cupay.</p>

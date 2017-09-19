@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T12:32:44+02:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Hort (1836)">
   <teiHeader>
     <fileDesc>
@@ -48,7 +48,7 @@
       <div>
         <head>[Frontispiece.]</head>
         <figure>
-          <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img000.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img000.png"/>
         </figure>
       </div>
       <div>
@@ -104,7 +104,7 @@
         <div>
           <head>Chap. III. [The most ancient Divinities according to the Greeks, Saturn, Cybele.]</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img004.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img004.png"/>
           </figure>
           <q><hi rend="sc">Which</hi>, according to the Greeks, was the most ancient of the divinities?</q>
           <p>Cœlus, or Heaven, whom the Greeks called Uranus, was, by their account, the most ancient of the gods, as Vesta Prisca, or Terra, different names for the earth, was of the goddesses. Their sons were called Titan and Saturn, which latter was the same as Chronos, or time.<note place="bottom">Some writers have supposed that Saturn was no other than Nimrod, that mighty hunter before the Lord, who first usurped arbitrary power over his brethren of mankind. Others have imagined that Saturn was Noah himself, and that his sons Jupiter, Neptune, and Pluto, were Ham, Japhet, and Shem, the founders of Nations.</note></p>
@@ -160,7 +160,7 @@
         <div>
           <head>Chap. V. [Jupiter.]</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img014.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img014.png"/>
           </figure>
           <q><hi rend="sc">What</hi> was the idea which the Pagans entertained concerning Jupiter?</q>
           <p>The generality of their philosophers supposed Jupiter the greatest of the Gods, to be the purest air, the æther: and Juno his wife, the grosser air which surrounds the earth.</p>
@@ -226,7 +226,7 @@
         <div>
           <head>Chap. VI. [Juno.]</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img022.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img022.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Juno?</q>
           <p>The daughter of Saturn; the sister and wife of Jupiter. She was called by the Greeks Hera, or Mistress: or Megale, the Great. The Romans gave her the name of Juno Matrona, or the Matron; Juno Regina, or the Queen; Juno Moneta, the Admonisher.</p>
@@ -274,7 +274,7 @@
         <div>
           <head>Chap. VII. [Ceres.]</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img036.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img036.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Ceres?</q>
           <p>Ceres was the daughter of Saturn and Cybele, and was supposed to be the first who cultivated the earth.</p>
@@ -451,7 +451,7 @@
         <div>
           <head>Chap. IX. [Apollo.]</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img044.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img044.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Apollo?</q>
           <p>The son of Jupiter and Latona.</p>
@@ -544,7 +544,7 @@
         <div>
           <head>Chap. XII. Bacchus.</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img046.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img046.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Bacchus?</q>
           <p>The son of Jupiter and Semele; god of wine.</p>
@@ -594,7 +594,7 @@
         <div>
           <head>Chap. XIII. Minerva.</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img052.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img052.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Minerva?</q>
           <p>The goddess of wisdom and deliberate courage, and the patroness of the arts.</p>
@@ -655,7 +655,7 @@
         <div>
           <head>Chap. XIV. Mars, Bellona, Victory.</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img056.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img056.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Mars?</q>
           <p>The son of Jupiter and Juno, the fierce, inexorable God of war and carnage.</p>
@@ -725,7 +725,7 @@
         <div>
           <head>Chap. XV. Venus.</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img060.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img060.png"/>
           </figure>
           <q><hi rend="sc">How</hi> was Venus, the goddess of love and beauty, produced?</q>
           <p>She is represented by the poets as springing from the froth of the sea. A sea-shell gliding smoothly on the surface of the waves, is wafted by the gentle zephyrs to the foot of Mount Cythera. Here the goddess lands, and as she walks, flowers bloom beneath her feet. The rosy Hours, who were entrusted with her education, receive and conduct her to heaven.</p>
@@ -789,7 +789,7 @@
         <div>
           <head>Chap. XVI. Vulcan.</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img064.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img064.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Vulcan?</q>
           <p>It appears that there were three of the name of Vulcan. The first was Tubalcain, mentioned by
@@ -867,7 +867,7 @@
         <div>
           <head>Chap. XVII. Mercury.</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img068.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img068.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Mercury?</q>
           <p>There were two of that name; the Egyptian, and the Grecian Mercury. The most ancient of them, was the Thaut or Thot of the Egyptians, contemporary with Osiris. We meet with scarcely any personage in the ancient world more celebrated for great knowledge and admirable talents. To him the Egyptians were indebted for the flourishing state of their arts and commerce. He taught them geometry, and hieroglyphical characters.</p>
@@ -926,7 +926,7 @@
           <q>Who was Oceanus?</q>
           <p>The son of Cœlus and Terra. He was justly regarded as the principal marine Divinity, as he represents the vast collection of waters which gird the earth. From him sprang Nereus and Doris, and from them the various tribes of water nymphs. Oceanus was represented as an old man sitting upon the waves, holding a pike, and near him a sea monster of indescribable form.</p>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img074.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img074.png"/>
           </figure>
           <q>Who was Neptune?</q>
           <p>The son of Saturn, brother of Jupiter. In the division of their father’s kingdom, the empire of the seas fell to his share. He was worshiped as the god of the seas. Amphitrite was his wife. He was represented with black hair and blue eyes, standing erect in a chariot formed of a vast shell drawn by seahorses; clothed in an azure mantle, and holding in his hand the trident which commanded the waves. Around him played the sea nymphs, and the Tritons sounding their trumpet of shells.</p>
@@ -1140,7 +1140,7 @@
         <div>
           <head>Chap. XXII. [Pan.]</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img088.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img088.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was the God Pan?</q>
           <p>The God Pan held a principal place among the most ancient divinities. By the poets, he is said to be the son of Jupiter and Calista, or of Mercury and Penelope. Fie was represented under the form of a satyr, half man and half goat, holding in his hand the rural pipe, invented by him, and called Syrinx. He was generally venerated by the Arcadians, as the head of all the rural Deities. In the month of February, the Romans celebrated his feasts, which they called Lupercalia from the place consecrated to him, being supposed to be the same, where Romulus and Remus were suckled by the wolf, in Latin <hi rend="i">lupus</hi>. His priests were called Luperci. Pan was also regarded as the inspirer of sudden unfounded fright and terror; especially of the unaccountable consternation which sometimes turned armies to flight. The Athenians had a statue of him, like that of Mars. And in some antique gems and sculptures, his figure is nearly as formidable as that of Medusa.</p>
@@ -1218,7 +1218,7 @@
         <div>
           <head>Chap. XXV. [Pluto, Proserpina, Plutus.]</head>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img098.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img098.png"/>
           </figure>
           <q><hi rend="sc">Who</hi> was Pluto?</q>
           <p>Pluto, the supreme ruler of the infernal regions, was the third son of Saturn and Ops.</p>
@@ -1321,7 +1321,7 @@
           <q>Who were the earliest of these Heroes?</q>
           <p>Inachus, Cecrops, Deucalion, who survived the Deluge of the poets; Pelops and Cadmus, who introduced the knowledge of letters. These were all leaders of colonies from various parts of the eastern countries, into Greece, and, respectively, founders of the States of Argos, Sicyon, Athens, Thebes, and Lacedemon.</p>
           <figure>
-            <graphic url="hort_new-pantheon_1836_images/hort_new-pantheon_1836_img110.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/hort_new-pantheon_1836_img110.png"/>
           </figure>
           <q>Who was Hercules?</q>
           <p>The son of Jupiter and Alcmena. He, being persecuted by the anger of Juno, traversed the earth, destroying monsters, giants, and oppressors of various kinds. For his illustrious actions he was deified, and regarded as the god of strength. He was also named Alcides, from his extraordinary force and valour.</p>

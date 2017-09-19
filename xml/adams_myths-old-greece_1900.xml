@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-26T12:33:38+02:00-->
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Adams (1900)">
   <teiHeader>
     <fileDesc>
@@ -71,13 +71,13 @@
           <author key="Bryant W.">Bryant’s</author> complete works, for permission to use the selection from “<title>The Greek Boy</title>”; to Messrs. Houghton, Mifflin &amp; Co., the only authorized publishers of
           <author key="Longfellow">Longfellow’s</author> works, for permission to use the selection from “<title>Pegasus in Pound</title>.”</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img008.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img008.png"/>
         </figure>
       </div>
       <div>
         <head>The Gods.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img009.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img009.png"/>
         </figure>
         <p>Far away across the sea from us lies the pleasant land of Greece. It is a beautiful country, full of wooded hills and green valleys; and the blue sea comes far inland, up the valleys between the hills, and meets the little rivers and the noisy brooks. Many of our garden flowers grow wild on the Grecian meadows, for the air is fresh and moist, and even the winters are not cold.</p>
         <p>A long while ago there lived in that land the happiest and brightest nation that the world has known. In those days men did not think of things as we do. The Greeks felt that everything was alive. The air was full of fairies and gods; the spring of fresh water gurgled because it was happy; and each river had in it a great, quiet water-god. When the farmer sowed the seeds in the field, it was a goddess that made the green stalks come up and be fruitful. The trees of the forest also had each a fair spirit; and to one who understood, the rustling of the leaves spoke with meaning. Even the old Earth was not dead. The earthquakes proved that she could move, if she would.</p>
@@ -125,7 +125,7 @@
       <div>
         <head>Proserpina.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img014.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img014.png"/>
         </figure>
         <p>Jupiter was called the father of the gods, but he was not the father of them all. He had a brother, Neptune, who ruled the ocean, and another brother, Pluto, who ruled the underworld; and Ceres was one of his sisters. She was the stately and beautiful goddess who made the fields grow green and yield their crops.</p>
         <p>Nowadays, men must work hard and take much care if they will have large harvests, but we are told that in early times this was not so. Ceres kept the earth fertile, and there was no winter. When one crop was taken in, another began to sprout.</p>
@@ -159,7 +159,7 @@
         <p>When Ceres heard that, her face grew very stern and terrible. She set out at once to find her child and to punish him who had dared to do such a deed. But, although she moved swiftly, she saw no trace of the lost maiden until, at nightfall, she picked up a rose which had fallen from the hands of the poor frightened goddess and which was already faded.</p>
         <p>The world soon grew dark, but Ceres would not rest. She took two great pine trees, bound them together, and lit them at the volcano of Ætna. With this tremendous torch to light her way, she wandered all through the night, seeking and calling in vain. As often as she met a spirit of sleep, or of dreams, she would stop it and ask, “Have you seen my daughter, Proserpina?” But none of the spirits of night had seen her.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img025.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img025.png"/>
         </figure>
         <p>When morning came, she still went on without rest. At each river she would stop and call. Very soon the river-god would raise his great, dripping head above the water and look at her with gentle, majestic eyes, and she would ask, “Have you seen my daughter, Proserpina?” But none of the river-gods had seen her.</p>
         <p>Once, when she came to a hilly forest, she called, “Pan! Pan!” and Pan, the god of the animals, came skipping to meet her. He was like a man, but he had hoofs in place of feet, and his ears were pointed and furry. Besides that, he had two little stubby horns upon his forehead. When he spoke, his voice was like the whinny of a horse, or the cry of some wild creature; and yet it was a man’s voice. Altogether it was a strange, uncanny sound, and when Pan shouted, he could make a whole army of brave men run helter-skelter without any other cause.</p>
@@ -194,7 +194,7 @@
         <p>Yet Proserpina could not stay with her mother always. While she was in the underworld she had tasted a pomegranate which Pluto had offered her. Because of this, she had to spend a part of each year ever after with her grim lover in the underworld.</p>
         <p>But Ceres always mourns until Proserpina returns. And she allows nothing to grow upon the earth until the fair young goddess comes back. The men of earth have given the evil season a name, and have called it Winter; but Pluto and the other dwellers in the underworld think it the best of all seasons, for only during those months do they have their beautiful queen in their midst.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img035.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img035.png"/>
         </figure>
         <div>
           <head>Persephone.</head>
@@ -334,7 +334,7 @@
       <div>
         <head>Prometheus and Epimetheus.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img041.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img041.png"/>
         </figure>
         <p>From the time when Proserpina was carried off, the world began to be less happy than it had been. In the winter men shivered and froze, and even the summer had its cares, for in the warmest and fairest days men were busy saving stores for the winter which was to come.</p>
         <p>In those days there lived in the world a race of great creatures called Titans. They were children of old Mother Earth, who is so quiet under our feet, and they were bold and strong. They did not fear Jupiter himself, and once they piled mountain upon mountain and tried to force a way into Olympus, to cast the king of the gods out of it. Jupiter, with all his thunderbolts, was not entirely secure at that time.</p>
@@ -371,7 +371,7 @@
         <p>So Mercury led Pandora in; but before he left, he warned Pandora and Epimetheus not to open the sacred box. “The gifts of heaven must not be set free on earth,” he said, “for men are not strong enough to receive them.” Then, with a wave of his snake-wand and a whir of the wings on his feet and head, he disappeared.</p>
         <p>Then came happy days. Epimetheus invited every one to come to get good of the divine gift, and men came from all parts of the earth. Some were young and some were old; but all those who saw Pandora and came near to the wondrous box, felt a change in themselves. When they left the house of Epimetheus, they were surprised to find how beautiful the sky was, with its white clouds; they wondered at the songs of the birds, which seemed new and strange; and they felt ready to die for what is good and true. Ah, the wonderful box!</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img050.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img050.png"/>
         </figure>
         <p>Then, first, men began to sing and to dance, to paint and to make beautiful statues, and to write stories and poems in praise of the gods, and of the heroes who fought to kill monsters and savage beasts. All mankind seemed then, for the first time, to be free and happy. Even Jupiter and the gods of heaven had more joy as they saw how the earth prospered and how their altars were smoking with sacrifices.</p>
         <p>And of all the world, the spot most blessed was the home of Epimetheus. There stood the wonderful box, and Pandora would sit by the hour with her ear against it, listening to the faint music that seemed to come from within it, taking in all the glory and joy which poured through the sparkling sides and top. “What a marvelous box!” she would say to herself. “What joy it has brought the world! I wonder — I wonder what it is that the gods put into it to give it such power.”</p>
@@ -426,7 +426,7 @@
       <div>
         <head>Apollo and Daphne.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img057.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img057.png"/>
         </figure>
         <p>One beautiful morning Cupid, the little winged god of love, sat busily polishing his bow and his arrows. Some of his arrows were tipped with gold, and some with lead, but he polished all alike and saw to it that they were neatly winged with white dove-feathers. Then he put them back into his quiver, taking care not to prick himself, for the golden arrows would make even a god fall in love and the leaden ones caused hate. Next, Cupid took up his little bow and saw that the string was unworn and the golden arch bright and elastic and strong.</p>
         <p>At that moment Apollo, the god of light and song, came by. He was just from the earth, where he had done a great service to mankind. For the swamps of Greece had produced a monstrous serpent, called Python, which laid waste, the land and slew the people of it. In vain did heroes fight against Python. All were destroyed, and at last the whole land prayed to the gods for aid in its peril. Then Apollo took his mighty and terrible bow and with his arrows slew the beast. Now as he was returning, he saw Cupid polishing and preparing his tiny arms. He stopped, and watched the little god with contempt.</p>
@@ -447,7 +447,7 @@
         <p>“O my father,” she cried, “help me! Save me from him I hate. Change my form, or let the earth swallow me up. Quick, for he is here.”</p>
         <p>Apollo also had seen the river, and he thought, “Now I have her. She can flee no further.”</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img062.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img062.png"/>
         </figure>
         <p>As he came out upon the river bank, there stood Daphne, so quiet that he thought she had yielded. He went quickly to her and caught her in his arms.</p>
         <p>But even as he touched her, he felt her change. Her body grew hard and fixed and wooden, her hands and arms sprouted out with shining leaves, and instead of her fair face there was a great cluster of beautiful pink and white flowers. Daphne had become a laurel tree.</p>
@@ -486,7 +486,7 @@
       <div>
         <head>Orpheus and Eurydice.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img065.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img065.png"/>
         </figure>
         <p>There once lived in Thrace a wonderful young musician named Orpheus, son of the muse Calliope. He understood all music. When the birds sang, when the trees murmured and whispered, when the waters gurgled, Orpheus knew what was meant. When the storms roared and winds shrieked and thunders muttered and rolled, he seemed to hear in them the very voices of the gods.</p>
         <p>And he himself could sing. Apollo, god of light and song, loved him and gave him his own divine harp, which the Greeks called a lyre. Upon this lyre Orpheus would play as he sang. Never since Apollo tended the flocks of King Admetus had such music been heard upon earth. The birds would cease singing, for they preferred his songs to their own; the spirits in the trees would hush the murmur of their leaves to hear him; and the gentle gods of the rivers, and Neptune himself, god of old ocean, would quiet their waters to listen. Even the beasts of the wood — the lions and bears and slender, spotted deer — would come from their hiding places and lie down peacefully about him as he played the lyre and sang. Thus Orpheus had many friends.</p>
@@ -507,7 +507,7 @@
         <p>In his song, he told how he had loved Eurydice, and she him, how they were happily married, and how, without cause, she had been snatched from him in an hour. He told how he had tried to endure her loss, and how he had felt it more and more until at last he had been driven to come down into the underworld, not searching for glory or fame, nor to show his power or strength, but to beg for the spirit of Eurydice, whom the underworld would never miss from its hosts of inhabitants.</p>
         <p>“I pray you, let her go,” he sang to the dark ruler. “She will come back at the end of her life. You do but lend her to me, not lose her. Think, O Pluto, what pain you suffer while Proserpina is away from you each year — but my sorrow is greater, for Eurydice is lost to me all the year. Think, O Proserpina, great queen, what woe you suffered when you thought never again to see the face of majestic Ceres, your mother — such is my woe, and greater, for I had rather be here with her than there alone, and if Eurydice may not go, I, too, will return no more to light and life.”</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img072.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img072.png"/>
         </figure>
         <p>So sweet had been the music of Orpheus that when he ended, dark Pluto was moved and Proserpina’s cheeks were bathed in tears. All through the underworld the charm was felt. It is said even that the bad spirits in punishment were freed from their everlasting tortures while Orpheus sang.</p>
         <p>“Grant him Eurydice, O King,” said Proserpina; and Pluto, nodding, said: —</p>
@@ -547,14 +547,14 @@
           <bibl>
             <author key="Shakespeare">William Shakespeare</author>.</bibl>
           <figure>
-            <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img077.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img077.png"/>
           </figure>
         </div>
       </div>
       <div>
         <head>Hercules.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img078.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img078.png"/>
         </figure>
         <p>Some men are born to a great deal of trouble, yet bear it with so light a heart that they never seem to have a care in the world. This was the case with Hercules. His troubles began early, and they never ceased until the day he died, but he was always cheerful and strong.</p>
         <p>When he was a mere babe of a few months, he met his first great danger. His mother, Alcmena, had put him to bed one night with his twin brother, Iphicles. Their cradle was the inside of a bronze shield. The babes were healthy, and they had been given a good warm bath and plenty of milk before they were tucked in, so they were asleep in a moment.</p>
@@ -587,7 +587,7 @@
         <p>There, asleep on the warm sand, lay hosts of strange creatures of the deep. There were sea-horses, and sea-lions, and sea-boars, and beautiful sea-nymphs that looked half human, all lying side by side and all fast asleep; and in the midst lay the aged sea-god Nereus himself, with his long white beard and hair.</p>
         <p>Hercules drew near as quietly as he could and clasped him tightly about the waist, for Nereus must be conquered before he will talk. The aged god awoke with a cry, and, at the sound of his voice, all the sea-creatures shuffled and slid off to the water as fast as they could, leaving Nereus to take care of himself.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img088.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img088.png"/>
         </figure>
         <p>Then began the struggle, Nereus doing everything in his power to escape, Hercules doing everything to hold the slippery god. Suddenly Nereus changed himself to a leopard, but Hercules seized him by the neck and choked him as he had the Nemean lion. Then he changed to a bear, but Hercules still held him fast. Then he became a little bird, but before he could flit away, Hercules had his hand about him. Then he was a fly, and Hercules all but crushed him. Then he turned into an eel, but he could not wriggle loose. Then he became a torrent of rushing water, but Hercules would not let it flow away. Then he changed to a snake, and Hercules almost strangled him. Last of all he became a huge flame of fire, but Hercules still managed to hold him, and even to smother him almost out.</p>
         <p>Then Nereus changed back to the form of an old man. He had been handled roughly, but he admired the courage of Hercules, and though he grumbled, he was secretly glad that it was in his power to help the hero.</p>
@@ -613,7 +613,7 @@
         <div>
           <head>Song of Hercules to his Daughter.</head>
           <figure>
-            <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img095.png"/>
+            <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img095.png"/>
           </figure>
           <quote>
             <l>“I’ve been, oh, sweet daughter,</l>
@@ -659,7 +659,7 @@
       <div>
         <head>Alcestis.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img097.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img097.png"/>
         </figure>
         <p>There once lived in Thessaly a good king named Admetus. He was a gentle ruler and led his people in the ways of peace, as a shepherd leads his flock to green pastures. His kingdom prospered, for war and famine came not near his land, and the gods loved him. The hillsides were smiling with vines and gray olive trees; fleecy sheep and sleek cattle browsed contentedly in the valleys and woodlands; and his people showed the gladness of their hearts in song and joyful music and in graceful dance.</p>
         <p>One day there came to the palace of Admetus a stranger. He seemed to be a beggar; but though his clothes were worn and tattered, he was fairer to look upon than any mortal man. He asked for shelter, and begged that he might tend the king’s flocks. Admetus received him gladly and granted his request.</p>
@@ -688,7 +688,7 @@
         <p>In the midst of their sorrow, when Alcestis was on the verge of death, who should come to the palace but Hercules? He was on his way to Thrace, to tame the man-eating horses of Diomed and lead them to his master Eurystheus. He was stopping to find rest and refreshment with his friend Admetus.</p>
         <p>When Hercules saw the signs of mourning, he asked what they meant; but Admetus kept the truth from him, for he did not wish to burden him with needless sorrow. Then Hercules wished to go on his way at once, but Admetus knew how hard was the lot of Hercules, and would not hear of that.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img105.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img105.png"/>
         </figure>
         <p>Hercules yielded and stayed, though he saw that the shadow of Death was over Admetus’ house. The truth is, Hercules had faced death so often that he hardly noticed it.</p>
         <p>Admetus led him to a far part of the palace, and there food and wine were set before him. The strong man even crowned his head with garlands, and made merry in the house of mourning. But while he was making merry, brave Alcestis died.</p>
@@ -752,7 +752,7 @@
       <div>
         <head>Phaëton.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img112.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img112.png"/>
         </figure>
         <p>As Helios, the god of the sun, was once driving his flaming chariot across the sky, he saw beautiful Clymene walking in the meadows below. The god loved her, wooed her, and married her. Their only son was named Phaëton.</p>
         <p>Helios could not come down often to the earth. Every morning he had to drive the sun-chariot out from the great palace in the east, and all day he had to control the fire-breathing horses as he drove them up the hard road to midday and down the steep to sunset. Every night he had to drive the chariot round from the west to the palace in the east, to be ready for sunrise.</p>
@@ -776,7 +776,7 @@
         <p>All this time the steeds were pulling hard at the reins. They felt that the chariot was not so heavy as usual, and they soon discovered that the hand and arm were not the iron hand and arm which usually held them in check. They increased their speed. Phaëton began to be alarmed. He pulled at the reins and called the horses by name, but they went no slower.</p>
         <p>Suddenly before them the Scorpion was seen stretched enormous across the way, with its sting raised threateningly. The horses veered, and in a moment were dashing toward the north pole, where the Great Bear stood. The Bear, surprised and enraged at the unusual heat, rose fiercely, and the horses veered once more. Phaëton, now thoroughly scared, tried to turn them back to the east. He hoped to put the chariot once more into his father’s hands. But the steeds did not heed him. They were wild with fright. Then Phaëton looked down. Far beneath him he saw the earth spread out like a great map. The height made him dizzy. He dropped the reins and clung to the sides of the chariot. The horses were now free to go whither they would.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img119.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img119.png"/>
         </figure>
         <p>The people of earth had been gazing up with horror at the scene. Now the sun was near the north star, now it took a sudden turn and rushed across the sky almost to the southern horizon.</p>
         <p>“Helios has gone mad,” men whispered, as they watched the zigzag course of the chariot. The time wore slowly on, but sunset was as far distant as ever. When the day should have been ending, the chariot of the sun was careering toward the north, above the eastern hills, and in it sat Phaëton, now pale with fear, clinging to the golden sides and listening to the rumbling wheels and the snorting of the fire-breathing horses.</p>
@@ -860,7 +860,7 @@
       <div>
         <head>Perseus.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img125.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img125.png"/>
         </figure>
         <p>One morning as Dictys, a fisherman of the island of Seriphus, was going along the beach to his boat, he saw a strange sight. Upon the sand sat a woman in purest white, with a child in her arms. She was so beautiful as she sat there with the sunlight on her golden hair that Dictys thought she must be some goddess of the sea, although there was near her a small boat in which it was plain that she had come during the night.</p>
         <p>When the woman saw Dictys, she rose and hastened toward him.</p>
@@ -901,7 +901,7 @@
         <p>“Give us back our eye!” they said. “Give us back our eye, man!”</p>
         <p>“Listen,” said Perseus. “I will give you the eye, but tell me first where I shall find the Gorgon Medusa.”</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img133.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img133.png"/>
         </figure>
         <p>“No, no,” they cried; “she is our sister. Give us our eye and go your own way, lest we curse you.”</p>
         <p>But Perseus thought of Minerva and was not afraid, and when the crones found that he was not to be moved, they told him.</p>
@@ -974,7 +974,7 @@
       <div>
         <head>Theseus.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img146.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img146.png"/>
         </figure>
         <p>Theseus was the son of Ægeus, the king of Athens. His mother, Æthra, lived in Trœzen, at her father’s palace. Now when Ægeus at length had to return to Athens, he led Æthra out into the forest to a great stone which lay there.</p>
         <p>“Under this stone,” said he, “I have put a sword and a pair of sandals. I must leave you to-day, and you must care for our child alone. Keep him with you until he is able to lift the stone and get the sword and sandals, then send him to Athens to me.”</p>
@@ -1011,11 +1011,11 @@
         <p>Thus the first day passed.</p>
         <p>The following days were much like it, but at last Theseus reached Athens. His fame had gone before him. The people of the city welcomed him with great rejoicing, and he was taken at once to the court of King Ægeus. There the king received him, and honored him much, but never thought that this strong, fair young man, who had slain so many robbers and giants, was his own son.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/"/>
+          <graphic url="http://obvil.github.io/mythographie/images/"/>
         </figure>
         <p>There was one person, however, who knew who he was — that was the enchantress Medea. This beautiful and terrible woman was living at the royal palace and had great power over King Ægeus, and when by her magic arts she recognized Theseus, she resolved to destroy him, lest he should make her power less. One day she said to the king: —</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img152.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img152.png"/>
         </figure>
         <p>“Is it well, O Ægeus, that your people should thus love this wise and beautiful stranger? Truly, I think he is already almost king in Athens.”</p>
         <p>Then Ægeus, who was old, trembled with fear.</p>
@@ -1078,7 +1078,7 @@
         <p>Its huge body was like that of a man, but its skin looked thick and hard like leather. Upon its great neck it had the head of a bull, but with teeth long and sharp, like the teeth of some enormous wolf. After a moment it saw Theseus, and as it looked at him with its fierce, cunning, hungry eyes, he hated it, for it was like a beast, and was yet more like a cruel and evil man.</p>
         <p>With a terrible bellow it rushed upon him, putting down its head to gore him with its horns. Theseus struck it with his sword, but the sword glanced off harmless from the monster’s thick skull. Then began a hand-to-hand fight. The Minotaur was as powerful as a bull and as clever as a man. Often did it clutch Theseus with its hands, but he was stronger, and each time tore himself loose in a flash. It tried to bite him with its great teeth and to gore him with its horns, and Theseus with all his quickness and strength could hardly avoid it, and when, in return, he struck with his sword, the monster caught the blows upon its horns or else dodged them altogether.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img164.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img164.png"/>
         </figure>
         <p>At last Theseus pretended to give way. He sprang back several steps, as though he were about to flee. The Minotaur gave a roar of triumph, and for a moment was off its guard. But in that moment Theseus sprang at it and plunged the good sword into it, dealing a fatal blow. With a great cry of pain, the monster fell to the earth and died. Ariadne, trembling outside the door, heard the cry and knew that her hero had won. She was timid now, and wished to flee and escape him, but her strength failed her and she sank fainting to the ground.</p>
         <p>When she looked up again, Theseus was at her side. He had come out quickly, following the clew of the thread, and he was glowing with the joy of victory. In a moment Ariadne arose, and the fair young couple went back together to the palace of King Minos.</p>
@@ -1115,7 +1115,7 @@
       <div>
         <head>Ariadne at Naxos.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img168.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img168.png"/>
         </figure>
         <quote>
           <l>High upon the Hill of Drios,</l>
@@ -1162,7 +1162,7 @@
       <div>
         <head>The Golden Apple.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img170.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img170.png"/>
         </figure>
         <p>When Peleus, King of Thessaly, was wed to the sea-nymph Thetis, all the gods and goddesses were bidden to the marriage feast — all but the goddess Discord. On the appointed day the palace was thronged, but as the guests were feasting and making merry, Discord, though uninvited, came into the hall and flung a golden apple in their midst upon the table. On the apple were these words: “For the fairest.”</p>
         <p>Immediately a dispute arose, for queenly Juno, and wise Minerva, and Venus, the goddess of love, all claimed the prize, and no one could or would decide to whom it rightly belonged. Thus the joy of the marriage feast was changed to jealous strife.</p>
@@ -1180,7 +1180,7 @@
         <p>Her hair was as golden as the sunlight, and her eyes a rich blue, like the sky. Where she walked, the roses and violets sprang up about her feet and all the birds sang with joy. As Paris gazed, she smiled and his heart beat faster with pleasure.</p>
         <p>“Give the apple to me, Paris,” she said. “Give it to me, and you shall have the most beautiful woman in the world. She lives now far across the waters, but she shall be yours.”</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img175.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img175.png"/>
         </figure>
         <p>Then Paris, hearing her voice and her promise, forgot power, forgot wisdom, forgot all but lovely golden Venus, and gave her the apple, not even seeing the dark frowns of Juno and Minerva.</p>
         <p>Then sleep came over him like a cloud, and the goddesses disappeared. When he woke at early dawn, the voice of Venus was still ringing in his ears. Down the mountain-side he hastened, nor did he pause until he came to the seashore. There he gathered sailors, and, getting aboard ship, put out to sea. Three days they sped over the waves, but on the third day they came to Pylos, where Nestor, the wisest of mortal men, dwelt. From there they went to Sparta, hidden among its pleasant hills. Menelaus, king of Sparta, wondered at the grace and charm of Paris, and set good cheer before him.</p>
@@ -1199,13 +1199,13 @@
         <p>But next day a truce was made. Ulysses, the wise warrior, and King Menelaus came from the Greeks and in due form asked for Helen. They promised to depart in peace, even then, if she were given up.</p>
         <p>Helen longed to return to her home, and Priam and his people would gladly have let her go, but Paris would not agree to it, and his will prevailed. The chieftains returned disappointed to their ships. Bloodshed and death and the destruction of towns began. The peaceful land of Troy had become a land of war.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img180.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img180.png"/>
         </figure>
       </div>
       <div>
         <head>Castor and Pollux.<note place="bottom">Castor and Pollux were brothers of Helen. They were famous heroes, and, at their death, became gods.</note></head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img181.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img181.png"/>
         </figure>
         <quote>
           <l>So like they were, no mortal</l>
@@ -1232,7 +1232,7 @@
       <div>
         <head>The Wrath of Achilles.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img182.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img182.png"/>
         </figure>
         <p>The war in the land of Troy continued year after year. The Greeks drew up their ships upon the beach and lived in them there by the sea. Many a battle was fought and many a town was taken and burned, but the Trojans would not give up Helen, and the war still went on.</p>
         <p>Now, Agamemnon was the leader of the Grecian army, but the bravest of its warriors was Achilles, son of the beautiful sea-goddess Thetis. Achilles was young, but very swift and strong and bold. He had come with fifty ships full of warriors to help the Greeks, and he led in so many fierce attacks that his name became a terror to the Trojan hosts.</p>
@@ -1262,7 +1262,7 @@
         <p>“Indeed, I have had my revenge, mother, and the Greeks have paid dearly for the wrong Agamemnon did me; but what is it all worth to me? Patroclus, whom I loved more than my own life, is dead, and I sit here useless to my friends and harmless to my enemies. Would that there were no such thing in the world as wrath, for at first it is sweeter than honey, but in the end it is a burning and torturing fire. I will forget it, mother, and from now on I shall fight again in the front of the battle against the Trojans; nor shall I rest until I have slain the mighty Hector and avenged the death of Patroclus.”</p>
         <p>Then Achilles arose and went forth upon the field of battle. He had no armor, but the goddess Minerva threw a golden light about his head, so that he shone like one of the gods. And Achilles stood upon the edge of the trench and shouted his terrible battle cry. When the Trojans heard it, they paused and turned and looked, and there was fear in their hearts as they saw the great form and the shining head of Achilles. And the hero shouted again, and a third time, his terrible battle cry, and the Trojan host left off their pursuit of the Greeks and returned within their own walls, and, for that day, again the camp was saved.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img192.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img192.png"/>
         </figure>
         <p>Meanwhile Thetis went up the steep way to Olympus, the home of the gods, and entered the dwelling of Vulcan, the lame workman of heaven. Thetis had once done him a great kindness, and now he received her gladly and asked her what she wished.,</p>
         <p>“Make me a suit of armor for my son, O Vulcan,” said Thetis, “for he is sorely in need of it to fight against the Trojans and against mighty Hector.”</p>
@@ -1287,7 +1287,7 @@
         <p>However, King Priam came to Achilles by night with precious gifts and begged the body of his son, and the grief of the old man touched Achilles so that at last he burst into tears and granted the request.</p>
         <p>Then, in the same night, the servants of King Priam bore back the body to Troy, and all the city mourned the loss of its beloved hero.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img199.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img199.png"/>
         </figure>
         <div>
           <head>Verses from “<title>A Dream of Fair Women</title>.”</head>
@@ -1320,7 +1320,7 @@
       <div>
         <head>The Fall of Troy.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img201.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img201.png"/>
         </figure>
         <p>After Hector died, the fighting about Troy was renewed, and it seemed that the city must yield, for the Trojans had lost courage; but upon a certain day, as Achilles was fighting before the walls, a chance arrow struck him and caused his death. After that, the war dragged. The Greeks were unable to capture the city by storming the walls, and the Trojans could not drive the Greeks away. The siege lasted ten years. Finally the beautiful Paris was slain, and that might have been an occasion to end the struggle, but even then the Trojans would not give up Helen. They had no mind to let her go after all they had endured on her account.</p>
         <p>In the city of Troy, there was a statue of Minerva which was said to have fallen from heaven. It was called the Palladium, and the goddess had promised that as long as it remained within the walls, the city should not be taken. But one dark night in the tenth year of the siege, wise Ulysses and mighty Diomed entered the city in disguise, and stealing quietly into the temple where the Palladium stood; they seized the sacred statue and bore it away, through the sleeping guards, out into the Grecian camp. In the .morning the loss was known and fear came upon the whole city.</p>
@@ -1340,7 +1340,7 @@
         <p>Just then a wondrous thing happened. Across the ocean came swimming two enormous serpents. When they reached the shore, they went straight to the place where Laocoön stood with his two sons. In a moment they coiled about the sons, and when Laocoön came to the aid of his children, they caught him also in their folds. After they had slain all three, the serpents glided away and disappeared in the temple of Minerva.</p>
         <p>At that, the Trojans were struck with awe, and said, “It is because Laocoön threw his spear at the wooden horse, impious man that he was!”</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img207.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img207.png"/>
         </figure>
         <p>After that, there was no more talk of burning the horse, or of casting it into the sea. All agreed that it must be taken into the city and treated with high reverence. Ropes were brought and tied to the wooden monster. Wheels were then fastened to its feet, and it was soon rolling and rumbling toward the walls. Youths and maidens danced and sang before it as it moved, and children scattered flowers in the way. It was thought an honor to touch the long ropes by which the horse was being drawn. The city gate was too narrow to let in the monster, so the wall was torn down and a great breach made to admit it. Three times the shaking horse stuck as it entered; three times the clash of arms sounded from within it; but the people’s ears were deaf, and they would not hear. Only Cassandra, the prophetess, daughter of King Priam, knew the danger. She stood upon the wall weeping and lamenting, but no one paid any attention to her.</p>
         <p>When the horse had been dragged to its place in the citadel and sacrifices had been offered to Minerva, a feast was held throughout the whole city. There was music and dancing, and much eating and drinking. The soldiers took off their armor and rejoiced with the rest, for the war seemed at an end.</p>
@@ -1463,7 +1463,7 @@
       <div>
         <head>The Wanderings of Ulysses.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img216.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img216.png"/>
         </figure>
         <p>After Troy had been taken and destroyed, the Grecian chiefs, laden with spoil, turned their faces each toward his own home. Their labors seemed now at an end, and they rejoiced at the thought of seeing their wives and children.</p>
         <p>Ulysses was perhaps happier than any of the others. Ten years before, he had left his young wife, Penelope, and his son, Telemachus, and the great warrior was eager to see them again, and to be at home as a king once more in his rugged island of Ithaca.</p>
@@ -1505,7 +1505,7 @@
         <p>Circe, for that was the name of the goddess, led the men into the great hall, and with a show of gracious hospitality, prepared for them what seemed a refreshing drink. But when they, had all drunk of it, she touched each of them with her wand, and behold, they all groveled on the ground, and were changed to swine. Her servants drove them away, grunting and squealing, and shut them up in sties, where they wallowed in the mire, not contentedly, like real swine, but in misery, for they still had the minds of men.</p>
         <p>Eurylochus waited long for his friends, but at last returned to the ship alone and told Ulysses of their disappearance.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img228.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img228.png"/>
         </figure>
         <p>Ulysses, alarmed, set out at once, resolved to find his companions or share their fate. Then, indeed, it might have gone hard with the hero, but that upon the way the god Mercury met him. He warned Ulysses of the danger before him, and, as a protection, gave him a stalk of the plant the gods call Moly. It has a black root and a white blossom, and is very hard to find, but he who has it can never be bewitched.</p>
         <p>Ulysses soon came to the palace, where he called aloud. The enchantress threw open the shining doors again, and invited him to enter. Again she mixed the magic drink, and Ulysses drank it off. Then she struck him with her wand, and said, “Go to the sty and grovel with your friends.”</p>
@@ -1556,7 +1556,7 @@
       <div>
         <head>The Homecoming of Ulysses.</head>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img235.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img235.png"/>
         </figure>
         <p>While Ulysses was wandering about, over unknown lands and seas, things were not going well at his home in Ithaca. His son, Telemachus, was but a child, and the rule of the island fell upon Queen Penelope. She waited patiently, hoping always to see her husband return and take control, for in those days a strong arm was needed at the head of the state. But year after year went by and Ulysses did not return, nor were there any tidings of him.</p>
         <p>At last it began to be thought that he was dead. Then Penelope had new sorrows. She was very wise and queenly and beautiful, and a crowd of evil men, chiefs of Ithaca and the neighboring islands, thronged to her palace, urging her to marry some one of them. And while they wooed her, they treated her palace as though it were their own. Every day there could be heard from her halls a great tumult of revelry and feasting and drunkenness. Penelope could do nothing against all this, and Telemachus was still too young to enforce the respect due her.</p>
@@ -1585,7 +1585,7 @@
         <p>“Can you not give me tidings of Ulysses?” she asked.</p>
         <p>“Indeed, I can,” said the hero. “He is still alive, and will soon return. Even now, I believe he is not far from here.” He was eager to tell her who he was, but he wished even more to punish the men who had made her miserable; so, because of the talkative maidservants, he told her only invented stories of himself.</p>
         <figure>
-          <graphic url="adams_myths-old-greece_1900_images/adams_myths-old-greece_1900_img242.png"/>
+          <graphic url="http://obvil.github.io/mythographie/images/adams_myths-old-greece_1900_img242.png"/>
         </figure>
         <p>Long did Penelope listen, and when at last she rose to go, she said: —</p>
         <p>“Stranger, your words have touched me deeply. Never has there come to the palace a wanderer who has talked so wisely and well.”</p>
