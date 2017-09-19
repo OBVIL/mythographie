@@ -9,11 +9,11 @@
 ini_set('display_errors', '1');
 error_reporting(-1);
 $conf = include( dirname(__FILE__)."/conf.php" );
-include( dirname(dirname(__FILE__))."/Htocc/Web.php" );
-include( dirname(dirname(__FILE__))."/Htocc/Sqlite.php" );
-$base = new Htocc_Sqlite( $conf['sqlite'] );
-$path = Htocc_Web::pathinfo(); // document demandé
-$basehref = Htocc_Web::basehref(); //
+include( dirname(dirname(__FILE__))."/Teinte/Web.php" );
+include( dirname(dirname(__FILE__))."/Teinte/Base.php" );
+$base = new Teinte_Base( $conf['sqlite'] );
+$path = Teinte_Web::pathinfo(); // document demandé
+$basehref = Teinte_Web::basehref(); //
 $teinte = $basehref."../Teinte/";
 
 // chercher le doc dans la base

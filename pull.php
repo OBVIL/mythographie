@@ -6,12 +6,12 @@ include( dirname(dirname(__FILE__))."/Teinte/Build.php" );
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Mythographies, administration</title>
+    <title>Mythographie, administration</title>
     <link rel="stylesheet" type="text/css" href="../Teinte/tei2html.css" />
   </head>
   <body>
     <div id="center">
-      <h1><a href="." target="_blank">Mythographies</a>, administration</h1>
+      <h1><a href="." target="_blank">Mythographie</a>, administration</h1>
       <form method="POST">
         <label>Mot de passe
           <input name="pass" type="password"/>
@@ -40,7 +40,7 @@ include( dirname(dirname(__FILE__))."/Teinte/Build.php" );
     echo 'Transformations <pre style="white-space: pre-wrap;">'."\n";
     $build = new Teinte_Build( $conf['sqlite'] );
     if ( isset($_POST['force']) ) $build->clean();
-    $build->site( $conf['srclist'], dirname(__FILE__) );
+    $build->glob( );
     echo '</pre>'."\n";
   }
 
