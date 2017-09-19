@@ -5647,7 +5647,7 @@
             <l>Approche, te reçoit, et ce vivant navire</l>
             <l>               Te mène heureusement au port<note place="bottom">[Table des matières]
               <author key="anonyme">D ***</author>.
-              <author key="Roy" resp="editor"/> <title>Cantate</title>.</note>.</l>
+              <author rend="margin" key="Roy" resp="editor"/> <title>Cantate</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -9017,7 +9017,7 @@
             <l>                Quand on perd sa liberté ?</l>
             <bibl>
               <author key="anonyme"> B. </author>
-              <author key="Montéclair" resp="editor"/>
+              <author rend="margin" key="Montéclair" resp="editor"/>
               <note place="bottom">[Table des matières] B ***. <title>Cantate</title>.</note>
             </bibl>
           </quote>

@@ -140,7 +140,7 @@
             <l>Tout en un tas, comme pelottes,</l>
             <bibl>
               <author key="anonyme"/>
-              <author key="Villon" resp="editor"/>
+              <author rend="margin" key="Villon" resp="editor"/>
             </bibl>
           </quote>
           <p rend="noindent">paraissaient occupées à filer. « O bonnes Parques, leur dis-je, filez moi des jours de soie et d’or. — Elles n’auraient garde, dit mon guide. Voyez : Lachésis tourne un fuseau sans lin, et les ciseaux d’Atropos ne taillent plus que dans le vide. » Et cependant les petites vieilles, d’une voix grêle comme celle des cigales, chantaient sans repos leur éternel refrain :</p>
@@ -980,7 +980,7 @@
           <l>           De la rébellion.</l>
           <bibl>
             <author key="anonyme"/>
-            <author key="Malherbe" resp="editor"/>
+            <author rend="margin" key="Malherbe" resp="editor"/>
           </bibl>
         </quote>
         <p>C’est l’hydre de l’hérésie.</p>
@@ -1019,7 +1019,7 @@
         <p>Mais notre alexandrin, qui a le tempérament délicat, digère mal les nombres cardinaux. Il y a peu de chiffres élevés qui n’offensent la mesure et l’harmonie. Quarante et un, soixante-dix-sept, mil sept cent soixante et onze, ou n’entreraient pas dans un vers, ou y apporteraient l’hiatus et la cacophonie.</p>
         <quote>
           <l>Louis Quatorze vécut soixante-dix-sept ans
-            <author resp="anonyme"/></l>
+            <author rend="margin" resp="anonyme"/></l>
         </quote>
         <p rend="noindent">serait un alexandrin digne d’un manuel de mnémotechnie. Voilà une des mille infirmités de cette langue à part que nous appelons poétique, et qui pour le peuple n’est que du grimoire.</p>
         <p>On connaît ce quatrain de Boileau :</p>
@@ -1281,7 +1281,7 @@
         <p>Il semble que les hommes ne se croient pas assez malheureux, puisqu’ils prennent plaisir à surcharger leurs maux présents des inquiétudes de l’avenir. C’est en vain que la bonne et sage nature leur a dérobé la connaissance de l’heure future : il faut qu’ils soulèvent un coin du voile qui sépare demain d’aujourd’hui. Prenez de tous les mortels le plus affligé du sort, le plus
           <quote><hi rend="i">enfumé de misère et de calamité</hi>
           <author key="anonyme"/>
-          <author key="Rabelais" resp="editor"/></quote>, le paysan de la Fable, par exemple :</p>
+          <author rend="margin" key="Rabelais" resp="editor"/></quote>, le paysan de la Fable, par exemple :</p>
         <quote>
           <l>En est-il un plus pauvre en la machine ronde ?</l>
           <l>Point de pain quelquefois, et jamais de repos.</l>
@@ -1289,7 +1289,7 @@
           <l>        Les créanciers et la corvée,</l>
           <l>Lui font d’un malheureux la peinture achevée.
             <author key="anonyme"/>
-            <author key="La Fontaine" resp="editor"/></l>
+            <author rend="margin" key="La Fontaine" resp="editor"/></l>
         </quote>
         <p>A peine arrivé au gîte et débarrassé de son fardeau, le bonhomme ira consulter la diseuse de bonne aventure. — Eh ! mon ami, que t’apprendra-t-elle ? Que tu es né pour souffrir et pour mourir. Regarde les animaux : quand leur tâche est finie, ils se couchent oublieux de la veille, insoucieux du lendemain. Ils se disent que chaque jour amène sa peine, et s’endorment sur cette pensée philosophique. Les animaux sont plus sages que toi. J’ajoute qu’ils sont moins orgueilleux, attendu qu’ils n’ont pas comme toi l’insolence de rapporter tout à eux et de se faire le centre de l’univers. Ainsi ton âne ne croit pas son existence d’âne menacée par une éclipse, par une comète, par une aurore boréale ; et s’il a par aventure rêvé double charge ou coups de bâton, il ne court pas tout éploré demander à l’oracle si l’année sera mauvaise pour les chardons, et si la paille manquera à sa litière ou le foin à son râtelier.</p>
         <p>Je suis vraiment fâché de passer sans transition d’un âne au peuple grec ; mais l’âne ne sera pas plus fier du rapprochement, et si les Grecs en sont humiliés, tant pis pour les Grecs ! Pourquoi étaient-ils assez simples pour croire aux oracles ? Pourquoi élevaient-ils partout des temples à la divination, à Delphes, à Mycènes, à Claros, à Hiéropolis, à Pataras, à Olympie, à Epidaure, à Athènes ? Pourquoi consultaient-ils les chênes de la forêt de Dodone et l’antre de Trophonius ? Pourquoi attribuaient-ils une vertu prophétique à la peau du serpent Python et au trépied de la Pythie ? Pourquoi les Romains n’étaient-ils pas plus sensés et n’osaient-ils faire un pas sans consulter le vol des oiseaux, les entrailles des victimes, l’appétit des poulets sacrés et les livres sybillins ? Pourquoi les Égyptiens….</p>
@@ -1312,7 +1312,7 @@
           <l>C’est une nymphe en pleurs qui se plaint de Narcisse.</l>
           <bibl>
             <author key="anonyme"/>
-            <author key="Boileau" resp="editor"/>
+            <author rend="margin" key="Boileau" resp="editor"/>
           </bibl>
         </quote>
         <p>D’où viennent les éruptions de l’Etna ? Des forges des Cyclopes que le volcan recèle dans ses entrailles.</p>
@@ -1328,7 +1328,7 @@
         <p>Un glorieux type de Midas, c’est ce bon M. Jourdain, dont les réjouissantes naïvetés nous amusent encore. Lui aussi encourage les arts à sa manière. Il prend un maître de philosophie pour apprendre l’orthographe ; il demande à un musicien de jouer
           <quote><hi rend="i">sa petite drôlerie</hi>
           <author key="anonyme"/>
-          <author key="Voltaire" resp="editor"/></quote> ; il veut qu’on introduise la trompette marine dans les concerts.</p>
+          <author rend="margin" key="Voltaire" resp="editor"/></quote> ; il veut qu’on introduise la trompette marine dans les concerts.</p>
         <p>Au siècle suivant, M. Jourdain, devenu Turcaret, continue à encourager les arts. Il a conservé son goût pour la trompette marine, mais il a perdu sa bonhomie et son innocence antique. Il ne gémit plus de son ignorance, il en triomphe ; il s’épanouit dans sa sottise prétentieuse ; il étale insolemment son oreille velue. Il n’a pas encore appris l’orthographe, mais il sait distinguer les vers de la prose, et <hi rend="i">trousse</hi> des madrigaux à sa façon. Midas s’est fait bel esprit et essaye des airs de pont-neuf sur la lyre d’Apollon.</p>
       </div>
       <div>

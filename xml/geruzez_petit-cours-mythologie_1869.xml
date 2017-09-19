@@ -136,7 +136,7 @@
             <quote>
               <p>« Telle fut, dit
                 <author key="Hésiode">Hésiode</author>, l’origine des femmes, sexe timide et funeste, fléau des mortels, compagnes fidèles dans l’opulence, inconstantes dans l’infortune. Elles ressemblent aux avides frelons, qui dévorent le miel des abeilles. Jupiter les a données à l’homme pour doubler le poids de ses fatigues. »
-                <author key="Mondot" role="translator" resp="editor"/></p>
+                <author rend="margin" key="Mondot" role="translator" resp="editor"/></p>
             </quote>
             <p>Malgré cet arrêt sévère, le poëte ajoute que la crainte de ce mal fait tomber dans un pire, et que les hommes qui évitent de se marier parcourent l’âpre sentier de la vieillesse sans l’appui d’une main tendre et amie. Il avoue, d’ailleurs, qu’on trouve des femmes d’un esprit sage et d’un cœur aimant.</p>
             <p>Nous retrouvons encore dans cette fable le souvenir altéré de la formation et de la chute d’Ève, la mère du genre humain.</p>
@@ -329,7 +329,7 @@
                 <p>Les peintres, les poëtes et les sculpteurs ont souvent représenté Apollon. Homère le décrit ainsi dans le premier chant de l’<title>Iliade</title> :
                   <quote>« Soudain, le cœur enflammé de colère, cette divinité s’élance des sommets de l’Olympe, portant sur son dos l’arc et le riche carquois. Dans sa course impétueuse, les dards ont retenti sur les épaules du dieu courroucé. Il s’avance semblable à la nuit ; l’arc d’argent frémit avec un bruit terrible. »
                   <author key="Homère"/>
-                  <author key="J.B. Dugas-Montbel" role="translator" resp="editor"/></quote> Le souvenir de sa victoire sur le serpent Python a inspiré un des chefs-d’œuvre de la sculpture antique connu sous le nom de l’<title>Apollon du Belvéder</title>.</p>
+                  <author rend="margin" key="J.B. Dugas-Montbel" role="translator" resp="editor"/></quote> Le souvenir de sa victoire sur le serpent Python a inspiré un des chefs-d’œuvre de la sculpture antique connu sous le nom de l’<title>Apollon du Belvéder</title>.</p>
                 <p>Il ne faut pas confondre Apollon avec le Soleil lui-même, il n’en est que le dieu : le Soleil était l’un des Titans, et les anciens lui donnent le nom d’Hypérion. Comme dieu du Soleil, Apollon prenait le nom de Phébus, et on le représente sur un char brillant attelé de quatre chevaux ; comme dieu des beaux-arts, on le peint sous la forme d’un jeune homme d’une éclatante beauté, la tête ceinte d’une couronne de laurier et la lyre à la main.</p>
               </div>
             </div>
@@ -466,7 +466,7 @@
                 <l>sont de ta cruauté les plus doux monuments.</l>
                 <l>
                   <author key="Rousseau J.-B." role="translator"><hi rend="sc">J. B. Rousseau</hi></author>
-                  <author key="Homère" resp="editor"/>.</l>
+                  <author rend="margin" key="Homère" resp="editor"/>.</l>
               </quote>
               <p>Les Grecs racontent aussi qu’ayant tué Halirrhotus, fils de Neptune, Mars fut cité par le dieu de la mer au conseil des dieux, et que l’assemblée, tenue dans Athènes, l’acquitta.</p>
             </div>
@@ -700,7 +700,7 @@
               <p>Le culte de Neptune prit naissance en Libye et se répandit de là en Grèce et en Italie. Les Grecs célébraient en son honneur les jeux Isthmiques, qui attiraient la Grèce entière à l’isthme de Corinthe. Chez les Romains ces fêtes s’appelaient Consuales<note place="bottom">Le nom de <hi rend="i">Consuales</hi> est tiré de <hi rend="i">Consus</hi>, divinité que l’on confond avec Neptune.</note>. On immolait à ce dieu le cheval et le bœuf, et les devins lui offraient le fiel des victimes. Dans les Consuales, on promenait à travers la ville des chevaux magnifiquement enharnachés, pour remercier Neptune d’avoir fait don aux hommes de
                 <quote>« ce fier et fougueux animal »<bibl>
                 <author key="anonyme"/>
-                <author key="Buffon" resp="editor"/></bibl></quote>.</p>
+                <author rend="margin" key="Buffon" resp="editor"/></bibl></quote>.</p>
             </div>
             <div>
               <head>Questionnaire.</head>
@@ -768,7 +768,7 @@
                 <l>Triste fin d’un hymen bien divers en son cours !</l>
                 <bibl>
                   <author key="anonyme"/>
-                  <author key="La Fontaine" resp="editor"/>
+                  <author rend="margin" key="La Fontaine" resp="editor"/>
                 </bibl>
               </quote>
               <p>Céphale et Procris, tous deux changés en étoiles, prirent place à la voûte des cieux. Il est facile de voir que cette histoire de Céphale représente les habitudes et les dangers de la chasse. La passion d’un chasseur pour l’Aurore n’est que l’habitude de se lever matin, et le trait qui frappa Procris est une image des méprises si communes dans ce périlleux divertissement.</p>
@@ -868,8 +868,8 @@
                 <l> Tu ris, change le nom, la fable est ton histoire. </l>
                 <bibl>
                   <author key="anonyme"/>
-                  <author key="Horace" resp="editor"/>
-                  <author key="Desmarets" role="translator" resp="editor"/>
+                  <author rend="margin" key="Horace" resp="editor"/>
+                  <author rend="margin" key="Desmarets" role="translator" resp="editor"/>
                 </bibl>
               </quote>
             </div>
@@ -903,7 +903,7 @@
             <p>Le Sommeil, fils de la Nuit et frère de la Mort, est le père des Songes. Son palais était un antre profond, inaccessible au soleil, et dont l’avenue était semée de pavots. On le peignait étendu sur un lit de feuillage ; les Songes voltigent autour de lui, et Morphée, son ministre, entretient un silence profond dans cette sombre demeure. Un de nos poëtes cher à l’enfance, celui-là même qui fit, dit-il, deux parts de sa vie, dont il passa</p>
             <quote>
               <l>L’une à dormir et l’autre à ne rien faire,
-                <author key="La Fontaine" resp="editor"/></l>
+                <author rend="margin" key="La Fontaine" resp="editor"/></l>
             </quote>
             <p>raconte ainsi une visite à la demeure de ce dieu, dont il encensait volontiers les autels :</p>
             <quote>
@@ -934,7 +934,7 @@
               <l>Le peuple rentre et sort, en cent parts divisé.</l>
               <bibl>
                 <author key="anonyme"/>
-                <author key="La Fontaine" resp="editor"/>
+                <author rend="margin" key="La Fontaine" resp="editor"/>
               </bibl>
             </quote>
             <p>La Vérité est fille du Temps et mère de la Vertu. On la représente sous les traits d’une vierge, sans vêtements et retirée au fond d’un puits : elle tient un miroir à la main.</p>

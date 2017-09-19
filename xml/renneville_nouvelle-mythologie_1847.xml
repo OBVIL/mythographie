@@ -360,7 +360,7 @@
           <l>Il n’a plus que le souvenir.</l>
           <bibl>
             <author key="anonyme"/>
-            <author key="Demoustier" resp="editor"/>
+            <author rend="margin" key="Demoustier" resp="editor"/>
           </bibl>
         </quote>
         <p>Milon, dans un âge avancé, se promenant dans une forêt, aperçut un arbre qui avait commencé à s’éclater. L’athlète se rappelle son ancienne vigueur ; il veut fendre l’arbre qui s’entrouvre à la première secousse, puis se referme ; le bras de Milon s’y trouva pris, et tons les efforts de cet homme autrefois si fameux ne purent le dégager, dans cet état, il devint la proie des loups. On admire dans les jardins de Versailles une statue de cet athlète par le célèbre
@@ -557,7 +557,7 @@
             <l>Apollon ne promet qu’un nom et des lauriers.</l>
             <bibl>
               <author key="anonyme"/>
-              <author key="Boileau" resp="editor"/>
+              <author rend="margin" key="Boileau" resp="editor"/>
             </bibl>
           </quote>
           <p>Cet arbre, qui ne perd jamais sa verdure, est le symbole de l’immortalité.
@@ -850,7 +850,7 @@
             <l>D’un air tranquille et fier va se réfugier.</l>
             <bibl>
               <author key="Virgile"/>
-              <author key="Delille" role="translator" resp="editor"/>
+              <author rend="margin" key="Delille" role="translator" resp="editor"/>
             </bibl>
           </quote>
         </div>
@@ -1121,7 +1121,7 @@
             <l>    « D’aller divulguer, sans commettre</l>
             <l>    « Un sacrilége en amitié. »</l>
             <bibl>
-              <author key="Demoustier" resp="editor"/>
+              <author rend="margin" key="Demoustier" resp="editor"/>
             </bibl>
           </quote>
           <p>Les Heures enseignaient aussi à leur élève les devoirs de l’humanité ; elles lui disaient tour à tour :</p>
@@ -1634,8 +1634,8 @@
               <l>Avec son char brûlant tomba dans les enfers.</l>
               <bibl>
                 <author key="anonyme"/>
-                <author key="Vergile" resp="editor"/>
-                <author key="Lefranc" role="translator" resp="editor"/>
+                <author rend="margin" key="Vergile" resp="editor"/>
+                <author rend="margin" key="Lefranc" role="translator" resp="editor"/>
               </bibl>
             </quote>
           </div>
@@ -1663,8 +1663,8 @@
               <l>Tu ris ? change de nom, sa fable est ton histoire.</l>
               <bibl>
                 <author key="anonyme"/>
-                <author key="Horace" resp="editor"/>
-                <author key="Desmarets" role="translator" resp="editor"/>
+                <author rend="margin" key="Horace" resp="editor"/>
+                <author rend="margin" key="Desmarets" role="translator" resp="editor"/>
               </bibl>
             </quote>
           </div>
@@ -2471,7 +2471,7 @@
             <l>Son courage en ces lieux s’est fait une patrie.</l>
             <bibl>
               <author key="Virgile"/>
-              <author key="Delille" role="translator" resp="editor"/>
+              <author rend="margin" key="Delille" role="translator" resp="editor"/>
             </bibl>
           </quote>
           <p>La reine de Carthage, dit encore la fable, touchée des malheurs d’Enée, chercha à le retenir auprès d’elle ; mais ce fut en vain : les dieux avaient parlé, ils appelaient le héros troyen en Italie. Ni les avantages d’un royaume, ni sa reconnaissance, ni les larmes de Didon, rien ne put le retenir. Virgile met dans la bouche ce cette reine infortunée ces reproches sanglans :</p>
@@ -2482,7 +2482,7 @@
             <l>Non, du sang des héros un monstre n’a pu naître.</l>
             <bibl>
               <author key="Virgile"/>
-              <author key="Delille" role="translator" resp="editor"/>
+              <author rend="margin" key="Delille" role="translator" resp="editor"/>
             </bibl>
           </quote>
           <p>Enée aborda en Italie, Latinus, qui y régnait, le reçut avec distinction, et lui promit en mariage sa fille Lavinie. Turnus, roi des Rutules, se déclara son concurrent. Junon et Vénus prirent part à cette guerre, dans laquelle Enée perdit ses plus fidèles compagnons. Il vengea bientôt leur mort par des faits d’armes extraordinaires. Enfin les deux rivaux terminèrent la querelle par un combat singulier, dans lequel Turnus succomba. Enée épousa Lavinie et succéda à Latinus ; et, par le droit de sa femme, il jeta alors les fondemens de l’empire romain.</p>
@@ -2692,7 +2692,7 @@
             <l>Comme on vit autrefois Philémon et Baucis !</l>
             <bibl>
               <author key="anonyme"/>
-              <author key="La Fontaine" resp="editor"/>
+              <author rend="margin" key="La Fontaine" resp="editor"/>
             </bibl>
           </quote>
         </div>

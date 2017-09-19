@@ -2012,7 +2012,7 @@
           <l>Ton buste va sourire à l’aspect des offrandes.</l>
           <bibl>
             <author key="anonyme"/>
-            <author key="Brès" resp="editor"/>
+            <author rend="margin" key="Brès" resp="editor"/>
           </bibl>
         </quote>
         <p>Sous les plus riants asiles des vergers, résidait une jeune divinité, dont la présence semblait répandre la fécondité sur les arbres chargés de fruits délicieux : elle se nommait Pomone.</p>

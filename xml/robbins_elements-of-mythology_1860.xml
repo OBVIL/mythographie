@@ -56,7 +56,7 @@
           <p>”Thou shall have no other gods before me.”</p>
           <bibl>
             <author key="anonyme"/>
-            <author key="Bible" resp="editor"/>
+            <author rend="margin" key="Bible" resp="editor"/>
           </bibl>
         </quote>
       </div>
@@ -256,7 +256,7 @@
           <l>And all Olympus to the centre shook.</l>
           <bibl><title>Iliad</title>, Book 1.
             <author key="Homère"/>
-            <author key="Pope" role="translator" resp="editor"/></bibl>
+            <author rend="margin" key="Pope" role="translator" resp="editor"/></bibl>
         </quote>
         <p> Virgil, the Roman poet, represents Jove’s power over nature, with great efiect, thus;</p>
         <quote>
@@ -411,7 +411,7 @@
           <l>Thou most unjust, most hateful in our eyes!</l>
           <bibl>
             <author key="anonyme"/>
-            <author key="Pope" role="translator" resp="editor"/>
+            <author rend="margin" key="Pope" role="translator" resp="editor"/>
           </bibl>
         </quote>
         <p>The Romans were a more warlike people than the Greeks; they held Mars in higher reverence than the former people. The priests of Mars at Rome were called Salii, — hey had the care of Ancilia, or sacred shields. These shields were sacred to Mars, and were held in superstitious reverence by the Romans.</p>
@@ -441,7 +441,7 @@
           <l>And puffing loud the roaring bellows blew.”</l>
           <bibl>
             <author key="anonyme"/>
-            <author key="Pope" role="translator" resp="editor"/>
+            <author rend="margin" key="Pope" role="translator" resp="editor"/>
           </bibl>
         </quote>
         <p>In the book of <title>Genesis</title> it is said that Tubalcain, one of the first men, was
