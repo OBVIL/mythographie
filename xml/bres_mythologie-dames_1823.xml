@@ -78,9 +78,11 @@
           <l>C’est Neptune en courroux qui gourmande les flots ;</l>
           <l>Écho n’est plus un son qui dans l’air retentisse,</l>
           <l>C’est une nymphe en pleurs qui se plaint de Narcisse.</l>
+          <bibl>
+            <author key="Boileau"/>
+          </bibl>
         </quote>
-        <p>C’est ainsi que s’exprime
-          <author key="Boileau">Boileau</author> en parlant de la haute poésie, qui, selon lui, ne peut se passer des fictions de la mythologie antique.</p>
+        <p>C’est ainsi que s’exprime Boileau en parlant de la haute poésie, qui, selon lui, ne peut se passer des fictions de la mythologie antique.</p>
         <p>Dans le temps où nous sommes, peut-être, à propos des effets de la foudre, nos savants diraient :</p>
         <quote>
           <l>Ce n’est point la vapeur qui produit le tonnerre ;</l>
