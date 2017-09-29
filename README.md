@@ -1,9 +1,6 @@
 # mythographie
 OBVIL, autorités en partage, mythographie.
-
-Mise à jour du site en ligne
-http://obvil.paris-sorbonne.fr/corpus/mythographie/pull.php
-
+Mise à jour du site en lignevoir la pull.php.
 Le programme délivrera deux séquences de messages.
 
 * les messages de la mise à jour distante : un git pull.
