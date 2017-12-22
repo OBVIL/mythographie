@@ -77,7 +77,7 @@ if ( $doc ) {
 else {
 
   echo '
-  <nav id="download><small>Télécharger :</small>
+  <nav id="download"><small>Télécharger :</small>
     <a target="_blank" href="https://github.com/OBVIL/mythographie" title="Source XML/TEI">tei</a>,
     <a target="_blank" href="epub/" title="Livre électronique">epub</a>,
     <a target="_blank" href="kindle/" title="Mobi, format propriétaire Amazon">kindle</a>,
