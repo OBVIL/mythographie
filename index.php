@@ -47,29 +47,46 @@ else echo '<a href="'.$basehref.'">Corpus : Mythographie</a>';
 // document
 if ( $doc ) {
   // formats alternatifs à télécharger
+  echo '
+<nav id="download"><small>Télécharger :</small>
+  <a type="application/epub+zip" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>,
+  <a type="application/x-mobipocket-ebook" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>,
+  <a target="_blank" href="markdown/'.$doc['code'].'.md" title="Markdown">texte brut</a>,
+  <a target="_blank" href="iramuteq/'.$doc['code'].'.txt">iramuteq</a>,
+  <a target="_blank" href="html/'.$doc['code'].'.html" title="Page complète sans interface">html</a>.
+</nav>';
+
+
   echo "\n".'<header>';
-  echo '<nav id="download"><small>Télécharger :</small>'."\n";
-  echo "\n".'<a type="application/epub+zip" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>';
-  echo ",\n".'<a type="application/x-mobipocket-ebook" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>';
-  echo ".\n</nav>";
-
-
   if ($doc['byline']) echo "\n".'<div class="byline">'.$doc['byline'] .'</div>';
   echo "\n".'<a class="title" href="' . $basehref . $doc['code'] . '/">';
   if ($doc['date']) echo $doc['date'].', ';
   echo $doc['title'].'</a>';
+  echo "\n".'</header>';
+
   echo '
 <form action="#mark1">
   <a title="Retour aux résultats" href="'.$basehref.'?'.$_COOKIE['lastsearch'].'"><img src="'.$basehref.'../theme/img/fleche-retour-corpus.png" alt="←"/></a>
   <input name="q" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/><button type="submit">🔎</button>
 </form>
 ';
-  echo "\n".'</header>';
   // table des matières
   if ( file_exists( $f="toc/".$doc['code']."_toc.html" ) ) readfile( $f );
 }
 // accueil, formulaire de recherche général
 else {
+
+  echo '
+  <nav id="download><small>Télécharger :</small>
+    <a target="_blank" href="https://github.com/OBVIL/mythographie" title="Source XML/TEI">tei</a>,
+    <a target="_blank" href="epub/" title="Livre électronique">epub</a>,
+    <a target="_blank" href="kindle/" title="Mobi, format propriétaire Amazon">kindle</a>,
+    <a target="_blank" href="markdown/" title="Markdown">texte brut</a>,
+    <a target="_blank" href="iramuteq/">iramuteq</a>,
+    <a target="_blank" href="html/">html</a>.
+  </nav>';
+  echo '<p> </p>';
+
   echo'
 <form action="">
   <input style="width: 100%;" name="q" class="text" placeholder="Rechercher de mots" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/>
