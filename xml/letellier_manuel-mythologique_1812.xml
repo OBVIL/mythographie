@@ -6,6 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Le Tellier (1812)">
   <teiHeader>
     <fileDesc>
+      <!-- problème <author> et <title> non autorisés dans <label> ; modifié provisoirement les occurrences en term type="author" et term type="title" -->
       <titleStmt>
         <title>Manuel mythologique de la jeunesse</title>
         <author key="Le Tellier, Constant (1768-1846)">Charles-Constant Letellier</author>
@@ -1398,9 +1399,7 @@
           <div>
             <head>Divinités champêtres.</head>
             <div>
-              <head>
-                <seg>Pan</seg>
-                <num>.</num>
+              <head>Pan.
               </head>
               <figure>
                 <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img115.png"/>
@@ -1652,6 +1651,8 @@
               <head>Harpocrate.</head>
               <p>D. Qu’étoit Harpocrate ?</p>
               <p><hi rend="i">R. Harpocrate</hi>, dieu Égyptien, fils d’Osiris et d’Isis, présidoit au silence. Cette divinité allégorique est représentée sous la figure d’un homme ou d’une femme qui tient un doigt sur la bouche.</p>
+            </div>
+            <div>
               <head>Thémis, Astrée</head>
               <figure>
                 <graphic url="http://obvil.github.io/mythographie/images/letellier_manuel-mythologique_1812_img129.png"/>
@@ -3078,7 +3079,7 @@
                 <author key="Racine">Racine</author>, Agamemnon attend sa fille à l’autel pour l’immoler aux dieux. Mais, comme elle tarde trop long-temps à paroître, il vient lui-même la demander. Il la trouve avec sa mère, qui l’avoit retenue auprès d’elle. Ne croyant point que Clytemnestre et sa fille soient instruites du sacrifice qui se prépare, il presse Iphigénie de se rendre à l’autel, sous prétexte de l’unir à Achille. Mais il ne peut se méprendre aux larmes que laissent échapper les princesses.
                 <quote>« Arcas, s’écrie-t-il, Arcas, tu m’as trahi. »</quote></p>
               <quote>
-                <label>Iphigénie, <hi rend="i">à Agamemnon.</hi></label>
+                <label type="head">Iphigénie, <hi rend="i">à Agamemnon.</hi></label>
                 <l>…………………………………… Mon père,</l>
                 <l>Cessez de vous troubler, vous n’êtes point trahi :</l>
                 <l>Quand vous commanderez, vous serez obéi.</l>
@@ -3126,7 +3127,7 @@
                 <l>Ma mère est devant vous, et vous voyez ses larmes.</l>
                 <l>Pardonnez aux efforts que je viens de tenter,</l>
                 <l>Pour prévenir les pleurs que je leur vais coûter.</l>
-                <label>Agamemnon.</label>
+                <label type="head">Agamemnon.</label>
                 <l>Ma fille, il est trop vrai ; j’ignore pour quel crime</l>
                 <l>La colère des dieux demande une victime.</l>
                 <l>Mais ils vous ont nommée. Un oracle cruel</l>
@@ -3155,7 +3156,7 @@
                 <l>Faites rougir ces dieux qui vous ont condamnée.</l>
                 <l>Allez, et que les Grecs, qui vous vont immoler,</l>
                 <l>Reconnoissent mon sang en le voyant couler.</l>
-                <label>Clytemnestre, <hi rend="i">à Agamemnon.</hi></label>
+                <label type="head">Clytemnestre, <hi rend="i">à Agamemnon.</hi></label>
                 <l>Vous ne démentez point une race funeste ;</l>
                 <l>Oui, vous êtes le sang d’Atrée et de Thyeste ;</l>
                 <l>Bourreau de votre fille, il ne vous reste enfin</l>
@@ -3242,7 +3243,7 @@
               <p>D. Quel fut le sort de la famille d’Agamemnon ?</p>
               <p><hi rend="i">R.</hi> La sensible <hi rend="i">Electre</hi>, sa fille, ne cessa de pleurer la mort de son père. Elle sauva son frère <hi rend="i">Oreste</hi> de la fureur d’Egysthe qui vouloit le faire périr. Oreste vengea la mort de son père Agamemnon, en tuant Egysthe, et même Clytemnestre, sa propre mère. Depuis ce parricide, il fut tourmenté par les <hi rend="i">Furies</hi> qui lui représentoient continuellement l’horreur de son crime.</p>
               <quote>
-                <label>Oreste, <hi rend="i">à Palamède</hi>.</label>
+                <label type="head">Oreste, <hi rend="i">à Palamède</hi>.</label>
                 <l>……………………………… Laisse-moi.</l>
                 <l>Je ne veux rien, cruel, d’Électre, ni de toi !</l>
                 <l>Votre cœur affamé de sang et de victimes,</l>
@@ -3291,7 +3292,7 @@
               <p>D. Quel événement décida Achille à reprendre les armes contre les Troyens ?</p>
               <p><hi rend="i">R. Patrocle</hi>, lié d’une étroite amitié avec Achille, ne put voir tranquillement les Troyens remporter des avantages continuels sur les Grécs. Il demanda à son ami de lui prêter du mains ses armes, et de lui permettre de conduire les Thessaliens contre les Troyens. Achille y consentit. Patrocle prit donc les armes du fils de Thétis, et réimporta de grands avantages sur les assiégés. Mais Hector s’avança pour le combattre, et lui donna la mort. Achille, pour venger son ami, retourna au combat, défit Hector, et le tua. Pour assouvir sa colère, il lia son ennemi par les talons à son char, et le traîna trois fois autour des murs de Troie. Priam vint redemander le corps de son fils à son vainqueur, pour lui rendre les honneurs de la sépulture. Achille se laissa fléchir par les larmes dès ce malheureux père, et lui rendit le cadavre d’Hector.</p>
               <quote>
-                <label>Priam aux pieds d’Achille.</label>
+                <label type="head">Priam aux pieds d’Achille.</label>
                 <l>L’horizon se couvroit des ombres de la nuit,</l>
                 <l>L’infortuné vieillard qu’un dieu même a conduit,</l>
                 <l>Entre et paroît soudain dans la tente d’Achille.</l>
@@ -3347,15 +3348,15 @@
               <p>D. Quelle princesse échut à Pyrrhus, dans le partage des esclaves troyens ?</p>
               <p><hi rend="i">R.</hi> Ce fut <hi rend="i">Andromaque</hi>, veuve d’Hector. Pyrrhus l’aima jusqu’à la préférer à son épouse <hi rend="i">Hermione</hi>, fille de Ménélas et d’Hélène. Cet amour fut cause de la mort de Pyrrhus. Car ce prince étant allé à Delphes, pour offrir un sacrifice à Apollon, fut tué dans le temple même par Oreste. Hermione, transportée de jalousie, avoit excité à ce meurtre Oreste dont elle avoit été aimée autrefois, et auquel il avoit promis de l’épouser, s’il vouloit la venger.</p>
               <quote>
-                <label>Scène entre Oreste et Hermione, <lb/>(<hi rend="i">Dans la tragédie d’</hi><title>Andromaque</title>, <hi rend="i">par</hi>
-                  <author key="Racine">Racine</author>.)</label>
-                <label>Oreste.</label>
+                <label type="head">Scène entre Oreste et Hermione, <lb/>(<hi rend="i">Dans la tragédie d’</hi><term type="title">Andromaque</term>, <hi rend="i">par</hi>
+                  <term type="author" key="Racine">Racine</term>.)</label>
+                <label type="speaker">Oreste.</label>
                 <l>Madame, c’en est fait, et vous êtes servie :</l>
                 <l>Pyrrhus rend à l’autel son infidelle vie.</l>
-                <label>Hermione.</label>
-                <l>Il est mort !</l>
-                <label>Oreste.</label>
-                <l>                   Il expire ; et nos Grecs irrités</l>
+                <label type="speaker">Hermione.</label>
+                <l part="I">Il est mort !</l>
+                <label type="speaker">Oreste.</label>
+                <l part="F">Il expire ; et nos Grecs irrités</l>
                 <l>Ont lavé dans son sang ses infidélités.</l>
                 <l>Je vous l’avois promis ; et, quoique mon courage</l>
                 <l>Se fît de ce complot une funeste image,</l>
@@ -3385,10 +3386,10 @@
                 <l>Pour venir de ces lieux enlever ma princesse,</l>
                 <l>Et regagner le port, où bientôt nos amis</l>
                 <l>Viendront couverts du sang que je vous ai promis.</l>
-                <label>Hermione.</label>
-                <l>Qu’ont-ils fait !…</l>
-                <label>Oreste.</label>
-                <l>                              Pardonnez à leur impatience ;</l>
+                <label type="speaker">Hermione.</label>
+                <l part="I">Qu’ont-ils fait !…</l>
+                <label type="speaker">Oreste.</label>
+                <l part="F">Pardonnez à leur impatience ;</l>
                 <l>Ils ont, je le vois bien, trahi votre vengeance ;</l>
                 <l>Vous vouliez que ma main portât les premiers coups ;</l>
                 <l>Qu’il sentît en mourant qu’il expiroit par vous.</l>
@@ -3396,9 +3397,9 @@
                 <l>Je les ai pour vous seule entraînés dans le temple.</l>
                 <l>Madame ; et vous pouvez justement vous flatter</l>
                 <l>D’une mort que leurs bras n’ont fait qu’exécuter.</l>
-                <l>Vous seule avez poussé les coups…</l>
-                <label>Hermione.</label>
-                <l>                                                            Tais-toi, perfide.</l>
+                <l part="I">Vous seule avez poussé les coups…</l>
+                <label type="speaker">Hermione.</label>
+                <l part="F">Tais-toi, perfide.</l>
                 <l>Et n’impute qu’à toi ton lâche parricide,</l>
                 <l>Va faire chez les Grecs admirer ta fureur,</l>
                 <l>Va ; je la désavoue, et tu me fais horreur.</l>
@@ -3408,11 +3409,11 @@
                 <l>Sans que tout votre sang se soulevât pour lui ?</l>
                 <l>Mais parle : de son sort qui t’a rendu l’arbitre ?</l>
                 <l>Pourquoi l’assassiner ? qu’a-t’il fait ? à quel titre ?</l>
-                <l>Qui te l’a dit ?</l>
-                <label>Oreste.</label>
-                <l>                       Oh dieux ! quoi ! ne m’avez-vous pas</l>
-                <l>Vous-même, ici, tantôt, ordonné sen trépas ?</l>
-                <label>Hermione.</label>
+                <l part="I">Qui te l’a dit ?</l>
+                <label type="speaker">Oreste.</label>
+                <l part="F">Oh dieux ! quoi ! ne m’avez-vous pas</l>
+                <l>Vous-même, ici, tantôt, ordonné son trépas ?</l>
+                <label type="head">Hermione.</label>
                 <l>Ah ! falloit-il en croire une amante insensée ?</l>
                 <l>Ne devois-tu pas lire au fond de ma pensée ?</l>
                 <l>Et ne voyois-tu pas, dans mes emportements,</l>
@@ -3434,8 +3435,7 @@
                 <l>A toute ma famille ; et c’est assez pour moi,</l>
                 <l>Traître, qu’elle ait produit un monstre tel que toi.</l>
               </quote>
-              <p>D. Dites encore comment
-                <author key="Racine">le même poëte</author> décrit les fureurs d’Oreste, après l’assassinat de Pyrrhus.</p>
+              <p>D. Dites encore comment <author key="Racine">le même poëte</author> décrit les fureurs d’Oreste, après l’assassinat de Pyrrhus.</p>
               <p><hi rend="i">R.</hi> Oreste s’exprime ainsi :</p>
               <quote>
                 <l>Grâce aux dieux, mon malheur passe mon espérance !</l>
@@ -3918,13 +3918,13 @@
                 <author key="Racine">Racine</author> peint les combats d’Andromaque, entre la crainte de perdre son fils, et l’horreur de donner sa main à Pyrrhus.</p>
               <p><hi rend="i">R.</hi> Céphise, confidente d’Andromaque, engage cette princesse à sauver son fils, en cédant aux vœux de Pyrrhus.</p>
               <quote>
-                <label>Céphise.</label>
+                <label type="head">Céphise.</label>
                 <l>Madame, à votre époux c’est être assez fidelle :</l>
                 <l>Trop de vertu pourroit vous rendre criminelle.</l>
                 <l>Lui-même il porteroit votre ame à la douceur.</l>
-                <label>Andromaque.</label>
+                <label type="head">Andromaque.</label>
                 <l>Quoi ! je lui donnerois Pyrrhus pour successeur ?</l>
-                <label>Céphise.</label>
+                <label type="head">Céphise.</label>
                 <l>Ainsi le veut son fils que les Grecs vous ravissent.</l>
                 <l>Pensez-vous qu’après tout ses manes en rougissent ;</l>
                 <l>Qu’il méprisât, Madame, un roi victorieux</l>
@@ -3932,7 +3932,7 @@
                 <l>Qui foule aux pieds pour vous vos vainqueurs en colère,</l>
                 <l>Qui ne se souvient plus qu’Achille étoit son père</l>
                 <l>Qui dément ses exploits et les rend superflus ?</l>
-                <label>Andromaque.</label>
+                <label type="head">Andromaque.</label>
                 <l>Dois-je les oublier, s’il ne s’en souvient plus ?</l>
                 <l>Dois-je oublier Hector privé de funérailles,</l>
                 <l>Et traîné sans honneur autour de nos murailles ?</l>
@@ -3954,7 +3954,7 @@
               </quote>
               <p>Enfin Andromaque s’est décidée à se sacrifier pour conserver les jours de son fils. Elle déclare à Céphise le dessein où elle est de se donner la mort, après avoir engagé sa foi à Pyrrhus.</p>
               <quote>
-                <label>Andromaque.</label>
+                <label type="head">Andromaque.</label>
                 <l>…………………………… O ma chère Céphise,</l>
                 <l>Ce n’est point avec toi que mon cœur se déguise.</l>
                 <l>Ta foi dans mon malheur s’est montrée à mes yeux ;</l>
@@ -3979,9 +3979,9 @@
                 <l>D’une infidelle vie abrégera le reste ;</l>
                 <l>Et, sauvant ma vertu, rendra ce que je dois</l>
                 <l>A Pyrrhus, à mon fils, à mon époux, à moi.</l>
-                <label>Céphise.</label>
+                <label type="head">Céphise.</label>
                 <l>Ah ! ne prétendez pas que je puisse survivre…</l>
-                <label>Andromaque.</label>
+                <label type="head">Andromaque.</label>
                 <l>Non, non, je te défends, Céphise, de me suivre ;</l>
                 <l>Je confie à tes soins mon unique trésor :</l>
                 <l>Si tu vivois pour moi, vis pour le fils d’Hector,</l>
@@ -4403,8 +4403,7 @@
             </div>
             <div>
               <head>
-                <author key="Cléobule">Cléobule</author>
-                <seg>.</seg>
+                <author key="Cléobule">Cléobule</author>.
               </head>
               <p>D. Quand vécut
                 <author key="Cléobule">Cléobule</author> ?</p>
@@ -4470,7 +4469,7 @@
         <p>
           <author key="Florian">Florian</author> nous a donné sur ce sujet une très-jolie fable que je vais rapporter ici :</p>
         <quote>
-          <label><title>La Fable et la Vérité</title>.</label>
+          <label type="head"><term type="title">La Fable et la Vérité</term>.</label>
           <l>                  La Vérité toute nue</l>
           <l>                  Sortit un jour de son puits,</l>
           <l>Ses attraits par le temps étoient un peu détruits ;</l>
@@ -4543,7 +4542,7 @@
         <p>Ainsi, le paresseux peut lire ses devoirs dans la <title>fable de la Fourmi et de la Cigale</title> ; la nécessité du travail et le besoin d’acquérir des connoissances, se prouvent par l’apologue du différent survenu entre un savant et un ignorant. Écoutons
           <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
-          <label><title>L’Avantage de la science</title>.</label>
+          <label type="head"><term type="title">L’Avantage de la science</term>.</label>
           <l>        Entre deux bourgeois d’une ville</l>
           <l>        S’émut jadis un différent.</l>
           <l>        L’un étoit pauvre, mais habile ;</l>
@@ -4588,7 +4587,7 @@
         <p>D. Continuez de nous faire, connoître le profit que les jeunes gens peuvent tirer des fables.</p>
         <p><hi rend="i">R.</hi> La jeunesse est imprudente, téméraire, et ne sait point prévoir le danger. Souvent elle contracte des liaisons qui la conduisent à sa perte. La <title>fable du Renard et du Bouc</title> est bien propre à corriger les jeunes gens de ce défaut. La voici :</p>
         <quote>
-          <label><title>Le Renard et le Bouc</title>.</label>
+          <label type="head"><term type="title">Le Renard et le Bouc</term>.</label>
           <l>Capitaine Renard alloit de compagnie</l>
           <l>Avec son ami Bouc des plus haut encornés.</l>
           <l>Celui-ci ne voyoit pas plus loin que son nez ;</l>
@@ -4638,7 +4637,7 @@
           <author key="Florian">Florian</author> nous enseigne très-ingénieusement le respect que nous devons à nos parents et à la vieillesse.</p>
         <p><hi rend="i">R.</hi> La voici.</p>
         <quote>
-          <label><title>La Carpe et les Carpillons</title>.</label>
+          <label type="head"><term type="title">La Carpe et les Carpillons</term>.</label>
           <l>Prenez garde, mes fils, côtoyez moins le bord,</l>
           <l>            Suivez le fond de la rivière ;</l>
           <l>            Craignez la ligne meurtrière,</l>
@@ -4693,7 +4692,7 @@
           <author key="Philippon de la Madeleine">Philippon de la Madeleine</author> sur l’amour filial.</p>
         <p><hi rend="i">R.</hi> Le voici.</p>
         <quote>
-          <label><title>La Mère et ses deux fils</title>.</label>
+          <label type="head"><term type="title">La Mère et ses deux fils</term>.</label>
           <l>Écoutez un mot, mes amis,</l>
           <l>Qui me paroît beau de tendresse :</l>
           <l>D’une veuve entre ses deux fils</l>
@@ -4955,7 +4954,7 @@
         <p><hi rend="i">R.</hi> Les jeunes personnes doivent penser sans cesse qu’elles sont environnées de piéges ; qu’on cherche à les tromper par des soins intéressés, de fausses louanges, une flatterie perfide. Leur amour propre est presque toujours d’intelligence avec le flatteur. Elles ne sauroient donc prendre trop de précautions pour ne pas devenir les victimes de la flatterie. Tout le monde connoît le charmant apologue de
           <author key="La Fontaine">La Fontaine</author></p>
         <quote>
-          <label><title>Le Corbeau et le Renard</title>.</label>
+          <label type="head"><term type="title">Le Corbeau et le Renard</term>.</label>
           <l>   Maître Corbeau, sur un arbre perché,</l>
           <l>      Tenoit en son bec un fromage.</l>
           <l>   Maître Renard, par l’odeur alléché,</l>
@@ -5032,7 +5031,7 @@
         <p>La fourberie dégrade l’homme, lui fait perdre l’estime de ses semblables, et le rend le fléau de la société. Le fourbe prend touts les titres, se couvre de toute les masques pour parvenir à ses fins. M. 
           <author key="Arnault">Arnault</author> nous a donné le bel apologue suivant :</p>
         <quote>
-          <label><title>Le Chien et le Chat</title>.</label>
+          <label type="head"><term type="title">Le Chien et le Chat</term>.</label>
           <l>            Pataud jouoit avec Raton,</l>
           <l>Mais sans gronder, sans mordre, en camarade, en frère :</l>
           <l>Les chiens sont bonnes gens ; mais les chats, nous dit-on</l>
@@ -5065,7 +5064,7 @@
         <p>
           <author key="La Fontaine">Le même poëte</author> nous donne encore la même leçon dans la fable suivante :</p>
         <quote>
-          <label><title>Le Lion, le Loup et le Renard</title>.</label>
+          <label type="head"><term type="title">Le Lion, le Loup et le Renard</term>.</label>
           <l>Un Lion décrépît, goulteux, n’en pouvant plus,</l>
           <l>Vouloit que l’on trouvât remède à la vieillesse.</l>
           <l>Alléguer l’impossible aux rois, c’est un abus.</l>
@@ -5112,7 +5111,7 @@
         <p><hi rend="i">R.</hi> Elles doivent regarder le mensonge comme le plus bas et le plus honteux de touts les vices. La candeur est au contraire le plus bel ornement de l’ame. Voici un apologue de
           <author key="La Fontaine">La Fontaine</author> à ce sujet.</p>
         <quote>
-          <label><title>Le Bûcheron et Mercure</title>.</label>
+          <label type="head"><term type="title">Le Bûcheron et Mercure</term>.</label>
           <l>Un Bûcheron perdit son gagne-pain,</l>
           <l>C’est sa cognée ; et, la cherchant en vain,</l>
           <l>Ce fut pitié là-dessus de l’entendre.</l>
@@ -5171,7 +5170,7 @@
         <p>Rapportons ici la fable suivante de
           <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
-          <label><title>La Besace</title>.</label>
+          <label type="head"><term type="title">La Besace</term>.</label>
           <l>Jupiter dit un jour : Que tout ce qui respire</l>
           <l>S’en vienne comparoître aux pieds de ma grandeur ;</l>
           <l>Si dans son composé quelqu’un trouve à redire,</l>
@@ -5243,7 +5242,7 @@
         <p>Écoutons cet apologue de
           <author key="Boursault">Boursault</author>.</p>
         <quote>
-          <label><title>La Colombe et la Fourmi</title>.</label>
+          <label type="head"><term type="title">La Colombe et la Fourmi</term>.</label>
           <l>           La Colombe, qui s’égayoit</l>
           <l>Au bord d’une fontaine où l’onde étoit fort belle,</l>
           <l>           Vit se démener auprès d’elle</l>
@@ -5338,7 +5337,7 @@
         <p>Voici un apologue de M. 
           <author key="Hoffmann">Hoffmann</author> :</p>
         <quote>
-          <label><title>La Nouveauté</title>. <lb/>Fable</label>
+          <label type="head"><term type="title">La Nouveauté</term>. <lb/>Fable</label>
           <l>Au bourg où règne la Folie,</l>
           <l>Un jour la Nouveauté parut.</l>
           <l>Aussitôt chacun accourut ;</l>
@@ -5417,7 +5416,7 @@
         <p>Écoutons
           <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
-          <label><title>La Grenouille qui se veut faire aussi grosse que le bœuf</title>. <lb/>fable.</label>
+          <label type="head"><term type="title">La Grenouille qui se veut faire aussi grosse que le bœuf</term>. <lb/>fable.</label>
           <l>           Une Grenouille vit un Bœuf</l>
           <l>           Qui lui sembla de belle taille ;</l>
           <l>Elle, qui n’étoit pas grosse en tout comme un œuf,</l>
@@ -5503,7 +5502,7 @@
         <p><hi rend="i">R.</hi> L’<hi rend="i">avarice</hi> et l’ambition a différent en ce que l’une est agitée par l’espérance, et l’autre par la crainte. L’ambitieux espère de proche en proche parvenir à tout ; l’<hi rend="i">avare</hi> craint de tout perdre : ni l’un ni l’autre ne savent jouir.
           <author key="La Fontaine">La Fontaine</author> nous a laissé sur la passion de l’avarice deux fables. Voici la première :</p>
         <quote>
-          <label><title>Le Trésor et les deux hommes</title>.</label>
+          <label type="head"><term type="title">Le Trésor et les deux hommes</term>.</label>
           <l>Un homme n’ayant plus ni crédit ni ressource,</l>
           <l>                Et logeant le diable en sa bourse,</l>
           <l>                C’est-à-dire n’y logeant rien,</l>
@@ -5551,7 +5550,7 @@
         <p>D. Quelle est la seconde fable dont vous nous avez parlé ?</p>
         <p><hi rend="i">R.</hi> C’est celle-ci.</p>
         <quote>
-          <label><title>L’Avare qui a perdu son trésor</title>.</label>
+          <label type="head"><term type="title">L’Avare qui a perdu son trésor</term>.</label>
           <l>L’usage seulement fait la possession.</l>
           <l>Je demande à ces gens, de qui la passion</l>
           <l>Est d’entasser toujours, mettre somme sur somme.</l>
@@ -5597,7 +5596,7 @@
         <p>Souvent l’avare, pour vouloir trop avoir, perd même ce qu’il a. C’est ce que nous prouve
           <author key="La Fontaine">La Fontaine</author> dans l’apologue suivant :</p>
         <quote>
-          <label><title>La Poule aux œufs d’or</title>.</label>
+          <label type="head"><term type="title">La Poule aux œufs d’or</term>.</label>
           <l>L’avarice perd tout en voulant tout gagner.</l>
           <l>           Je ne veux, pour le témoigner,</l>
           <l>Que celui dont la poule, à ce que dit la fable,</l>
@@ -5658,7 +5657,7 @@
         <p>
           <author key="La Fontaine">La Fontaine</author> nous recommande la douceur dans l’apologue ingénieux qui suit :</p>
         <quote>
-          <label><title>Phébus et Borée</title>. <lb/>Fable.</label>
+          <label type="head"><term type="title">Phébus et Borée</term>. <lb/>Fable.</label>
           <l>Borée et le Soleil virent un voyageur,</l>
           <l>           Qui s’étoit muni, par bonheur,</l>
           <l>Contre le mauvais temps. On entroit dans l’automne,</l>
@@ -5776,7 +5775,7 @@
         </quote>
         <p>Les jeunes gens ne doivent jamais se permettre le ton de la raillerie avec les personnes âgées ou avec celles qui sont dans le malheur. Voici un apologue :</p>
         <quote>
-          <label><title>Le Lièvre et la Perdrix</title>. <lb/>Fable.</label>
+          <label type="head"><term type="title">Le Lièvre et la Perdrix</term>. <lb/>Fable.</label>
           <l>Il ne se faut jamais moquer des misérables :</l>
           <l>Car, qui peut s’assurer d’être toujours heureux ?</l>
           <l>       Le sage
@@ -5858,7 +5857,7 @@
         <p>Écoutons cet apologue de
           <author key="La Fontaine">La Fontaine</author>.</p>
         <quote>
-          <label><title>Le Laboureur et ses enfants</title>. <lb/>Fable.</label>
+          <label type="head"><term type="title">Le Laboureur et ses enfants</term>. <lb/>Fable.</label>
           <l>       Travaillez, prenez de la peine,</l>
           <l>       C’est le fonds qui manque le moins.</l>
           <l/>

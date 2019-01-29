@@ -6,6 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brès (1823)">
   <teiHeader>
     <fileDesc>
+      <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
       <titleStmt>
         <title>Mythologie des dames</title>
         <author key="Brès, Jean-Pierre (1782 – 1832)">Jean-Pierre Brès</author>
@@ -2014,7 +2015,7 @@
           <l>Ton buste va sourire à l’aspect des offrandes.</l>
           <bibl>
             <author key="anonyme"/>
-            <author rend="margin" key="Brès" resp="editor"/>
+            <note place="margin">[<author key="Brès" resp="editor">Brès</author>]</note>
           </bibl>
         </quote>
         <p>Sous les plus riants asiles des vergers, résidait une jeune divinité, dont la présence semblait répandre la fécondité sur les arbres chargés de fruits délicieux : elle se nommait Pomone.</p>

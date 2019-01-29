@@ -6,6 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brunel (1800)">
   <teiHeader>
     <fileDesc>
+      <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
       <titleStmt>
         <title>Cours de mythologie</title>
         <author key="Brunel, Joseph (1746-1820)">Joseph Brunel</author>
@@ -233,7 +234,7 @@
           <p>Le Pin lui est consacré.</p>
           <p>On le représente porté sur un aigle et la foudre à la main.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Naissance de Jupiter.</hi>
               <lb/>
               <hi rend="i">L’Aigle et la Colombe.</hi>
@@ -323,7 +324,7 @@
               <author key="Blin de Sainmore">Blin de Sainmore</author><note place="bottom">[Table des matières] Blin de Sainmore. <title>Le retour d’Apollon</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Reproches à Apollon.</label>
+            <label type="head" rend="sc">Reproches à Apollon.</label>
             <l>    Père cruel, injuste Dieu,</l>
             <l>Qui produis l’or par ta puissance,</l>
             <l>Pourquoi toujours dans l’indigence,</l>
@@ -360,7 +361,7 @@
           </quote>
           <p>Comme père de la lumière, on appelle Apollon, Phébus ou le Soleil.</p>
           <quote>
-            <label rend="sc">Palais du Soleil.</label>
+            <label type="head" rend="sc">Palais du Soleil.</label>
             <l>    Sur cent colonnes d’or, édifice magique,</l>
             <l>Du palais de Phébus, s’élève le portique.</l>
             <l>Le dôme est étoilé de saphirs éclatans.</l>
@@ -452,7 +453,7 @@
               <author key="Roman">Roman</author><note place="bottom">[Table des matières] Roman. <title>Voici la Saison des Vendanges</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Entrée de Bacchus dans Athènes.</label>
+            <label type="head" rend="sc">Entrée de Bacchus dans Athènes.</label>
             <l><pb n="10" xml:id="p10"/>    Venu des bords du Gange, où son char conquérant</l>
             <l>Porta ses lois, son culte et sa gloire en courant,</l>
             <l>Bacchus veut dans Athène enseigner ses mystères.</l>
@@ -501,7 +502,7 @@
           <p><hi rend="sc">Dieu</hi> de l’Éloquence, du Commerce et des Voleurs ; Interprète et Messager des Immortels. Il allioit le génie, l’esprit, l’adresse et l’agilité. Il conduisoit les ames des morts dans les Enfers, et avoit le magique pouvoir de les en tirer. Musicien enchanteur, il endormit au son de la lyre qu’il avoit dérobée à Apollon, le vigilant Argus, gardien sévère d’Io. Il dégagea l’audacieux Mars des filets du jaloux Vulcain, et attacha le sacrilège Prométhée à un rocher du Caucase.</p>
           <p>On le figure en beau jeune homme, des ailes à la tête et aux talons, et un caducée à la main.</p>
           <quote>
-            <label rend="sc">Message de Mercure à Calipso.</label>
+            <label type="head" rend="sc">Message de Mercure à Calipso.</label>
             <l>    Mercure se dispose à prendre son essor,</l>
             <l>A ses pieds immortels il met ses ailes d’or,</l>
             <l>Dont il perce les airs lorsque, d’un vol rapide,</l>
@@ -540,7 +541,7 @@
               <author key="Homère">Homère</author>. — 
               <author key="Rochefort" role="translator">Rochefort</author><note place="bottom">[Table des matières] Rochefort. <title>Odyssée. Liv. V</title>.</note>.</bibl>
           </quote>
-          <label rend="sc">La vanité de Mercure corrigée.</label>
+          <label type="head" rend="sc">La vanité de Mercure corrigée.</label>
           <quote>
             <l>                Mercure, messager céleste,</l>
             <l>            Méprisoit fort les autres Dieux.</l>
@@ -770,7 +771,7 @@
               <author key="Borde">Borde</author><note place="bottom">[Table des matières] Borde. <title>Ode sur la guerre. Fragment</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Horreurs de la Guerre civile chez les Romains.</hi>
             </label>
             <l><pb n="20" xml:id="p20"/>    Nobles et Plébéiens, tout périt, et l’Epée,</l>
@@ -869,7 +870,7 @@
               <author key="Léonard">Léonard</author><note place="bottom">[Table des matières] Léonard. <title>Alexis. Roman pastoral</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">L’Amour oiseleur.</label>
+            <label type="head" rend="sc">L’Amour oiseleur.</label>
             <l>    L’Amour est plus rusé que tendre,</l>
             <l>Craignez ses filets, jeunes cœurs :</l>
             <l>Fuyez-les ; c’est pour vous surprendre</l>
@@ -878,7 +879,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">A un jeune Poète, <lb/> Sur le danger des Passions.</hi>
             </label>
             <l><pb n="23" xml:id="p23"/>    Crois-moi : la Volupté, dangereuse Syrène,</l>
@@ -923,7 +924,7 @@
               <author key="Voltaire">Voltaire</author><note place="bottom">[Table des matières] Voltaire. <title>L’Enfant prodigue. Acte II. Scène I</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Le même à d’ Arge ntal .</hi>
             </label>
             <l>    On disoit que l’Hymen a l’intérêt pour père ;</l>
@@ -938,7 +939,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label rend="sc">A Justine.</label>
+            <label type="head" rend="sc">A Justine.</label>
             <l>                Ce jour, de tes jours le plus beau,</l>
             <l>                De myrthe t’a donc couronnée,</l>
             <l>                Chère Justine, et l’Hyménée</l>
@@ -1054,7 +1055,7 @@
               <author key="Richard-Chastel" role="translator">Richard-Castel</author><note place="bottom">[Table des matières] René. — Richard-Castel. <title>Les Plantes. Poème. chant III</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">La Femme compatissante. <lb/> Conte .</hi>
             </label>
             <l>                   Je viens vous conter mon chagrin,</l>
@@ -1074,7 +1075,7 @@
           <head><hi rend="sc">Momus</hi>, <lb/><hi rend="i">Fils du Sommeil et de la Nuit, et frère de la Folie.</hi></head>
           <p><hi rend="sc">C’est</hi> le Dieu de la raillerie. Il est représenté soulevant le masque d’un visage, et une Marotte à la main. Curieux et malin, Momus épioit toutes les actions des Dieux, et les reprenoit avec une liberté franche et caustique. Neptune ayant fait un taureau, Vulcain un homme, et Minerve une maison, il censura leur ouvrage, et se moqua d’eux. Ses cruels bons mots, ses traits piquans le firent chasser du Ciel.</p>
           <quote>
-            <label rend="sc">Le mauvais Ménage.</label>
+            <label type="head" rend="sc">Le mauvais Ménage.</label>
             <l>    Jadis le Roi des Dieux, soit ennui, soit caprice,</l>
             <l>        Chargea Momus, pour un jour seulement,</l>
             <l>De régir l’Univers, de rendre la justice,</l>
@@ -1229,7 +1230,7 @@
               <author key="Bernis">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>A mes Dieux Pénates. Epître VII</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">à un Ami. <lb/>Qui me rappeloit dans mes Foyers</hi>.</label>
+            <label type="head"><hi rend="i">à un Ami. <lb/>Qui me rappeloit dans mes Foyers</hi>.</label>
             <l>    Enchaîné sur ces bords par les plus doux liens</l>
             <l>                A ma chère Fleurie,</l>
             <l>Je ne regrette point les champs Arlésiens :</l>
@@ -1298,7 +1299,7 @@
               <author key="Bourdic">Bourdic</author><note place="bottom">[Table des matières] Bourdic. <title>Ode en Stances irrégulières</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Sur D***. <lb/> Qui ne répond pas aux Lettres qu’on lui écrit.</hi>
             </label>
             <l>    Hier, en un cercle nombreux</l>
@@ -1449,7 +1450,7 @@
           <head><hi rend="sc">Éole</hi>, <lb/><hi rend="i">Roi des Vents.</hi></head>
           <p><pb n="39" xml:id="p39"/><hi rend="sc">Souverain</hi> absolu de ses fougueux sujets, enfans de l’Air et de la Terre, il les tenoit renfermés dans les antres les plus profonds des Iles Eoliennes, où se trouvoient les forges de Vulcain. Eole les contenoit ou les enchaînoit à son gré. Les quatre principaux Vents assujettis à ses lois, étoient Eurus, Auster, Borée et Zéphyre.</p>
           <quote>
-            <label rend="sc">Borée.</label>
+            <label type="head" rend="sc">Borée.</label>
             <l>    … L’Aquilon, sorti de ses antres sauvages,</l>
             <l>Dispute aux fiers Autans l’Empire des orages :</l>
             <l>Une immense forêt, sur les monts sourcilleux,</l>
@@ -1463,7 +1464,7 @@
               <author key="Rochefort" role="translator">Rochefort</author><note place="bottom">[Table des matières] Rochefort. <title>Iliade. liv. XVI</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">Tempête</hi>.</label>
+            <label type="head"><hi rend="i">Tempête</hi>.</label>
             <l>    On lève l’ancre, on part, on fuit loin de la terre :</l>
             <l>On découvroit déjà les bords de l’Angleterre :</l>
             <l>L’Astre brillant du jour à l’instant s’obscurcit :</l>
@@ -1476,7 +1477,7 @@
               <author key="Voltaire">Voltaire</author><note place="bottom">[Table des matières] Voltaire. <title>Henriade. ch. I</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Zéphyre.</label>
+            <label type="head" rend="sc">Zéphyre.</label>
             <l><pb n="40" xml:id="p40"/>    Mais tout-à-coup l’Amant de la Nature,</l>
             <l>Zéphyr s’éveille, et des airs qu’il épure,</l>
             <l>Chassant bientôt l’Eté morne et brûlant,</l>
@@ -1605,7 +1606,7 @@
               <author key="Saint-Ange" role="translator">Saint-Ange</author><note place="bottom">[Table des matières] Saint-Ange. <title>Les quatre Ages</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">L’Hiver de</hi> 1709.</label>
+            <label type="head"><hi rend="i">L’Hiver de</hi> 1709.</label>
             <l>    Vieillards, dont l’œil a vu ce siècle à son aurore,</l>
             <l>Nestors François, sans doute il vous souvient encore</l>
             <l>De ce neuvième Hiver, de cet Hiver affreux,</l>
@@ -1703,7 +1704,7 @@
               <author key="Maréchal">Maréchal</author><note place="bottom">[Table des matières] Maréchal. <title>L’âge le plus heureux, etc.</title></note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Vers <lb/> Attachés sur le berceau d’un joli petit Enfant .</hi>
             </label>
             <l><pb n="46" xml:id="p46"/>            Au lieu de fleurs sur ton berceau,</l>
@@ -1714,7 +1715,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label rend="sc">Portrait des François.</label>
+            <label type="head" rend="sc">Portrait des François.</label>
             <l>    Tous vos goûts sont inconséquens ;</l>
             <l>Un rien change vos caractères ;</l>
             <l>Un rien commande à vos penchans,</l>
@@ -1777,7 +1778,7 @@
           <p><pb n="48" xml:id="p48"/><hi rend="sc">Divinités</hi> qui présidoient aux Tombeaux. Leur culte étoit répandu dans la Grèce. On entouroit leurs autels de branches de cyprès et on leur offroit des libations et des sacrifices.</p>
           <p>On donne aussi le nom de Mânes aux ames des morts.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Honneurs funèbres <lb/> Rendus par Enée aux Mânes de son père Anchise.</hi>
             </label>
             <l>    La nuit avoit plié ses voiles étoilés ;</l>
@@ -1847,7 +1848,7 @@
               <author key="Chabanon" role="translator">Chabanon</author><note place="bottom">[Table des matières] Chabanon. <title>Enéide. liv. VI</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Aux Mânes de ma Mère.</label>
+            <label type="head" rend="sc">Aux Mânes de ma Mère.</label>
             <l><pb n="50" xml:id="p50"/>    Objet sacré de ma tendresse,</l>
             <l>Qui me fais aimer ma douleur ;</l>
             <l>Toi, qui me rappelles sans cesse</l>
@@ -2124,7 +2125,7 @@
             <l>Mais éveillé soudain par tant d’attraits nouveaux,</l>
             <l>Le dépit vous oblige à rentrer sous les eaux<note place="bottom">[Table des matières, oubli]
               <author key="anonyme">Anonyme</author>. <title>C’est dans ce mois heureux, etc.</title></note>.</l>
-            <label><hi rend="i">Gnide</hi>.</label>
+            <label type="head"><hi rend="i">Gnide</hi>.</label>
             <l>    Vénus à Gnide aime à fixer sa cour ;</l>
             <l>Elle n’a point de plus riant séjour :</l>
             <l>Jamais son char ne quitte l’Empirée,</l>
@@ -2203,7 +2204,7 @@
               <author key="Imbert">Imbert</author><note place="bottom">[Table des matières] Imbert. <title>Le jugement de Pâris. ch. I</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Les Arbres protégés par les Dieux.</label>
+            <label type="head" rend="sc">Les Arbres protégés par les Dieux.</label>
             <l><pb n="61" xml:id="p61"/>             Les Immortels, du haut des airs</l>
             <l>               Parcouroient les arbres divers,</l>
             <l>Dont ils vouloient entr’eux distribuer l’Empire,</l>
@@ -2238,7 +2239,7 @@
           <p><hi rend="sc">Elle</hi> présidoit au Feu sacré ou éternel, image de celui des Astres, et gardien de l’Empire Romain. Des Vierges nommées <hi rend="i">Vestales</hi>, étoient seules chargées de l’entretenir jour et nuit dans son Temple ; si elles le laissoient éteindre, ou <pb n="62" xml:id="p62"/>si elles violoient leur vœu de virginité, la superstition la plus barbare les condamnoit à être enterrées vives dans une caverne où elles mouroient de faim. Le culte de Vesta remontoit jusqu’au temps d’Enée. a lui rendit sa première splendeur.</p>
           <p>On la représente vêtue d’une robe longue, un voile sur la tête, une javeline d’une main, et un vase à deux anses de l’autre, ou une lampe.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Ar élie grande Prétresse de Vesta , <lb/> A la Déesse.</hi>
             </label>
             <p>    De l’Empire Romain, Déesse protectrice,</p>
@@ -2248,7 +2249,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label rend="sc">Aux Vestales.</label>
+            <label type="head" rend="sc">Aux Vestales.</label>
             <l>    Et vous, Filles du Ciel, dont les cœurs épurés,</l>
             <l>Aux devoirs, aux vertus sont ici consacrés,</l>
             <l>Pour qui les Dieux ont fait, dans ce paisible asile,</l>
@@ -2421,7 +2422,7 @@
               <author key="La Motte">La Motte</author><note place="bottom">[Table des matières] La Motte. <title>Ode VII</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Portrait de la Chicane.</label>
+            <label type="head" rend="sc">Portrait de la Chicane.</label>
             <l>    Entre ces vieux appuis dont l’affreuse grand’salle</l>
             <l>Soutient l’énorme poids de sa voûte infernale,</l>
             <l>Est un pilier fameux, des plaideurs respecté,</l>
@@ -2577,7 +2578,7 @@
             <bibl>
               <author key="Bernard">Bernard</author><note place="bottom">[Table des matières] Bernard. <title>L’Automne</title>.</note>.</bibl>
           </quote>
-          <label rend="sc">les Saisons.</label>
+          <label type="head" rend="sc">les Saisons.</label>
           <quote>
             <l>    Là paroît couronné d’une tresse de fleurs,</l>
             <l>Le Printemps au front jeune, aux riantes couleurs ;</l>
@@ -2670,7 +2671,7 @@
             <bibl>
               <author key="Malfilatre">Malfilatre</author><note place="bottom">[Table des matières] Malfilatre. <title>Narcisse. ch. III</title>.</note>.</bibl>
           </quote>
-          <label rend="sc">Le Paon et l’Arc-en-Ciel.</label>
+          <label type="head" rend="sc">Le Paon et l’Arc-en-Ciel.</label>
           <l>                      Après une averse d’été,</l>
           <l>               Le Paon apperçut dans la nue,</l>
           <l>               L’Arc d’Iris, plein de majesté,</l>
@@ -2992,7 +2993,7 @@
               <author key="Le Gouvé">Le Gouvé</author><note place="bottom">[Table des matières] Le Gouvé. <title>Les Souvenirs. Poème</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Temple de Mémoire.</label>
+            <label type="head" rend="sc">Temple de Mémoire.</label>
             <l>    Le Temps qu’en un long esclavage</l>
             <l>Minerve retient en ce lieu ;</l>
             <l>Ce Vieillard au double visage,</l>
@@ -3018,7 +3019,7 @@
               <author key="La Motte">La Motte</author><note place="bottom">[Table des matières] La Motte. <title>Le temple de Mémoire. Ode III</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Sur un Poëte plagiaire.</label>
+            <label type="head" rend="sc">Sur un Poëte plagiaire.</label>
             <l>    Qui pourroit de ses vers lui disputer la gloire ?</l>
             <l>Chacun sait que sa muse est fille de Mémoire.</l>
             <bibl>
@@ -3098,7 +3099,7 @@
               <author key="La Motte">La Motte</author><note place="bottom">[Table des matières] La Motte. <title>Le Parnasse. ode V</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Terpsicore.</label>
+            <label type="head" rend="sc">Terpsicore.</label>
             <l><pb n="87" xml:id="p87"/>    Sous les traits de Lani, Terpsicore s’avance :</l>
             <l>D’Euterpe aimable sœur, comme Euterpe on l’encense,</l>
             <l>Et, mariant sa marche au son des instrumens,</l>
@@ -3117,7 +3118,7 @@
               <author key="Dorat">Dorat</author><note place="bottom">[Table des matières] Dorat. <title>La Déclamation. ch. IV</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Danses Provençales.</label>
+            <label type="head" rend="sc">Danses Provençales.</label>
             <l>    Venez : transportons-nous dans ces belles contrées,</l>
             <l>Des rayons d’un ciel pur en tout temps colorées :</l>
             <l>Déjà l’air est plus frais : Phébus vers l’Occident</l>
@@ -3160,7 +3161,7 @@
               <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Myro de Corinthe. <title>Fragment</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Inscription pour une Fontaine.</label>
+            <label type="head" rend="sc">Inscription pour une Fontaine.</label>
             <l>              Comme de ton urne panchée,</l>
             <l>La source en se cachant laisse couler ses flots ;</l>
             <l>Qu’ainsi coulent vos dons répandus à propos,</l>
@@ -3169,7 +3170,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label rend="sc">A une belle Source, à qui les habitans du Piessis-Villette ont donné le nom de Belle et Bonne.</label>
+            <label type="head" rend="sc">A une belle Source, à qui les habitans du Piessis-Villette ont donné le nom de Belle et Bonne.</label>
             <l><pb n="89" xml:id="p89"/>    Toi, dont l’urne limpide arrose ce vallon,</l>
             <l>Que tu plais à mes yeux, ô Naïade féconde !</l>
             <l>Tu rappelles l’objet qui consacra ton nom ;</l>
@@ -3247,7 +3248,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Au Médecin Cal vet.</hi>
             </label>
             <l>    Lorsque vers la Douleur la Pitié te conduit,</l>
@@ -3313,7 +3314,7 @@
               <author key="Bouhier" role="translator">Bouhier</author><note place="bottom">[Table des matières] Bouhier. <title>Des trompettes déjà, etc.</title></note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">La Discorde excite les Généraux Romains à la Guerre civile.</hi>
             </label>
             <l>    La trompette a sonné. Soudain, impatiente,</l>
@@ -3417,7 +3418,7 @@
           <head><hi rend="sc">Némésis</hi><hi rend="i"> ou</hi><hi rend="sc"> Adrastée</hi>, <lb/><hi rend="i">Déesse de la Vengeance.</hi></head>
           <p><hi rend="sc">Elle</hi> châtioit les scélérats et tous ceux qui faisoient un abus profane ou cruel des présens de la fortune. On la représente ailée, armée de brandons et de serpens, et ayant sur sa tête une couronne rehaussée d’une corne de cerf. Némésis avoit un temple à Samos, à Ephèse et à Rome. Le plus superbe étoit celui de Rhamnus, où affluoit toute la Grèce.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Cléopâ tre.</hi>
             </label>
             <l><pb n="96" xml:id="p96"/>    Enfin, graces aux Dieux, j’ai moins d’un ennemi ;</l>
@@ -3462,7 +3463,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">La même à Antiochus , après avoir bu à la coupe.</hi>
             </label>
             <l><pb n="97" xml:id="p97"/>   Va, tu me veux envain rappeler à la vie :</l>
@@ -3533,7 +3534,7 @@
               <author key="Voltaire">Voltaire</author><title>à Frédéric</title><note place="bottom">[Table des matières] Voltaire. <title>à Frédéric</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">A une aimable Femme, sortant de maladie</hi>.</label>
+            <label type="head"><hi rend="i">A une aimable Femme, sortant de maladie</hi>.</label>
             <l>          Lachésis tournoit son fuseau,</l>
             <l>Filant avec plaisir les beaux jours d’Isabelle ;</l>
             <l>J’apperçus Atropos, qui, d’une main cruelle,</l>
@@ -3725,7 +3726,7 @@
               <author key="Florian">Florian</author><note place="bottom">[Table des matières] Florian. <title>La Mort. Fable</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">La Mort de mon Fils</hi>.</label>
+            <label type="head"><hi rend="i">La Mort de mon Fils</hi>.</label>
             <l>          La Mort a fermé ta paupière.</l>
             <l>      Aimable Enfant, tes jours me sont ravis !</l>
             <l>          Je souriois à peine au nom de père :</l>
@@ -3865,7 +3866,7 @@
               <author key="Bodart">Bodart</author><note place="bottom">[Table des matières] Bodart. <title>Les tombeaux, stances</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Épitaphe .</hi>
             </label>
             <l>Ci-gît mon fils !… douleur extrême !…</l>
@@ -3896,7 +3897,7 @@
               <author key="Parni">Parny</author><note place="bottom">[Table des matières] Parni. <title>Le dîner des Dieux</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">Nos adieux à la plus agréable des Campagnes</hi>.</label>
+            <label type="head"><hi rend="i">Nos adieux à la plus agréable des Campagnes</hi>.</label>
             <l>            Apollon, exilé des Cieux,</l>
             <l>Regretta le Nectar et la douce Ambrosie ;</l>
             <l>            Moins que nous il fut malheureux,</l>
@@ -3975,7 +3976,7 @@
               <author key="Bernis">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>Epître sur le goût</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Hercule mourant.</hi>
             </label>
             <l>               J’implore, ô Jupiter, tes foudres réunis,</l>
@@ -4002,7 +4003,7 @@
           <head><hi rend="sc">Thésée</hi>, <lb/><hi rend="i">Fils d’Egée, Roi d’Athènes.</hi></head>
           <p><hi rend="sc">Né</hi> avec la noble ambition d’imiter Hercule, il marcha sur les traces de son modèle. Il vainquit avec lui les Amazones, et reçut de ses mains leur reine Antiope, de laquelle il eut Hippolyte. <pb n="113" xml:id="p113"/>Il purgea l’Attique des brigands qui l’infestoient ; tua le Minotaure dans le labyrinthe, et suivit Pirithoüs, son ami, jusqu’aux Enfers. Thésée éternisa son nom par ses héroïques exploits ; mais il en ternit l’éclat par de honteuses foiblesses. On le vit enlever successivement Hélène, Phèdre et la malheureuse Ariane qu’il eut la cruauté de délaisser dans une île déserte. Un voyage qu’il fit en Epire, le priva de sa liberté ; il fut jeté dans les fers par l’ordre du roi des Molosses dont il avoit tenté d’enlever la fille. Dépouillé de son trône par Ménesthée pendant son absence, il se retira à Scyros, où le roi Nicomède le fit précipiter du haut d’un rocher. Thésée fut déifié après sa mort, et les Athéniens lui dressèrent des autels.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Hippolyte à Théramène.</hi>
             </label>
             <l>    Attaché, près de moi, par un zèle sincère,</l>
@@ -4231,7 +4232,7 @@
           <head><hi rend="sc">Daphnis</hi>, <lb/><hi rend="i">Jeune Berger de Sicile, et fils de Mercure.</hi></head>
           <p><hi rend="sc">Né</hi> dans un bois de Laurier, Daphnis avoit tiré son nom de l’arbre chéri du Dieu des vers. Musicien et poëte, il inventa le genre bucolique, et sa Muse pastorale enchanta la Sicile. Ses vertus égalèrent ses talens : il fut le plus sage comme le plus spirituel et le plus beau des Bergers. Daphnis mourut à la fleur de son âge. Toutes les Nymphes le pleurèrent, et les Bergers ses amis lui élevèrent un tombeau.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Les Bergers de Sicile, <lb/> Aux Mânes de Daphnis.</hi>
             </label>
             <l><pb n="120" xml:id="p120"/>    Berger, qui des Dieux</l>
@@ -4332,7 +4333,7 @@
           </quote>
           <p>Les Poëtes Grecs, et à leur imitation, les Romains déifièrent Daphnis.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Apothéose de Daphnis.</hi>
             </label>
             <l>    Je vois Daphnis brillant qui contemple sans voiles</l>
@@ -4429,7 +4430,7 @@
           <p><hi rend="sc">Elève</hi> d’un Centaure, et nourri par lui, dans l’île de Scyros, de moelles de lion, d’ours et de tigres : Achille respira bientôt l’amour des combats, et devint le premier des héros Grecs. Sa mère lui donna le choix, ou d’une vie immortelle, mais obscure, ou d’une courte <pb n="126" xml:id="p126"/>mais glorieuse existence. Il préféra celle-ci. Parti pour le siége de Troie, il brava l’orgueil d’Agamemnon, chef des rois ligués de la Grèce ; vengea la mort de Patrocle, son ami ; défit le vaillant Hector, et renversa la Ville superbe et le fameux Empire de Priam. Invulnérable par tout son corps, excepté au talon, Achille fut atteint d’une flèche du lâche Pâris, qu’Apollon dirigea vers l’endroit fatal. Sa valeur fut chantée par
             <author key="Homère">Homère</author>, et son tombeau couronné par Alexandre.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Achille racontant son education .</hi>
             </label>
             <l>Je bravois des saisons les outrages divers,</l>
@@ -4456,7 +4457,7 @@
               <author key="Luce">Luce</author><note place="bottom">[Table des matières] Luce. <title>Achille racontant son éducation</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Priam aux pieds d’ Achille , redemandant le corps d’ Hector .</hi>
             </label>
             <l><pb n="127" xml:id="p127"/>    Achille, au nom des Dieux, dont vous êtes l’image.</l>
@@ -4500,7 +4501,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Achille à Priam.</hi>
             </label>
             <l><pb n="128" xml:id="p128"/>    Monarque d’Ilion, dit le fils de Pélée,</l>
@@ -4547,7 +4548,7 @@
           <head><hi rend="sc">Agamemnon</hi>, <lb/><hi rend="i">Roi de Mycène et d’Argos.</hi></head>
           <p><pb n="129" xml:id="p129"/><hi rend="sc">Il</hi> fut mis à la tête des Rois Grecs, ligués contre la ville de Troie. La flotte combinée étant retenue en Aulide, par les vents contraires, sa cruelle piété, égarée par l’oracle de Chalcas, lui fit sacrifier aux Dieux sa fille Iphigénie. Non moins jaloux de son rang que superstitieux, il ne montra, dans le camp, qu’une ame également orgueilleuse et foible. Sa scandaleuse et bruyante querelle avec Achille retarda la chute de Troie. (<hi rend="i">Voy..</hi> Achille, et Superstition.) De retour à Mycène, il fut assassiné par Egiste, amant de son infidelle épouse Clytemnestre. La sensible Electre, sa fille, ne cessa de pleurer sa mort ; Oreste, son fils, le vengea par le sang de l’amante et de l’amant.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Electre à sa s œu r Iphise .</hi>
             </label>
             <l>    Je veux qu’il les écoute ; oui, je veux dans son cœur</l>
@@ -4578,7 +4579,7 @@
               <author key="Voltaire">Voltaire</author><note place="bottom">[Table des matières] Voltaire. <title>Oreste, acte I. scène II</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Clytemnestre.</hi>
             </label>
             <l>                                  L’aspect de mes enfans,</l>
@@ -4605,7 +4606,7 @@
               <author key="Voltaire">Le même</author><note place="bottom">[Table des matières] Le même [Voltaire]. <title>Oreste, acte I, scène IV</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Oreste à Palamède.</hi>
             </label>
             <l>                                                      Laisse-moi.</l>
@@ -4646,7 +4647,7 @@
           <head><hi rend="sc">Philoctète</hi>, <lb/><hi rend="i">Fils de Pæan.</hi></head>
           <p><hi rend="sc">Il</hi> fut l’ami, le compagnon, et presque le rival d’Alcide. Le héros mourant lui ordonna d’enfermer dans sa tombe son arc et ses flèches teintes du sang de l’hydre de Lerne, et lui fit jurer de ne jamais découvrir sa sépulture. Les Grecs instruits par l’Oracle que <pb n="132" xml:id="p132"/>la ville de Troie ne céderoit qu’aux flèches d’Hercule, vinrent les demander à Philoctète. Vaincu par leurs prières, il les leur découvrit en frappant du pied à l’endroit qui les recéloit : le Ciel punit cruellement son parjure : une flèche tomba sur le pied dont il avoit frappé la terre. Sa plaie exhalant bientôt une odeur infecte et insupportable, il fut abandonné par les Grecs, durant son sommeil, dans l’île de Lemnos, où il souffrit long-temps d’horribles douleurs. La mort d’Achille ramena les Grecs auprès de lui. Philoctète indigné de leur perfidie, fut d’abord insensible à leurs instances : il se rendit enfin à l’éloquence artificieuse d’Ulysse, et suivit ce héros au camp des Grecs. Une de ces flèches ayant atteint et tué le lâche Pâris, décida du sort d’Ilion.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Philoctète à Pyrrhus.</hi>
             </label>
             <l>    O mon fils ! vous voyez délaissé dans Lemnos</l>
@@ -4722,7 +4723,7 @@
           <head><hi rend="sc">Patrocle</hi>, <lb/><hi rend="i">Fils de Ménœtius et de Sthénélé.</hi></head>
           <p><hi rend="sc">L’un</hi> des princes Grecs qui allèrent assiéger Troie. Achille l’aima tendrement. Pendant que ce héros, brouillé avec Agamemnon, vivoit retiré dans sa tente pour ne plus combattre, Patrocle se revêtit de ses armes, et marcha contre les Troyens qui prirent pour Achille et fuirent devant lui. Il fit mordre la poussière à Sarpédon, dans un combat singulier ; mais ayant été reconnu, il fut à son tour terrassé et tué par Hector. Achille furieux de la perte de son ami, reprit les armes, attaqua Hector, lui trancha 1a vie, et porta son cruel ressentiment jusqu’à l’attacher à son çhar, et à le traîner trois fois autour des murailles de Troie. Les larmes de Priam, père d’Hector, appaisèrent son courroux : il déplora les lamentables malheurs de cet illustre vieillard, et lui rendit le corps de son fils.</p>
           <quote>
-            <label><hi rend="i">Patrocle à Achille</hi>.</label>
+            <label type="head"><hi rend="i">Patrocle à Achille</hi>.</label>
             <l>    « Héros, j’espérois tout de tes seules vertus,</l>
             <l>Mais Ilion l’emporte, et la Grèce n’est plus.</l>
             <l>Que les pleurs d’un ami n’irritent point Achille !</l>
@@ -4782,7 +4783,7 @@
               <author key="Villard" role="translator">Villard</author><note place="bottom">[Table des matières] Villard. <title>Patrocle à Achille. Illiade, liv. XVI</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">Patrocle tué par Hector</hi>.</label>
+            <label type="head"><hi rend="i">Patrocle tué par Hector</hi>.</label>
             <l>               La Mort a fermé sa paupière ;</l>
             <l>La Gloire a terminé sa brillante carrière.</l>
             <l>A peine ce héros avoit quitté ces lieux,</l>
@@ -4797,7 +4798,7 @@
               <author key="Sivry">Sivry</author><note place="bottom">[Table des matières] Sivry. <title>Briséis, acte IV, scène VI</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Vengeance d’Achille.</hi>
             </label>
             <l>    Hâtons-nous : poursuivons ce superbe vainqueur ;</l>
@@ -4820,7 +4821,7 @@
           <head><hi rend="sc">Hippolyte</hi>, <lb/><hi rend="i">Fils de Thésée et d’Antiope, Reine des Amazones.</hi></head>
           <p><pb n="137" xml:id="p137"/><hi rend="sc">Digne</hi> enfant d’un héros et d’une héroïne, Hippolyte exerçoit sa mâle jeunesse aux fatigues de la chasse. Il faisoit son unique plaisir de cette occupation innocente et sévère, et il étoit heureux. La passion insensée de sa belle-mère empoisonna son bonheur. Phèdre n’ayant pu le séduire, l’accusa auprès de Thésée de son propre crime. L’époux abusé pria Neptune de le venger d’un fils qu’il croyoit coupable, il ne fut que trop exaucé. Hippolyte se promenant dans un char sur les bords de la mer de Trézène, un monstre marin sorti tout-à-coup du sein des ondes, effraya tellement ses chevaux, qu’ils n’obéirent pas au frein, et traînèrent le malheureux prince à travers les rochers. Le char se fracassa et Hippolyte périt. Phèdre ne put résister à ses remords ; elle détrompa Thésée, et se perça le sein.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Hippolyte calomnié, à Thésée.</hi>
             </label>
             <l>    D’un mensonge si noir justement irrité,</l>
@@ -4853,7 +4854,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Théramène annonçant la mort d’ Hippolyte , à Thésée .</hi>
             </label>
             <l>    J’ai vu, Seigneur, j’ai, vu votre malheureuse fils</l>
@@ -4888,7 +4889,7 @@
           <head><hi rend="sc">Énée</hi>, <lb/><hi rend="i">Fils d’Anchise et de Vénus.</hi></head>
           <p><hi rend="sc">Ce</hi> héros fut aussi célébre par sa valeur que par sa piété. Après avoir défendu Troie jusquà l’embrasement de cette ville infortunée, il se sauva la nuit du milieu des flammes, chargé de ses Dieux Pénates, portant son vieux père sur ses épaules, tenant son fils Ascagne par la main, et suivi de la malheureuse Créuse son épouse qui se perdit en chemin et ne reparut plus. Profondément affligé de cette perte, Enée monta sur ses vaisseaux, avec une troupe de Troyens fugitifs comme lui. Jeté par la tempête aux bords de Carthage, il y fut accueilli et aimé de Didon. Mais, après l’avoir vengée d’Iarbe, roi des Gétules, il l’abandonna pour obéir aux Dieux. Il aborda ensuite en Sicile, et de là en Italie, où il disputa Lavinie à Turnus, chef des Rutules, et épousa cette Princesse. Le petit royaume qu’il fonda dans cette heureuse contrée, fut le berceau du vaste Empire romain.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Énée à Acathe.</hi>
             </label>
             <l>                    Je ne m’en défends pas ;</l>
@@ -4937,7 +4938,7 @@
           <head>Amazones.</head>
           <p><pb n="141" xml:id="p141"/><hi rend="sc">Femmes</hi> guerrières, qui habitoient sur les bords du Thermodon ou au pied du mont Caucase, dans le voisinage des Scythes. Au-dessus des foiblesses de leur sexe, elles ne recevoient des hommes qu’une fois l’année. C’étoit à la naissance du printemps, époque de leurs sacrifices. Les Amazones tuoient leurs enfans mâles ; elles ne conservoient que leurs filles, à qui elles brûloient la mammelle droite pour les rendre plus propres à tirer de l’arc. Ces héroïnes soutinrent de grandes guerres contre leurs voisins. La poésie a sur-tout chanté les combats et les victoires de Penthésilée, issue du sang de Mars, et la valeur héroïque qu’elle déploya sous les murailles de Troie. Le seul Hercule eut la gloire de vaincre le Amazones ; il fit prisonnière leur dernière reine Antiope, qu’il remit à Thésée, et renversa presque leur Empire.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Penthésilée vole du secours de s Troyens, et venge la mort d’ H ector .</hi>
             </label>
             <l>    Les Troyens avoient vu sous la lance d’Achille,</l>
@@ -5053,7 +5054,7 @@
           <head><hi rend="sc">Deucalion</hi>, <lb/><hi rend="i">Roi de Thessalie, Fils de Prométhée, et Epoux de Pyrrha.</hi></head>
           <p><pb n="145" xml:id="p145"/><hi rend="sc">Ce</hi> fut de son temps qu’arriva le fameux déluge qui a illustré son nom. Les Dieux irrités des crimes des hommes, engloutirent la terre sous les eaux : le genre humain y périt. Deucalion et Pyrrha furent seuls sauvés, à cause de leur justice. Ce couple choisi consulta l’oracle de Thémis, sur le moyen de repeupler le monde. La Déesse leur ordonna de jeter par-derrière et par-dessus la tête les os de leur mère, c’est-à-dire, des pierres. Ces pierres sortant de leurs mains, furent métamorphosées, celles de Deucalion en hommes, et celles de Pyrrha en femmes.</p>
           <quote>
-            <label rend="sc">Deucalion à Pyrrha.</label>
+            <label type="head" rend="sc">Deucalion à Pyrrha.</label>
             <l>    O ma femme, ô ma sœur, compagne toujours chère,</l>
             <l>Toi que seule épargna la céleste colère !</l>
             <l>C’étoit peu que du sang le fraternel lien</l>
@@ -5214,7 +5215,7 @@
               <author key="Sabatier">Sabatier</author><note place="bottom">[Table des matières] Sabatier. <title>L’enthousiasme. Ode</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">à Sicard .</hi>
             </label>
             <l><pb n="150" xml:id="p150"/>    Je voudrois, comme vous, réformer la nature,</l>
@@ -5468,7 +5469,7 @@
           <head><hi rend="sc">Amphion</hi>, <lb/><hi rend="i">Fils de Jupiter et d’Antiopc, Reine de Thèbes</hi>.</head>
           <p><pb n="157" xml:id="p157"/><hi rend="sc">Disciple</hi> de Mercure, Amphion mérita de manier la lyre de ce Dieu. Les sons qu’il en tira devant les Thébains, occupés à bâtir leur ville, furent le miracle de l’Harmonie. Les pierres, sensibles à ses accords mélodieux, s’animèrent ; elles allèrent se poser et se ranger d’elles-mêmes les unes sur les autres, et formèrent ainsi les murs de Thèbes. Amphion inventa la musique, et son frère Zéthus partagea son heureux génie.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Le nouvel Amphion . <lb/> Fable.</hi>
             </label>
             <l>        Certain Badaud… quelques malins esprits</l>
@@ -5518,7 +5519,7 @@
               <author key="Imbert">Imbert</author><note place="bottom">[Table des matières] Imbert. <title>Le nouvel Amphion. Fable</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">A une jolie Femme . <lb/> Qui se plaignoit de ce qu’on bâtissoit chez elle.</hi>
             </label>
             <l>                  Amphion, en touchant la lyre,</l>
@@ -5645,16 +5646,14 @@
             <l>               Les Dieux prennent soin de ton sort :</l>
             <l>Un Dauphin attiré par ta voix et ta lyre,</l>
             <l>Approche, te reçoit, et ce vivant navire</l>
-            <l>               Te mène heureusement au port<note place="bottom">[Table des matières]
-              <author key="anonyme">D ***</author>.
-              <author rend="margin" key="Roy" resp="editor"/> <title>Cantate</title>.</note>.</l>
+            <l>               Te mène heureusement au port<note place="bottom">[Table des matières] <author key="anonyme">D ***</author>. <title>Cantate</title>.</note><note place="margin">[<author key="Roy" resp="editor">Roy</author>]</note>.</l>
           </quote>
         </div>
         <div>
           <head><hi rend="sc">Priam</hi>, <lb/><hi rend="i">Roi de Troie, Fils de Laomédon.</hi></head>
           <p><hi rend="sc">Quand</hi> Hercule se fut emparé de Troie, il fut emmené captif en Grèce avec sa sœur Hésione. Devenu libre dans la suite, il revint dans sa ville, en releva les murs, épousa Hécube, dont il eut un grand nombre d’enfans, et fit fleurir son Empire. Son bonheur fut troublé par le lâche et infidelle Pâris, qui ravit Hélène à Ménélas. Les Rois Grecs irrités de cet enlèvement, marchèrent contre Troie ! ils l’assiégèrent pendant dix années, la prirent, la saccagèrent, et massacrèrent l’infortuné Priam, au pied de l’autel qu’il embrassoit.</p>
           <quote>
-            <label rend="sc">Énée à Didon.</label>
+            <label type="head" rend="sc">Énée à Didon.</label>
             <l>    Mes yeux ont vu Pyrrhus au milieu des bourreaux,</l>
             <l>Insulter aux vaincus, se souiller de carnage,</l>
             <l>Et les deux Rois jaloux lui disputer de rage.</l>
@@ -5724,7 +5723,7 @@
         <div>
           <head><hi rend="sc">Anchise</hi>, <lb/><hi rend="i">Prince Troyen</hi>.</head>
           <p><hi rend="sc">Beau</hi> et bien fait dans sa jeunesse, il charma les yeux de Vénus. Cette Déesse l’épousa secrètement, et en eut Enée, dont elle accoucha sur les bords du Simoïs. Anchise enivré de sa gloire, devint indiscret : Jupiter l’effleura de sa foudre. Chargé d’années à l’incendie de Troie, le pieux Enée l’emporta sur ses épaules hors de la ville, tenant son fils Ascagne par la main, et l’embarqua avec lui sur ses vaisseaux. Anchise mourut depuis en Sicile, où son fils lui éleva un tombeau magnifique, et honora ses cendres par des jeux funèbres.</p>
-          <label><hi rend="i">Anchise à Enée <lb/>Descendu aux Enfers. <lb/>Sur la transmigration des Ames</hi>.</label>
+          <label type="head"><hi rend="i">Anchise à Enée <lb/>Descendu aux Enfers. <lb/>Sur la transmigration des Ames</hi>.</label>
           <l>    C’est toi, mon fils, dit-il, en pleurant d’allégresse,</l>
           <l>Rien n’a donc étonné ta pieuse tendresse !</l>
           <l>Nous pouvons, grace au Ciel, nous parler et nous voir ;</l>
@@ -5913,7 +5912,7 @@
           <head><hi rend="sc">Atrée</hi>, <lb/><hi rend="i">Fils de Pélops.</hi></head>
           <p><hi rend="sc">Jamais</hi> Prince offensé ne donna un plus terrible exemple de vengeance. Son frère Thyeste avoit séduit Erope son épouse, et s’étoit soustrait par la fuite à son ressentiment, Atrée dissimula pour se venger mieux ; il feignit d’avoir rendu son amitié à Thyeste ; et l’ayant attiré dans son palais et admis à sa table, il lui fit manger l’enfant qu’il avoit eu d’Erope. A la vue de cet abominable festin, le Soleil recula d’horreur.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Atrée à E u risthène.</hi>
             </label>
             <l>    Enfin ce jour heureux, ce jour tant souhaité</l>
@@ -5922,7 +5921,7 @@
             <l>Eprouvera bientôt le sort le plus funeste !</l>
             <l>Mon fils, prêt à servir un si juste transport,</l>
             <l>Va porter dans ses murs et la flamme et la mort.</l>
-            <label><hi rend="i">Euristhène</hi>.</label>
+            <label type="head"><hi rend="i">Euristhène</hi>.</label>
             <l>    Ainsi, loin d’épargner l’infortuné Thyeste,</l>
             <l>Vous détruisez encor l’asile qui lui reste.</l>
             <l>Ah ! Seigneur, si le sang qui vous unit tous deux,</l>
@@ -5931,7 +5930,7 @@
             <l>Que le barbare soin de prolonger sa vie ;</l>
             <l>Accablé des malheurs qu’il éprouve aujourd’hui,</l>
             <l>Le laisser vivre encor, c’est se venger de lui.</l>
-            <label>
+            <label type="head">
               <hi rend="i">Atrée.</hi>
             </label>
             <l><pb n="171" xml:id="p171"/>    Que je l’épargne, moi ! lassé de le poursuivre,</l>
@@ -5968,7 +5967,7 @@
           <head><hi rend="sc">Œdipe</hi>, <lb/><hi rend="i">Fils de Laïus, Roi de Thèbes, et de Jocaste.</hi></head>
           <p><pb n="172" xml:id="p172"/>L’<hi rend="sc">Oracle</hi> avoit prédit à Laïus que son fils seroit à la fois parricide et incestueux. Epouvanté de l’idée de ce double crime, il remet l’Enfant qui vient de naître à un officier, avec ordre de le faire mourir. Celui-ci, touché de pitié, se borne à le suspendre par les pieds aux franches d’un arbre. Un berger détache l’enfant et le porte à Polybe, roi de Corinthe, qui le nomme Œdipe, de l’enflure qu’il avoit aux pieds. Œdipe, devenu grand rencontre Laïus dans un défilé de la Phocide, prend querelle avec lui, le tue sans le connoître. Il explique depuis, à Thèbes, l’énigme du Sphinx. Jocaste doit être le prix du vainqueur de ce monstre ; elle devient le sien. Cet affreux hymen excite l’horreur et le courroux des Dieux : ils frappent les Thébains de la peste. Malheureux jouet du Destin, il apprend du berger qui l’a sauvé, le mystère de sa naissance. Odieux à la nature, à lui-même, il se crève les yeux de désespoir, s’exile de sa patrie, et va s’enfoncer dans les rochers déserts de Colonos.</p>
           <quote>
-            <label rend="sc">Œdipe à Jocaste.</label>
+            <label type="head" rend="sc">Œdipe à Jocaste.</label>
             <l>    Il n’est pas encor temps de répandre des larmes,</l>
             <l>Vous aprendrez bientôt d’autres sujets d’allarmes.</l>
             <l>Ecoutez-moi, Madame, et vous allez trembler :</l>
@@ -6019,7 +6018,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Désespoir d ’ Œdipe.</hi>
             </label>
             <l>    Le voilà donc rempli cet Oracle exécrable,</l>
@@ -6430,7 +6429,7 @@
           <head><hi rend="sc">Didon</hi>, <lb/><hi rend="i">Fille de Bélus, Roi de Tyr.</hi></head>
           <p><pb n="187" xml:id="p187"/>Désolée de la mort de son malheureux époux Sichée, que l’avare et cruel Pygmalion avoit égorgé au pied des autels, pour s’emparer de son trésor, Didon se déroba à la fureur du monstre, et se sauva en Afrique avec Anne, sa tendre sœur. Elle s’y fit céder par Iarbe, roi des Gétules, un terrain, sur lequel elle bâtit Carthage. Le Prince Africain voulut envain l’épouser : Didon fidelle aux mânes de Sichée, refusa sa main. Iarbe lui ayant déclaré la guerre, elle fut secourue par Enée, que la tempête avoit poussé sur ses bords. Didon éprise de ce Héros, l’avoit secrètement épousé ; mais ce second hymen lui fut aussi fatal que le premier. Enée sacrifia sa tendresse aux ordres des Dieux ; il prit la fuite et abandonna la malheureuse Didon, qui se livrant à son désespoir, se poignarda sur un bûcher.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Didon à Elise, <lb/> Après la fuite d’Enée.</hi>
             </label>
             <l>    Je ne le verrai plus ! l’ai-je bien entendu ?</l>
@@ -6449,12 +6448,12 @@
             <l>Et voilà de quel prix tant d’amour est payé !</l>
             <l>Elise, en est-ce fait ? n’est-il plus d’espérance ?</l>
             <l>S’il voyoit mes douleurs, s’il sait que son absence…</l>
-            <label>
+            <label type="head">
               <hi rend="i">Elise.</hi>
             </label>
             <l>    Hélas ! que dites-vous ? les ondes et les vents,</l>
             <l>Propices à ses vœux…</l>
-            <label>
+            <label type="head">
               <hi rend="i">Didon .</hi>
             </label>
             <l>                                    Eh bien, je vous entends.</l>
@@ -6472,13 +6471,13 @@
             <l>Tremble, ingrat, je mourrai ; mais ma haine vivra.</l>
             <l>Tu vas fonder le trône où le destin t’appelle,</l>
             <l>Et moi je te déclare une guerre immortelle….</l>
-            <label>
+            <label type="head">
               <hi rend="i">Elise.</hi>
             </label>
             <l>    Quels effroyables vœux ! et quel transport de haine !</l>
             <l>Cachez des mouvemens peu dignes d’une Reine ;</l>
             <l>Au sein de la victoire oubliez vos revers.</l>
-            <label rend="sc">Didon.</label>
+            <label type="head" rend="sc">Didon.</label>
             <l>    Ma honte et mon amour remplissent l’Univers.</l>
             <l>J’en rougis, il est temps que ma douleur finisse ;</l>
             <l><pb n="189" xml:id="p189"/>Il est temps que je fasse un entier sacrifice ;</l>
@@ -6636,7 +6635,7 @@
               <author key="Beauharnais">Beauharnais</author><note place="bottom">[Table des matières] Beauharnois. <title>A l’ombre de Dorat</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">Inscription d’un Moent élevé à la mémoire <lb/>d’une jeune Dame, par son Epoux</hi>.</label>
+            <label type="head"><hi rend="i">Inscription d’un Moent élevé à la mémoire <lb/>d’une jeune Dame, par son Epoux</hi>.</label>
             <l>    Rien ne peut affranchir des lois de la Nature ;</l>
             <l>            Périr est le sort des Mortels !</l>
             <l>Celle qui sut charmer sans art, sans imposture,</l>
@@ -6663,7 +6662,7 @@
               <author key="De Schosne">De Schosne</author><note place="bottom">[Table des matières] De Schosne. <title>Inscription d’un Moent</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">Pour le buste d’une jeune Dame de Lyon, morte <lb/>à la suite de ses couches</hi>.</label>
+            <label type="head"><hi rend="i">Pour le buste d’une jeune Dame de Lyon, morte <lb/>à la suite de ses couches</hi>.</label>
             <l>    Contemplons, dans ces traits, des mères le modèle :</l>
             <l>            Gardons-nous de pleurer son sort ;</l>
             <l>Ainsi que la Vertu, Delphire est immortelle,</l>
@@ -6695,7 +6694,7 @@
           <head><hi rend="sc">Alceste</hi>, <lb/><hi rend="i">Fille de Pélias et Femme d’Admète.</hi></head>
           <p><hi rend="sc">Admète</hi> se mouroit : Alceste consulta l’Oracle sur le sort de cet époux adoré. <hi rend="i">Il ne peut vivre</hi>, répondirent les Dieux, <hi rend="i">si personne ne rachète ses jours par les siens</hi>. Alceste se dévoua pour lui, et fut sacrifiée. Elle reçut le prix de sa tendresse conjugale, et de sa vertu courageuse. Hercule, logé un jour par Admète, entreprit de lui rendre son Epouse ; il descendit aux Enfers, combattit la Mort, et ramena Alceste sur la Terre.</p>
           <quote>
-            <label><hi rend="i">Les adieux d’Alceste mourante, à son Epoux</hi>.</label>
+            <label type="head"><hi rend="i">Les adieux d’Alceste mourante, à son Epoux</hi>.</label>
             <l><pb n="196" xml:id="p196"/>    Cher Admète, je touche à mon heure suprême :</l>
             <l>Voyez ce que j’ai fait pour un époux que j’aime ;</l>
             <l>Pour vous sauver le jour, je me livre à la mort ;</l>
@@ -6755,7 +6754,7 @@
           <head><hi rend="sc">Andromaque</hi>, <lb/><hi rend="i">Femme d’Hector.</hi></head>
           <p><hi rend="sc">Ce</hi> fut la plus tendre et la plus malheureuse des femmes et des mères. Elle vit tomber sous les coups d’Achille un époux qu’elle adoroit ; elle vit dévouer à la mort, par les Princes Grecs, l’innocent Astyanax, qui lui retraçoit l’image de son infortuné père. Reine captive, après la prise de Troie, elle fut forcée d’épouser Pyrrhus, fils du meurtrier de son époux, qui l’emmena dans l’Epire. Pyrrhus mort, elle épousa Hélénus, fils de Priam. Quoiqu’attachée, par ce nouveau lien, au frère de son premier mari, elle ne put jamais l’oublier. Veuve inconsolable, et sans cesse occupée de son cher Hector, ses chastes mains lui dressèrent un tombeau en Epire, sur les bords d’un faux <pb n="198" xml:id="p198"/>Simoïs : elle y évoquoit ses mânes ; elle lui offroit des sacrifices, et sa douleur fut immortelle comme son amour.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Adieux d’Hector à Andromaque .</hi>
             </label>
             <l>Avare des instans, il court, et hors d’haleine</l>
@@ -6862,7 +6861,7 @@
               <author key="Homère" role="translator"/><note place="bottom">[Table des matières] Bussi. <title>Adieux d’Hector à Andromaque</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Adieux d’ Andromaque à Astyanax.</hi>
             </label>
             <l>    O crime ! ô désespoir ! mon fils ! ma seule joie !</l>
@@ -6925,7 +6924,7 @@
             <l>Du plus juste des Rois, et du plus grand des Dieux,</l>
             <l>L’image de l’époux, dont j’adore la cendre<note place="bottom">[Table des matières]
               <author key="Voltaire">Voltaire</author>. <title>Mérope. acte I. scène I</title>.</note> ?</l>
-            <label>
+            <label type="head">
               <hi rend="i">Isménie à Narbas .</hi>
             </label>
             <l>    La Victime étoit prête, et de fleurs couronnée ;</l>
@@ -6992,7 +6991,7 @@
           <head><hi rend="sc">Ariane</hi>, <lb/><hi rend="i">Fille de Minos et de Pasiphaé.</hi></head>
           <p><hi rend="sc">Thésée</hi> avoit été condamné par le Sort à être la proie du Minotaure. Ariane éprise de sa figure à la fois noble et aimable, fut effrayée du danger qu’il alloit courir. Elle lui donna un fil qui le guida dans les détours du labyrinthe et l’en fit sortir heureusement, après que Thésée eut tué le monstre. Le Héros enleva sa tendre Libératrice ; mais bientôt infidelle et perfide, il l’abandonna dans l’île de Naxos. Ariane y pleuroit la fuite de son infidelle. Bacchus la consola de son malheur en l’élevant au rang de son épouse. Ce Dieu décora sa tête d’une couronne étoilée, qu’il mit après sa mort au nombre des constellations.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Ariane a Nérine.</hi>
             </label>
             <l>              … Tu vois, ma douleur est si forte,</l>
@@ -7205,7 +7204,7 @@
           <head><hi rend="sc">Castor</hi><hi rend="i"> et</hi><hi rend="sc"> Pollux</hi>, <lb/><hi rend="i">Fils de Léda</hi>.</head>
           <p><hi rend="sc">Leur</hi> mère eut le premier de son époux Tyndare, et le second de Jupiter. Ces deux frères s’aimoient si tendrement qu’ils ne se quittoient jamais. Ils suivirent Jason dans la Colchide, et conquirent avec lui la Toison d’or. Pollux ayant reçu de son Père l’Immortalité, le pria d’en faire part à son cher Castor. Jupiter, lui accorda cette faveur, à condition qu’ils n’en jouiroient qu’alternativement. Castor et Pollux furent après métamorphosés en ces deux Astres qu’on nomma les Gémeaux.</p>
           <quote>
-            <label><hi rend="i">Pollux, seul</hi>.</label>
+            <label type="head"><hi rend="i">Pollux, seul</hi>.</label>
             <l>    Présent des Dieux, doux charme des humains,</l>
             <l>O divine Amitié ! viens pénétrer nos ames ;</l>
             <l>          Les cœurs éclairés de tes flammes,</l>
@@ -7219,7 +7218,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Le même, à Jupiter.</hi>
             </label>
             <l>          Ma voix, puissant Maître du Monde,</l>
@@ -7243,8 +7242,8 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label rend="sc">Pollux, Castor et les Ombres.</label>
-            <label>
+            <label type="head" rend="sc">Pollux, Castor et les Ombres.</label>
+            <label type="head">
               <hi rend="i">Pollux.</hi>
             </label>
             <l>                  Rassurez-vous, Habitans fortunés,</l>
@@ -7252,49 +7251,49 @@
             <l>              J’y viens goûter la paix que vous donnez</l>
             <l>C’est ici des Héros la demeure tranquille.</l>
             <l>Chère Ombre, paraissez.</l>
-            <label rend="sc">Castor.</label>
+            <label type="head" rend="sc">Castor.</label>
             <l>                                       O mon frère ! est-ce vous ?</l>
             <l>O momens de tendresse !</l>
-            <label><hi rend="i">Ensemble</hi>.</label>
+            <label type="head"><hi rend="i">Ensemble</hi>.</label>
             <l>                       O momens les plus doux ?</l>
             <l>                    O mon frère ! est-ce vous ?</l>
-            <label><hi rend="i">Pollux</hi>.</label>
+            <label type="head"><hi rend="i">Pollux</hi>.</label>
             <l>    C’est moi qui viens briser la chaîne qui te lie ;</l>
             <l>C’est moi qui t’ai vengé d’un rival odieux.</l>
-            <label><hi rend="i">Castor</hi>.</label>
+            <label type="head"><hi rend="i">Castor</hi>.</label>
             <l>Je verrois la clarté des Cieux !</l>
-            <label>
+            <label type="head">
               <hi rend="i">Pollux.</hi>
             </label>
             <l><pb n="213" xml:id="p213"/>     C’est peu de te rendre à la vie,</l>
             <l>Le sort t’élève au rang des Dieux.</l>
-            <label>
+            <label type="head">
               <hi rend="i">Castor .</hi>
             </label>
             <l>                   Qu’entends-je ? quel bonheur !</l>
             <l>              Je quitterai ces lieux ?</l>
             <l>Et le Ciel près de toi me permettra de vivre ?</l>
-            <label rend="sc">Pollux.</label>
+            <label type="head" rend="sc">Pollux.</label>
             <l>Non, tu jouiras seul d’un partage si doux ;</l>
             <l>              Et le Destin jaloux</l>
             <l>Va m’imposer les fers dont ma main te délivre.</l>
-            <label><hi rend="i">Castor </hi> , </label>
+            <label type="head"><hi rend="i">Castor </hi> , </label>
             <l>Le fils de Jupiter doit lui donner la loi.</l>
-            <label><hi rend="i">POLLUX</hi>.</label>
+            <label type="head"><hi rend="i">POLLUX</hi>.</label>
             <l>Vois dans les Cieux la gloire qui t’appelle.</l>
-            <label>
+            <label type="head">
               <hi rend="i">Castor .</hi>
             </label>
             <l>J’immole au seul plaisir qui m’approche de toi,</l>
             <l>                Toute la grandeur immortelle.</l>
-            <label>
+            <label type="head">
               <hi rend="i">Jupiter, à Castor et Pollux.</hi>
             </label>
             <l>              Tant de vertus doivent prétendre</l>
             <l>          Au partage de nos autels.</l>
             <l>Offrons à l’Univers des signes immortels</l>
             <l>D’une amitié si pure et d’un amour si tendre.</l>
-            <label>
+            <label type="head">
               <hi rend="i">Ch œu rs .</hi>
             </label>
             <l>              Que le Ciel, que la Terre et l’Onde</l>
@@ -7369,7 +7368,7 @@
           <p><pb n="216" xml:id="p216"/>Il jouoit divinement de la Lyre. A ses harmonieux accords, on voyait les bêtes féroces s’adoucir, les arbres et les rochers se mouvoir, les fleuves suspendre leur cours. Orphée perdit sa femme Eurydice le jour même de ses noces. Mortellement affligé de son infortune, il descendit aux Enfers, et la redemanda à Pluton. Le Dieu touché des sons de sa Lyre, lui rendit son épouse, à condition qu’il ne regarderoit derrière lui, qu’après être sorti du sombre Empire. Orphée ne put contenir son impatience. Il tourna la tête pour voir si sa chère Eurydice, le suivoit, aussi-tôt Eurydice disparut, (<hi rend="i">Voy. Aristée</hi>). Ce malheur le fit renoncer aux femmes. Les Bacchantes irritées de son indifférence pour leur sexe, le mirent en pièces, et jetèrent sa tête dans l’Hèbre. Orphée fut métamorphosé en Cygne par son père.</p>
           <p>On le représente avec une Lyre ou un, Luth à la main.</p>
           <quote>
-            <label><hi rend="i">Protée à Aristée</hi>.</label>
+            <label type="head"><hi rend="i">Protée à Aristée</hi>.</label>
             <l>    Eurydice fuyoit, hélas ! et ne vit pas</l>
             <l>Un serpent que les fleurs réceloient sur ses pas :</l>
             <l>La mort ferma ses yeux ; les Nymphes, ses compagnes</l>
@@ -7732,7 +7731,7 @@
           <head><hi rend="sc">Alphée</hi><hi rend="i"> et</hi><hi rend="sc"> Aréthuse</hi>, <lb/><hi rend="i">Fille de Nérée et de Doris.</hi></head>
           <p><pb n="227" xml:id="p227"/><hi rend="sc">Aréthuse</hi>, nymphe et compagne de Diane, préféroit, comme la Déesse, les plaisirs de la chasse aux peines de l’amour. Alphée, épris de sa beauté, s’attachoit sans cesse à ses pas ; elle refusoit toujours de répondre à ses vœux. Les Dieux voulant mettre un terme à ces poursuites importunes, changèrent Arétuhse en fontaine d’Ortygie, et Alphée en fleuve d’Elide. L’amour d’Alphée survécut à sa métamorphose. Ses eaux traversoient le sein des mers sans s’y mêler, et alloient s’unir toujours pures et limpides, aux eaux d’Aréthuse.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Aréthuse à Cérès.</hi>
             </label>
             <l>    L’Achaïe autrefois me vit dans ses forêts</l>
@@ -8268,7 +8267,7 @@
               <author key="Le Prieur">Le Prieur</author><note place="bottom">[Table des matières] Le Prieur. <title>Du Dieu Plutus, etc.</title></note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">à un Parvenu insolent</hi>.</label>
+            <label type="head"><hi rend="i">à un Parvenu insolent</hi>.</label>
             <l>            Toi qu’éblouit un bonheur éphémère,</l>
             <l>        Sois plus modeste, impérieux Arcas :</l>
             <l>Penses-tu conserver les terres, les contrats,</l>
@@ -8425,7 +8424,7 @@
           <head>Amalthée.</head>
           <p><hi rend="sc">Chèvre</hi> fameuse qui allaita Jupiter sur le mont Dictée. Ce Dieu reconnoissant la plaça depuis au nombre des Constellations, et consacra sa corne à l’Abondance. Selon d’autres, Amalthée étoit fille de Mélissus, roi de Crète, et ce fut elle qui nourrit Jupiter du lait de chèvre, et qui lui prodigua tous les soins maternels. On peut la regarder comme le modèle de ces tendres mères qui se font un devoir sacré d’allaiter les fruits d’un chaste hymen, et un plaisir de sacrifier, en leur faveur, les agrémens de la ville à ceux de la campagne.</p>
           <quote>
-            <label><hi rend="i">à une Amie</hi>, <lb/><hi rend="i">Sur l’obligation où sont les mères d’allaiter leurs enfans.</hi></label>
+            <label type="head"><hi rend="i">à une Amie</hi>, <lb/><hi rend="i">Sur l’obligation où sont les mères d’allaiter leurs enfans.</hi></label>
             <l>    Tu connois les devoirs qu’un saint nœud nous impose ;</l>
             <l>Ton vœu le plus ardent sera de le remplir.</l>
             <l>Il en est un sur-tout bien cher à la. Nature,</l>
@@ -8477,7 +8476,7 @@
               <author key="Leurencin">Julie Laurencin</author>. <title>Sur l’obligation où sont les Mères de nourrir leurs enfans</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">à une mère <lb/> Qui se propose de nourrir son Enfant .</hi>
             </label>
             <l><pb n="249" xml:id="p249"/>    Oui, ce devoir, Eglé, sera cher à ton cœur ;</l>
@@ -8515,7 +8514,7 @@
               <author key="Jossaud">Jossaud</author><note place="bottom">[Table des matières] Jossaud. <title>A une Mère qui se propose de nourrir son enfant</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">à ma Femme, <lb/>le jour de sa fête</hi>.</label>
+            <label type="head"><hi rend="i">à ma Femme, <lb/>le jour de sa fête</hi>.</label>
             <l><pb n="250" xml:id="p250"/>    Il est passé l’heureux temps où les femmes,</l>
             <l>Dans leurs époux embrassoient des amans !</l>
             <l>L’on rit de tout, et les beaux sentimens</l>
@@ -8576,7 +8575,7 @@
               <author key="La Fontaine">Lafontaine</author><note place="bottom">[Table des matières] La Fontaine. <title>Philomèle et Progné</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">à des Musiciennes, <lb/>Qui, après avoir chanté d’une manière très-agréable</hi>, <lb/><hi rend="i">m’ont prié de chanter à mon tour.</hi></label>
+            <label type="head"><hi rend="i">à des Musiciennes, <lb/>Qui, après avoir chanté d’une manière très-agréable</hi>, <lb/><hi rend="i">m’ont prié de chanter à mon tour.</hi></label>
             <l>    Point n’ai reçu de l’avare Nature,</l>
             <l>Cet art charmant de moduler des sons</l>
             <l>Ma rauque voix fait rompre la mesure,</l>
@@ -8856,7 +8855,7 @@
           <head>Dryope.</head>
           <p><pb n="260" xml:id="p260"/><hi rend="sc">Nymphe</hi> d’Arcadie, aimée de Mercure. Tenant un jour dans ses bras son jeune enfant, elle coupa, pour l’amuser, un rameau de Lotos, plante consacrée à Bacchus. Ce Dieu courroucé, la changea en arbre. Au moment de sa métamorphose, Dryope eut soin d’appeler sa sœur Iole, et de lui remettre son fils, qui, sans ce secours, auroit été renfermé dans l’écorce du Lotos avec sa malheureuse mère.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Iole raconte les malheurs de sa S œu r Dryope.</hi>
             </label>
             <l>    Unique et cher espoir de la plus tendre mère,</l>
@@ -9017,7 +9016,7 @@
             <l>                Quand on perd sa liberté ?</l>
             <bibl>
               <author key="anonyme"> B. </author>
-              <author rend="margin" key="Montéclair" resp="editor"/>
+              <note place="margin">[<author key="Montéclair" resp="editor">Montéclair</author>]</note>
               <note place="bottom">[Table des matières] B ***. <title>Cantate</title>.</note>
             </bibl>
           </quote>
@@ -9219,7 +9218,7 @@
               <author key="Gresset">Gresset</author><note place="bottom">[Table des matières] Gresset. <title>La Chatreuse</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">à Hénault , <lb/> Sur son Ballet du Temple des Chimère s.</hi>
             </label>
             <l>    Votre amusement lyrique</l>
@@ -9252,7 +9251,7 @@
           <head>Olympe.</head>
           <p><pb n="271" xml:id="p271"/><hi rend="sc">Célébre</hi> Montagne, située entre la Thessalie et la Macédoine : c’étoit la demeure des Immortels. Sur sa cime superbe, s’élevoit le trône éclatant de Jupiter.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Jupiter consultant les Dieux contre les Géan s.</hi>
             </label>
             <l>    Une voie, en tout temps, par les Dieux fréquentée,</l>
@@ -9331,7 +9330,7 @@
               <author key="Voltaire">Voltaire</author>, <title>à Tressan</title><note place="bottom">[Table des matières] Voltaire. <title>A Tressan</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">A quelques Gens de Lettres estimables</hi>, <lb/><hi rend="i">s’épigrammatisant les uns les autres.</hi></label>
+            <label type="head"><hi rend="i">A quelques Gens de Lettres estimables</hi>, <lb/><hi rend="i">s’épigrammatisant les uns les autres.</hi></label>
             <l>          De par Apollon, taisez-vous :</l>
             <l>Vos cris ont fatigué les échos du Parnasse.</l>
             <l>Imposteurs ! vous mêlez l’injustice à l’audace ;</l>
@@ -9340,7 +9339,7 @@
           </quote>
           <ab type="ornament"/>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Les Alpes.</hi>
             </label>
             <l><pb n="274" xml:id="p274"/>    Vous, qu’au sein de Paris enchaîne la mollesse,</l>
@@ -9401,7 +9400,7 @@
           <head>Bois sacrés.</head>
           <p><hi rend="sc">Chaque</hi> Temple étoit communément environné d’un bois consacré à la Divinité qu’on y adoroit, C’étoit dans ces forêts religieuses que les Druides, Prêtres Gaulois, se souilloient d’horribles sacrifices en y égorgeant des victimes humaines.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Bois sacré de Marseille, profané par César.</hi>
             </label>
             <l>    On voit auprès du camp une forêt sacrée,</l>
@@ -9553,7 +9552,7 @@
               <author key="Fontanes">Fontanes</author><note place="bottom">[Table des matières] Fontanes. <title>Tempé, séjour célébre, etc.</title></note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Le Tempé François, ou la Vallée de Montmorenci.</hi>
             </label>
             <l>    Un immense Vallon, bordé par des montagnes,</l>
@@ -9646,7 +9645,7 @@
             <bibl>
               <author key="Bernis">Bernis</author><note place="bottom">[Table des matières] Bernis. <title>Les quatre saisons. ch. II</title>.</note>.</bibl>
           </quote>
-          <label><hi rend="i">Fontaine de l’Idalie Provençale</hi>.</label>
+          <label type="head"><hi rend="i">Fontaine de l’Idalie Provençale</hi>.</label>
           <l>    Au sein d’une riante plaine,</l>
           <l>Lille voit des monts sourcilleux</l>
           <l>S’étendre, et repliant leur chaîne,</l>
@@ -9897,7 +9896,7 @@
               <author key="Saint-Ange" role="translator">Saint-Ange</author> <note place="bottom">[Table des matières] Saint-Ange. <title>Métamorphoses. liv. IV</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Fleuves des Enfers.</label>
+            <label type="head" rend="sc">Fleuves des Enfers.</label>
             <l>    J’allois passer les trois rivières,</l>
             <l>Phléghéton, Cocyte, Achéron ;</l>
             <l>La triple Hécate et ses Sorcières</l>
@@ -9930,7 +9929,7 @@
           <head>Élysée.</head>
           <p><pb n="289" xml:id="p289"/><hi rend="sc">Canton</hi> fortuné du sombre Empire ; il y régnoit un éternel printemps ; et c’étoit l’heureux séjour des ames justes et pieuses.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Elysée antique.</hi>
             </label>
             <l>Sous un Ciel pur et doux sans cesse la nature</l>
@@ -9970,7 +9969,7 @@
               <author key="Lefranc" role="translator">Lefranc</author><note place="bottom">[Table des matières] Lefranc. <title>Enéide. liv. VI</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Elysée Poétique.</label>
+            <label type="head" rend="sc">Elysée Poétique.</label>
             <l>    Quelles ombres majestueuses</l>
             <l>Errant au fond de ces vallons,</l>
             <l>Sur des lyres harmonieuses</l>
@@ -10059,7 +10058,7 @@
               <author key="Bruneau">Bruneau</author><note place="bottom">[Table des matières] Bruneau. <title>Elysée poétique</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Elysée Philosophique.</hi>
             </label>
             <l>    Si ces beaux lieux sont destinés aux Sages,</l>
@@ -10248,7 +10247,7 @@
               <author key="Delille">Delille</author><note place="bottom">[Table des matières] Delille. <title>Beauté de la Nature</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Effet terrible de la Nature, ou le Vésuve .</hi>
             </label>
             <l>    Le Vésuve en fureur dans ses flancs caverneux</l>
@@ -10469,7 +10468,7 @@
               <author key="Léonard">Léonard</author><note place="bottom">[Table des matières] Léonard. <title>Le Bonheur</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label rend="sc">Bonheur d’une Mère.</label>
+            <label type="head" rend="sc">Bonheur d’une Mère.</label>
             <l>    La Providence veut, c’est un de ses bienfaits,</l>
             <l>Qu’au sein de nos devoirs le vrai bonheur se trouve ;</l>
             <l>Je porte autour de moi mes regards satisfaits,</l>
@@ -10598,7 +10597,7 @@
           <head><hi rend="sc">Douleur</hi>, <lb/><hi rend="i">Fille de l’Air et de la Terre.</hi></head>
           <p><pb n="307" xml:id="p307"/><hi rend="sc">On</hi> la représente sous la figure d’une femme expirant de ses blessures ; quelquefois couverte d’un crêpe, et un poignard à la main,</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">A la plus sensible et la plus tendre des Mères.</hi>
             </label>
             <l>              Elle n’est plus cette fille chérie,</l>
@@ -10647,7 +10646,7 @@
               <author key="Chas">Chas</author><note place="bottom">[Table des matières] Chas. <title>A M. de G. sur la mort de sa fille</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Vers d’une Mère sur la Mort de sa Fille.</hi>
             </label>
             <l>    Elle étoit mon trésor, ma gloire, mon bonheur !…</l>
@@ -11112,7 +11111,7 @@
           </head>
           <p><hi rend="sc">Nécessaire</hi> à l’homme, elle entre comme la santé, dans les élémens du bonheur. Amante de la solitude, elle est sur-tout précieuse au vrai philosophe et à l’ami des Muses qui la préfèrent à l’or et à la puissance. Sur son visage est empreinte une fierté noble ; son regard est ferme et hardi, et elle foule aux pieds la chaîne de l’esclavage.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">La Liberté et les M œu rs .</hi>
             </label>
             <l>            Dans une ville, (on n’en dit pas le nom)</l>
@@ -11195,7 +11194,7 @@
               <author key="Colin d’Harleville">Colin d’Harleville</author><note place="bottom">[Table des matières] Colin d’Harleville. <title>Apologue</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Liberté philosophique .</hi>
             </label>
             <l><pb n="324" xml:id="p324"/>    Tristes ambitieux, ne quittez point la Cour ;</l>
@@ -11214,7 +11213,7 @@
               <author key="Ducis">Ducis</author><note place="bottom">[Table des matières] Ducis. <title>Liberté philosophique</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Liberté politique.</hi>
             </label>
             <l>    Liberté ! tu n’es point un factieux démon,</l>
@@ -11277,7 +11276,7 @@
               <author key="de Laurès">de Laurès</author><note place="bottom">[Table des matières] De Laurès. <title>Sur ma Vieillesse</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Sur ma Vieillesse .</hi>
             </label>
             <l>               Il falloit n’être vieux qu’à Sparte,</l>
@@ -11572,7 +11571,7 @@
           <head>Raison.</head>
           <p><pb n="334" xml:id="p334"/><hi rend="sc">Ce</hi> n’est point ici cette Raison monstrueuse, qu’une hypocrisie impie et délirante osa déifier ; c’est cette Raison pure, aimable, sensible, qui est fille de la Vérité, et sœur de la Philosophie. La première étoit sortie de l’Erèbe ; la seconde est descendue du Ciel. Pourquoi la foible humanité, triste jouet des passions, ne suit-elle pas toujours ce Guide céleste ? Pourquoi son flambeau semble-t-il quelquefois pâlir ou même s’éteindre à ses yeux.</p>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">A la Raison que je veux avoir.</hi>
             </label>
             <l>            Raison, dois-je te regretter ?</l>
@@ -11598,7 +11597,7 @@
               <author key="Sophie de Jaucourt">Sophie de Jaucourt</author><note place="bottom">[Table des matières] Sophie de Jaucourt. <title>A la Raison que je veux avoir</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label><hi rend="i">Le Livre de la Raison</hi>. <lb/><hi rend="i">Fable</hi>.</label>
+            <label type="head"><hi rend="i">Le Livre de la Raison</hi>. <lb/><hi rend="i">Fable</hi>.</label>
             <l><pb n="335" xml:id="p335"/>    Lorsque le Ciel prodigue en ses présens,</l>
             <l>Combla de biens tant d’êtres différens,</l>
             <l>Cher entr’eux tous à la bonté Suprême,</l>
@@ -11618,7 +11617,7 @@
               <author key="Aubert">Aubert</author><note place="bottom">[Table des matières] Aubert. <title>Fable</title>.</note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">Réflexions.</hi>
             </label>
             <l>                Homme, vante moins ta Raison ;</l>
@@ -11732,7 +11731,7 @@
               <author key="Barthe">Barthe</author><note place="bottom">[Table des matières] Barthe. <title>Ce don brillant, etc.</title></note>.</bibl>
           </quote>
           <quote>
-            <label>
+            <label type="head">
               <hi rend="i">L ’ Esprit et le Génie.</hi>
             </label>
             <l>      En courant, le léger, le sémillant Esprit</l>
@@ -11774,7 +11773,7 @@
         <div>
           <head>Génies.</head>
           <p><hi rend="sc">Ainsi</hi> que chaque lieu, chaque homme avoit son Génie. Suivant même quelques mythologues, chacun en avoit deux : un bon et un mauvais. Le premier inspiroit le bien, le second le mal. De-là vient l’expression latine, <hi rend="i">Genio indulgere</hi>, suivre son goût, son inclination.</p>
-          <label><hi rend="i">L’Abeille et le Serpent</hi>, ou <hi rend="i">le bon et le mauvais Génie.</hi></label>
+          <label type="head"><hi rend="i">L’Abeille et le Serpent</hi>, ou <hi rend="i">le bon et le mauvais Génie.</hi></label>
           <l>    L’Abeille et le Serpent hideux,</l>
           <l>Aiment les fleurs et la verdure ;</l>
           <l>Et de la sève la plus pure,</l>

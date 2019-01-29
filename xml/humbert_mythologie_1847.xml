@@ -5,6 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Humbert (1847)">
   <teiHeader>
     <fileDesc>
+      <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
       <titleStmt>
         <title>Mythologie grecque et romaine, ou Introduction facile et méthodique à la lecture des poètes (3<hi rend="sup">e</hi> éd.)</title>
         <author key="Humbert, Jean (1792-1851)">Jean Humbert</author>
@@ -96,7 +97,7 @@
             <l>Et des ruisseaux de lait serpentaient dans les plaines.</l>
             <bibl>
               <author key="anonyme"/>
-              <author rend="margin" key="Boileau" resp="editor"/>
+              <note place="margin">[<author key="Boileau" resp="editor">Boileau</author>]</note>
             </bibl>
           </quote>
           <p>Cet âge d’or dura peu. L’<hi rend="i">Age d’argent</hi> le remplaça. L’année fut partagée en saisons ; les vents glacés et les brûlantes chaleurs se firent sentir tour à tour ; il fallut cultiver la terre et l’arroser des sueurs de l’ouvrier. A ces deux âges succéda celui d’<hi rend="i">Airain</hi>. Les hommes devenus farouches respirèrent les batailles et recherchèrent le gain, sans s’abandonner pourtant aux excès qui ont caractérisé l’<hi rend="i">Age de fer</hi>. Dans ce dernier âge, la bonne foi, bannie de la terre, fit place à la trahison et à la violence ; on ne vécut que de brigandages. La discorde se glissa entre les plus proches parents ; le fils osa attenter aux jours de son père, la marâtre à ceux de sa belle-fille. La piété fut tournée en dérision ; et Astrée quitta en soupirant un séjour souillé de forfaits<note place="bottom">Voyez même section, § 22.</note>.</p>

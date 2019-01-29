@@ -51,8 +51,8 @@
     <front>
       <div>
         <head>[Epigraph.]</head>
-        <quote rend="border">
-          <label>To the Muses.</label>
+        <quote>
+          <label type="head">To the Muses.</label>
           <l><hi rend="sc">Whether</hi> on Ida’s shady brow,</l>
           <l>Or in the chambers of the East,</l>
           <l>The chambers of the sun, that now</l>
@@ -727,7 +727,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig001.png"/>
         </figure>
-        <p rend="legend">Fig. 1. Jupiter surveying the World. <lb/>[Wall painting: <title>H. and P. (Herculaneum and Pompei)</title> by
+        <p rend="center noindent">Fig. 1. Jupiter surveying the World. <lb/>[Wall painting: <title>H. and P. (Herculaneum and Pompei)</title> by
           <author key="Roux">H. Roux Aîné</author>].</p>
         <p>§ 16. <hi rend="b">Origin of the World</hi>. — There were among the Greeks several accounts of the beginning of things.
           <author key="Homère">Homer</author>
@@ -754,7 +754,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig002.png"/>
         </figure>
-        <p rend="legend">Fig. 2. Minerva contending with a Giant. <lb/>[Bronze: Mus. Kircherianum. <title>Journal of Hellenic Studies</title>, 4: 90;
+        <p rend="center noindent">Fig. 2. Minerva contending with a Giant. <lb/>[Bronze: Mus. Kircherianum. <title>Journal of Hellenic Studies</title>, 4: 90;
           <author key="Roscher">Roscher</author> 10: 1666.]</p>
         <p>Later still, the <hi rend="b">Giants</hi>, offspring of the blood that fell from the wounded Uranus, renewed the revolt against the Olympian gods. They were creatures nearer akin to men than were the Titans, or the Cyclopes, or Typhon. They clothed themselves in the skins of beasts, and armed themselves with rocks and trunks of trees. Their bodies and lower limbs were of snakes. They were awful to encounter or to look upon. They were named, like men, the <hi rend="i">earth-born;</hi> and their characteristics would suggest some prehistoric brutish race, hot-headed, not amenable to reason.<note place="bottom">
           <author key="Roscher">Roscher</author>: <title>Ausf. Lex., Article Giganten</title> [
@@ -762,7 +762,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig003.png"/>
         </figure>
-        <p rend="legend">Fig. 3. Jupiter destroying the Giants.<lb/>[Gem:
+        <p rend="center noindent">Fig. 3. Jupiter destroying the Giants.<lb/>[Gem:
           <author key="Baumeister">Baumeister</author>.]</p>
         <p></p>
         <p>§ 22. The <hi rend="b">Origin of Man</hi> was a question which the Greeks did not settle so easily as the Hebrews. Greek traditions do not trace all mankind to an original pair. On the contrary, the generally received opinion was that men grew out of trees and stones, or were produced by the rivers or the sea. Some said that men and gods were both derived from Mother Earth, hence both <hi rend="i">autochthonous</hi>; and some, indeed, claimed an antiquity for the human race equal to that of the divinities. All narratives, however, agree in one statement, — that the gods maintained intimate relations with men until, because of the growing sinfulness and arrogance of mankind, it became necessary for the immortals to withdraw their favor.</p>
@@ -911,7 +911,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig004.png"/>
         </figure>
-        <p rend="legend">Fig. 4. Two of the Hours. <lb/>[Vase: <title>Compte Rendu de St. Petersbourg</title>, 1862, Table 4;
+        <p rend="center noindent">Fig. 4. Two of the Hours. <lb/>[Vase: <title>Compte Rendu de St. Petersbourg</title>, 1862, Table 4;
           <author key="Roscher">Roscher</author> 16 and 17: 2727.]</p>
         <p>The following lines from the <title>Odyssey</title> express the conception of Olympus entertained by
           <author key="Homère">Homer</author>: —</p>
@@ -943,7 +943,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig005.png"/>
         </figure>
-        <p rend="legend">Fig. 5. Jupiter Enthroned. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+        <p rend="center noindent">Fig. 5. Jupiter Enthroned. <lb/>[Wall painting: <title>H. and P.</title>]</p>
         <p>The idea which the artist essayed to embody was that of the supreme deity of the Hellenic nation, enthroned as a conqueror, in perfect majesty and repose, and ruling with a nod the subject world.
           <author key="Phidias">Phidias</author> informs us that the idea was suggested by
           <author key="Homère">Homer</author>’s lines in the first book of the <title>Iliad</title>: —</p>
@@ -959,7 +959,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig006.png"/>
         </figure>
-        <p rend="legend">Fig. 6. Bust of Juno. <lb/>[Villa Ludovisi, Rome:
+        <p rend="center noindent">Fig. 6. Bust of Juno. <lb/>[Villa Ludovisi, Rome:
           <author key="Overbeck">Overbeck</author>, <title>Atlas</title> 9: 8;
           <author key="Roscher">Roscher</author> 13: 2123.]</p>
         <p>She was the daughter of Cronus and Rhea, but was brought up by Oceanus and Tethys, in their dwelling in the remote west beyond the sea. Without the knowledge of her parents, she was wedded to Jupiter in this garden of the gods where ambrosial rivers flowed, and where Earth sent up in honor of the rite a tree of life, heavy with apples golden like the sunset. Juno was the most worthy of the goddesses, the most queenly;
@@ -972,13 +972,13 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig007.png"/>
         </figure>
-        <p rend="legend">Fig. 7. Minerva (Pallas). <lb/>[Ancient MS. of
+        <p rend="center noindent">Fig. 7. Minerva (Pallas). <lb/>[Ancient MS. of
           <author key="Homère">Homer</author>:
           <author key="Inghirami">Inghirami</author>.]</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig008.png"/>
         </figure>
-        <p rend="legend">Fig. 8. Minerva (Athene of Velletri). <lb/>[Statue from Velletri, in the Louvre:
+        <p rend="center noindent">Fig. 8. Minerva (Athene of Velletri). <lb/>[Statue from Velletri, in the Louvre:
           <author key="Roscher">Roscher</author> 4: 702.]</p>
         <p>§ 36. <hi rend="b">Mars</hi> (<hi rend="b">Ares</hi>),<note place="bottom">See Commentary.</note> the war-god, son of Jupiter and Juno. The meaning of the name, <hi rend="i">Ares</hi>, is uncertain; the most probable significations are the <hi rend="i">Slayer</hi>, the <hi rend="i">Avenger</hi>, the <hi rend="i">Curse</hi>. The Roman god of war, Mars, is the <hi rend="i">bright</hi> and <hi rend="i">burning</hi> one.
           <author key="Homère">Homer</author>, in the <title>Iliad</title>, represents Ares as the insatiable warrior of the heroic age, who, impelled by rage and lust of violence, exults in the noise of battle, revels in the horror of carnage. Strife and slaughter are the condition of his existence. Where the fight is thickest, there he rushes in without hesitation, without question as to which side is right. In battle-array, he is resplendent, — on his head the gleaming helmet and floating plume, on his arm the leathern shield, in his hand the redoubtable spear of bronze. Well-favored, stately, swift, unwearied, puissant, gigantic, he is still the foe of wisdom, the scourge of mortals. Usually he fights on foot, sometimes from a chariot drawn by four horses — the offspring of the North Wind and a Fury. In the fray his sons attend him — Terror, Trembling, Panic, and Fear, — also his sister Eris, or Discord (the mother of Strife), his daughter Enyo, ruiner of cities, — and a retinue of blood-thirsty demons. As typifying the chances of war, Mars is, of course, not always successful. In the battles before Troy, Minerva and Juno bring him more than once to grief; and when he complains to Jupiter, he is snubbed as a renegade most hateful of all the gods.<note place="bottom">Illiad, 5: 590. See also 21: 395. </note> His loved one and mistress is the goddess of beauty herself. In her arms the warrior finds repose. Their daughter Harmonia is the ancestress of the unquiet dynasty of Thebes.
@@ -988,12 +988,12 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig009.png"/>
         </figure>
-        <p rend="legend">Fig. 9. Mars (Ares Ludovisi). <lb/>[Marble statue in the Villa Ludovisi, Rome:
+        <p rend="center noindent">Fig. 9. Mars (Ares Ludovisi). <lb/>[Marble statue in the Villa Ludovisi, Rome:
           <author key="Roscher">Roscher</author> 3: 491.]</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht01.png"/>
         </figure>
-        <p rend="legend">Pl. 1. <hi rend="sc">Mars</hi> (Tuesday). <lb/>
+        <p rend="center noindent">Pl. 1. <hi rend="sc">Mars</hi> (Tuesday). <lb/>
           <author key="Raffaello">Raphael</author>.</p>
         <p>§ 37. <hi rend="b">Vulcan</hi> (<hi rend="b">Hephæstus</hi>), son of Jupiter and Juno, was the god of fire, especially of terrestrial fire, — volcanic eruption, incendiary flame, the glow of the forge or the hearth. But as the fires of earth are derived from that of heaven, perhaps the name, <hi rend="i">Hephæstus</hi> (burning, shining, flaming), referred originally to the marvellous brilliance of the lightning. Vulcan was the blacksmith of the gods, the finest artificer in metal among them. His forge in Olympus was furnished not only with anvils and all other implements of the trade, but with automatic handmaidens of silver and gold, fashioned by Vulcan himself. Poets later than
           <author key="Homère">Homer</author> assign to Vulcan workshops under various volcanic islands. From the crater of Mount Ætna poured forth the fumes and flames of his smithy. He built the dwellings of the gods; he made the sceptre of Jove, the shields and spears of the Olympians, the arrows of Apollo and Diana, the breastplate of Hercules, the shield of Achilles.</p>
@@ -1002,7 +1002,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig010.png"/>
         </figure>
-        <p rend="legend">Fig. 10. Vulcan. <lb/>[Bronze statuette of Hephæstus, Berlin:
+        <p rend="center noindent">Fig. 10. Vulcan. <lb/>[Bronze statuette of Hephæstus, Berlin:
           <author key="Hirt">Hirt</author>, <title>Bilderbuch</title> 6: 2;
           <author key="Roscher">Roscher</author> 12: 2044.]</p>
         <p>His wife, according to the <title>Iliad</title> and
@@ -1013,12 +1013,12 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig011.png"/>
         </figure>
-        <p rend="legend">Fig. 11. Apollo of the Belvedere. <lb/>[Supplemented by the Ægis:
+        <p rend="center noindent">Fig. 11. Apollo of the Belvedere. <lb/>[Supplemented by the Ægis:
           <author key="Roscher">Roscher</author> 3: 438.]</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig0ht02.png"/>
         </figure>
-        <p rend="legend">Pl. 2. <hi rend="sc">Apollo Belvedere</hi> <lb/>(in the Vatican).</p>
+        <p rend="center noindent">Pl. 2. <hi rend="sc">Apollo Belvedere</hi> <lb/>(in the Vatican).</p>
         <ab type="ornament">————</ab>
         <quote>
           <l>“The sleepless Hours who watch me as I lie,<note place="bottom"><title>Hymn of Apollo</title>, by
@@ -1067,7 +1067,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig012.png"/>
         </figure>
-        <p rend="legend">Fig. 12. Apollo. <lb/>[In the Museum of Basle:
+        <p rend="center noindent">Fig. 12. Apollo. <lb/>[In the Museum of Basle:
           <author key="Roscher">Roscher</author> 3: 465.]</p>
         <p>§ 39. <hi rend="b">Diana</hi> (<hi rend="b">Artemis</hi>), twin sister of Apollo, born on Mount Cynthus, in the island of Delos. Latona, the future mother of Diana and Apollo, flying from the wrath of Juno, had besought, one after another, the islands of the Ægean to afford her a place of rest; but they feared too much the potent queen of heaven. Delos alone consented to become the birthplace of the future deities. This isle was then floating and unstable; but on Latona’s arrival, Jupiter fastened it with adamantine chains to the bottom of the sea, that it might be a secure resting-place for his beloved. The daughter of Latona is, as her name <hi rend="i">Artemis</hi> indicates, a virgin goddess, the ideal of modesty, grace, and maidenly vigor. She is associated with her brother, the prince of archery, in nearly all his adventures, and in attributes she is his feminine counterpart. As he is identified with sunlight, so is she, his fair-tressed sister, with the chaste brilliance of the moon. Its slender arc is her bow<hi rend="i">;</hi> its beams are her arrows with which she sends upon womankind a speedy and painless death. In her prerogative of moon-goddess she is frequently identified with Selene, daughter of Hyperion, just as Apollo is with Helios. Despising the weakness of love, Diana imposed upon her nymphs vows of perpetual maidenhood, any violation of which she was swift and severe to punish. Graceful in form and free of movement, equipped for the chase, and surrounded by a bevy of fair companions, the swift-rushing goddess was wont to scour hill, valley, forest, and plain. She was, however, not only huntress, but guardian, of wild beasts, — mistress withal of horses and kine and other domestic brutes. She ruled marsh and mountain; her gleaming arrows smote sea as well as land. Springs and woodland brooks she favored, for in them she and her attendants were accustomed to bathe. She blessed with verdure the meadows and arable lands, and from them
           obtained a meed of thanks. When weary of the chase, she turned to music and dancing; for the lyre and flute and song were dear to her. Muses, Graces, nymphs, and the fair goddesses themselves thronged the rites of the chorus-leading queen. But ordinarily a woodland chapel or a rustic altar sufficed for her worship. There the hunter laid his offering — antlers, skin, or edible portions of the deer that Artemis of the golden arrows had herself vouchsafed him. The holy maid, however, though naturally gracious, gentle, and a healer of ills, was, like her brother, quick to resent injury to her sacred herds, or insult to herself. To this stern temper Agamemnon, Orion, and Niobe bore regretful testimony. They found that the
@@ -1075,13 +1075,13 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht03.png"/>
         </figure>
-        <p rend="legend">Pl. 3. <hi rend="sc">Diana</hi>. <lb/>
+        <p rend="center noindent">Pl. 3. <hi rend="sc">Diana</hi>. <lb/>
           <author key="Correggio">Correggio</author>.</p>
         <p>Diana was mistress of the brute creation, protectress of youth, patron of temperance in all things, guardian of civil right. The cypress tree was sacred to her; and her favorites were the bear, the boar, the dog, the goat, and specially the hind.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig013.png"/>
         </figure>
-        <p rend="legend">Fig. 13. Diana (Artemis of Versailles). <lb/>[Marble statue in Louvre:
+        <p rend="center noindent">Fig. 13. Diana (Artemis of Versailles). <lb/>[Marble statue in Louvre:
           <author key="Roscher">Roscher</author> 4: 603.]</p>
         <ab type="ornament">————</ab>
         <quote>
@@ -1110,7 +1110,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig014.png"/>
         </figure>
-        <p rend="legend">Fig. 14. Diana (Artemis Knagia). <lb/>[Silver medallion from Herculaneum:
+        <p rend="center noindent">Fig. 14. Diana (Artemis Knagia). <lb/>[Silver medallion from Herculaneum:
           <author key="Welcker">Welcker</author>, <title>Alte Denkmäler</title>, 2: 3, 5;
           <author key="Roscher">Roscher</author> 4: 566.]</p>
         <p>§ 40. <hi rend="b">Venus</hi>, goddess of love and beauty, was, according to the more ancient Greek conception, a daughter of Jupiter and Dione<note place="bottom"><title xml:lang="it">Iliad</title> 5: 370, etc.</note>; but
@@ -1120,7 +1120,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht04.png"/>
         </figure>
-        <p rend="legend">Pl. 4. <hi rend="sc">Venus of Melos</hi> <lb/>(in the Louvre)</p>
+        <p rend="center noindent">Pl. 4. <hi rend="sc">Venus of Melos</hi> <lb/>(in the Louvre)</p>
         <p>Of artistic conceptions of Aphrodite, the most famous are the statues called the Venus of Melos, and the Venus of the Medici.<note place="bottom">For Venus in poetry and art, see Commentary, § 40.</note> A comparison of the two conceptions is instituted in the following poem.<note place="bottom">From <title>the Venus of Milo</title> by
           <author key="Sill">E. R. Sill</author>, formerly professor of English Literature in the University of California. The cut, p. 67, represents the Melos.</note> The worshipper apostrophizes the Venus of Melos, that
           <quote>“inner beauty of the world,”</quote> whose tranquil smile he finds more fair than
@@ -1187,7 +1187,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig015.png"/>
         </figure>
-        <p rend="legend">Fig. 15. Venus of Melos. <lb/>[Louvre, Paris:
+        <p rend="center noindent">Fig. 15. Venus of Melos. <lb/>[Louvre, Paris:
           <author key="Roscher">Roscher</author> 3: 403.]</p>
         <p>§ 41. <hi rend="b">Mercury</hi> (<hi rend="b">Hermes</hi>), born in a cave of Mount. Cyllene in Arcadia was the son of Jupiter and Maia (the daughter of Atlas). According to conjecture, his name <hi rend="i">Hermes</hi> means the <hi rend="i">Hastener</hi>. Mercury, swift as the wind, was the servant and herald of Jupiter and the other gods. On his ankles (in plastic art), and his low-crowned, broad-brimmed <hi rend="i">petasus</hi>, or hat, were wings. As messenger of Heaven, he bore a wand (<hi rend="i">caduceus</hi>) of wood or of gold, twined with snakes and surmounted by wings, and possessed of magical powers over sleeping, waking, and dreams. He was beautiful, and ever in the prime of youthful vigor. To a voice sweet-toned and powerful, he added the persuasiveness of eloquence. But his skill was not confined to speech: he was, also, the first of inventors — to him are ascribed the lyre, the syrinx, and the flute. He was the forerunner, too, of mathematicians and astronomers. His agility and strength made him easily prince in athletic pursuits. His cunning rendered him a dangerous foe; he could well play the trickster and the thief, as Apollo found out to his vexation, and Argus, and many another unfortunate. His methods, however, were not always questionable; although the patron of gamblers and the god of chance, he, at the same time, was the furtherer of lawful industry and of commerce by land and sea. The gravest function of the Messenger was to conduct the souls of the dead
           <quote>“that gibber like bats as they fare, down the dank ways, past the streams of Oceanus, past the gates of the sun and the land of dreams, to the mead of asphodel in the dark realm of Hades, where dwell the souls, the phantoms of men outworn.”</quote><note place="bottom">
@@ -1195,17 +1195,17 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig016.png"/>
         </figure>
-        <p rend="legend">Fig. 16. Mercury (Hermes, with petasus, caduceus, and winged feet). <lb/>[Wall Painting:
+        <p rend="center noindent">Fig. 16. Mercury (Hermes, with petasus, caduceus, and winged feet). <lb/>[Wall Painting:
           <author key="Baumeister">Baumeister</author>.]</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht05.png"/>
         </figure>
-        <p rend="legend">Pl. 5. <hi rend="sc">The Flying Mercury</hi>. <lb/>
+        <p rend="center noindent">Pl. 5. <hi rend="sc">The Flying Mercury</hi>. <lb/>
           <author key="Giambologna">Giov. di Bologna</author>.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig017.png"/>
         </figure>
-        <p rend="legend">Fig. 17. Mercury conducting Souls to Pluto and Proserpine. <lb/>[
+        <p rend="center noindent">Fig. 17. Mercury conducting Souls to Pluto and Proserpine. <lb/>[
           <author key="Hirt">Hirt</author>.]</p>
         <p>§ 42. <hi rend="b">Vesta</hi> (<hi rend="b">Hestia</hi>), goddess of the hearth, public and private, was the first-born child of Cronus and Rhea, and, accordingly, the elder sister of Jupiter, Juno, Neptune, Pluto, and Ceres. Vesta was an old maid by choice. Averse to Venus and all her ways, she scorned the flattering advances of both Neptune and Apollo, and resolved to remain single. Whereupon Jupiter gave her to sit in the middle of his palace, to receive in Olympus the choicest morsels of the feast, — and, in the temples of the gods on earth, reverence as the oldest and worthiest of Olympian divinities. As goddess of the burning hearth, Vesta is the divinity of the home: of settled, in opposition to nomadic, habits of life. She was worshipped, first of the gods, at every feast. Before her shrine in city and state the holy flame was religiously cherished. From her altars those of the other gods obtained their fires. No new colony, no new home, was duly consecrated till on its central hearth there glowed coals from her ancestral hearth. In her temple at Rome a sacred fire, tended by six virgin priestesses called Vestals, was kept religiously aflame. As the safety of the city was held to be connected with its conservation, any negligence, by which it might go out, was severely punished. Whenever the fire did die, it was rekindled from the rays of the sun.</p>
         <p>§ 43. Of the <hi rend="b">Lesser Divinities of Heaven</hi> the most worthy or mention are: —</p>
@@ -1213,7 +1213,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig018.png"/>
         </figure>
-        <p rend="legend">Fig. 18. Cupid. <lb/>[Statue:
+        <p rend="center noindent">Fig. 18. Cupid. <lb/>[Statue:
           <author key="Müller F. M.">Müller</author>.]</p>
         <quote>
           <l>“Within a forest, as I strayed</l>
@@ -1240,7 +1240,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig019.png"/>
         </figure>
-        <p rend="legend">Fig. 19. The Ganymede of Leochares. <lb/>[Bronze group:
+        <p rend="center noindent">Fig. 19. The Ganymede of Leochares. <lb/>[Bronze group:
           <author key="Overbeck">Overbeck</author>, <title>Gr. Plastik</title> 2<hi rend="sup">2</hi>, Fig. 107;
           <author key="Roscher">Roscher</author> 9: 1597.]</p>
         <p>(3) <hi rend="b">The Graces</hi>, daughters of Jove by Eurynome, daughter of Oceanus. They were goddesses presiding over the banquet, the dance, all social pleasures, and polite accomplishments. They were three in number, — Euphrosyne, Aglaia, and Thalia.
@@ -1265,7 +1265,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht06.png"/>
         </figure>
-        <p rend="legend">Pl. 6. <hi rend="sc">The Fates</hi>. <lb/>
+        <p rend="center noindent">Pl. 6. <hi rend="sc">The Fates</hi>. <lb/>
           <author key="Michelangelo">Michael Angelo</author>.</p>
         <p>(7) <hi rend="b">Nemesis</hi>, daughter of Night. She represented the righteous anger and vengeance of the gods, particularly toward the proud, the insolent, and breakers of the law.</p>
         <p>(8) <hi rend="b">Æsculapius</hi>, son of Apollo. By his skill in medicine, he restored the dead to life. Being killed by the lightning of Jove, he was translated to the ranks of Heaven. His function was the art of healing.</p>
@@ -1273,7 +1273,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig020.png"/>
         </figure>
-        <p rend="legend">Fig. 20. Boreas. <lb/>[Relief:
+        <p rend="center noindent">Fig. 20. Boreas. <lb/>[Relief:
           <author key="Millin">Millin</author>.]</p>
         <p>Here, too, may be mentioned Æolus, the king of the winds, although he is not a lesser divinity of Heaven. His palace was on the precipitous isle of Æolia, where, with his six sons and six daughters, he kept eternal carouse. The winds, which he confined in a cavern, he let loose as he saw fit, or as he was bidden by superior deities.</p>
         <p>(10) <hi rend="b">Helios, Selene</hi>, and<hi rend="b"> Eos</hi>, children of the Titan, Hyperion. Helios and Selene were the more ancient Greek divinities of Sun and Moon respectively. Helios, the charioteer of the sun, is, as has been already said, frequently identified with his successor, Apollo. The attributes and adventures of Selene were merged in those of the more modern Diana. Eos, or, in Latin nomenclature, Aurora, the rosy-fingered goddess of the Morn, was mother of the stars and of the morning and evening breezes.</p>
@@ -1282,7 +1282,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig021.png"/>
         </figure>
-        <p rend="legend">Fig. 21. Iris carrying a Child. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 21. Iris carrying a Child. <lb/>[Vase picture:
           <author key="Roscher">Roscher</author> 20: 351.]</p>
       </div>
       <div>
@@ -1302,7 +1302,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig022.png"/>
         </figure>
-        <p rend="legend">Fig. 22. Ceres. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+        <p rend="center noindent">Fig. 22. Ceres. <lb/>[Wall painting: <title>H. and P.</title>]</p>
         <p>§ 45<hi rend="i">ª</hi>. <hi rend="b">Gæa</hi>, or <hi rend="b">Ge</hi>, the Mother Earth, wife of Uranus, belongs to the older order of gods; so also, another goddess of the earth, Rhea, the wife of Cronus and mother of Jupiter. In Phrygia, Rhea became identified with <hi rend="b">Cybele</hi>, whose worship, as mother of the gods, was, at a later period, introduced into Rome. The Greek mother, Rhea, was attended by the Curetes; the Phrygian mother by the Corybantes, who celebrated her orgies with enthusiastic din of trumpets, drums, and cymbals. Cybele presided over mountain fastnesses and fortified places.</p>
         <p>§ 46. <hi rend="b">Bacchus</hi>, or <hi rend="b">Dionysus</hi>, the god of wine, was the son of Jupiter and Semele, daughter of Cadmus of Thebes. He was especially the god of animal life and vegetation. He represented not only the intoxicating power of wine, but its social and beneficent influences, and was looked upon as a promoter of civilization, a lawgiver and a lover of peace. His forehead was crowned with vine-leaves or ivy. He rode upon the tiger, the panther, or the lynx, or was drawn by them in a car. His worshippers were Bacchanals, or Bacchantes. He was attended by Satyrs and Sileni, and by women called Mænads, who, as they danced and sang, waved in the air the <hi rend="i">thyrsus</hi>, a staff entwined with ivy and surmounted by a pine cone.</p>
         <ab type="ornament">————</ab>
@@ -1326,21 +1326,21 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig023.png"/>
         </figure>
-        <p rend="legend">Fig. 23. Bacchus (Dionysus and Ampelos, the vine). <lb/>[Group in British Museum:
+        <p rend="center noindent">Fig. 23. Bacchus (Dionysus and Ampelos, the vine). <lb/>[Group in British Museum:
           <author key="Roscher">Roscher</author> 2: 292.]</p>
         <p>§ 47. <hi rend="b">The Lesser Divinities of Earth</hi> were: —</p>
         <p>(1)<hi rend="b"> Pan</hi>, son of Mercury and a wood-nymph or Dryad. He was the god of woods and fields, of flocks and shepherds. He dwelt in caves, wandered on the mountains and in valleys, amused himself with the chase, led the dances of the Dryads, and made love to them. But his suit was frequently of no avail, for though good-natured, he was not prepossessing; his hoofs and horns did not enhance his comeliness. He was fond of music, and was himself inventor of the syrinx, or shepherd’s pipe, which he played in a masterly manner. Like other gods who dwelt in forests, he was dreaded by those whose occupations caused them to pass through the woods by night; for gloom and loneliness oppress and appal the mind. Hence sudden unreasonable fright was ascribed to Pan, and called a Panic terror.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig024.png"/>
         </figure>
-        <p rend="legend">Fig. 24. Youthful Satyrs, gathering grapes over a <hi rend="i">Crater</hi>. <lb/>[Relief:
+        <p rend="center noindent">Fig. 24. Youthful Satyrs, gathering grapes over a <hi rend="i">Crater</hi>. <lb/>[Relief:
           <author key="Millin">Millin</author>.]</p>
         <p>(2) <hi rend="b">The Nymphs</hi>. — Pan’s partners in the dance, the Dryads, were but one of several classes of nymphs. There were, beside them, the Oreads, nymphs of mountains and grottos; and the Water-nymphs, who are mentioned in § 54.</p>
         <p>(3) <hi rend="b">The Satyrs</hi>, deities of the woods and fields. In early art, they appear as bearded creatures with snub noses, goats’ ears and horses’ tails (p. 175). Later they resemble youths, sometimes with sprouting horns. The goat-legged satyr is found in Roman poetry.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig025.png"/>
         </figure>
-        <p rend="legend">Fig. 25. A Roman Satyr, with grafting materials. <lb/>[Ancient gem:
+        <p rend="center noindent">Fig. 25. A Roman Satyr, with grafting materials. <lb/>[Ancient gem:
           <author key="Pitt">Pitt</author>’s
           <author key="Virgile">Vergil</author>.]</p>
       </div>
@@ -1352,7 +1352,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig026.png"/>
         </figure>
-        <p rend="legend">Fig. 26. Mercury conducting a Soul to Charon. <lb/>[Terra-cotta relief: <title>Arch. Zeit.</title>]</p>
+        <p rend="center noindent">Fig. 26. Mercury conducting a Soul to Charon. <lb/>[Terra-cotta relief: <title>Arch. Zeit.</title>]</p>
         <quote>
           <l>Here life has death for neighbor,</l>
           <l>And far from eye or ear</l>
@@ -1422,7 +1422,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig027.png"/>
         </figure>
-        <p rend="legend">Fig. 27. A Fury. <lb/>[From a vase picture. The Erinys in garb of a huntress Pursues Orestes:
+        <p rend="center noindent">Fig. 27. A Fury. <lb/>[From a vase picture. The Erinys in garb of a huntress Pursues Orestes:
           <author key="Roscher">Roscher</author> 8: 1334.]</p>
         <p>A conception of the realm of Pluto in the western seas, to which Hermes conducts the outworn ghosts of mortals, is recorded in a passage of the <title>Odyssey</title>,<note place="bottom"><title>Odyssey</title> 24: 1. </note> already cited (§ 41). The White Rock which they pass on their way symbolizes, perchance, the bleaching skeletons of the dead. The people of this world — of ghosts and clouds and darkness — are also sometimes named the Cimmerians, and are then located in the far north, where the sun neither rises nor sets. But
           <author key="Homère">Homer</author>’s Elysium of the western seas is a happy land, not tried by sun, nor cold, nor rain, but always fanned by the gentle breezes of Zephyrus. Hither favored heroes pass without dying, and live under the happy rule of Rhadamanthus. The Elysium of
@@ -1463,7 +1463,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig028.png"/>
         </figure>
-        <p rend="image">Fig. 28. Pluto (Hades enthroned; Cerberus). <lb/>[Statue in Villa Borghese:
+        <p rend="center noindent">Fig. 28. Pluto (Hades enthroned; Cerberus). <lb/>[Statue in Villa Borghese:
           <author key="Baumeister">Baumeister</author> <title xml:lang="it">Denkm.</title>, 620;
           <author key="Roscher">Roscher</author> 11: 1803.]</p>
         <p>§ 50. <hi rend="b">Proserpina</hi> (<hi rend="b">Persephone</hi>) was the daughter of Ceres and Jupiter. She was queen of Hades, — a name applied both to the ruler of the shades and to his realm. When she is goddess of spring, dear to mankind, Proserpina bears a cornucopia overflowing with flowers, and revisits the earth in duly recurring season. But when she is goddess of death, sitting beside Pluto, she directs the Furies, and, like her husband, is cruel, unyielding, inimical to youth and life and hope. In the story of her descent to Hades will be found a further account of her attributes and fortunes.</p>
@@ -1480,13 +1480,13 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig029.png"/>
         </figure>
-        <p rend="legend">Fig. 29. Nereid on a sea-monster. <lb/>[Wall painting:
+        <p rend="center noindent">Fig. 29. Nereid on a sea-monster. <lb/>[Wall painting:
           <author key="Müller F. M.">Müller</author>.]</p>
         <p>§ 53. Of the <hi rend="b">Younger Dynasty</hi> of the waters Neptune and Amphitrite were the founders. Neptune’s palace was in the depths of the sea, near Ægæ in Euboea; but he made his home on Olympus when he chose. The symbol of his power was the trident, or three-pronged spear, with which he could shatter rocks, call forth or subdue storms, and shake the shores of earth. He created the horse, and was the patron of horse races. His own steeds were brazen-hoofed and golden-maned. They drew his chariot over the sea, which became smooth before him, while dolphins and other monsters of the deep gambolled about his path. In his honor black and white bulls, white boars, and rams were sacrificed.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig030.png"/>
         </figure>
-        <p rend="legend">Fig. 30. Neptune in his car. <lb/>[Coin:
+        <p rend="center noindent">Fig. 30. Neptune in his car. <lb/>[Coin:
           <author key="Hirt">Hirt</author>.]</p>
         <p>§ 54. <hi rend="b">Lesser Divinities of the Waters</hi><note place="bottom">For genealogical table, see Commentary, §§ 52-54. </note> were: —</p>
         <p>(1) <hi rend="b">Triton</hi>, the son of Neptune and Amphitrite, trumpeter of Ocean. By his blast on the sea-shell he stirred or allayed the waves.</p>
@@ -1520,7 +1520,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig031.png"/>
         </figure>
-        <p rend="legend">Fig. 31. Sirens. <lb/>[Engraved relief: <title>Mittheilungen d. K. Deutsch. Archäol. Instituts, Athens</title>.]</p>
+        <p rend="center noindent">Fig. 31. Sirens. <lb/>[Engraved relief: <title>Mittheilungen d. K. Deutsch. Archäol. Instituts, Athens</title>.]</p>
       </div>
       <div>
         <head>Chapter IX. <lb/>The Roman Divinities.</head>
@@ -1531,7 +1531,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig032.png"/>
         </figure>
-        <p rend="legend">Fig. 32. Bearded Janus. <lb/>[Roman coin:
+        <p rend="center noindent">Fig. 32. Bearded Janus. <lb/>[Roman coin:
           <author key="Baumeister">Baumeister</author> 964;
           <author key="Roscher">Roscher</author> 18: 50.]</p>
         <p>(3) <hi rend="b">Quirinus</hi>, a war-god, said to be no other than Romulus, the founder of Rome, exalted after his death to a place among the immortals.</p>
@@ -1560,7 +1560,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_map02.png"/>
         </figure>
-        <p rend="legend">Map 2. Greece in the Fifth Century <hi rend="sc">b.c.</hi></p>
+        <p rend="center noindent">Map 2. Greece in the Fifth Century <hi rend="sc">b.c.</hi></p>
       </div>
       <div>
         <head>Chapter X. <lb/>Myths of the Great Divinities of Heaven.</head>
@@ -1570,14 +1570,14 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig033.png"/>
           </figure>
-          <p rend="legend">Fig. 33. Ganymede feeding the eagle. <lb/>[Relief: <title>Sepolcri</title>.]</p>
+          <p rend="center noindent">Fig. 33. Ganymede feeding the eagle. <lb/>[Relief: <title>Sepolcri</title>.]</p>
           <p>§ 58. Not only with immortals but with mortals were Jupiter’s relations sometimes of a dubious character. His devotion to the beautiful daughters of men involved him in frequent altercations with his justly jealous spouse. Of his fondness for Danaë, whom he approached in a shower of gold, particulars are given in the story of her son Perseus; of his love for Alcmene, the granddaughter of that Perseus, we are informed in the myths of her son Hercules; and of his attentions to Leda, whom he wooed in guise of a swan, we learn in the accounts of their children Pollux and Helen. Other love passages, upon which narratives depend, concern Io, Callisto, Europa, Semele, Ægina, and Antiope.</p>
           <p>§ 59. <hi rend="b">Io</hi><note place="bottom">
             <author key="Ovide">Ovid</author>. <title>Metam.</title> 1: 700 <hi rend="i">et seq.</hi></note> was of divine ancestry. Her father was the river-god Inachus, son of Oceanus. It is said that Juno, one day, perceiving the skies suddenly overcast, surmised that her husband had raised a cloud to hide some escapade. She brushed away the darkness, and saw him, on the banks of a glassy river, with a beautiful heifer standing near. Juno suspected, with reason, that the heifer’s form concealed some fair nymph of mortal mould. It was Io, whom Jupiter, when he became aware of the approach of his wife, had changed into that form.</p>
           <p>The ox-eyed goddess joined her husband, noticed the heifer, praised its beauty, and asked whose it was, and of what herd. Jupiter, to stop questions, replied that it was a fresh creation from the earth. Juno begged it as a gift. What could the king of gods and men do? He was loath to surrender his sweetheart to his wife; yet how refuse so trifling a present as a heifer? He could not, without exciting suspicion; and he, therefore, consented. The goddess delivered the heifer to Argus, to be strictly watched.</p>
           <p>Now Argus had a hundred eyes in his head, and never went to sleep with more than two at a time, so that he kept watch of Io constantly. He suffered her to graze through the day, and at night tied a rope round her neck. She would have stretched out her arms to implore freedom of Argus, but that she had no arms to stretch out, and her voice was a bellow. She yearned in vain to make herself known to her father. At length, she bethought herself of writing, and inscribed her name — it was a short one — with her hoof on the sand. Inachus recognized it, and discovering that his daughter, whom he had long sought in vain, was hidden under this disguise, mourned over her. While he thus lamented, Argus, observing, drove her away, and took his seat on a bank, from whence he could see in every direction.</p>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig034.png"/>
-          <p rend="legend">Fig. 34. Mercury kills Argus in presence of Jupiter. <lb/>[Vase picture:
+          <p rend="center noindent">Fig. 34. Mercury kills Argus in presence of Jupiter. <lb/>[Vase picture:
             <author key="Roscher">Roscher</author> 19: 279.]</p>
           <p>Jupiter, grieved by the sufferings of his mistress, sent Mercury to despatch Argus. Mercury took his sleep-producing wand, and presented himself on earth as a shepherd driving his flock. As he strolled, he blew upon his syrinx or Pandæan pipes. Argus listened with delight.
             <quote>“Young man,” said he, “come and take a seat by me on this stone. There is no better place for your flock to graze in than hereabouts, and here is a pleasant shade such as shepherds love.”</quote> Mercury sat down, talked, told stories till it grew late, and played upon his pipes his most soothing strains, hoping to lull the watchful eyes to sleep, but in vain; for Argus still contrived to keep some of his eyes open, though he shut the rest.</p>
@@ -1621,7 +1621,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig035.png"/>
           </figure>
-          <p rend="legend">Fig. 35. Europa on the Bull. <lb/>[Vase picture:
+          <p rend="center noindent">Fig. 35. Europa on the Bull. <lb/>[Vase picture:
             <author key="Baumeister">Baumeister</author>.]</p>
           <p>According to tradition, from this princess the continent of Europe acquired its name. Her three sons are famous in Greek myth: Minos, who became king of Crete, and after his death a judge in the lower world; Rhadamanthus, who was also regarded as king and judge in the world of ghosts; and Sarpedon, who was ancestor of the Lycians.</p>
           <p>The adventures of Europa’s brother Cadmus, who by the command of his father went forth in quest of the lost maiden, fall under the myths of Mars.<note place="bottom">§ 70.</note></p>
@@ -1696,7 +1696,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig036.png"/>
           </figure>
-          <p rend="legend">36. Amphion with the lyre, and Zethus. <lb/>[Relief in the Palazzo Spada:
+          <p rend="center noindent">36. Amphion with the lyre, and Zethus. <lb/>[Relief in the Palazzo Spada:
             <author key="Roscher">Roscher</author> 2: 311.]</p>
           <quote>
             <l>… ’Tis said he had a tuneful tongue,</l>
@@ -1836,7 +1836,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig037.png"/>
           </figure>
-          <p rend="legend">Fig. 37. Minerva’s contest with Neptune. <lb/>[Vase picture:
+          <p rend="center noindent">Fig. 37. Minerva’s contest with Neptune. <lb/>[Vase picture:
             <author key="Baumeister">Baumeister</author>.]</p>
           <p><hi rend="b">Arachne</hi>. — In another contest, a mortal dared to come into competition with the gray-eyed daughter of Jove. This was Arachne, a maiden who had attained such skill in the arts of carding and spinning, of weaving and embroidery, that the Nymphs themselves would leave their groves and fountains to come and gaze upon her work. It was not only beautiful when it was done, but beautiful also in the doing. To watch her one would have said that Minerva herself had taught her. But this she denied, and could not bear to be thought a pupil even of a goddess.
             <quote>“Let Minerva try her skill with mine,” said she. “If beaten, I will pay the penalty.”</quote> Minerva heard this, and was displeased. Assuming the form of an old woman, she appeared to Arachne, and kindly advised her to challenge her fellow-mortals if she would, but at once to ask forgiveness of the goddess. Arachne bade the old dame to keep her counsel for others.
@@ -1872,7 +1872,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig038.png"/>
           </figure>
-          <p rend="legend">38. Minerva. <lb/>[Statue:
+          <p rend="center noindent">38. Minerva. <lb/>[Statue:
             <author key="Müller F. M.">Müller</author>.]</p>
           <quote>
             <p>… And when they were come nigh in onset on one another, first Mars thrust over the yoke and horses’ reins with spear of bronze, eager to take away his life. But the bright-eyed goddess Minerva with her hand seized the spear, and thrust it up over the car, to spend itself in vain. Next Diomede of the loud war-cry attacked with spear of bronze; and Minerva drave it home against Mars’ nethermost belly, where his taslets were girt about him. There smote he him and wounded him, rending through his fair skin, — and plucked forth the spear again. Then brazen Mars bellowed loud as nine thousand warriors or ten thousand cry in battle as they join in strife and fray. Thereat trembling gat hold of Achseans and Trojans for fear, so mightily bellowed Mars insatiate of battle.</p>
@@ -1897,7 +1897,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig039.png"/>
           </figure>
-          <p rend="legend">Fig. 39. Mars and Venus. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+          <p rend="center noindent">Fig. 39. Mars and Venus. <lb/>[Wall painting: <title>H. and P.</title>]</p>
           <p><hi rend="b">The Fortunes of Cadmus</hi>. — When Europa was carried away by Jupiter in the guise of a bull, her father Agenor commanded his son Cadmus to go in search of her, and not to return without her. Cadmus sought long and far; then, not daring to return unsuccessful, consulted the oracle of Apollo to know what country he should settle in. The oracle informed him that he would find a cow in the field, should follow her wherever she might wander, and where she stopped should build a city and call it Thebes. Cadmus had hardly left the Castalian cave, from which the oracle was delivered, when he saw a young cow slowly walking before him. He followed her close, offering at the same time his prayers to Phœbus. The cow went on till she passed the shallow channel of Cephissus, and came out into the plain of Panope. There she stood still. Cadmus gave thanks, and stooping down kissed the foreign soil, then lifting his eyes, greeted the surrounding mountains. Wishing to offer a sacrifice to his protecting deity, Minerva, he sent his servants to seek pure water for a libation. Near by there stood an ancient grove which had never been profaned by the axe, in the midst of which was a cave, thick covered with the growth of bushes, its roof forming a low arch, from beneath which burst forth a fountain of purest water. But in the cave lurked a serpent with crested head and scales glittering like gold; his eyes shone like fire; his body was swollen with venom; he vibrated a triple tongue, and showed a triple row of teeth. No sooner had the Tyrians dipped their pitchers in the fountain, and the ingushing waters had made a sound, than the monster, twisting his scaly body in a huge coil, darted upon them and destroyed some with his fangs, others in his folds, and others with his poisonous breath.</p>
           <p>Cadmus, having waited for the return of his men till midday, went in search of them. When he entered the wood, and saw their lifeless bodies, and the dragon with his bloody jaws, not knowing that the serpent was sacred to Mars, scourge of mortals, he lifted a huge stone and threw it with all his force at the monster. The blow made no impression. Minerva, however, was present, unseen, to aid her worshipper. Cadmus next threw his javelin, which penetrated the serpent’s scales, and pierced through to his entrails. The monster attempted to draw out the weapon with his mouth, but broke it off, leaving the iron point rankling in his flesh. His neck swelled with rage, bloody foam covered his jaws, and the breath of his nostrils poisoned the air around. As he moved onward, Cadmus retreated before him, holding his spear opposite to the serpent’s opened jaws. At last, watching his chance, the hero thrust the spear at a moment when the animal’s head thrown back came against the trunk of a tree, and so succeeded in pinning him to its side.</p>
           <p>While Cadmus stood over his conquered foe, contemplating its vast size, a voice was heard (from whence he knew not, but it was Minerva’s) commanding him to take the dragon’s teeth and sow them in the earth. Scarce had he done so when the clods began to move, and the points of spears to appear above the surface. Next helmets, with their nodding plumes, came up; next, the shoulders and breasts and limbs of men with weapons, and in time a harvest of armed warriors. Cadmus prepared to encounter a new enemy, but one of them said to him,
@@ -1905,7 +1905,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig040.png"/>
           </figure>
-          <p rend="legend">Fig. 40. Cadmus slaying the Dragon. <lb/>[Vase picture:
+          <p rend="center noindent">Fig. 40. Cadmus slaying the Dragon. <lb/>[Vase picture:
             <author key="Millin">Millin</author>.]</p>
           <p>As penance for the destruction of this sacred serpent, Cadmus served Mars for a period of eight years. After he had been absolved of his impiety, Minerva set him over the realm of Thebes, and Jove gave him to wife Harmonia, the daughter of Venus and Mars. The gods left Olympus to honor the occasion with their presence; and Vulcan presented the bride with a necklace of surpassing brilliancy, his own workmanship. Of this marriage ere born four daughters, Semele,<note place="bottom">§ 62. </note> Ino,<note place="bottom">§§ 103 and 129. </note> Autonoë,<note place="bottom">§§ 89, 102, 103. </note> and Agave,<note place="bottom">§§ 102, 103. </note> and one son, Polydorus.<note place="bottom">§§ 158-164.</note> But in spite of the atonement made by Cadmus, a fatality hung over the family. The very necklace of Vulcan seemed to catch the spirit of ill-luck, and convey a baleful influence to such as wore it. Semele, Ino, Actæon, the son of Autonoë, and Pentheus, the son of Agave, all perished by violence. Cadmus and Harmonia quitted Thebes, grown odious to them, and emigrated to the country of the Enchelians, who received them with honor, and made Cadmus their king. But the misfortunes of their children still weighing upon their minds, Cadmus one day exclaimed,
             <quote>“If a serpent’s life is so dear to the gods, I would I were myself a serpent.”</quote> No sooner had he uttered the words than he began to change his form. Harmonia, beholding it, prayed the gods to let her share his fate. Both became serpents. It is said that, mindful of their origin, they neither avoid the presence of man, nor do they injure any one. But the curse appears not to have, passed from their house until the sons of their great-great-grandson Œdipus had by fraternal strife ended themselves and the family.<note place="bottom">
@@ -1917,7 +1917,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht07.png"/>
           </figure>
-          <p rend="legend">Pl. 7. The Forge of Vulcan. <lb/>
+          <p rend="center noindent">Pl. 7. The Forge of Vulcan. <lb/>
             <author key="Velázquez">Velasquez</author>.</p>
           <p>That Vulcan was not permanently hostile to Juno is shown by the services that on various occasions he rendered her. He forged the shield of her favorite Achilles; and, at her instance, he undertook a contest against the river Xanthus.
             <author key="Homère">Homer</author><note place="bottom"><title>Iliad</title> 21: 335.</note>
@@ -1940,7 +1940,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig041.png"/>
           </figure>
-          <p rend="legend">Fig. 41. Apollo, and Hyacinthus with quoit. <lb/>[Marble group, Hope Collection.
+          <p rend="center noindent">Fig. 41. Apollo, and Hyacinthus with quoit. <lb/>[Marble group, Hope Collection.
             <author key="Roscher">Roscher</author> 16, 17: 2765.]</p>
           <p>It was said that Zephyrus (the west wind), who was also fond of Hyacinthus and jealous of his preference of Apollo, blew the quoit out of its course to make it strike Hyacinthus.</p>
           <p>§ 75. While this youth met his death by accident, another of Apollo’s favorites, his own son, brought death upon himself by presumption.</p>
@@ -1968,7 +1968,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig042.png"/>
           </figure>
-          <p rend="legend">Fig. 42. Apollo. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+          <p rend="center noindent">Fig. 42. Apollo. <lb/>[Wall painting: <title>H. and P.</title>]</p>
           <quote>
             <p>So spake he in prayer; and Phœbus Apollo heard him, and came down from the peaks of Olympus wroth at heart, bearing on his shoulders his bow and covered quiver. And the arrows clanged upon his shoulders in his wrath, as the god moved; and he descended like to night. Then he sate him aloof from the ships, and let an arrow fly; and there was heard a dread clanging of the silver bow. First did he assail the mules and fleet dogs, but afterward, aiming at the men his piercing dart, he smote; and the pyres of the dead burnt continually in multitude. Nor until Agamemnon had sent back his winsome captive to her father did Apollo remove from the Danaans the loathsome pestilence.<note place="bottom">From
               <author key="Lang">Lang</author>,
@@ -1984,7 +1984,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig043.png"/>
           </figure>
-          <p rend="legend">Fig. 43. Niobe. <lb/>[Statue:
+          <p rend="center noindent">Fig. 43. Niobe. <lb/>[Statue:
             <author key="Müller F. M.">Müller</author>.]</p>
           <p>When Niobe was acquainted with what had taken place, she was indignant that the gods had dared and amazed that they had been able to do it. Her husband, Amphion, overwhelmed with the blow, destroyed himself. But the mother knelt over the lifeless bodies, and kissed them Raising her pallid arms to heaven,
             <quote>“Cruel Latona,” said she, “satiate thy hard heart, while I follow to the grave my seven sons. Yet where is thy triumph? Bereaved as I am, I am still richer than thou, my conqueror.”</quote> Scarce had she spoken, when the bow sounded and struck terror into all hearts except Niobe’s alone. She was brave from excess of grief. Her daughters stood in garments of mourning over the biers of their dead brothers. One after another they fell, struck by arrows, beside the corpses that they were bewailing. Only one remained, whom the mother held clasped in her arms, and covered, as it were, with her whole body.
@@ -2023,11 +2023,11 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig044.png"/>
           </figure>
-          <p rend="legend">Fig. 44. Æsculapius. <lb/>[Statue:
+          <p rend="center noindent">Fig. 44. Æsculapius. <lb/>[Statue:
             <author key="Müller F. M.">Müller</author>.]</p>
           <p>§ 80. <hi rend="b">Apollo in Exile</hi>. — Apollo, indignant at the destruction of this son, wreaked his vengeance on the innocent workmen who had made the thunderbolt. These were the Cyclopes, who had their workshop under Mount Ætna, from which the smoke and flames of their furnaces are constantly issuing. Apollo shot his arrows at the Cyclopes, a deed which so incensed Jupiter that he condemned him to serve a mortal for the space of one year. Accordingly, Apollo went into the service of Admetus, king of Thessaly, and pastured his flocks for him on the verdant banks of the river. Amphrysus. How the god lived among men, and what, they thought of him, is well told in the following verses: —</p>
-          <quote rend="border">
-            <label>The Shepherd of King Admetus.<note place="bottom">
+          <quote>
+            <label type="head">The Shepherd of King Admetus.<note place="bottom">
               <author key="Lowell">J. R. Lowell</author>.</note></label>
             <l>There came a youth upon the earth,</l>
             <l>Some thousand years ago,</l>
@@ -2213,7 +2213,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig045.png"/>
           </figure>
-          <p rend="legend">Fig. 45. Apollo playing the lyre (Citharædus). <lb/>[Statue in the Vatican:
+          <p rend="center noindent">Fig. 45. Apollo playing the lyre (Citharædus). <lb/>[Statue in the Vatican:
             <author key="Roscher">Roscher</author> 463.]</p>
           <p>In the following “<title>Hymn</title>,”<note place="bottom">
             <author key="Shelley">Shelley</author>, <title>Hymn of Pan</title>.</note> Pan taunts Apollo as he might have done when Midas was sitting contentedly by: -</p>
@@ -2313,7 +2313,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig046.png"/>
           </figure>
-          <p rend="legend">Fig. 46. Griffins drawing car with symbols of Apollo. <lb/>[Relief:
+          <p rend="center noindent">Fig. 46. Griffins drawing car with symbols of Apollo. <lb/>[Relief:
             <author key="Hirt">Hirt</author>.]</p>
         </div>
         <div>
@@ -2325,7 +2325,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig047.png"/>
           </figure>
-          <p rend="legend">Fig. 47. Head of Arethusa. <lb/>[Coin:
+          <p rend="center noindent">Fig. 47. Head of Arethusa. <lb/>[Coin:
             <author key="Baumeister">Baumeister</author>.]</p>
           <p>In the following version of the pursuit,<note place="bottom">
             <author key="Shelley">Shelley</author>’s <title>Arethusa</title>.</note> Arethusa was already a river when Alpheüs espied her.</p>
@@ -2428,7 +2428,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig048.png"/>
           </figure>
-          <p rend="legend">Fig. 48. Young River-god. <lb/>[Bronze head:
+          <p rend="center noindent">Fig. 48. Young River-god. <lb/>[Bronze head:
             <author key="Baumeister">Baumeister</author>;
             <author key="Roscher">Roscher</author> 9: 1489.]</p>
           <p>§ 89. <hi rend="b">The Fate of Actæon.</hi><note place="bottom">
@@ -2438,7 +2438,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig049.png"/>
           </figure>
-          <p rend="legend">Fig. 49. Actæon torn by his hounds. <lb/>[Relief:
+          <p rend="center noindent">Fig. 49. Actæon torn by his hounds. <lb/>[Relief:
             <author key="Baumeister">Baumeister</author>.]</p>
           <p>§ 90. <hi rend="b">The Fortunes and Death of Orion</hi>. — Orion, the son of Neptune, was a giant and a mighty hunter, whose prowess and manly favor gained for him the rare good-will of Diana.</p>
           <p>It is related that he loved Merope, the daughter of Œnopion, king of Chios, and sought her in marriage. He cleared the island of wild beasts, and brought the spoils of the chase as presents to his beloved; but as Œnopion constantly deferred his consent, Orion attempted to gain possession of the maiden by violence. Her father, incensed at this conduct, made Orion drunk, deprived him of his sight, and cast him out on the seashore. The blinded hero, instructed by an oracle to seek the rays of morning, followed the sound of a Cyclops’ hammer till he reached Lemnos, where Vulcan, taking pity on him, gave him Cedalion, one of his men, to be his guide to the abode of the sun. Placing Cedalion on his shoulders, Orion proceeded to the east, and there meeting the sun-god, was restored to sight by his beam.<note place="bottom">
@@ -2450,7 +2450,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht08.png"/>
           </figure>
-          <p rend="image">Pl. 8. <hi rend="sc">The Pleiades</hi>. <lb/>
+          <p rend="center noindent">Pl. 8. <hi rend="sc">The Pleiades</hi>. <lb/>
             <author key="Vedder">Vedder</author>.</p>
           <p>
             <author key="Tennyson A.">Tennyson</author>’s reference to the Pleiads, in “<title>Locksley Hall</title>,” is of course familiar to all readers.</p>
@@ -2458,7 +2458,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig050.png"/>
           </figure>
-          <p rend="legend">Fig. 50. Endymion. <lb/>[Relief in the Capitoline Museum, Rome:
+          <p rend="center noindent">Fig. 50. Endymion. <lb/>[Relief in the Capitoline Museum, Rome:
             <author key="Roscher">Roscher</author> 7: 1246.]</p>
           <p>For one calm, clear night, Selene looked down upon the beautiful Endymion, who fed his flock on Mount Latmos; and saw him sleeping. The heart of the goddess was unquestionably warmed by his surpassing beauty. She came down to him; she kissed him; she watched over him while he slept. She visited him again and again. But her secret could not long be hidden from the company of Olympus. For more and more frequently she was absent from her station in the sky; and toward morning she was ever paler and more weary with her watching. When, finally, her love was discovered, Jupiter gave Endymion, who had been thus honored, a choice between death in any manner that was preferable, or perpetual youth united with perpetual sleep. Endymion chose the latter. He still sleeps in his Carian cave, and still the mistress of the moon slips from her nocturnal course to visit him. She takes care, too, that his fortunes shall not suffer by his inactive life: she yields his flock increase, and guards his sheep and lambs from beasts of prey.<note place="bottom">Authorities are
             <author key="Pausanias">Pausanias</author>, 5, 1. § 2-4;
@@ -2497,9 +2497,9 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig051.png"/>
           </figure>
-          <p rend="legend">Fig. 51. Celestial Venus. <lb/>[Wall painting: <title>H. and P.</title>]</p>
-          <quote rend="border">
-            <label>The Lament for Adonis.<note place="bottom">From an elegy intended to be sung at one of the spring celebrations in memory of Adonis. Translated from
+          <p rend="center noindent">Fig. 51. Celestial Venus. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+          <quote>
+            <label type="head">The Lament for Adonis.<note place="bottom">From an elegy intended to be sung at one of the spring celebrations in memory of Adonis. Translated from
               <author key="Bion">Bion</author> by
               <author key="Lang">Andrew Lang</author>. <hi rend="i">Cypris, Cytherea</hi>, and the <hi rend="i">Paphian</hi> refer to Venus. See Commentary, This elegy is also translated by
               <author key="E. Browning">Mrs. Browning</author> and by
@@ -2692,7 +2692,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig052.png"/>
           </figure>
-          <p rend="legend">Fig. 52. Diana. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+          <p rend="center noindent">Fig. 52. Diana. <lb/>[Wall painting: <title>H. and P.</title>]</p>
           <p><hi rend="b">Atalanta’ s Race.</hi><note place="bottom">
             <author key="Ovide">Ovid</author>, <title>Metam.</title> 10: 560-680.</note> — Atalanta, the daughter of Schœneus of Bœotia, had been warned by an oracle that marriage would be fatal to her happiness. Consequently she fled the society of men, and devoted herself to the sports of the chase. Fair, fearless, swift and free: in beauty and in desire she was a Cynthia, — of mortal form, and with a woman’s heart. To all suitors (for she had many) she made answer:
             <quote>“I will be the prize of him only who shall conquer me in the race; but death must be the penalty of all who try and fail.”</quote> In spite of this hard condition some would try. Of one such race Hippomenes was to be judge. It was his thought, at first, that these suitors risked too much for a wife. But when he saw Atalanta lay aside her robe for the race, he changed his mind, and began to swell with envy of those that seemed likely to win.</p>
@@ -2702,7 +2702,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht09.png"/>
           </figure>
-          <p rend="legend">Pl. 9. Atalanta’s Race. <lb/>
+          <p rend="center noindent">Pl. 9. Atalanta’s Race. <lb/>
             <author key="Poynter">Poynter</author>.</p>
           <p>She gathered three golden apples from the garden of her temple, in her own island of Cyprus, and, unseen by any, gave them to Hippomenes, telling him how to use them. Atalanta and her lover were ready. The signal was given.</p>
           <quote>
@@ -2850,7 +2850,7 @@
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig053.png"/>
           </figure>
-          <p rend="legend">Fig. 53. Genius with torch. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+          <p rend="center noindent">Fig. 53. Genius with torch. <lb/>[Wall painting: <title>H. and P.</title>]</p>
           <p>For a season all went well. Guided by a torch which his mistress reared upon the tower, he was wont of nights to swim the strait, that he might enjoy her company. But one night a tempest arose, and the sea was rough; his strength failed, and he was drowned. The waves bore his body to the European shore, where Hero became aware of his death, and in her despair cast herself into the, sea and perished.</p>
           <p>A picture of the drowning Leander is thus described by
             <author key="Keats">Keats</author><note place="bottom"><title>Sonnet: On a Picture of Leander</title>.</note>: —</p>
@@ -2984,7 +2984,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig054.png"/>
         </figure>
-        <p rend="legend">Fig. 54. Bacchus and Silenus. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+        <p rend="center noindent">Fig. 54. Bacchus and Silenus. <lb/>[Wall painting: <title>H. and P.</title>]</p>
         <p><hi rend="b">The Wanderings of Bacchus</hi>. — After the death of Semele,<note place="bottom">§ 62.</note> Jove took the infant Bacchus and gave him in charge to the Nysæan nymphs, who nourished his infancy and childhood, and for their care were placed by Jupiter as the Hyades, among the stars. Another guardian and tutor of young Bacchus was the pot-bellied, jovial Silenus, son of Pan and a nymph, and oldest of the Satyrs. Silenus was probably an indulgent preceptor. He was generally tipsy, and would have broken his neck early in his career, had not the Satyrs held him on his ass’s back as he reeled along in the train of his pupil. After Bacchus was of age, he discovered the culture of the vine and the mode of extracting its precious juice; but Juno struck him with madness, and drove him forth a wanderer through various parts of the earth. In Phrygia the goddess Rhea cured him and taught him her religious rites; and then he set out on a progress through Asia, teaching the people the cultivation of the vine. The most famous part of his wanderings is his expedition to India, which is said to have lasted several years. Returning in triumph, he undertook to introduce his worship into Greece, but was opposed by certain princes who dreaded the disorders and madness it brought with it. Finally he approached his native city Thebes, where his own cousin, Pentheus, son of Agave and grandson of Harmonia and Cadmus, was king. Pentheus, however, had no respect for the new worship, and forbade its rites to be performed.<note place="bottom">
           <author key="Ovide">Ovid</author>, <title>Metam.</title> 3: 511-733.</note> But when it was known that Bacchus was advancing, men and women, young and old, poured forth to meet him and to join his triumphal march.</p>
         <quote>
@@ -3002,7 +3002,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig055.png"/>
         </figure>
-        <p rend="legend">Fig. 55. Bacchus dance of Satyrs and Bacchantes. <lb/>[Vase picture: <title>Inst. Arch.</title>]</p>
+        <p rend="center noindent">Fig. 55. Bacchus dance of Satyrs and Bacchantes. <lb/>[Vase picture: <title>Inst. Arch.</title>]</p>
         <p>It was in vain Pentheus remonstrated, commanded, and threatened. His nearest friends and wisest counsellors begged him not to oppose the god. Their remonstrances only made him the more violent.</p>
         <p>§ 103. <hi rend="b">The Story of Acetes</hi>. — Soon the attendants returned who had been despatched to seize Bacchus. They had succeeded in taking one of the Bacchanals prisoner, whom, with his hands tied behind him, they brought before the king. Pentheus, threatening him with death, commanded him to tell who he was and what these new rites were that he presumed to celebrate.</p>
         <p>The prisoner, unterrified, replied that he was Acetes of Mæonia; that his parents, being poor, had left him their fisherman’s trade, which he had followed till he had acquired the pilot’s art of steering his course by the stars. It once happened that he had touched at the island of Dia, and had sent his men ashore for fresh water. They returned, bringing with them a lad of delicate appearance whom they had found asleep. Judging him to be a noble youth, they thought to detain him in the hope of liberal ransom. But Acetes suspected that some god was concealed under the youth’s exterior, and asked pardon for the violence done. Whereupon the sailors, enraged by their lust of gain, exclaimed,
@@ -3014,7 +3014,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig056.png"/>
         </figure>
-        <p rend="legend">Fig. 56. A Bacchante in frenzy. <lb/>[Marble vase:
+        <p rend="center noindent">Fig. 56. A Bacchante in frenzy. <lb/>[Marble vase:
           <author key="Wælcken">Wælcken</author>.]</p>
         <p>So far had Acetes advanced in his narrative, when Pentheus, interrupting, ordered him off to his death. But from this fate the pilot, rendered invisible by his patron deity, was straightway rescued.</p>
         <p>Meanwhile the mountain Cithæron seemed alive with worshippers, and the cries of the Bacchanals resounded on every side. Pentheus, angered by the noise, penetrated through the wood, and reached an open space where the chief scene of the orgies met his eyes. At the same moment the women saw him, among them his mother, Agave, and Autonoë and Ino, her sisters. Taking him for a wild boar, they rushed upon him and tore him to pieces, — his mother shouting,
@@ -3054,13 +3054,13 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig057.png"/>
         </figure>
-        <p rend="legend">Fig. 57. Bacchus procession. <lb/>[Vase picture: <title>Arch. Zeit.</title>]</p>
+        <p rend="center noindent">Fig. 57. Bacchus procession. <lb/>[Vase picture: <title>Arch. Zeit.</title>]</p>
         <p>§ 104. <hi rend="b">The Choice of King Midas.</hi><note place="bottom"><p>
           <author key="Ovide">Ovid</author>, <title>Metam.</title> 11: 85-145.</p></note> — Once Silenus, having wandered from the company of Bacchus in an intoxicated condition, was found by some peasants, who carried him to their king, Midas. Midas entertained him royally, and on the eleventh day restored him in safety to his divine pupil. Whereupon Bacchus offered Midas his choice of a reward. The king asked that whatever he might -touch should be changed into gold. Bacchus consented. Midas hastened to put his new-acquired power to the test. A twig of an oak, which he plucked from the branch, became gold in his hand. He took up a stone; it changed to gold. He touched a sod, with the same result. He took an apple from the tree; you would have thought he had robbed the garden of the Hesperides. He ordered his servants, then, to set an excellent meal on the table. But, to his dismay, when he touched bread, it hardened in his hand; when he put a morsel to his lips, it defied his teeth. He took a glass of wine, but it flowed down his throat like melted gold.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig058.png"/>
         </figure>
-        <p rend="legend">Fig. 58. Silenus. <lb/>[Bronze lamp: <title>H. and P.</title>]</p>
+        <p rend="center noindent">Fig. 58. Silenus. <lb/>[Bronze lamp: <title>H. and P.</title>]</p>
         <p>He strove to divest himself of his power; he hated the gift he had lately coveted. He raised his arms, all shining with gold, in prayer to Bacchus, begging to be delivered from this glittering destruction. The merciful deity heard, and sent him to wash away his fault and its punishment in the fountain head of the river Pactolus. Scarce had Midas touched the waters, before the gold-creating power passed into them, and the river sands became golden, as they remain to this day.</p>
         <p>Thenceforth Midas, hating wealth and splendor, dwelt in the country, and became a worshipper of Pan, the god of the fields. But that he had not gained common sense is shown by the decision that he delivered somewhat later in favor of Pan’s superiority, as a musician, over Apollo.<note place="bottom">See § 83.</note></p>
       </div>
@@ -3070,7 +3070,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig059.png"/>
         </figure>
-        <p rend="legend">Fig. 59. The Rape of Proserpina. <lb/>[Relief:
+        <p rend="center noindent">Fig. 59. The Rape of Proserpina. <lb/>[Relief:
           <author key="Baumeister">Baumeister</author>.]</p>
         <p>§ 105. <hi rend="b">The Rape of Proserpine.</hi><note place="bottom">
           <author key="Ovide">Ovid</author>, <title>Metam.</title> 5: 341-437.</note> — When the giants were imprisoned by Jupiter under Mount Ætna, Pluto feared lest the shock of their fall might expose his kingdom to the light of day. Under this apprehension, he mounted his chariot, drawn by black horses, and made a circuit of inspection to satisfy himself of the extent of the damage. While he was thus engaged, Venus, who was sitting on Mount Eryx playing with her boy Cupid, espied him, and said,
@@ -3087,14 +3087,14 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig060.png"/>
         </figure>
-        <p rend="legend">Fig. 60. The Return of Proserpina. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 60. The Return of Proserpina. <lb/>[Vase picture:
           <author key="Baumeister">Baumeister</author>.]</p>
         <p>When Ceres heard this, she stood a while like one stupefied; then she implored Jupiter to interfere to procure the restitution of her daughter. Jupiter consented on condition that Proserpine should not during her stay in the lower world have taken any food; otherwise, the Fates forbade her release. Accordingly, Mercury was sent, accompanied by Spring, to demand Proserpine of Pluto. The wily monarch consented; but alas! the maiden had taken a pomegranate which Pluto offered her, and had sucked the sweet pulp from a few of the seeds. A compromise, however, was effected by which she was to pass half the time with her mother, and the rest with the lord of Hades.</p>
         <p>§ 106. <hi rend="b">Triptolemus and the Eleusinian Mysteries</hi>. — Ceres, pacified with this arrangement, restored the earth to her favor. Now she remembered, also, Celeus and his family, and her promise to his infant son Triptolemus. She taught the boy the use of the plough, and how to sow the seed. She took him in her chariot, drawn by winged dragons, through all the countries of the earth; and under her guidance he imparted to mankind valuable grains, and the knowledge of agriculture. After his return, Triptolemus built a temple to Ceres in Eleusis, and established the worship of the goddess, under the name of the Eleusinian mysteries, which, in the splendor and solemnity of their observance, surpassed all other religious celebrations among the Greeks.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig061.png"/>
         </figure>
-        <p rend="legend">Fig. 61. The Departure of Triptolemus. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 61. The Departure of Triptolemus. <lb/>[Vase picture:
           <author key="Baumeister">Baumeister</author>.]</p>
         <quote>
           <l>“Sacred Goddess, Mother Earth,</l>
@@ -3116,18 +3116,18 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht10.png"/>
         </figure>
-        <p rend="legend">Pl. 10. Orpheus and Eurydice. <lb/>
+        <p rend="center noindent">Pl. 10. Orpheus and Eurydice. <lb/>
           <author key="Leighton">Sir Frederick Leighton</author>.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig062.png"/>
         </figure>
-        <p rend="legend">Fig. 62. Hymen. <lb/>[Wall painting:
+        <p rend="center noindent">Fig. 62. Hymen. <lb/>[Wall painting:
           <author key="Roscher">Roscher</author> 16, 17: 2802.]</p>
         <p>Hymen was called to bless with his presence the nuptials of Orpheus with Eurydice, but he brought no happy omens with him. His torch smoked and brought tears into the eyes. In coincidence with such prognostics, Eurydice, shortly after her marriage, was seen by the shepherd Aristseus, who was struck with her beauty, and made advances to her. In flying she trod upon a snake in the grass, was bitten in the foot, and died. Orpheus sang his grief to all who breathed the upper air, both gods and men, and finding his complaint of no avail, resolved to seek his wife in the regions of the dead. He descended by a cave situated on the side of the promontory of Tænarus, and arrived in the Stygian realm. He passed through crowds of ghosts, and presented himself before the throne of Pluto and Proserpine. Accompanying his words with the lyre, he sang his petition for his wife. Without her he would not return. In such tender strains he sang that the very ghosts shed tears. Tantalus, in spite of his thirst, stopped for a moment his efforts for water, Ixion’s wheel stood still, the vulture ceased to tear the giant’s liver, the daughters of Danaüs rested from their task of drawing water in a sieve,<note place="bottom">Commentary, § 133.</note> and Sisyphus sat on his rock to listen.<note place="bottom">Commentary, § 107.</note> Then for the first time, it is said, the cheeks of the Furies were wet with tears. Proserpine could not resist, and Pluto himself gave way. Eurydice was called. She came from among the new-arrived ghosts, limping with her wounded foot. Orpheus was permitted to take her away with him on condition that he should not turn round to look at her till they should have reached the upper air. Under this condition, they proceeded on their way: he leading, she following. Mindful of his promise, without let or hindrance the bard passed through the horrors of hell. All Hades held its breath.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig063.png"/>
         </figure>
-        <p rend="legend">Fig. 63. Tantalus, Ixion, and Sisyphus. <lb/>[Relief: <title>Sepolcri</title>.]</p>
+        <p rend="center noindent">Fig. 63. Tantalus, Ixion, and Sisyphus. <lb/>[Relief: <title>Sepolcri</title>.]</p>
         <quote>
           <l> … On he stept,</l>
           <l>And Cerberus held agape his triple jaws;</l>
@@ -3167,7 +3167,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig064.png"/>
         </figure>
-        <p rend="legend">Fig. 64. Mercury, Eurydice, and Orpheus. <lb/>[Relief in the Villa Albani:
+        <p rend="center noindent">Fig. 64. Mercury, Eurydice, and Orpheus. <lb/>[Relief in the Villa Albani:
           <author key="Roscher">Roscher</author> 14: 2407.]</p>
         <p>The Thracian maidens tried their best to captivate him, but he repulsed their advances. Finally, excited by the rites of Bacchus, one of them exclaimed, “See yonder our despiser!” and threw at him her javelin. The weapon, as soon as it came within the sound of his lyre, fell harmless at his feet: so also the stones that they threw at him. But the women, raising a scream, drowned the voice of the music, and overwhelmed him with their missiles. Like maniacs they tore him limb from limb; then cast his head and lyre into the river Hebrus, down which they floated, murmuring sad music, to which the shores responded. The Muses buried the fragments of his body at Libethra, where the nightingale is said to sing over his grave more sweetly than in any other part of Greece. His lyre was placed by Jupiter among the stars; but the shade of the bard passed a second time to Tartarus, and rejoined Eurydice.</p>
         <p>The superior melody of the nightingale’s song over the grave of Orpheus is alluded to by Southey in his Thalaba: —</p>
@@ -3195,7 +3195,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig065.png"/>
         </figure>
-        <p rend="legend">Fig. 65. Neptune with trident. <lb/>[Relief:
+        <p rend="center noindent">Fig. 65. Neptune with trident. <lb/>[Relief:
           <author key="Müller F. M.">Müller</author>.]</p>
         <p>§ 108. Neptune was lord both of salt waters and of fresh. The myths that turn on his life as lord of the sea illustrate his defiant invasions of lands belonging to other gods, or his character as earth-shaker and earth-protector. Of his contests with other gods, that with Minerva for Athens has been related. He contested Corinth with Helios, Argos with Juno, Ægina with Jove, Naxos with Bacchus, and Delphi with Apollo. That he did not always make encroachments in person upon the land that he desired to possess or to punish, but sent some monster instead, will be seen in the myth of Andromeda<note place="bottom">§ 137. </note> and in the following story of Hesione,<note place="bottom"><title>Iliad</title> 5: 649;
           <author key="Apollodore">Apollodorus</author> III. 12 § 7. </note> the daughter of Laomedon of Troy.</p>
@@ -3213,7 +3213,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig066.png"/>
         </figure>
-        <p rend="legend">Fig. 66. Phosphor, Eos (Aurora), and the Sun rising from ocean. <lb/>[Vase Picture:
+        <p rend="center noindent">Fig. 66. Phosphor, Eos (Aurora), and the Sun rising from ocean. <lb/>[Vase Picture:
           <author key="Gerhard">Gerhard</author>, <title>Akadem. Abhandl.</title>]</p>
         <p>§ 112. <hi rend="b">Cephalus and Procris.</hi><note place="bottom">
           <author key="Ovide">Ovid</author>, <title>Metam.</title>8: 661-685.</note> — Aurora, the goddess of the dawn, fell in love with Cephalus, a young huntsman. She stole him away, lavished her love upon him, tried to content him, but in vain. He cared for his young wife Procris more than for the goddess. Finally Aurora dismissed him in displeasure, saying,
@@ -3281,7 +3281,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig067.png"/>
         </figure>
-        <p rend="legend">Fig. 67. The God of Sleep. <lb/>[Relief:
+        <p rend="center noindent">Fig. 67. The God of Sleep. <lb/>[Relief:
           <author key="Baumeister">Baumeister</author>.]</p>
         <p>Brushing away the dreams that hovered around her, Iris lit up the cave, and delivered her message to the god, who, scarce opening his eyes, had great difficulty in shaking himself free from himself.</p>
         <p>Then Iris hasted away from the drowsiness creeping over her, and returned by her bow as she had come. But Somnus called one of his sons — Morpheus — the most expert in counterfeiting forms of men, to perform the command of Iris; then laid his head on his pillow, and yielded himself again to grateful repose.</p>
@@ -3294,7 +3294,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht11.png"/>
         </figure>
-        <p rend="image">Pl. 11. Aurora. <lb/>
+        <p rend="center noindent">Pl. 11. Aurora. <lb/>
           <author key="Reni">Guido Reni</author>.</p>
         <quote>
           <l> “The woods decay, the woods decay and fall. </l>
@@ -3445,7 +3445,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig068.png"/>
         </figure>
-        <p rend="legend">Fig. 68. Dancing Satyr. <lb/>[
+        <p rend="center noindent">Fig. 68. Dancing Satyr. <lb/>[
           <author key="Pitt">Pitt</author>’s
           <author key="Virgile">Vergil</author>.]</p>
         <quote>
@@ -3553,7 +3553,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht12.png"/>
         </figure>
-        <p rend="legend">Pl. 12. Faun. <lb/>
+        <p rend="center noindent">Pl. 12. Faun. <lb/>
           <author key="Praxitèle">Praxiteles</author>.</p>
         <quote>
           <l>“The trunk of this tree,<note place="bottom">From <title>The Satyr</title>, by
@@ -3608,7 +3608,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig069.png"/>
         </figure>
-        <p rend="legend">Fig. 69. Young Satyr. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+        <p rend="center noindent">Fig. 69. Young Satyr. <lb/>[Wall painting: <title>H. and P.</title>]</p>
         <p>§ 118. <hi rend="b">Echo and Narcissus.</hi><note place="bottom">
           <author key="Ovide">Ovid</author>, <title>Metam.</title> 3: 339-510. </note> — Echo was a beautiful Oread, fond of the woods and hills; a favorite of Diana, whom she attended in the chase. But by her chatter she came under the displeasure of Juno, who condemned her to the loss of voice save for purposes of reply.</p>
         <p>Subsequently having fallen in love with Narcissus, the beautiful son of the river-god Cephissus, Echo found it impossible to express her regard for him in any way but by mimicking what he said; and what he said, unfortunately, did not always convey her sentiments. When, however, he once called across the hills to her,
@@ -3777,7 +3777,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig070.png"/>
         </figure>
-        <p rend="legend">Fig. 70. Rustics with baskets. <lb/>[<title>Ant. d’Hercul.</title>:
+        <p rend="center noindent">Fig. 70. Rustics with baskets. <lb/>[<title>Ant. d’Hercul.</title>:
           <author key="Thomson">Thompson</author>’s
           <author key="Horace">Horace</author>.]</p>
         <quote>
@@ -3794,7 +3794,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig071.png"/>
         </figure>
-        <p rend="legend">Fig. 71. Rustics with baskets. <lb/>[<title>Ant. d’Hercul.</title>:
+        <p rend="center noindent">Fig. 71. Rustics with baskets. <lb/>[<title>Ant. d’Hercul.</title>:
           <author key="Thomson">Thompson</author>’s
           <author key="Horace">Horace</author>.]</p>
         <p>When Vertumnus had thus spoken, he dropped his disguise, and stood before Pomona in his proper person, — a comely youth. Such wooing, of course, could not but win its just reward.</p>
@@ -3841,7 +3841,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig072.png"/>
         </figure>
-        <p rend="legend">Fig. 72. Galatea and Polyphemus. <lb/>[Wall painting, Palatine:
+        <p rend="center noindent">Fig. 72. Galatea and Polyphemus. <lb/>[Wall painting, Palatine:
           <author key="Roscher">Roscher</author> 9: 1587.]</p>
         <p>§ 127. <hi rend="b">Glaucus and Scylla.</hi><note place="bottom">
           <author key="Ovide">Ovid</author>, <title>Metam.</title> 13: 898; 14: 74;
@@ -3849,7 +3849,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig073.png"/>
         </figure>
-        <p rend="legend">Fig. 73. Glaucus and Scylla. <lb/>[Wall painting:
+        <p rend="center noindent">Fig. 73. Glaucus and Scylla. <lb/>[Wall painting:
           <author key="Roscher">Roscher</author> 10: 1684.]</p>
         <quote>
           <l>“I plunged for life or death. To interknit</l>
@@ -3871,7 +3871,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig074.png"/>
         </figure>
-        <p rend="legend">Fig. 74. Scylla. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+        <p rend="center noindent">Fig. 74. Scylla. <lb/>[Wall painting: <title>H. and P.</title>]</p>
         <p>A modern version of the fate of Glaucus and Scylla is given by
           <author key="Keats">Keats</author> in the <title>Endymion</title>. Glaucus consents to Circe’s blandishments for a season. But becoming disgusted with her treachery and cruelty, he endeavors to escape from her. The attempt proving unsuccessful, he is brought back, and sentenced to pass a thousand years in decrepitude and pain. Consequently, returning to the sea, he there discovers the body of Scylla, whom the goddess has not transformed, but drowned; and learns that if he passes his thousand years in collecting the bodies of drowned lovers, a youth beloved of the gods will, in time, appear and help him. This prophecy is fulfilled by Endymion, who aids in restoring Glaucus to youth, and Scylla and the drowned lovers to life.</p>
         <p>§ 128. <hi rend="b">Nisus and Scylla.</hi><note place="bottom">
@@ -3894,7 +3894,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig075.png"/>
         </figure>
-        <p rend="legend">Fig. 75. Sea-monsters. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+        <p rend="center noindent">Fig. 75. Sea-monsters. <lb/>[Wall painting: <title>H. and P.</title>]</p>
         <quote>
           <l>“Sabrina fair,</l>
           <l>Listen where thou art sitting</l>
@@ -3933,7 +3933,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_map03.png"/>
         </figure>
-        <p rend="legend">Map 3. Greece below Thermopylæ.</p>
+        <p rend="center noindent">Map 3. Greece below Thermopylæ.</p>
       </div>
       <div>
         <head>Chapter XVII. <lb/>Myths of the Older Heroes. <lb/>The House of Danaüs.</head>
@@ -3949,7 +3949,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig076.png"/>
         </figure>
-        <p rend="legend">Fig. 76. The Danaïds. <lb/>[Relief on an altar in the Vatican:
+        <p rend="center noindent">Fig. 76. The Danaïds. <lb/>[Relief on an altar in the Vatican:
           <author key="Roscher">Roscher</author> 6: 951.]</p>
         <p>§ 134. <hi rend="b">The Doom of King Acrisius.</hi><note place="bottom">
           <author key="Simonide de Céos">Simonides of Ceos</author>, also
@@ -3989,7 +3989,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig077.png"/>
         </figure>
-        <p rend="legend">Fig. 77. Medusa. <lb/>[Relief:
+        <p rend="center noindent">Fig. 77. Medusa. <lb/>[Relief:
           <author key="Müller F. M.">Müller</author>.]</p>
         <p>This was Medusa. Her, while she was praying the gods to end her misery, or, as some say, while she was sleeping, Perseus approached, — and guided by her image reflected in the bright shield which he bore, cut off her head, and so ended her miserable existence. Thus are described the horror and the grace of her features in death: —</p>
         <quote>
@@ -4015,7 +4015,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht13.png"/>
         </figure>
-        <p rend="legend">Pl. 13. Perseus. <lb/>
+        <p rend="center noindent">Pl. 13. Perseus. <lb/>
           <author key="Cellini">Cellini</author>.</p>
         <p>§ 136. <hi rend="b">Perseus and Atlas</hi>. — From the body of Medusa sprang the winged horse Pegasus, of whose rider, Bellerophon, we shall presently be informed.</p>
         <p>After the slaughter of Medusa, Perseus, bearing with him the head of the Gorgon, flew far and wide, over land and sea. As night came on, he reached the western limit of the earth, and would gladly have rested till morning. Here was the realm of Atlas, whose bulk surpassed that of all other men. He was rich in flocks and herds; but his chief pride was his garden of the Hesperides, whose fruit was of gold, hanging from golden branches, half hid with golden leaves. Perseus said to him,
@@ -4023,7 +4023,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig078.png"/>
         </figure>
-        <p rend="legend">Fig. 78. Perseus with the Gorgon’s head. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 78. Perseus with the Gorgon’s head. <lb/>[Vase picture:
           <author key="Gerhard">Gerhard</author>, <title>Herakles der Satyr und Dreifussrauber</title>.]</p>
         <p>§ 137. <hi rend="b">Perseus and Andromeda</hi>. — On his way back to Seriphus, the Gorgon-slayer arrived at the country of the Æthiopians, over whom Cepheus was king. His wife was Cassiopea —</p>
         <quote>
@@ -4058,7 +4058,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig079.png"/>
         </figure>
-        <p rend="legend">Fig. 79. Perseus and Andromeda. <lb/>[Relief in Capitoline Museum:
+        <p rend="center noindent">Fig. 79. Perseus and Andromeda. <lb/>[Relief in Capitoline Museum:
           <author key="Roscher">Roscher</author> 2: 346.]</p>
         <p>Leaving Phineus and his fellows in merited petrifaction, and conveying Andromeda to Seriphus, the hero, there, turned into stone Polydectes and his court, because the tyrant had rendered Danaë’s life intolerable with his attentions. Perseus then restored to their owners the charmed helmet, the winged shoes, and the pouch in which he had conveyed the Gorgon’s head. The head itself he bestowed upon Minerva, who bore it afterward upon her ægis or shield. Of that Gorgon-shield no more poetic interpretation can be framed than the following: —</p>
         <quote>
@@ -4078,7 +4078,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig080.png"/>
         </figure>
-        <p rend="legend">Fig. 80. Bellerophon and Pegasus. <lb/>[Relief:
+        <p rend="center noindent">Fig. 80. Bellerophon and Pegasus. <lb/>[Relief:
           <author key="Roscher">Roscher</author> 5: 762.]</p>
         <p>Iobates accordingly determined to send Bellerophon against the Chimæra. Bellerophon accepted the proposal, but before proceeding to the combat, consulted the soothsayer Polyidus, who counselled him to procure, if possible, the horse Pegasus for the conflict. Now this horse had been caught and tamed by Minerva, and by her presented to the Muses. Polyidus, therefore, directed Bellerophon to pass the night in the temple of Minerva. While he slept, Minerva brought him a golden bridle. When he awoke, she showed him Pegasus drinking at the well of Pirene. At sight of the bridle, the winged steed came willingly and suffered himself to be taken. Bellerophon mounted him, sped through the air, found the Chimæra, and gained an easy victory.</p>
         <p>After the conquest of this monster, Bellerophon was subjected to further trials and labors by his unfriendly host, but by the aid of Pegasus he triumphed over all. At length Iobates, seeing that the hero was beloved of the gods, gave him his daughter in marriage and made him his successor on the throne. It is said that Bellerophon, by his pride and presumption, drew upon himself the anger of the Olympians; that he even attempted to fly to heaven on his winged steed; but the king of gods and men sent a gadfly, which, stinging Pegasus, caused him to throw his rider, who wandered ever after lame, blind, and lonely through the Aleian field, and perished miserably.</p>
@@ -4104,13 +4104,13 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig081.png"/>
         </figure>
-        <p rend="legend">Fig. 81. Battle with the Amazons before Troy. <lb/>[Relief on sarcophagus:
+        <p rend="center noindent">Fig. 81. Battle with the Amazons before Troy. <lb/>[Relief on sarcophagus:
           <author key="Roscher">Roscher</author> 2: 279.]</p>
         <p>The tenth task enjoined upon him was to capture for Eurystheus the oxen of Geryon, a monster with three bodies, who dwelt in the island Erythea (the red), — so called because it lay in the west, under the rays of the setting sun. This description is thought to apply to Spain, of which Geryon was king. After traversing various countries, Hercules reached at length the frontiers of Libya and Europe, where he raised the two mountains of Abyla and Calpe as monuments of his progress, — the Pillars of Hercules; — or, according to another account, rent one mountain into two, and left half on each side, forming the "Straits of Gibraltar. The oxen were guarded by the giant Eurytion and his two-headed dog; but Hercules killed the warders, and conveyed the oxen in safety to Eurystheus.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig082.png"/>
         </figure>
-        <p rend="legend">Fig. 82. Atlas bearing the world. <lb/>[Statue:
+        <p rend="center noindent">Fig. 82. Atlas bearing the world. <lb/>[Statue:
           <author key="Müller F. M.">Müller</author>.]</p>
         <p>One of the most difficult labors was the eleventh, — the robbery of the golden apples of the Hesperides. Hercules did not know where to find them; but after various adventures, arrived at Mount Atlas, in Africa. Since Atlas was the father of the Hesperides, Hercules thought he might through him obtain the apples. The hero, accordingly, taking the burden of the heavens on his own shoulders,<note place="bottom">Atlas and the heavens, § 136.</note> sent Atlas to seek the apples. The giant returned with them, and proposed to take them himself to Eurystheus.
           <quote>“Even so,” said Hercules; “but, pray, hold this load for me a moment, while I procure a pad to ease my shoulders.”</quote> Unsuspectingly the giant resumed the burden of the heavens. Hercules took the apples.</p>
@@ -4118,13 +4118,13 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig083.png"/>
         </figure>
-        <p rend="legend">Fig. 83. Hercules and Cerberus. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 83. Hercules and Cerberus. <lb/>[Vase picture:
           <author key="Müller F. M.">Müller</author>.]</p>
         <p>Two other exploits not recorded among the twelve labors are the victories over Antæus and Cacus. Antæus, the son of Posidon and Gæa, was a giant and wrestler, whose strength was invincible so long as he remained in contact with his mother Earth. He compelled all strangers who came to his country to wrestle with him, on condition that if conquered, they should suffer death. Hercules encountered him, and finding that it was of no avail to throw him, — for he always rose with renewed strength from every fall, — lifted him up from the earth, and strangled him in the air. Later writers tell of an army of Pygmies which, finding Hercules asleep after his defeat of Antæus, made preparations to attack him, as if they were about to attack a city. But the hero, awakening, laughed at the little warriors, wrapped some of them up in his lion’s skin, and carried them to Eurystheus.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig084.png"/>
         </figure>
-        <p rend="legend">Fig. 84. Pygmies fighting with Cranes. <lb/>[Gem:
+        <p rend="center noindent">Fig. 84. Pygmies fighting with Cranes. <lb/>[Gem:
           <author>O. Jahn</author>’s <title>Archäol. Beiträge</title>.]</p>
         <p>Cacus was a giant who inhabited a cave on Mount Aventine, and plundered the surrounding country. When Hercules was driving home the oxen of Geryon, Cacus stole part of the cattle, while the hero slept. That their footprints might not indicate where they had been driven, he dragged them backward by their tails to his cave. Hercules was deceived by the stratagem, and would have failed to find his oxen, had it not happened that while he was driving the remainder of the herd past the cave where the stolen ones were concealed, those within beginning to low, discovered themselves to him. Hercules promptly despatched the thief.</p>
         <p>Through most of these expeditions Hercules was attended by Iolaüs, his devoted friend, the son of his half-brother Iphicles.</p>
@@ -4185,7 +4185,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig085.png"/>
         </figure>
-        <p rend="legend">Fig. 85. The Apotheosis of Hercules. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 85. The Apotheosis of Hercules. <lb/>[Vase picture:
           <author key="Baumeister">Baumeister</author>.]</p>
       </div>
       <div>
@@ -4221,7 +4221,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig086.png"/>
         </figure>
-        <p rend="legend">Fig. 86. Jason conquering the Bulls and seizing the Golden Fleece. <lb/>[Relief on sarcophagus:
+        <p rend="center noindent">Fig. 86. Jason conquering the Bulls and seizing the Golden Fleece. <lb/>[Relief on sarcophagus:
           <author key="Roscher">Roscher</author> 18: 80.]</p>
         <p>Jason made known his message to the Colchian king, Æetes, who consented to give up the golden fleece on certain conditions: namely, that Jason should yoke to the plough two fire-breathing bulls with brazen feet<hi rend="i">;</hi> and that he, then, should sow the teeth of the dragon that Cadmus had slain. Jason, although it was well known that a crop of armed men would spring up from the teeth, destined to turn their weapons against their producer, accepted the conditions; and a time was set for the undertaking. The hero, however, wisely spent the interval in wooing Medea, the daughter of Æetes; and with such success that they plighted troth before the altar of Hecate. The princess then furnished her hero with a charm which should aid him in the contest to come.</p>
         <p>Accordingly, when the momentous day was arrived, Jason, with calmness, encountered the fire-breathing monsters, and speedily yoked them to the plough. The Colchians stood in amazement; the Greeks shouted for joy. Next, the hero proceeded to sow the dragon’s teeth and plough them in. Up sprang, according to prediction, the crop of armed men, brandished aloft their weapons, and rushed upon Jason. The Greeks trembled for their hero. Medea herself grew pale with fear. The hero, himself, for a time, with sword and shield, kept his assailants at bay; but he surely would have been overwhelmed by the numbers had he not resorted to a charm which Medea had taught him: seizing a stone, he threw it in the midst of his foes. Immediately they turned their arms against one another, and soon there was not one of the dragon’s brood alive.</p>
@@ -4284,7 +4284,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig087.png"/>
         </figure>
-        <p rend="legend">Fig. 87. The Calydonian Hunt. <lb/>[Relief:
+        <p rend="center noindent">Fig. 87. The Calydonian Hunt. <lb/>[Relief:
           <author key="Baumeister">Baumeister</author>.]</p>
         <p>But there was no time then for love: on to the hunt they pushed. To the hunt went, also, Plexippus and Toxeus, brothers of Queen Althæa, braggarts, envious of Meleager. Speedily the hunters drew near the monster’s lair. They stretched strong nets from tree to tree; they uncoupled their dogs; they sought the footprints of their quarry in the grass. From the wood was a descent to marshy ground. Here the boar, as he lay among the reeds, heard the shouts of his pursuers, and rushed forth against them. One and another is thrown down and slain. Jason, Nestor, Telamon open the attack, but in vain.</p>
         <quote>
@@ -4366,7 +4366,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig088.png"/>
         </figure>
-        <p rend="legend">Fig. 88. Dædalus and Icarus. <lb/>[Relief in Villa Albani, Rome:
+        <p rend="center noindent">Fig. 88. Dædalus and Icarus. <lb/>[Relief in Villa Albani, Rome:
           <author key="Roscher">Roscher</author> 6: 934]</p>
         <quote>
           <l>“… with melting wax and loosened strings</l>
@@ -4446,7 +4446,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig089.png"/>
         </figure>
-        <p rend="legend">Fig. 89. Theseus and the Minotaur. <lb/>[Wall painting: <title>H. and P.</title>]</p>
+        <p rend="center noindent">Fig. 89. Theseus and the Minotaur. <lb/>[Wall painting: <title>H. and P.</title>]</p>
         <p>From this calamity Theseus resolved to deliver his countrymen, or to die in the attempt. He, therefore, in spite of the entreaties of his father, presented himself as champion of Athens and of her fair sons and daughters, to do battle against the Minotaur; and departed with the victims in a vessel bearing black sails, which he promised his father to change for white in the event of his returning victorious. So, —</p>
         <quote>
           <l>Rather than cargo on cargo of corpses undead should be wafted<anchor xml:id="footnote72"/><note place="bottom">
@@ -4474,11 +4474,10 @@
           <l>Manful, minded to quell the imbruted might of the monster!</l>
         </quote>
         <p>Not unaided, however, did he undertake the task; for Ariadne, apprehensive lest he might lose his way in the dædalian labyrinth, furnished him with a thread, the gift of Vulcan, — which, unrolled by Theseus as he entered the maze, should enable him on his return to retrace his former path. Meanwhile, —</p>
-        <p rend="image">Insérer image gayley_classic-myths_1898_fig090</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig090.png"/>
         </figure>
-        <p rend="legend">Fig. 90. The Sleeping Ariadne. <lb/>[Vatican:
+        <p rend="center noindent">Fig. 90. The Sleeping Ariadne. <lb/>[Vatican:
           <author key="Roscher">Roscher</author> 4: 545.]</p>
         <quote>
           <l>Offering artless bribes, Ariadne invoked the Immortals,</l>
@@ -4595,7 +4594,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig091.png"/>
         </figure>
-        <p rend="legend">Fig. 91. Head of Bacchus. <lb/>[In Leyden:
+        <p rend="center noindent">Fig. 91. Head of Bacchus. <lb/>[In Leyden:
           <author key="Roscher">Roscher</author> 7: 1128.]</p>
         <quote>
           <l>… Even as clouds compelled by urgent push of the breezes</l>
@@ -4616,7 +4615,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig092.png"/>
         </figure>
-        <p rend="legend">Fig. 92. Bacchus finding Ariadne. <lb/>[Wall painting:
+        <p rend="center noindent">Fig. 92. Bacchus finding Ariadne. <lb/>[Wall painting:
           <author key="Müller F. M.">Müller</author>.]</p>
         <quote>
           <l>… Sweeping over the shore, lo, beautiful, blooming Iacchus<note place="bottom">
@@ -4707,7 +4706,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht14.png"/>
         </figure>
-        <p rend="legend">Pl. 14. Œdipus and Antigone. <lb/>
+        <p rend="center noindent">Pl. 14. Œdipus and Antigone. <lb/>
           <author key="Teschendorff">Teschendorff</author>.</p>
         <p>There was sobbing, then silence. Then a voice called him, — and he followed. God took him from his troubles. Antigone returned to Thebes; — where, as we shall see, her sisterly fidelity showed itself as true as, aforetime, her filial affection.</p>
         <p>Her brothers, Eteocles and Polynices, had meanwhile agreed to share the kingdom between them, and to reign alternately year by year. The first year fell to the lot of Eteocles, who, when his time expired, refused to surrender the kingdom to his brother. Polynices, accordingly, fled to Adrastus, king of Argos, who gave him his daughter in marriage, and aided him with an army to enforce his claim to the kingdom. These causes led to the celebrated expedition of the “Seven against Thebes,” which furnished ample materials for the epic and tragic poets of Greece. And here the younger heroes of Greece make their appearance.</p>
@@ -4776,12 +4775,12 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_map04.png"/>
         </figure>
-        <p rend="legend">Map 4. Orbis Terrarum ex Sententia
+        <p rend="center noindent">Map 4. Orbis Terrarum ex Sententia
           <author key="Homère">Homeri</author>.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_map05.png"/>
         </figure>
-        <p rend="legend">Map 5. Troas et Hellespontus</p>
+        <p rend="center noindent">Map 5. Troas et Hellespontus</p>
         <p>§ 165. <hi rend="b">Three Houses Concerned</hi>. — Before entering upon the causes of the war against Troy, we must notice the three Grecian families that were principally concerned, — those of Peleus, Atreus, and Tyndareus.</p>
         <p>§ 165<hi rend="i">ª</hi>. <hi rend="b">Peleus</hi><note place="bottom">
           <author key="Ovide">Ovid</author>, <title>Metam.</title> 11: 221-265;
@@ -4925,7 +4924,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig093.png"/>
         </figure>
-        <p rend="legend">Fig. 93. Venus bringing together Paris and Helen. <lb/>[Relief in Naples:
+        <p rend="center noindent">Fig. 93. Venus bringing together Paris and Helen. <lb/>[Relief in Naples:
           <author key="Roscher">Roscher</author> 12: 1938.]</p>
         <quote>
           <l>… At length I saw a lady within call,</l>
@@ -4951,7 +4950,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig094.png"/>
         </figure>
-        <p rend="legend">Fig. 94. Achilles taken from Scyros by Ulysses and Diomedes. <lb/>[Pompeian Wall painting:
+        <p rend="center noindent">Fig. 94. Achilles taken from Scyros by Ulysses and Diomedes. <lb/>[Pompeian Wall painting:
           <author key="Roscher">Roscher</author> 1: 27.]</p>
         <p>It seems that from early youth Paris had been reared in obscurity, because there were forebodings that he would be the ruin of the state. These forebodings appeared, at last, likely to be realized; for the Grecian armament now in preparation was the greatest that had ever been fitted out. Agamemnon, king of Mycenæ and brother of Menalaüs, was chosen commander-in-chief. Pre-eminent among the warriors was the swift-footed Achilles. After him ranked his cousin Ajax, the son of Telamon, gigantic in size and of great courage, but dull of intellect; Diomede, the son of Tydeus, second only to Achilles in all the qualities of a hero; Ulysses, famous for sagacity; and Nestor, the oldest of the Grecian chiefs, — to whom they all looked up for counsel.</p>
         <p>But Troy was no feeble enemy. Priam the king, son of Laomedon and brother of Tithonus and Hesione, was now old; but he had been a wise prince, and had strengthened his state by good government at home and numerous alliances with his neighbors. By his wife Hecuba, he had a numerous family; but the principal stay and support of his throne was his son Hector, one of the noblest figures of antiquity. He had, from the first, a presentiment of the ruin of Troy, but still he persevered in heroic resistance, though he by no means justified the wrong which brought this danger upon his country. He was united in marriage with the noble Andromache, and as husband and father his character was not less admirable than as warrior. The principal leaders on the side of the Trojans, beside Hector, were his relative, Æneas, the son of Venus and Anchises, Deiphobus, Glaucus, and Sarpedon.</p>
@@ -5019,7 +5018,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig095.png"/>
         </figure>
-        <p rend="legend">Fig. 95. The Surrender of Briseis. <lb/>[Pomp, wall painting:
+        <p rend="center noindent">Fig. 95. The Surrender of Briseis. <lb/>[Pomp, wall painting:
           <author key="Roscher">Roscher</author> 5: 820.]</p>
         <p><hi rend="b">The Enlistment of the Gods</hi>. — The gods and goddesses interested themselves as much in this famous siege as did the parties themselves. It was well known in heaven that fate had decreed the fall of Troy, if her enemies only persevered. Yet there was room for chance sufficient to excite by turns the hopes and fears of the powers above who took part with either side. Juno and Minerva, in consequence of the slight put upon their charms by Paris, were hostile to the Trojans; Venus for the opposite cause favored them; she enlisted, also, her admirer Mars on the same side. Neptune favored the Greeks. Apollo was neutral, sometimes taking one side, sometimes the other. Jove himself, though he loved Priam, exercised a degree of impartiality, — not, however, without exceptions.</p>
         <p>Resenting the injury done by Agamemnon to her son, Thetis repaired to Jove’s palace and besought him to grant success to the Trojan arms and so make the Greeks repent of their injustice to Achilles. Jupiter consented; and in the battle which ensued the Trojans were completely successful. The Greeks were driven from the field and took refuge in their ships.</p>
@@ -5029,7 +5028,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig096.png"/>
         </figure>
-        <p rend="legend">96. Hector fighting before the Ships. <lb/>[Gem:
+        <p rend="center noindent">96. Hector fighting before the Ships. <lb/>[Gem:
           <author key="Roscher">Roscher</author> 12: 1921.]</p>
         <p>While Neptune was thus aiding the Greeks and driving back the Trojans, Jupiter saw nothing of what was going on, for his attention had been drawn from the field by the wiles of Juno. That goddess had arrayed herself in all her charms, and to crown all had borrowed of Venus her girdle, the Cestus, which enhanced the wearer’s charms to such a degree that they were irresistible. So prepared, Juno had joined her husband, who sat on Olympus watching the battle. When he beheld her, the fondness of his early love revived, and forgetting the contending armies and all other affairs of state, he gave himself up to her and let the battle go as it would.</p>
         <p>But this oblivion did not continue long. When, upon turning his eyes downward, the cloud-compeller beheld Hector stretched, almost lifeless, on the plain, he angrily dismissed Juno, commanding her to send Iris and Apollo to him. The former bore a peremptory message to Neptune, ordering him to quit the contest. Apollo was despatched to heal Hector’s bruises and to inspirit his heart. These orders were obeyed with such speed that while the battle was still raging, Hector returned to the field, and Neptune betook himself to his own dominions.</p>
@@ -5060,7 +5059,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht15.png"/>
         </figure>
-        <p rend="legend">Pl. 15. Hector’s Farewell to Andromache and Astyanax.</p>
+        <p rend="center noindent">Pl. 15. Hector’s Farewell to Andromache and Astyanax.</p>
         <p><hi rend="b">Achilles drags the Body of Hector</hi>. — So saying the son of Peleus stripped the body of its armor, and, fastening cords to the feet, tied them behind his chariot, leaving the body to trail along the ground. Then mounting the chariot he lashed the steeds and so dragged the body to and fro before the city. No words can tell the grief of Priam and Hecuba at this sight. His people could scarce restrain the aged king from rushing forth. He threw himself in the dust and besought them each by name to let him pass. Hecuba’s distress was not less violent. The citizens stood round them weeping. The sound of the mourning reached the ears of Andromache, the wife of Hector, as she sat among her maidens at work; and anticipating evil she went forth to the wall. When she saw the horror there presented, she would have thrown herself headlong from the wall, but fainted and fell into the arms of her maidens. Recovering, she bewailed her fate, picturing to herself her country ruined, herself a captive, and her son, the youthful Astyanax, dependent for his bread on the charity of strangers.</p>
         <p>After Achilles and the Greeks had thus taken their revenge on the slayer of Patroclus they busied themselves in paying due funeral rites to their friend. A pile was erected, and the body burned with due solemnity. Then ensued games of strength and skill, chariot races, wrestling, boxing, and archery. Later, the chiefs sat down to the funeral banquet, and finally retired to rest. But Achilles partook neither of the feast nor of sleep. The recollection of his lost friend kept him awake, — the memory of their companionship in toil and dangers, in battle or on the perilous deep. Before the earliest dawn he left his tent, and joining to his chariot his swift steeds, he fastened Hector’s body to be dragged behind. Twice he dragged him round the tomb of Patroclus, leaving him at length stretched in the dust. But Apollo would not permit the body to be torn or disfigured with all this abuse; he preserved it free from taint or defilement.</p>
         <p>While Achilles indulged his wrath in thus disgracing Hector, Jupiter in pity summoned Thetis to his presence. Bidding her prevail on Achilles to restore the body of Hector to the Trojans, he sent Iris to encourage Priam to beg of Achilles the body of his son. Iris delivered her message, and Priam prepared to obey. He opened his treasuries and took out rich garments and cloths, with ten talents in gold and two splendid tripods and a golden cup of matchless workmanship. Then he called to his sons and bade them draw forth his litter and place in it the various articles designed for a ransom to Achilles. When all was ready, the old king with a single companion as aged as himself, the herald Idseus, drove forth from the gates, parting there with Hecuba his queen, and all his friends, who lamented him as going to certain death.</p>
@@ -5070,7 +5069,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig097.png"/>
         </figure>
-        <p rend="legend">Fig. 97. Ransom of Hector’s body. [Relief:
+        <p rend="center noindent">Fig. 97. Ransom of Hector’s body. [Relief:
           <author key="Clarac">De Clarac</author>.]</p>
         <p>As the litter approached the city and was descried from the walls, the people poured forth to gaze once more on the face of their hero. Foremost of all, the mother and the wife of Hector came, and at the sight of the lifeless body renewed their lamentations. The people wept with them, and to the going down of the sun there was no pause or abatement of their grief.</p>
         <p>The next day, preparations were made for the funeral solemnities. For nine days the people brought wood and built the pile; and on the tenth they placed the body on the summit, and applied the torch, while all Troy thronging forth encompassed the pyre. When it had completely burned, they quenched the cinders with wine, and, collecting the bones, placed them in a golden urn, which they buried in the earth. Over the spot they reared a pile of stones.</p>
@@ -5088,7 +5087,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig098.png"/>
         </figure>
-        <p rend="legend">Fig. 98. Ajax with Achilles’body. [
+        <p rend="center noindent">Fig. 98. Ajax with Achilles’body. [
           <author key="Roscher">Roscher</author> 1: 126.]</p>
         <p><hi rend="b">The Death of Achilles</hi>. — But Achilles, himself, was not destined to a long life. Having by chance seen Polyxena, daughter of King Priam — perhaps on occasion of the truce which was allowed the Trojans for the burial of Hector — he was captivated with her charms; and to win her in marriage, it is said (but not by
           <author key="Homère">Homer</author>), that he agreed to influence the Greeks to make peace with Troy. While the hero was in the temple of Apollo, negotiating the marriage, Paris discharged at him a poisoned arrow,<note place="bottom">
@@ -5103,7 +5102,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig099.png"/>
         </figure>
-        <p rend="legend">Fig. 99. Head of Paris. <lb/>[Bust: <title>Münchener Antiken</title> von
+        <p rend="center noindent">Fig. 99. Head of Paris. <lb/>[Bust: <title>Münchener Antiken</title> von
           <author key="Lützow">C. F. A. Von Lützow</author>.]</p>
         <p><hi rend="b">The Palladium</hi>. — There was in Troy a celebrated statue of Minerva called the Palladium. It was said to have fallen from heaven, and the belief was that the city could not be taken so long as this statue remained within it. Ulysses and Diomede entered the city in disguise, and succeeded in obtaining the Palladium, which they carried off to the Grecian camp.</p>
         <p><hi rend="b">The Wooden Horse</hi>. — But Troy still held out. The Greeks began to despair of subduing it by force, and by advice of Ulysses they resorted to stratagem.<note place="bottom">
@@ -5113,7 +5112,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig100.png"/>
         </figure>
-        <p rend="legend">Fig. 100. Entry of the Wooden Horse; Women supplicating Pallas; Cassandra raving. <lb/>[Wall painting: <title>H. and. P.</title>]</p>
+        <p rend="center noindent">Fig. 100. Entry of the Wooden Horse; Women supplicating Pallas; Cassandra raving. <lb/>[Wall painting: <title>H. and. P.</title>]</p>
         <p><hi rend="b">Laocoön and the Serpents</hi>. — This language turned the tide of the people’s feelings; and they began to think how they might best secure the monstrous horse and the favorable auguries connected with it, when suddenly a prodigy occurred which left no room to doubt. There appeared advancing over the sea two immense serpents. They came upon the land, and the crowd fled in all directions. The serpents advanced directly to the spot where Laocoön stood with his two sons. They first attacked the children, winding round their bodies and breathing their pestilential breath in their faces. The father, attempting to rescue them, is next seized and involved in the serpent’s coils.</p>
         <quote>
           <l> … Vain</l>
@@ -5128,7 +5127,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_ht16.png"/>
         </figure>
-        <p rend="legend">Pl. 16. Laocoön (in the Vatican)</p>
+        <p rend="center noindent">Pl. 16. Laocoön (in the Vatican)</p>
         <p><hi rend="b">The Death of Priam</hi>. — Priam lived to see the downfall of his kingdom, and was slain at last on the fatal night when the Greeks took the city. He had armed himself, and was about to mingle with the combatants<note place="bottom"><p>Hecuba’s exclamation,
           <quote>“Not such aid nor such defenders does the time require,”</quote> has become proverbial.</p>
           <quote><l xml:lang="it">Non tali auxilio nec defensoribus istis</l><l>Tempus eget.</l></quote><bibl><title>Æn.</title> 2: 521</bibl></note>, but was prevailed on by Hecuba to take refuge with herself and his daughters as a suppliant at the altar of Jupiter. While there, his youngest son, Polites, pursued by Pyrrhus, the son of Achilles, rushed in wounded, and expired at the feet of his father; whereupon Priam, overcome with indignation, hurled his spear with feeble hand against Pyrrhus, and was forthwith slain by him.</p>
@@ -5169,22 +5168,21 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig101.png"/>
         </figure>
-        <p rend="legend">Fig. 101. Orestes pursued by the Furies. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 101. Orestes pursued by the Furies. <lb/>[Vase picture:
           <author key="Roscher">Roscher</author> 8: 1331].</p>
         <p><hi rend="b">His Purification</hi>. — But Orestes was not yet relieved from the vengeance of the Erinyes. Finally, he took refuge with Minerva at Athens. The goddess afforded him protection, and appointed the court of Areopagus to decide his fate. The Erinyes brought their accusation, and Orestes pleaded the command of the Delphic oracle as his excuse. When the court voted and the voices were equally divided, Orestes was acquitted by the command of Minerva. He was then purified with plentiful blood of swine.</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig102.png"/>
         </figure>
-        <p rend="legend">Fig. 102. Orestes taking refuge at Delphi: Fury, Apollo, Orestes, Tripod, Pallas. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 102. Orestes taking refuge at Delphi: Fury, Apollo, Orestes, Tripod, Pallas. <lb/>[Vase picture:
           <author key="Millin">Millin</author>.]</p>
       </div>
       <div>
         <head>Chapter XXVI. <lb/>The Wanderings of Ulysses.</head>
-        <p rend="image">Insérer image gayley_classic-myths_1898_map06</p>
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_map06.png"/>
         </figure>
-        <p rend="image">Map 6.
+        <p rend="center noindent">Map 6.
           <author key="Gladstone">Gladstone</author>’s Map of the Outer Geography of the <title>Odyssey</title>.</p>
         <p>§ 171. <hi rend="b">From Troy to Phæacia</hi>. — The <title>Odyssey</title> of
           <author key="Homère">Homer</author> narrates the wanderings of Ulysses (<hi rend="b">Odysseus</hi>) in his return from Troy to his own kingdom, Ithaca.</p>
@@ -5304,7 +5302,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig103.png"/>
         </figure>
-        <p rend="legend">Fig. 103. Sirens and Ulysses. <lb/>[Gem:
+        <p rend="center noindent">Fig. 103. Sirens and Ulysses. <lb/>[Gem:
           <author key="Millin">Millin</author>.]</p>
         <p>As they approached the Sirens’ island, the sea was calm, and over the waters came the notes of music so ravishing and attractive, that Ulysses struggled to get loose, and by cries and signs to his people, begged to be released; but they, obedient to his previous orders, sprang forward and bound him still faster. They held on their course, and the music grew fainter till it ceased to be heard, when with joy Ulysses gave his companions the signal to unseal their ears, and they relieved him from his bonds. It is said that one of the Sirens, Parthenope, in grief at the escape of Ulysses, drowned herself. Her body was cast up on the Italian shore where now stands the city of Naples — in early times called by the Siren’s name.</p>
         <p><hi rend="b">Scylla and Charybdis</hi>. — Ulysses had been warned by Circe of the two monsters Scylla and Charybdis. We have already met with Scylla in the myth of Glaucus. She dwelt in a cave high up on the cliff, from whence she was accustomed to thrust forth her long necks (for she had six heads), and in each of her mouths to seize one of the crew of every vessel passing within reach. The other terror, Charybdis, was a gulf, nearly on a level with the water. Thrice each day the water rushed into a frightful chasm, and thrice was disgorged. Any vessel coming near the whirlpool when the tide was rushing in must inevitably be ingulfed; not Neptune himself could save it. On approaching the haunt of the dread monsters, Ulysses kept strict watch to discover them. The roar of the waters as Charybdis ingulfed them, gave warning at a distance, but Scylla could nowhere be discerned. While Ulysses and his men watched with anxious eyes the dreadful whirlpool, they were not equally on their guard from the attack of Scylla,<note place="bottom">Incidit in Scyllam, cupiens vitare Charybdim.</note> and the monster darting forth her snaky heads, caught six of his men, and bore them away shrieking to her den. Ulysses was unable to afford any assistance.</p>
@@ -5332,7 +5330,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig104.png"/>
         </figure>
-        <p rend="legend">Fig. 104. Head of Minerva. (Copy of Pallas of the Parthenon.) <lb/>[Statue:
+        <p rend="center noindent">Fig. 104. Head of Minerva. (Copy of Pallas of the Parthenon.) <lb/>[Statue:
           <author key="Hirt">Hirt</author>.]</p>
         <p>Ulysses obeyed the directions, and in due time proceeded to the city, on approaching which he met a young woman bearing a pitcher forth for water. It was Minerva who had assumed that form. Ulysses accosted her and desired to be directed to the palace of Alcinoüs, the king. The maiden replied respectfully, offering to be his guide; for the palace, she informed him stood near her father’s dwelling. Under the guidance of the goddess, and, by her power, enveloped in a cloud which shielded him from observation, Ulysses passed among the busy crowd, and with wonder observed their harbor, their ships, their forum (the resort of heroes), and their battlements, till they came to the palace, where the goddess, having first given him some information of the country, king, and people he was about to meet, left him. Ulysses, before entering the court-yard of the palace, stood and surveyed the scene. Its splendor astonished him. Brazen walls stretched from the entrance to the interior house, of which the doors were gold, the door-posts silver, the lintels silver ornamented with gold. On either side were figures of mastiffs wrought in gold and silver, standing in rows as if to guard the approach. Along the walls were seats spread through all their length with mantles of finest texture, the work of Phæacian maidens. On these seats the princes sat and feasted, while golden statues of graceful youths held in their hands lighted torches which shed radiance over the scene. Full fifty female menials served in household offices, some employed to grind the corn, others to wind off the purple wool or ply the loom. For the Phæacian women as far exceeded all other women in household arts as the mariners of that country did the rest of mankind in the management of ships. Without the court a spacious garden lay, four acres in extent. In it grew many a lofty tree, pomegranate, pear, apple, fig, and olive. Neither winter’s cold nor summer’s drought arrested their growth.</p>
         <quote>
@@ -5393,7 +5391,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig105.png"/>
         </figure>
-        <p rend="legend">Fig. 105. Penelope at the loom. <lb/>[Vase picture:
+        <p rend="center noindent">Fig. 105. Penelope at the loom. <lb/>[Vase picture:
           <author key="Baumeister">Baumeister</author>.]</p>
         <p>That Ulysses on returning might be able to take vengeance upon the suitors, it was important that he should not be recognized. Minerva accordingly metamorphosed him into an unsightly beggar, and as such he was kindly received by Eumæus, the swine-herd, a faithful servant of his house.</p>
         <p>Telemachus, his son, had, for some time, been absent in quest of his father, visiting the courts of the other kings, who had returned from the Trojan expedition. While on the search, he received counsel from Minerva to return home. He arrived, at this juncture, and sought Eumæus to learn something of the state of affairs at the palace before presenting himself among the suitors. Finding a stranger with Eumæus, he treated him courteously, though in the garb of a beggar, and promised him assistance. Eumæus was sent to the palace to inform Penelope privately of her son’s arrival, for caution was necessary with regard to the suitors, who, as Telemachus had learned, were plotting to intercept and kill him. When the swine-herd was gone, Minerva presented herself to Ulysses, and directed him to make himself known to his son. At the same time she touched him, removed at once from him the appearance of age and penury, and gave him the aspect of vigorous manhood that belonged to him. Telemachus viewed him with astonishment, and at first thought he must be more than mortal. But Ulysses announced himself as his father, and accounted for the change of appearance, by explaining that it was Minerva’s doing.</p>
@@ -5426,7 +5424,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig106.png"/>
         </figure>
-        <p rend="legend">Fig. 106. Ulysses and Euryclea. [Relief:
+        <p rend="center noindent">Fig. 106. Ulysses and Euryclea. [Relief:
           <author key="Roscher">Roscher</author> 9: 1423.]</p>
         <p>All things being prepared for the trial, the first thing to be done was to bend the bow in order to attach the string. Telemachus endeavored to do it, but found all his efforts fruitless; and modestly confessing that he had attempted a task beyond his strength, he yielded the bow to another. He tried it with no better success, and, amidst the laughter and jeers of his companions, gave it up. Another tried it and another; they rubbed the bow with tallow, but all to no purpose; it would not bend. Then spoke Ulysses, humbly suggesting that he should be permitted to try; for, said he,
           <quote>“beggar as I am, I was once a soldier, and there is still some strength in these old limbs of mine.”</quote> The suitors hooted with derision, and commanded to turn him out of the hall for his insolence. But Telemachus spoke up for him, and merely to gratify the old man, bade him try. Ulysses took the bow, and handled it with the hand of a master. With ease he adjusted the cord to its notch, then fitting an arrow to the bow he drew the string and sped the arrow unerring through the rings.</p>
@@ -5518,7 +5516,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig107.png"/>
         </figure>
-        <p rend="legend">Fig. 107. Veneas, Anchises, and Iulus. <lb/>[Gem: <title>Mus. Flor.</title>]</p>
+        <p rend="center noindent">Fig. 107. Veneas, Anchises, and Iulus. <lb/>[Gem: <title>Mus. Flor.</title>]</p>
         <p><hi rend="b">The Departure from Troy</hi>. — On arriving at the place of rendezvous, numerous fugitives, of both sexes, were found, who put themselves under the guidance of Æneas. Some months were spent in preparation, and at length they embarked. They first landed on the neighboring shores of Thrace, and were preparing to build a city; but Æneas was deterred by a prodigy. Preparing to offer sacrifice, he tore some twigs from one of the bushes. To his dismay the wounded part dropped blood. When he repeated the act, a voice from the ground cried out to him,
           <quote>“Spare me, Æneas; I am thy kinsman, Polydore, here murdered with many arrows, from which a bush has grown, nourished with my blood.”</quote> These words recalled to the recollection of Æneas that Polydore was a young prince of Troy, whom his father had sent with ample treasures to the neighboring land of Thrace, to be there brought up, at a distance from the horrors of war. The king to whom he was sent had murdered him, and seized his treasures. Æneas and his companions, considering the land accursed by the stain of such a crime, hastened away.</p>
         <p><hi rend="b">The Promised Empire</hi>. — They next landed on the island of Delos. Here Æneas consulted the oracle of Apollo, and received an answer, ambiguous as usual, —
@@ -5534,7 +5532,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig108.png"/>
         </figure>
-        <p rend="legend">Fig. 108. Scylla. <lb/>[Carved end of table: <title>Chefs d’œuvres de l’Art Antique</title>, Paris, 1867.]</p>
+        <p rend="center noindent">Fig. 108. Scylla. <lb/>[Carved end of table: <title>Chefs d’œuvres de l’Art Antique</title>, Paris, 1867.]</p>
         <p><hi rend="b">The Resentment of Juno</hi>. — Now Juno, seeing the Trojans speeding their way prosperously towards their destined shore, felt her old grudge against them revive, for she could not forget the slight that Paris had put upon her, in awarding the prize of beauty to another. In heavenly minds can such resentment dwell!<note place="bottom">
           <quote><l> Tantaene animis coelestibus irae?</l></quote><bibl><title>Æn.</title> 1: 11.</bibl></note> Accordingly she gave orders to Æolus, who sent forth his sons, Boreas, Typhon and the other winds, to toss the ocean. A terrible storm ensued, and the Trojan ships were driven out of their course towards the coast of Africa. They were in imminent danger of being wrecked, and were separated, so that Æneas thought that all were lost except his own vessel.</p>
         <p>At this crisis, Neptune, hearing the storm raging, and knowing that he had given no orders for one, raised his head above the waves, and saw the fleet of ÆÆneas driving before the gale. Understanding the hostility of Juno, he was at no loss to account for it, but his anger was not the less at this interference in his province. He called the winds and dismissed them with a severe reprimand. He then soothed the waves, and brushed away the clouds from before the face of the sun. Some of the ships which had got on the rocks, he pried off with his own trident, while Triton and a sea-nymph, putting their shoulders under others, set them afloat again. The Trojans, when the sea became calm, sought the nearest shore, — the coast of Carthage, where Æneas was so happy as to find that one by one the ships all arrived safe, though badly shaken.</p>
@@ -5549,7 +5547,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_map07.png"/>
         </figure>
-        <p rend="legend">Map 7. Italy before the Growth of Rome.</p>
+        <p rend="center noindent">Map 7. Italy before the Growth of Rome.</p>
         <p><hi rend="b">Palinurus. Italy at Last</hi>. — After touching at the island of Sicily, where Acestes, a prince of Trojan lineage, bore sway, who gave them a hospitable reception, the Trojans reembarked, and held on their course for Italy. Venus now interceded with Neptune to allow her son at last to attain the wished-for goal, and find an end of his perils on the deep. Neptune consented, stipulating only for one life as a ransom for the rest. The victim was Palinurus, the pilot. As he sat watching the stars, with his hand on the helm, Somnus, sent by Neptune, approached in the guise of Phorbas and said,
           <quote>“Palinurus, the breeze is fair, the water smooth, and the ship sails steadily on her course. Lie down a while and take needful rest. I will stand at the helm in thy place.”</quote> Palinurus replied,
           <quote>“Tell me not of smooth seas or favoring winds, — me who have seen so much of their treachery. Shall I trust Æneas to the chances of the weather and the winds?”</quote> And he continued to grasp the helm and to keep his eyes fixed on the stars. But Somnus waved over him a branch moistened with Lethæan dew, and his eyes closed in spite of all his efforts. Then Somnus pushed him overboard and he fell; but keeping his hold upon the helm, it came away with him. Neptune was mindful of his promise and kept the ship on her track without helm or pilot, till Æneas discovered his loss, and sorrowing deeply for his faithful steersman took charge of the ship himself. Under his guidance the ships at last reached the shores of Italy, and joyfully the adventurers leaped to land.</p>
@@ -5569,7 +5567,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig109.png"/>
         </figure>
-        <p rend="legend">Fig. 109. Charon receiving a passenger and his fare. <lb/>[Relief: <title>Sepolcri</title>.]</p>
+        <p rend="center noindent">Fig. 109. Charon receiving a passenger and his fare. <lb/>[Relief: <title>Sepolcri</title>.]</p>
         <p>They next entered the fields where roam the heroes who have fallen in battle. Here they saw many shades of Grecian and Trojan warriors. The Trojans thronged around him, and could not be satisfied with the sight. They asked the cause of his coming, and plied him with innumerable questions. But the Greeks, at the sight of his armor glittering through the murky atmosphere, recognized the hero, and filled with terror turned their backs and fled, as they used to do on the plains of Troy.</p>
         <p>Æneas would have lingered long with his Trojan friends, but the Sibyl hurried him away. They next came to a place where the road divided, the one leading to Elysium, the other to the regions of the condemned. Æneas beheld on one side the walls of a mighty city, around which Phlegethon rolled its fiery waters. Before him was the gate of adamant that neither gods nor men can break through. An iron tower stood by the gate, on which Tisiphone, the avenging Fury, kept guard. From the city were heard groans, and the sound of the scourge, the creaking of iron, and the clanking of chains. Æneas, horror-struck, inquired of his guide what crimes were those whose punishments produced the sounds he heard? The Sibyl answered,
           <quote>“Here is the judgment hall of Rhadamanthus, who brings to light crimes done in life, which the perpetrator vainly thought impenetrably hid. Tisiphone applies her whip of scorpions, and delivers the offender over to her sister Furies.”</quote> At this moment, with horrid clang, the brazen gates unfolded, and, within, Æneas saw a Hydra with fifty heads, guarding the entrance. The Sibyl told him that the gulf of Tartarus descended deep, so that its recesses were as far beneath their feet as heaven was high above their heads. In the bottom of this pit, the Titan race, who warred against the gods, lie prostrate; Salmoneus, also, who presumed to vie with Jupiter, and built a bridge of brass over which he drove his chariot that the sound might resemble thunder, launching flaming brands at his people in imitation of lightning, till Jupiter struck him with a real thunderbolt, and taught him the difference between mortal weapons and divine. Here, also, is Tityus, the giant, whose form is so immense, that, as he lies, he stretches over nine acres, while a vulture preys upon his liver, which, as fast as it is devoured grows again, so that his punishment will have no end.</p>
@@ -5601,7 +5599,7 @@
         <figure>
           <graphic url="http://obvil.github.io/mythographie/images/gayley_classic-myths_1898_fig110.png"/>
         </figure>
-        <p rend="legend">Fig. 110. Amazon. <lb/>[
+        <p rend="center noindent">Fig. 110. Amazon. <lb/>[
           <author key="Guhl">Guhl</author> &amp;
           <author key="Koner">Koner</author>.]</p>
         <p><hi rend="b">Alliance with Evander</hi>. — Such were the formidable allies that ranged themselves against Æneas. It was night and he lay stretched in sleep on the bank of the river, under the open heavens. The god of the stream, Father Tiber, seemed to raise his head above the willows and to say,
@@ -5957,12 +5955,8 @@
           <l>In new re-covered seats, the happier day.”</l>
           <l/>
           <l>He spake; and the fleet Hermod thus replied: —</l>
-          <l>
-            <quote>“Brother, what seats are these, what happier day?</quote>
-          </l>
-          <l>
-            <quote>Tell me, that I may ponder it when gone.”</quote>
-          </l>
+          <l>“Brother, what seats are these, what happier day?</l>
+          <l>Tell me, that I may ponder it when gone.”</l>
           <l/>
           <l>And the ray-crownèd Balder answered him: —</l>
           <l>“Far to the south, beyond the blue, there spreads</l>
@@ -10343,7 +10337,7 @@
           <p>
             <author key="Zarathushtra">Zoroaster</author>, 36.</p>
           <p>Zulus, mental state of the, 21.</p>
-          <label>ADDENDA</label>
+          <label type="head">ADDENDA</label>
           <p>Cerco′pes: grotesque and gnome-like rascals, two of whom, while Hercules was sleeping, made off with his weapons; but, caught by him, were strapped knees-upward to either end of a yoke, and so borne away by the hero. Their drollery, however, regained them their liberty. Some of them, having deceived Jupiter, were changed to apes. They were the subject of a comic poem by
             <author key="Homère">Homer</author>, and of numerous grotesque representations in Greek literature and sculpture.</p>
           <p>Hippot′a-des: Æolus II., son of Hip′po-tes. Identified by
@@ -11276,7 +11270,7 @@
           <head>Z</head>
           <p>
             <author key="Zick">Zick, A.</author> (paint.). <hi rend="i">Com.</hi> § 94, Psyche.</p>
-          <label>ADDENDA</label>
+          <label type="head">ADDENDA</label>
           <p>
             <author key="Baldwin">Baldwin, Jas.</author><hi rend="i">Com.</hi> § 185, <title>The Story of Siegfried</title>, N.Y.: 1888.</p>
           <p>

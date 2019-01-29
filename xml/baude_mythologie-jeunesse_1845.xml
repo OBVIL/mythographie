@@ -7,6 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
         <title>Mythologie de la jeunesse</title>
         <author key="Baude, Louis (18..?-18..?)">Louis Baude</author>
       </titleStmt>
@@ -205,7 +206,8 @@
               <l>Aux chiens, aux chats, aux boucs offrir des sacrifices ;</l>
               <l>Conjurer l’ail, l’oignon, d’être à ses vœux propice,</l>
               <l> Et croire follement maîtres de ses destins.</l>
-              <l>Ces dieux nés du fumier porté dans ses jardins. <author rend="margin" key="Boileau" resp="editor"/></l>
+              <l>Ces dieux nés du fumier porté dans ses jardins.</l>
+                <bibl><note place="margin">[<author key="Boileau" resp="editor">Boileau</author>]</note></bibl>
             </quote>
             <figure>
               <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_025.png"/>
@@ -228,7 +230,7 @@
               <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_028b.png"/>
               <label>[Fig. 26]</label>
             </figure>
-            <p>Devenu paisible possesseur de son empire, Jupiter ne s’occupa plus que de ses plaisirs. Ce que la Fable raconte de la vie privée de ce maître des dieux fait peu d’honneur au paganisme. On retrouve cependant quelques attributs imparfaits de la divinité dans plusieurs de ses hymens. Ainsi il épousa successivement <hi rend="i">Métis</hi>, qui signifie la pensée ; <hi rend="i">Thémis</hi>, c’est-à-dire la justice ; <hi rend="i">Mnémosyne</hi>, ou la mémoire ; <hi rend="i">Latone</hi>, ou la lumière, etc. La plus célèbre de ses femmes fut Junon, qui s’asseyait à ses côtés sur le trône du ciel. Comme cette déesse était d’une humeur querelleuse, il descendait souvent sur la terre pour s’y désennuyer<note place="bottom"><space/>Jupiter représentait l’air pur ou l’éther ; et Junon, l’air grossier ou l’atmosphère terrestre, où se forment les pluies et les orages. C’est pour cela sans doute qu’on a dit que Jupiter et Junon faisaient souvent mauvais ménage.</note>.</p>
+            <p>Devenu paisible possesseur de son empire, Jupiter ne s’occupa plus que de ses plaisirs. Ce que la Fable raconte de la vie privée de ce maître des dieux fait peu d’honneur au paganisme. On retrouve cependant quelques attributs imparfaits de la divinité dans plusieurs de ses hymens. Ainsi il épousa successivement <hi rend="i">Métis</hi>, qui signifie la pensée ; <hi rend="i">Thémis</hi>, c’est-à-dire la justice ; <hi rend="i">Mnémosyne</hi>, ou la mémoire ; <hi rend="i">Latone</hi>, ou la lumière, etc. La plus célèbre de ses femmes fut Junon, qui s’asseyait à ses côtés sur le trône du ciel. Comme cette déesse était d’une humeur querelleuse, il descendait souvent sur la terre pour s’y désennuyer<note place="bottom">Jupiter représentait l’air pur ou l’éther ; et Junon, l’air grossier ou l’atmosphère terrestre, où se forment les pluies et les orages. C’est pour cela sans doute qu’on a dit que Jupiter et Junon faisaient souvent mauvais ménage.</note>.</p>
             <p>On se figurait ce dieu avec un air majestueux, une longue barbe, assis sur un trône d’or ou d’ivoire, tenant d’une main la foudre et de l’autre un sceptre, et ayant à ses pieds un aigle aux ailes déployées [Fig. 27]. D’un signe de tête il ébranlait le ciel et la terre.</p>
             <figure>
               <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_029.png"/>
@@ -954,7 +956,7 @@
             <l>Le suit, autant qu’il peut, de la voix et des yeux.</l>
             <l>Va par là, lui dit-il, reviens, détourne, arrête.</l>
             <bibl>
-              <author rend="margin" key="Boileau" resp="editor"/>
+              <note place="margin">[<author key="Boileau" resp="editor">Boileau</author>]</note>
             </bibl>
           </quote>
           <p>Cependant les chevaux du Soleil, se sentant conduire par une main étrangère, se détournent de la route ordinaire ; Phaéton se trouble et abandonne les rênes. Les chevaux alors s’emportent, et tantôt, s’élevant jusqu’à l’Empyrée, menacent d’embraser le ciel ; tantôt, descendant trop bas, brûlent les montagnes et dessèchent les rivières. Ce fut alors que les Éthiopiens prirent ce teint noir qu’ils conservent encore, et que l’Afrique perdit sa verdure.</p>
