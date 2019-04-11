@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:07:21+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Le Tellier (1812)">
@@ -4542,7 +4542,7 @@
         <p>Ainsi, le paresseux peut lire ses devoirs dans la <title>fable de la Fourmi et de la Cigale</title> ; la nécessité du travail et le besoin d’acquérir des connoissances, se prouvent par l’apologue du différent survenu entre un savant et un ignorant. Écoutons
           <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
-          <label type="head"><term type="title">L’Avantage de la science</term>.</label>
+          <label type="head"><title>L’Avantage de la science</title>.</label>
           <l>        Entre deux bourgeois d’une ville</l>
           <l>        S’émut jadis un différent.</l>
           <l>        L’un étoit pauvre, mais habile ;</l>
