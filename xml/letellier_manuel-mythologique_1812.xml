@@ -6,7 +6,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Le Tellier (1812)">
   <teiHeader>
     <fileDesc>
-      <!-- problème <author> et <title> non autorisés dans <label> ; modifié provisoirement les occurrences en term type="author" et term type="title" -->
       <titleStmt>
         <title>Manuel mythologique de la jeunesse</title>
         <author key="Le Tellier, Constant (1768-1846)">Charles-Constant Letellier</author>
@@ -3348,8 +3347,8 @@
               <p>D. Quelle princesse échut à Pyrrhus, dans le partage des esclaves troyens ?</p>
               <p><hi rend="i">R.</hi> Ce fut <hi rend="i">Andromaque</hi>, veuve d’Hector. Pyrrhus l’aima jusqu’à la préférer à son épouse <hi rend="i">Hermione</hi>, fille de Ménélas et d’Hélène. Cet amour fut cause de la mort de Pyrrhus. Car ce prince étant allé à Delphes, pour offrir un sacrifice à Apollon, fut tué dans le temple même par Oreste. Hermione, transportée de jalousie, avoit excité à ce meurtre Oreste dont elle avoit été aimée autrefois, et auquel il avoit promis de l’épouser, s’il vouloit la venger.</p>
               <quote>
-                <label type="head">Scène entre Oreste et Hermione, <lb/>(<hi rend="i">Dans la tragédie d’</hi><term type="title">Andromaque</term>, <hi rend="i">par</hi>
-                  <term type="author" key="Racine">Racine</term>.)</label>
+                <label type="head">Scène entre Oreste et Hermione, <lb/>(<hi rend="i">Dans la tragédie d’</hi><title>Andromaque</title>, <hi rend="i">par</hi>
+                  <author key="Racine">Racine</author>.)</label>
                 <label type="speaker">Oreste.</label>
                 <l>Madame, c’en est fait, et vous êtes servie :</l>
                 <l>Pyrrhus rend à l’autel son infidelle vie.</l>
@@ -4469,7 +4468,7 @@
         <p>
           <author key="Florian">Florian</author> nous a donné sur ce sujet une très-jolie fable que je vais rapporter ici :</p>
         <quote>
-          <label type="head"><term type="title">La Fable et la Vérité</term>.</label>
+          <label type="head"><title>La Fable et la Vérité</title>.</label>
           <l>                  La Vérité toute nue</l>
           <l>                  Sortit un jour de son puits,</l>
           <l>Ses attraits par le temps étoient un peu détruits ;</l>
@@ -4587,7 +4586,7 @@
         <p>D. Continuez de nous faire, connoître le profit que les jeunes gens peuvent tirer des fables.</p>
         <p><hi rend="i">R.</hi> La jeunesse est imprudente, téméraire, et ne sait point prévoir le danger. Souvent elle contracte des liaisons qui la conduisent à sa perte. La <title>fable du Renard et du Bouc</title> est bien propre à corriger les jeunes gens de ce défaut. La voici :</p>
         <quote>
-          <label type="head"><term type="title">Le Renard et le Bouc</term>.</label>
+          <label type="head"><title>Le Renard et le Bouc</title>.</label>
           <l>Capitaine Renard alloit de compagnie</l>
           <l>Avec son ami Bouc des plus haut encornés.</l>
           <l>Celui-ci ne voyoit pas plus loin que son nez ;</l>
@@ -4637,7 +4636,7 @@
           <author key="Florian">Florian</author> nous enseigne très-ingénieusement le respect que nous devons à nos parents et à la vieillesse.</p>
         <p><hi rend="i">R.</hi> La voici.</p>
         <quote>
-          <label type="head"><term type="title">La Carpe et les Carpillons</term>.</label>
+          <label type="head"><title>La Carpe et les Carpillons</title>.</label>
           <l>Prenez garde, mes fils, côtoyez moins le bord,</l>
           <l>            Suivez le fond de la rivière ;</l>
           <l>            Craignez la ligne meurtrière,</l>
@@ -4692,7 +4691,7 @@
           <author key="Philippon de la Madeleine">Philippon de la Madeleine</author> sur l’amour filial.</p>
         <p><hi rend="i">R.</hi> Le voici.</p>
         <quote>
-          <label type="head"><term type="title">La Mère et ses deux fils</term>.</label>
+          <label type="head"><title>La Mère et ses deux fils</title>.</label>
           <l>Écoutez un mot, mes amis,</l>
           <l>Qui me paroît beau de tendresse :</l>
           <l>D’une veuve entre ses deux fils</l>
@@ -4954,7 +4953,7 @@
         <p><hi rend="i">R.</hi> Les jeunes personnes doivent penser sans cesse qu’elles sont environnées de piéges ; qu’on cherche à les tromper par des soins intéressés, de fausses louanges, une flatterie perfide. Leur amour propre est presque toujours d’intelligence avec le flatteur. Elles ne sauroient donc prendre trop de précautions pour ne pas devenir les victimes de la flatterie. Tout le monde connoît le charmant apologue de
           <author key="La Fontaine">La Fontaine</author></p>
         <quote>
-          <label type="head"><term type="title">Le Corbeau et le Renard</term>.</label>
+          <label type="head"><title>Le Corbeau et le Renard</title>.</label>
           <l>   Maître Corbeau, sur un arbre perché,</l>
           <l>      Tenoit en son bec un fromage.</l>
           <l>   Maître Renard, par l’odeur alléché,</l>
@@ -5031,7 +5030,7 @@
         <p>La fourberie dégrade l’homme, lui fait perdre l’estime de ses semblables, et le rend le fléau de la société. Le fourbe prend touts les titres, se couvre de toute les masques pour parvenir à ses fins. M. 
           <author key="Arnault">Arnault</author> nous a donné le bel apologue suivant :</p>
         <quote>
-          <label type="head"><term type="title">Le Chien et le Chat</term>.</label>
+          <label type="head"><title>Le Chien et le Chat</title>.</label>
           <l>            Pataud jouoit avec Raton,</l>
           <l>Mais sans gronder, sans mordre, en camarade, en frère :</l>
           <l>Les chiens sont bonnes gens ; mais les chats, nous dit-on</l>
@@ -5064,7 +5063,7 @@
         <p>
           <author key="La Fontaine">Le même poëte</author> nous donne encore la même leçon dans la fable suivante :</p>
         <quote>
-          <label type="head"><term type="title">Le Lion, le Loup et le Renard</term>.</label>
+          <label type="head"><title>Le Lion, le Loup et le Renard</title>.</label>
           <l>Un Lion décrépît, goulteux, n’en pouvant plus,</l>
           <l>Vouloit que l’on trouvât remède à la vieillesse.</l>
           <l>Alléguer l’impossible aux rois, c’est un abus.</l>
@@ -5111,7 +5110,7 @@
         <p><hi rend="i">R.</hi> Elles doivent regarder le mensonge comme le plus bas et le plus honteux de touts les vices. La candeur est au contraire le plus bel ornement de l’ame. Voici un apologue de
           <author key="La Fontaine">La Fontaine</author> à ce sujet.</p>
         <quote>
-          <label type="head"><term type="title">Le Bûcheron et Mercure</term>.</label>
+          <label type="head"><title>Le Bûcheron et Mercure</title>.</label>
           <l>Un Bûcheron perdit son gagne-pain,</l>
           <l>C’est sa cognée ; et, la cherchant en vain,</l>
           <l>Ce fut pitié là-dessus de l’entendre.</l>
@@ -5170,7 +5169,7 @@
         <p>Rapportons ici la fable suivante de
           <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
-          <label type="head"><term type="title">La Besace</term>.</label>
+          <label type="head"><title>La Besace</title>.</label>
           <l>Jupiter dit un jour : Que tout ce qui respire</l>
           <l>S’en vienne comparoître aux pieds de ma grandeur ;</l>
           <l>Si dans son composé quelqu’un trouve à redire,</l>
@@ -5242,7 +5241,7 @@
         <p>Écoutons cet apologue de
           <author key="Boursault">Boursault</author>.</p>
         <quote>
-          <label type="head"><term type="title">La Colombe et la Fourmi</term>.</label>
+          <label type="head"><title>La Colombe et la Fourmi</title>.</label>
           <l>           La Colombe, qui s’égayoit</l>
           <l>Au bord d’une fontaine où l’onde étoit fort belle,</l>
           <l>           Vit se démener auprès d’elle</l>
@@ -5337,7 +5336,7 @@
         <p>Voici un apologue de M. 
           <author key="Hoffmann">Hoffmann</author> :</p>
         <quote>
-          <label type="head"><term type="title">La Nouveauté</term>. <lb/>Fable</label>
+          <label type="head"><title>La Nouveauté</title>. <lb/>Fable</label>
           <l>Au bourg où règne la Folie,</l>
           <l>Un jour la Nouveauté parut.</l>
           <l>Aussitôt chacun accourut ;</l>
@@ -5416,7 +5415,7 @@
         <p>Écoutons
           <author key="La Fontaine">La Fontaine</author> :</p>
         <quote>
-          <label type="head"><term type="title">La Grenouille qui se veut faire aussi grosse que le bœuf</term>. <lb/>fable.</label>
+          <label type="head"><title>La Grenouille qui se veut faire aussi grosse que le bœuf</title>. <lb/>fable.</label>
           <l>           Une Grenouille vit un Bœuf</l>
           <l>           Qui lui sembla de belle taille ;</l>
           <l>Elle, qui n’étoit pas grosse en tout comme un œuf,</l>
@@ -5502,7 +5501,7 @@
         <p><hi rend="i">R.</hi> L’<hi rend="i">avarice</hi> et l’ambition a différent en ce que l’une est agitée par l’espérance, et l’autre par la crainte. L’ambitieux espère de proche en proche parvenir à tout ; l’<hi rend="i">avare</hi> craint de tout perdre : ni l’un ni l’autre ne savent jouir.
           <author key="La Fontaine">La Fontaine</author> nous a laissé sur la passion de l’avarice deux fables. Voici la première :</p>
         <quote>
-          <label type="head"><term type="title">Le Trésor et les deux hommes</term>.</label>
+          <label type="head"><title>Le Trésor et les deux hommes</title>.</label>
           <l>Un homme n’ayant plus ni crédit ni ressource,</l>
           <l>                Et logeant le diable en sa bourse,</l>
           <l>                C’est-à-dire n’y logeant rien,</l>
@@ -5550,7 +5549,7 @@
         <p>D. Quelle est la seconde fable dont vous nous avez parlé ?</p>
         <p><hi rend="i">R.</hi> C’est celle-ci.</p>
         <quote>
-          <label type="head"><term type="title">L’Avare qui a perdu son trésor</term>.</label>
+          <label type="head"><title>L’Avare qui a perdu son trésor</title>.</label>
           <l>L’usage seulement fait la possession.</l>
           <l>Je demande à ces gens, de qui la passion</l>
           <l>Est d’entasser toujours, mettre somme sur somme.</l>
@@ -5596,7 +5595,7 @@
         <p>Souvent l’avare, pour vouloir trop avoir, perd même ce qu’il a. C’est ce que nous prouve
           <author key="La Fontaine">La Fontaine</author> dans l’apologue suivant :</p>
         <quote>
-          <label type="head"><term type="title">La Poule aux œufs d’or</term>.</label>
+          <label type="head"><title>La Poule aux œufs d’or</title>.</label>
           <l>L’avarice perd tout en voulant tout gagner.</l>
           <l>           Je ne veux, pour le témoigner,</l>
           <l>Que celui dont la poule, à ce que dit la fable,</l>
@@ -5657,7 +5656,7 @@
         <p>
           <author key="La Fontaine">La Fontaine</author> nous recommande la douceur dans l’apologue ingénieux qui suit :</p>
         <quote>
-          <label type="head"><term type="title">Phébus et Borée</term>. <lb/>Fable.</label>
+          <label type="head"><title>Phébus et Borée</title>. <lb/>Fable.</label>
           <l>Borée et le Soleil virent un voyageur,</l>
           <l>           Qui s’étoit muni, par bonheur,</l>
           <l>Contre le mauvais temps. On entroit dans l’automne,</l>
@@ -5775,7 +5774,7 @@
         </quote>
         <p>Les jeunes gens ne doivent jamais se permettre le ton de la raillerie avec les personnes âgées ou avec celles qui sont dans le malheur. Voici un apologue :</p>
         <quote>
-          <label type="head"><term type="title">Le Lièvre et la Perdrix</term>. <lb/>Fable.</label>
+          <label type="head"><title>Le Lièvre et la Perdrix</title>. <lb/>Fable.</label>
           <l>Il ne se faut jamais moquer des misérables :</l>
           <l>Car, qui peut s’assurer d’être toujours heureux ?</l>
           <l>       Le sage
@@ -5857,7 +5856,7 @@
         <p>Écoutons cet apologue de
           <author key="La Fontaine">La Fontaine</author>.</p>
         <quote>
-          <label type="head"><term type="title">Le Laboureur et ses enfants</term>. <lb/>Fable.</label>
+          <label type="head"><title>Le Laboureur et ses enfants</title>. <lb/>Fable.</label>
           <l>       Travaillez, prenez de la peine,</l>
           <l>       C’est le fonds qui manque le moins.</l>
           <l/>
