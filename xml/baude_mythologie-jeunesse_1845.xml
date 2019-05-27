@@ -7,7 +7,6 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
         <title>Mythologie de la jeunesse</title>
         <author key="Baude, Louis (18..?-18..?)">Louis Baude</author>
       </titleStmt>
@@ -207,7 +206,7 @@
               <l>Conjurer l’ail, l’oignon, d’être à ses vœux propice,</l>
               <l> Et croire follement maîtres de ses destins.</l>
               <l>Ces dieux nés du fumier porté dans ses jardins.</l>
-                <bibl><note place="margin">[<author key="Boileau" resp="editor">Boileau</author>]</note></bibl>
+                <note place="margin" resp="editor"><bibl>[<author key="Boileau" resp="editor">Boileau</author>]</bibl></note>
             </quote>
             <figure>
               <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_025.png"/>
@@ -955,9 +954,7 @@
             <l>Lui montre encore sa route, et, du plus haut des cieux,</l>
             <l>Le suit, autant qu’il peut, de la voix et des yeux.</l>
             <l>Va par là, lui dit-il, reviens, détourne, arrête.</l>
-            <bibl>
-              <note place="margin">[<author key="Boileau" resp="editor">Boileau</author>]</note>
-            </bibl>
+            <note place="margin" resp="editor"><bibl>[<author key="Boileau" resp="editor">Boileau</author>]</bibl></note>
           </quote>
           <p>Cependant les chevaux du Soleil, se sentant conduire par une main étrangère, se détournent de la route ordinaire ; Phaéton se trouble et abandonne les rênes. Les chevaux alors s’emportent, et tantôt, s’élevant jusqu’à l’Empyrée, menacent d’embraser le ciel ; tantôt, descendant trop bas, brûlent les montagnes et dessèchent les rivières. Ce fut alors que les Éthiopiens prirent ce teint noir qu’ils conservent encore, et que l’Afrique perdit sa verdure.</p>
           <p>Enfin, la Terre, se voyant périr, implore le secours de Jupiter, qui, pour remédier à ce pressant danger, foudroie le fils du Soleil, et le précipite dans l’Eridan (le Pô), fleuve d’Italie.</p>

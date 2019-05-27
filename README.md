@@ -1,6 +1,6 @@
 # mythographie
 OBVIL, autorités en partage, mythographie.
-Mise à jour du site en lignevoir la pull.php.
+Mise à jour du site en ligne voir pull.php.
 Le programme délivrera deux séquences de messages.
 
 * les messages de la mise à jour distante : un git pull.
