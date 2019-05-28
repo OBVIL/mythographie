@@ -7,13 +7,17 @@
     <fileDesc>
       <titleStmt>
         <title>Classic myths in english literature</title>
-        <author key="Gayley">Charles Mills Gayley</author>
+        <author key="Charles Mills Gayley (1858-1932)" ref="https://data.bnf.fr/fr/16205943/charles_mills_gayley/">Charles Mills Gayley</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi</name>
-          <resp>OCR, Stylage sémantique; Eric Thiébaud Stylage sémantique</resp>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -35,15 +39,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Gayley, Charles Mills (1858-1932), <hi rend="i">Classic Myths in English Literature, Based Chiefly on Bulfinch’s “Age of Fable” (1855), Accompanied by an Interpretative and Illustrative Commentary, Edited by Charles Mills Gayley, Professor of the English Language and Literature in the University of California</hi>, Boston, Ginn &amp; Company, 1898, XXXVIII-540 p. Source: <ref target="https://archive.org/details/theclassicmythsi00gayluoft">Internet Archive</ref>.</bibl>
+        <bibl><author>Gayley, Charles Mills (1858-1932)</author>, <title>Classic Myths in English Literature, Based Chiefly on Bulfinch’s “Age of Fable” (1855), Accompanied by an Interpretative and Illustrative Commentary, Edited by Charles Mills Gayley, Professor of the English Language and Literature in the University of California</title>, <pubPlace>Boston</pubPlace>, <publisher>Ginn &amp; Company</publisher>, <date>1898</date>, <biblScope>XXXVIII-540 p.</biblScope> Source: <ref target="https://archive.org/details/theclassicmythsi00gayluoft">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1898">1898</date>
+        <date when="1898"/>
       </creation>
       <langUsage>
-        <language ident="eng">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

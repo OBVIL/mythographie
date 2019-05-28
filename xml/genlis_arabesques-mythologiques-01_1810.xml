@@ -14,7 +14,11 @@
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi </name>
-          <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -36,15 +40,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Genlis, Stéphanie-Félicité Du Crest (1746-1830 ; comtesse de), <hi rend="i">Arabesques mythologiques, ou les Attributs de toutes les divinités de la fable ; en 54 planches gravées d’après les dessins coloriés de Madame de Genlis. Le texte contenant Histoire des faux Dieux, de leur culte, le détail des cérémonies religieuses, etc. précédé d’un discours sur la Mythologie en général et particulièrement sur l’influence que dut avoir le paganisme sur le caractère, les mœurs et la littérature des anciens Grecs et des Romains. Ouvrage fait pour servir à l’éducation de la Jeunesse. Par Madame de Genlis</hi>, tome I, Paris, Charles Barrois, 1810, IV-165 p. Source : <ref target="https://archive.org/details/gri_33125012235459">Internet Archive</ref>.</bibl>
+        <bibl><author>Genlis, Stéphanie-Félicité Du Crest (1746-1830 ; comtesse de)</author>, <title>Arabesques mythologiques, ou les Attributs de toutes les divinités de la fable ; en 54 planches gravées d’après les dessins coloriés de Madame de Genlis. Le texte contenant Histoire des faux Dieux, de leur culte, le détail des cérémonies religieuses, etc. précédé d’un discours sur la Mythologie en général et particulièrement sur l’influence que dut avoir le paganisme sur le caractère, les mœurs et la littérature des anciens Grecs et des Romains. Ouvrage fait pour servir à l’éducation de la Jeunesse. Par Madame de Genlis</title>, tome I, <pubPlace>Paris</pubPlace>, <publisher>Charles Barrois</publisher>, <date>1810</date>, <biblScope>IV-165 p.</biblScope> Source : <ref target="https://archive.org/details/gri_33125012235459">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1810">1810</date>
+        <date when="1810"/>
       </creation>
       <langUsage>
-        <language ident="fre">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

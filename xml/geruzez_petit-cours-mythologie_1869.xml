@@ -9,19 +9,19 @@
       <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
       <titleStmt>
         <title>Petit cours de mythologie (12<hi rend="sup">e</hi> éd.)</title>
-        <author key="Géruzez, Eugène (1799-1865)">Eugène Géruzez</author>
+        <author key="Géruzez, Eugène (1799-1865)" ref="https://data.bnf.fr/fr/12214184/eugene_geruzez/">Eugène Géruzez</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
-          <name>Diego Pellizzari </name>
+          <name>Diego Pellizzari</name>
           <resp>OCR, Stylage sémantique, Encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus///</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/geruzez_petit-cours-mythologie_1869/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -34,15 +34,15 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <author key="Géruzez, Eugène">Eugène Géruzez</author><hi rend="i">, Petit cours de mythologie contenant la mythologie des Grecs et des Romains, avec un précis des croyances fabuleuses des Indous, des Perses, des Égyptiens, des Scandinaves et des Gaulois, par E. Geruzez ; ouvrage autorisé par le Conseil de l’Instruction publique</hi>, 12<hi rend="sup">e</hi> éd., Paris, Librairie de L. Hachette et Cie, 1869, 140 p. PDF : <ref target="https://books.google.fr/books?id=ZvYXAAAAYAAJ">Google Livres</ref>.</bibl>
+          <author>Eugène Géruzez</author>, <title>Petit cours de mythologie contenant la mythologie des Grecs et des Romains, avec un précis des croyances fabuleuses des Indous, des Perses, des Égyptiens, des Scandinaves et des Gaulois, par E. Geruzez ; ouvrage autorisé par le Conseil de l’Instruction publique</title>, <edition>12<hi rend="sup">e</hi> éd.</edition>, <pubPlace>Paris</pubPlace>, <publisher>Librairie de L. Hachette et Cie</publisher>, <date>1869</date>, <biblScope>140 p.</biblScope> PDF : <ref target="https://books.google.fr/books?id=ZvYXAAAAYAAJ">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1869">1869</date>
+        <date when="1869"/>
       </creation>
       <langUsage>
-        <language ident="fre">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -137,7 +137,7 @@
             <quote>
               <p>« Telle fut, dit
                 <author key="Hésiode">Hésiode</author>, l’origine des femmes, sexe timide et funeste, fléau des mortels, compagnes fidèles dans l’opulence, inconstantes dans l’infortune. Elles ressemblent aux avides frelons, qui dévorent le miel des abeilles. Jupiter les a données à l’homme pour doubler le poids de ses fatigues. »
-                <bibl><note place="margin">[Translator: <author key="Mondot" role="translator" resp="editor">Mondot</author>]</note></bibl></p>
+                <note place="margin" resp="editor"><bibl>[Translator: <author key="Mondot" role="translator">Mondot</author>]</bibl></note></p>
             </quote>
             <p>Malgré cet arrêt sévère, le poëte ajoute que la crainte de ce mal fait tomber dans un pire, et que les hommes qui évitent de se marier parcourent l’âpre sentier de la vieillesse sans l’appui d’une main tendre et amie. Il avoue, d’ailleurs, qu’on trouve des femmes d’un esprit sage et d’un cœur aimant.</p>
             <p>Nous retrouvons encore dans cette fable le souvenir altéré de la formation et de la chute d’Ève, la mère du genre humain.</p>
@@ -329,8 +329,8 @@
                 <head>Attributs d’Apollon.</head>
                 <p>Les peintres, les poëtes et les sculpteurs ont souvent représenté Apollon. Homère le décrit ainsi dans le premier chant de l’<title>Iliade</title> :
                   <quote>« Soudain, le cœur enflammé de colère, cette divinité s’élance des sommets de l’Olympe, portant sur son dos l’arc et le riche carquois. Dans sa course impétueuse, les dards ont retenti sur les épaules du dieu courroucé. Il s’avance semblable à la nuit ; l’arc d’argent frémit avec un bruit terrible. »
-                  <bibl><author key="Homère"/>
-                    <note place="margin">[Translator : <author key="Dugas-Montbel" role="translator" resp="editor">J.-B. Dugas-Montbel</author>]</note></bibl></quote> Le souvenir de sa victoire sur le serpent Python a inspiré un des chefs-d’œuvre de la sculpture antique connu sous le nom de l’<title>Apollon du Belvéder</title>.</p>
+                  <bibl><author key="Homère"/></bibl>
+                    <note place="margin" resp="editor"><bibl>[Translator : <author key="Dugas-Montbel" role="translator">J.-B. Dugas-Montbel</author>]</bibl></note></quote> Le souvenir de sa victoire sur le serpent Python a inspiré un des chefs-d’œuvre de la sculpture antique connu sous le nom de l’<title>Apollon du Belvéder</title>.</p>
                 <p>Il ne faut pas confondre Apollon avec le Soleil lui-même, il n’en est que le dieu : le Soleil était l’un des Titans, et les anciens lui donnent le nom d’Hypérion. Comme dieu du Soleil, Apollon prenait le nom de Phébus, et on le représente sur un char brillant attelé de quatre chevaux ; comme dieu des beaux-arts, on le peint sous la forme d’un jeune homme d’une éclatante beauté, la tête ceinte d’une couronne de laurier et la lyre à la main.</p>
               </div>
             </div>
@@ -466,8 +466,8 @@
                 <l>les remparts abattus, les palais mis en cendre,</l>
                 <l>sont de ta cruauté les plus doux monuments.</l>
                 <bibl>
-                  <author key="Rousseau J.-B." role="translator"><hi rend="sc">J. B. Rousseau</hi></author>
-                  <note place="margin">[<author key="Homère" resp="editor">Homère</author>]</note>.</bibl>
+                  <author key="Rousseau J.-B." role="translator"><hi rend="sc">J. B. Rousseau</hi></author></bibl>
+                  <note place="margin" resp="editor"><bibl>[<author key="Homère">Homère</author>]</bibl></note>
               </quote>
               <p>Les Grecs racontent aussi qu’ayant tué Halirrhotus, fils de Neptune, Mars fut cité par le dieu de la mer au conseil des dieux, et que l’assemblée, tenue dans Athènes, l’acquitta.</p>
             </div>
@@ -701,9 +701,9 @@
               <p>Le culte de Neptune prit naissance en Libye et se répandit de là en Grèce et en Italie. Les Grecs célébraient en son honneur les jeux Isthmiques, qui attiraient la Grèce entière à l’isthme de Corinthe. Chez les Romains ces fêtes s’appelaient Consuales<note place="bottom">Le nom de <hi rend="i">Consuales</hi> est tiré de <hi rend="i">Consus</hi>, divinité que l’on confond avec Neptune.</note>. On immolait à ce dieu le cheval et le bœuf, et les devins lui offraient le fiel des victimes. Dans les Consuales, on promenait à travers la ville des chevaux magnifiquement enharnachés, pour remercier Neptune d’avoir fait don aux hommes de
                 <quote>« ce fier et fougueux animal »
                   <bibl>
-                <author key="anonyme"/>
-                <note place="margin">[<author key="Buffon" resp="editor">Buffon</author>]</note>
-                  </bibl></quote>.</p>
+                <author key="anonyme"/></bibl>
+                <note place="margin" resp="editor"><bibl>[<author key="Buffon">Buffon</author>]</bibl></note>
+                  </quote>.</p>
             </div>
             <div>
               <head>Questionnaire.</head>
@@ -770,9 +770,8 @@
                 <l>N’eût obtenu du sort que l’on tranchât ses jours :</l>
                 <l>Triste fin d’un hymen bien divers en son cours !</l>
                 <bibl>
-                  <author key="anonyme"/>
-                  <note place="margin">[<author key="La Fontaine" resp="editor">La Fontaine</author>]</note>
-                </bibl>
+                  <author key="anonyme"/></bibl>
+                  <note place="margin" resp="editor"><bibl>[<author key="La Fontaine">La Fontaine</author>]</bibl></note>
               </quote>
               <p>Céphale et Procris, tous deux changés en étoiles, prirent place à la voûte des cieux. Il est facile de voir que cette histoire de Céphale représente les habitudes et les dangers de la chasse. La passion d’un chasseur pour l’Aurore n’est que l’habitude de se lever matin, et le trait qui frappa Procris est une image des méprises si communes dans ce périlleux divertissement.</p>
               <p>Memnon, puissant prince qui régna sur une partie de l’Orient, et qui conduisit au siége de Troie dix mille guerriers, était fils de l’Aurore et de Tithon. Il fut tué par Achille. Après sa mort on lui éleva des statues, dont la plus fameuse est ce colosse égyptien qui rendait un son plaintif aux premiers rayons du soleil.</p>
@@ -870,10 +869,9 @@
                 <l>Tantale dans un fleuve a soif et ne peut boire :</l>
                 <l> Tu ris, change le nom, la fable est ton histoire. </l>
                 <bibl>
-                  <author key="anonyme"/>
-                  <note place="margin">[<author key="Horace" resp="editor">Horace</author>]</note>
-                  <note place="margin">[Translator : <author key="Desmarets" resp="editor">Desmarets</author>]</note>
-                </bibl>
+                  <author key="anonyme"/></bibl>
+                  <note place="margin" resp="editor"><bibl>[<author key="Horace">Horace</author>]</bibl></note>
+                <note place="margin" resp="editor"><bibl>[Translator : <author key="Desmarets">Desmarets</author>]</bibl></note>
               </quote>
             </div>
             <div>
@@ -906,7 +904,7 @@
             <p>Le Sommeil, fils de la Nuit et frère de la Mort, est le père des Songes. Son palais était un antre profond, inaccessible au soleil, et dont l’avenue était semée de pavots. On le peignait étendu sur un lit de feuillage ; les Songes voltigent autour de lui, et Morphée, son ministre, entretient un silence profond dans cette sombre demeure. Un de nos poëtes cher à l’enfance, celui-là même qui fit, dit-il, deux parts de sa vie, dont il passa</p>
             <quote>
               <l>L’une à dormir et l’autre à ne rien faire,</l>
-              <bibl><note place="margin">[<author key="La Fontaine" resp="editor">La Fontaine</author>]</note></bibl>
+              <note place="margin" resp="editor"><bibl>[<author key="La Fontaine">La Fontaine</author>]</bibl></note>
             </quote>
             <p>raconte ainsi une visite à la demeure de ce dieu, dont il encensait volontiers les autels :</p>
             <quote>
@@ -937,8 +935,8 @@
               <l>Le peuple rentre et sort, en cent parts divisé.</l>
               <bibl>
                 <author key="anonyme"/>
-                <note place="margin">[<author key="La Fontaine" resp="editor">La Fontaine</author>]</note>
               </bibl>
+                <note place="margin" resp="editor"><bibl>[<author key="La Fontaine" resp="editor">La Fontaine</author>]</bibl></note>
             </quote>
             <p>La Vérité est fille du Temps et mère de la Vertu. On la représente sous les traits d’une vierge, sans vêtements et retirée au fond d’un puits : elle tient un miroir à la main.</p>
             <p>La Pudeur avait des temples à Rome et à Athènes. Tantôt c’est une femme voilée, tantôt une vierge qui porte son doigt au front, pour montrer que c’est principalement sur le visage, dans les yeux et sur le front, que la pudeur doit paraître.</p>

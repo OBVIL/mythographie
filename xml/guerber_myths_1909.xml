@@ -13,7 +13,11 @@
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi </name>
-          <resp>OCR, Stylage sémantique; Eric Thiébaud Stylage sémantique</resp>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -40,10 +44,10 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1909">1909</date>
+        <date when="1909"/>
       </creation>
       <langUsage>
-        <language ident="eng">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
