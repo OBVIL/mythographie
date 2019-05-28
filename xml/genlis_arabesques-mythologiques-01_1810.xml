@@ -3,7 +3,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:04:41+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Genlis (1810)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Genlis (1810)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/genlis_arabesques-mythologiques-01_1810/</idno>
         <availability status="restricted">
@@ -44,7 +44,7 @@
         <date when="1810">1810</date>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre">fr</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

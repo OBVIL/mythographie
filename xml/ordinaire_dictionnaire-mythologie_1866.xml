@@ -3,7 +3,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:11:48+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Ordinaire (1866)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Ordinaire (1866)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/ordinaire_dictionnaire-mythologie_1866/</idno>
         <availability status="restricted">
@@ -44,7 +44,7 @@
         <date when="1866">1866</date>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre">fr</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

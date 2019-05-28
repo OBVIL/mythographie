@@ -2,7 +2,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T11:38:20+02:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Darlington (1832)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Darlington (1832)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +13,11 @@
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi</name>
-          <resp>OCR, Stylage sémantique; Eric Thiébaud Stylage sémantique</resp>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -21,7 +25,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/darlington_catechism-mythology_1832/</idno>
         <availability status="restricted">
@@ -35,15 +39,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Darlington, William<hi rend="i">, A Catechism of Mythology; Containing a Compendious History of the Heathen Gods and Heroes, Indispensable to a Correct Knowledge of the Ancient Poets and the Classics: With seventy-five Engravings. To wich is added the Mythology of Northern Europe, Translated from the French. By William Darlington, a deaf and dum youth</hi>. Baltimore, William R. Lucas, 1832, 305 p. Source: <ref target="https://archive.org/details/catechismofmytho00darl">Internet Archive</ref>.</bibl>
+        <bibl><author>Darlington, William</author><title>, A Catechism of Mythology; Containing a Compendious History of the Heathen Gods and Heroes, Indispensable to a Correct Knowledge of the Ancient Poets and the Classics: With seventy-five Engravings. To wich is added the Mythology of Northern Europe, Translated from the French. By William Darlington, a deaf and dum youth</title>. <pubPlace>Baltimore</pubPlace>, <publisher>William R. Lucas</publisher>, <date>1832</date>, <biblScope>305 p.</biblScope> Source: <ref target="https://archive.org/details/catechismofmytho00darl">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1832">1832</date>
+        <date when="1832"/>
       </creation>
       <langUsage>
-        <language ident="en">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

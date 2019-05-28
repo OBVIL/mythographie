@@ -2,7 +2,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-26T12:33:38+02:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Adams (1900)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Adams (1900)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,9 +21,9 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/adams_myths-old-greece_1900/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/adams_myths-old-greece_1900/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, 
@@ -45,15 +45,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><hi rend="i">Myths of Old Greece in Story and Song (Lakeside Literature Series. Book III)</hi>, Edited by William Adams, New York, Cincinnati, Chicago, American Book Company, 1900, 256 p. Source : <ref target="https://archive.org/details/lamythologiecomp01tres">Internet</ref> <ref target="https://archive.org/details/mythsoldgreecei00adamgoog">Archive</ref>.</bibl>
+        <bibl><title>Myths of Old Greece in Story and Song (Lakeside Literature Series. Book III)</title>, Edited by William Adams, <pubPlace>New York</pubPlace>, <pubPlace>Cincinnati</pubPlace>, <pubPlace>Chicago</pubPlace>, <publisher>American Book Company</publisher>, <date>1900</date>, <biblScope>256 p</biblScope>. Source : <ref target="https://archive.org/details/lamythologiecomp01tres">Internet</ref> <ref target="https://archive.org/details/mythsoldgreecei00adamgoog">Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1900">1900</date>
+        <date when="1900"/>
       </creation>
       <langUsage>
-        <language ident="en">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

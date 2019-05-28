@@ -3,7 +3,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T16:51:34+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Kupfer (1897)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Kupfer (1897)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/kupfer_stories-of-long-ago_1897/</idno>
         <availability status="restricted">
@@ -44,7 +44,7 @@
         <date when="1897">1897</date>
       </creation>
       <langUsage>
-        <language ident="en">en</language>
+        <language ident="eng">en</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

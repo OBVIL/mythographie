@@ -3,7 +3,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-14T16:32:59+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Bertoux (1806)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Bertoux (1806)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/bertoux_histoire-poetique_1806/</idno>
         <availability status="restricted">
@@ -36,15 +36,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Bertoux, Guillaume (Abbé), <hi rend="i">Histoire poëtique tirée des poëtes françois ; avec un Dictionnaire poétique, par De la Croix</hi> [1771], VI<hi rend="sup">e</hi> édition, revue et corrigée, Paris, Savoye, An XIV — 1806, 259 p. Source : <ref target="https://books.google.fr/books?id=KM7thlykudAC">Google Livres</ref>.</bibl>
+        <bibl><author>Bertoux, Guillaume</author> (Abbé), <title>Histoire poëtique tirée des poëtes françois ; avec un Dictionnaire poétique, par De la Croix</title> [1771], <edition>VI<hi rend="sup">e</hi> édition, revue et corrigée</edition>, <pubPlace>Paris</pubPlace>, <pubPlace>Savoye</pubPlace>, An XIV — <date>1806</date>, <biblScope>259 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=KM7thlykudAC">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1806">1806</date>
+        <date when="1806"/>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -3956,9 +3956,9 @@
           <p><hi rend="i">—</hi> Sa mort est vengée par Oreste, 188</p>
           <p><hi rend="i">Age d’or</hi>, 22-25-26-27</p>
           <p><hi rend="i">—</hi> Astrée en faisoit le bonheur, 116</p>
-          <p><hi xml:lang="en" rend="i">Age d’argent</hi>, 23</p>
-          <p><hi xml:lang="en" rend="i">Age d’airain</hi>, 24</p>
-          <p><hi xml:lang="en" rend="i">Age de fer</hi>, 25</p>
+          <p><hi xml:lang="eng" rend="i">Age d’argent</hi>, 23</p>
+          <p><hi xml:lang="eng" rend="i">Age d’airain</hi>, 24</p>
+          <p><hi xml:lang="eng" rend="i">Age de fer</hi>, 25</p>
           <p><hi rend="i">Ages</hi>, (les quatre) 22</p>
           <p><hi rend="i">Agénor</hi>, roi de Phénicie, 34</p>
           <p><hi rend="i">—</hi> Père de Cadmus et d’Europe, 159</p>

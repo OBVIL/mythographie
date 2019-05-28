@@ -3,10 +3,9 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T15:39:01+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brès (1823)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Brès (1823)">
   <teiHeader>
     <fileDesc>
-      <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
       <titleStmt>
         <title>Mythologie des dames</title>
         <author key="Brès, Jean-Pierre (1782 – 1832)">Jean-Pierre Brès</author>
@@ -23,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/bres_mythologie-dames_1823/</idno>
         <availability status="restricted">
@@ -37,15 +36,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Brès, Jean-Pierre (1782-1832), <hi rend="i">Mythologie des dames, par M. Brès</hi>, Paris, Louis Janet, s. d. [1823 selon Quérard, I, 502], 228 p. Source : <ref target="https://books.google.fr/books?id=sRRBAAAAcAAJ">Google Livres</ref>.</bibl>
+        <bibl><author>Brès, Jean-Pierre (1782-1832)</author>, <title>Mythologie des dames, par M. Brès</title>, <pubPlace>Paris</pubPlace>, <publisher>Louis Janet</publisher>, s.d. [<date>1823</date> selon Quérard, I, 502], 228 p. Source : <ref target="https://books.google.fr/books?id=sRRBAAAAcAAJ">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1823">1823</date>
+        <date when="1823"/>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -254,7 +253,7 @@
             <p>« Dans le temple de Junon, la déesse est assise sur un trône. Jupiter est auprès : il est représenté debout, la tête dans un casque, avec de la barbe au menton. Les Heures sont aussi assises sur des trônes, et leur mère Thémis auprès… Une des raretés les plus considérables du temple est un grand coffre de bois de cèdre, dont le dessus est orné de figures d’animaux, les unes d’or, les autres d’ivoire, et les autres gravées sur le cèdre même. »</p>
             <bibl>
               <author key="Pausanias"/>
-              <author key="anonyme" role="translator"/>
+              <author key="Anonyme" role="translator"/>
             </bibl>
           </quote>
           <p>L’épouse de Jupiter n’inspirait pas en tout lieu le sentiment de la crainte. Plusieurs temples lui furent élevés sous des noms flatteurs. Elle avait des autels dans presque tous les quartiers de Rome. Sous le nom d’<hi rend="i">Ilithye</hi>, elle protégeait les femmes dans l’enfantement. Quelquefois Junon a été regardée comme la déesse de l’air ; on l’invoquait pour obtenir une saison favorable, et nous avons vu qu’elle lançait quelquefois la foudre. Elle présidait aux empires, aux royaumes, et aux mariages. Elle protégeait la parure et la propreté ; et comme les anciens n’eurent point de divinité appelée <hi rend="sc">la Mode</hi>, il est probable qu’elle en tenait lieu.</p>
@@ -499,7 +498,7 @@
           <l>Le Pénée entendit sa voix :</l>
           <l>La voilà madame du bois.</l>
           <bibl>
-            <author key="anonyme"/>
+            <author key="Anonyme"/>
           </bibl>
         </quote>
         <p>Clytie, nymphe, fille de l’Océan et de Thétys, fut aimée d’Apollon ; elle le payait du plus tendre retour, lorsque ce dieu l’abandonna pour Leucothoé, fille d’Orchame, roi de Perse. Clytie, pour se venger de sa rivale, découvrit à Orchame l’amour de sa fille pour Apollon. Dès-lors ce dieu ne la regarda plus qu’avec mépris. La nymphe, inconsolable, refusa toute nourriture, et au bout de neuf jours, elle fut changée en <hi rend="i">héliotrope</hi>, plante vulgairement appelée <hi rend="i">tournesol</hi>, parcequ’elle se tourne du côté du Soleil ; de sorte que, malgré sa métamorphose, Clytie marque encore son amour pour Apollon.</p>
@@ -544,7 +543,7 @@
           <p>« Bientôt Apollon montra à tous ces bergers les arts qui peuvent rendre la vie agréable. Il chantait les fleurs dont le Printemps se couronne, les parfums qu’il répand, et la verdure qui naît sous ses pas ; puis il chantait les délicieuses nuits de l’Été, où les Zéphirs rafraîchissent les hommes, et où la rosée désaltère la terre. Il mêlait aussi dans ses chansons les fruits dorés dont l’Automne récompense les travaux du laboureur, et le repos de l’Hiver pendant lequel la folâtre jeunesse danse auprès du feu. Enfin il représentait les forêts sombres qui couvrent les montagnes, et les creux vallons où les rivières, par mille détours, semblent se jouer au milieu des riantes prairies. Il apprit ainsi aux bergers quels sont les charmes de la vie champêtre, quand on sait goûter ce que la simple nature a de gracieux.</p>
           <p>« Les bergers, avec leurs flûtes, se virent bientôt plus heureux que les rois ; et leurs cabanes attiraient en foule les plaisirs purs qui fuient les palais dorés. Les Jeux, les Ris, les Grâces, suivaient par-tout les innocentes bergères. Tous les jours étaient des fêtes : on n’entendait plus que le gazouillement des oiseaux, ou la douce haleine des Zéphirs qui se jouaient dans les rameaux des arbres, ou le murmure d’une onde claire qui tombait de quelque rocher, ou les chansons que les Muses inspiraient aux bergers qui suivaient Apollon. Ce dieu leur enseignait à remporter le prix de la course, et à percer de flèches les daims et les cerfs. »</p>
           <bibl>
-            <author key="anonyme"/>
+            <author key="Anonyme"/>
           </bibl>
         </quote>
         <p>Le bonheur d’Apollon berger fut troublé par Mercure, qui déroba les troupeaux d’Admète, après avoir endormi leur gardien au doux bruit de ses louanges et de sa flûte. Apollon passa en Lydie.</p>
@@ -625,7 +624,7 @@
         <quote>
           <l>Midas, le roi Midas, a des oreilles d’âne ;</l>
           <bibl>
-            <author key="anonyme"/>
+            <author key="Anonyme"/>
           </bibl>
         </quote>
         <p rend="noindent">et n’eut pas sitôt parlé, qu’il recouvrit le trou de terre, comme pour y enterrer sa parole. On ajoute que de cet endroit sortit une forêt de roseaux qui, agités par le vent, répétaient ces paroles :</p>
@@ -2015,8 +2014,8 @@
           <l>Ton buste va sourire à l’aspect des offrandes.</l>
           <bibl>
             <author key="anonyme"/>
-            <note place="margin">[<author key="Brès" resp="editor">Brès</author>]</note>
           </bibl>
+            <note place="margin"><bibl>[<author key="Brès" resp="editor">Brès</author>]</bibl></note>
         </quote>
         <p>Sous les plus riants asiles des vergers, résidait une jeune divinité, dont la présence semblait répandre la fécondité sur les arbres chargés de fruits délicieux : elle se nommait Pomone.</p>
         <quote>
@@ -2113,7 +2112,7 @@
           <l>Et prête à la sorcellerie,</l>
           <l>Sans qu’on ait recours au lutin.</l>
           <bibl>
-            <author key="anonyme"/>
+            <author key="Anonyme"/>
           </bibl>
         </quote>
         <p>Ce n’était point assez pour les anciens peuples d’examiner les traits de l’homme pour connaître ses destinées ; ils cherchèrent des signes de leur bonheur ou du malheur qui les menaçait, jusque dans les entrailles des animaux qu’ils immolaient sur les autels de leurs dieux.</p>

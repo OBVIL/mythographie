@@ -3,7 +3,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:04:58+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Genlis (1810)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Genlis (1810)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/genlis_arabesques-mythologiques-02_1810/</idno>
         <availability status="restricted">
@@ -44,7 +44,7 @@
         <date when="1810">1810</date>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre">fr</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -854,9 +854,9 @@
           <quote>
             <l>Thus, when black clouds draw clown the lab’ring skies<note place="bottom"><p>Il est impossible de traduire littérallement ces beaux vers, et d’en rendre en français les expressions frappantes. Mais en voici l’idée ;</p>
               <quote><p>« Ainsi quand les noirs nuages obscurcissent les cieux, avant que le tonnerre se fasse entendre, un calme effrayant nous permet l’usage de toutes les facultés d’une attention craintive, et dans ce silence nous attendons avec saisissement la tempête. »</p></quote></note></l>
-            <l xml:lang="en">Ere yet abroad the winged thunder flies</l>
-            <l xml:lang="en">An horrid stillness first invades the ear</l>
-            <l xml:lang="en">And, in that silence we the tempest fear.</l>
+            <l xml:lang="eng">Ere yet abroad the winged thunder flies</l>
+            <l xml:lang="eng">An horrid stillness first invades the ear</l>
+            <l xml:lang="eng">And, in that silence we the tempest fear.</l>
           </quote>
         </div>
         <div>
@@ -910,13 +910,13 @@
           <p>On confond cette divinité allégorique avec la Constance.</p>
           <p>Voici la description poétique du séjour habité par la Constance.</p>
           <quote>
-            <l xml:lang="en">In a small isle amidst the wildest seas</l>
-            <l xml:lang="en">Triumphant Constancy has fix’d her seat.</l>
-            <l xml:lang="en">In vain the syrens sing, the tempest beat,</l>
+            <l xml:lang="eng">In a small isle amidst the wildest seas</l>
+            <l xml:lang="eng">Triumphant Constancy has fix’d her seat.</l>
+            <l xml:lang="eng">In vain the syrens sing, the tempest beat,</l>
             <l>Their flatt’ry she rejects nor fear their threat<note place="bottom">Dans une petite île au milieu des plus sauvages mers, la triomphante Constance a fixé son séjour. En vain les Syrènes chantent, elle rejette leurs flatteries, en vain éclatent les tempêtes, elle brave leurs menaces.</note>.</l>
           </quote>
           <listBibl>
-            <bibl><title xml:lang="en">Henry and Emma</title>, by
+            <bibl><title xml:lang="eng">Henry and Emma</title>, by
               <author key="Prior">Prior</author>.</bibl>
           </listBibl>
         </div>

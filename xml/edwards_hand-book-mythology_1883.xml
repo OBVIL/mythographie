@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T16:00:51+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Edwards (1883)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Edwards (1883)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +21,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/edwards_hand-book-mythology_1883/</idno>
         <availability status="restricted">
@@ -36,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Edwards, S. A., <hi rend="i">A Hand-Book of Mythology for the Use of Schools and Academies, by S. A. Edwards, Teacher of Mythology in the Girl’s Normal School, Philadelphia</hi>, Philadelphia, Eldredge &amp; Brother, 1883, VIII-253 p. Source : <ref target="https://books.google.fr/books?id=OE5EAQAAMAAJ">Internet</ref> <ref target="https://archive.org/details/handbookofmythol00edwa">Archive</ref>.</bibl>
+        <bibl><author>Edwards, S. A.</author>, <title>A Hand-Book of Mythology for the Use of Schools and Academies, by S. A. Edwards, Teacher of Mythology in the Girl’s Normal School, Philadelphia</title>, <pubPlace>Philadelphia</pubPlace>, <publisher>Eldredge &amp; Brother</publisher>, <date>1883</date>, <biblScope>VIII-253 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=OE5EAQAAMAAJ">Internet</ref> <ref target="https://archive.org/details/handbookofmythol00edwa">Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1883">1883</date>
+        <date when="1883"/>
       </creation>
       <langUsage>
-        <language ident="en">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

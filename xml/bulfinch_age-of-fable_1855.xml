@@ -3,12 +3,12 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-01-11T11:39:35+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Bulfinch (1855)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Bulfinch (1855)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>The Age of Fable; or, Stories of Gods and Heroes</title>
-        <author key="Bulfinch Th.">Thomas Bulfinch</author>
+        <author key="Bulfinch, Thomas (1796-1867)">Thomas Bulfinch</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/bulfinch_age-of-fable_1855/</idno>
         <availability status="restricted">
@@ -36,15 +36,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Bulfinch, Thomas (1796-1867), <hi rend="i">The Age of Fable; or, Stories of Gods and Heroes</hi>, Boston, Sanborn, Carter, and Bazin, 1855, 485 p. Source : <ref target="https://archive.org/details/ageoffableorstor00bulfiala">Internet Archive</ref>.</bibl>
+        <bibl><author>Bulfinch, Thomas</author> (1796-1867), <title>The Age of Fable; or, Stories of Gods and Heroes</title>, <pubPlace>Boston</pubPlace>, <publisher>Sanborn, Carter, and Bazin</publisher>, <date>1855</date>, <biblScope>485 p.</biblScope> Source : <ref target="https://archive.org/details/ageoffableorstor00bulfiala">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1855">1855</date>
+        <date when="1855"/>
       </creation>
       <langUsage>
-        <language ident="en">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

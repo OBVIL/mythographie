@@ -3,7 +3,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T18:02:47+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Robbins (1860)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Robbins (1860)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/robbins_elements-of-mythology_1860/</idno>
         <availability status="restricted">
@@ -44,7 +44,7 @@
         <date when="1860">1860</date>
       </creation>
       <langUsage>
-        <language ident="en">en</language>
+        <language ident="eng">en</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

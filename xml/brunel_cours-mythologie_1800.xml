@@ -3,10 +3,9 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-11-21T18:35:10+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brunel (1800)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Brunel (1800)">
   <teiHeader>
     <fileDesc>
-      <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
       <titleStmt>
         <title>Cours de mythologie</title>
         <author key="Brunel, Joseph (1746-1820)">Joseph Brunel</author>
@@ -23,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/brunel_cours-mythologie_1800/</idno>
         <availability status="restricted">
@@ -37,15 +36,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><hi rend="i">Cours de mythologie, orné de morceaux de Poésie analogues à chaque article, ouvrage qui manquait à l’éducation, par J. Brunel</hi>, Lyon, Tournachon-Molin ; Paris, Charles Pougens, an 8 (1800), X-372 p. Source : <ref target="https://books.google.fr/books?id=hEq5jvqX1bgC">Google Livres</ref>.</bibl>
+        <bibl><author>Joseph Brunel</author>, <title>Cours de mythologie, orné de morceaux de Poésie analogues à chaque article, ouvrage qui manquait à l’éducation, par J. Brunel</title>, <pubPlace>Lyon</pubPlace>, <publisher>Tournachon-Molin</publisher> ; <pubPlace>Paris</pubPlace>, <publisher>Charles Pougens</publisher>, an 8 (<date>1800</date>), <biblScope>X-372 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=hEq5jvqX1bgC">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1800">1800</date>
+        <date when="1800"/>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -106,7 +105,7 @@
           <l>Oui, le Génie altier frémiroit d’être esclave :</l>
           <l>        Tes froids principes, il les brave ;</l>
           <l>        Est-ce au Compas à régler le Pinceau<note place="bottom">[Table des matières]
-            <author key="anonyme">Anonyme</author>. <title>Le Poète au Géomètre</title>.</note> ?</l>
+            <author key="Anonyme">Anonyme</author>. <title>Le Poète au Géomètre</title>.</note> ?</l>
         </quote>
         <p><pb n="p.vij"/>Les Divinités soit poétiques, soit allégoriques, sont presque innombrables. J’ai donc cru devoir me restreindre à un choix. Ce choix est sage et sévère, et il a dû l’être. Pour ajouter à son intérêt, chaque article est accompagné de divers morceaux de Poésie dont l’ensemble offre une galerie de Tableaux, dessinés et embellis par nos Muses françoises. La Jeunesse, avide d’instruction et de plaisir, peut y puiser les trésors de la mémoire et de l’imagination, y orner son esprit sans infecter son cœur, y trouver à la fois un cours de Poésie, et une école de Morale<note place="bottom"><hi rend="i">N. B</hi>. Cet Ouvrage n’a aucune ressemblance avec les autres Mythologies classiques. J’en avois conçu le plan, depuis plus de vingt années. Jusqu’ici je m’étois borné à en faire usage dans quelques institutions particulières. C’est à la sollicitation de plusieurs pères de famille, que je le publie aujourd’hui.</note>.</p>
         <p>
@@ -265,7 +264,7 @@
             <l>Le retour des beaux jours et celui des frimats.</l>
             <bibl>
               <author key="Myro de Corinthe">Myro, cit. de Corinthe</author>. — 
-              <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Myro de Corinthe. <title>Naissance de Jupiter</title>.</note>.</bibl>
+              <author key="Anonyme" role="translator">***</author><note place="bottom">[Table des matières] Myro de Corinthe. <title>Naissance de Jupiter</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Les Géans, entassant dans leur rébellion,</l>
@@ -356,7 +355,7 @@
             <l>Enrichis les bons seulement.</l>
             <bibl>
               <note place="bottom">[Table des matières]
-                <author key="anonyme">Anonyme</author>. <title>Reproches à Apollon</title>.</note>
+                <author key="Anonyme">Anonyme</author>. <title>Reproches à Apollon</title>.</note>
             </bibl>
           </quote>
           <p>Comme père de la lumière, on appelle Apollon, Phébus ou le Soleil.</p>
@@ -801,7 +800,7 @@
             <l>Et mes chères brebis me sont encor plus chères.</l>
             <bibl>
               <author key="Anyte">Anyte, Citoyenne d’Epidaure</author>. — 
-              <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Anyte d’Epidaure. <title>Au Dieu Pan</title>.</note></bibl>
+              <author key="Anonyme" role="translator">***</author><note place="bottom">[Table des matières] Anyte d’Epidaure. <title>Au Dieu Pan</title>.</note></bibl>
           </quote>
           <quote>
             <l>    Souvent tu viens chercher l’ombre de cet ormeau,</l>
@@ -875,7 +874,7 @@
             <l>Craignez ses filets, jeunes cœurs :</l>
             <l>Fuyez-les ; c’est pour vous surprendre</l>
             <l>Que sa main les tresse de fleurs<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>L’Amour oiseleur</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>L’Amour oiseleur</title>.</note>.</l>
           </quote>
           <ab type="ornament"/>
           <quote>
@@ -1068,7 +1067,7 @@
             <l>               Perrette aussi-tôt s’écria :</l>
             <l>               Monsieur, faites que mon pauvre homme</l>
             <l>               Souffre le moins qu’il se pourra<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>La Femme compatissante</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>La Femme compatissante</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -1235,7 +1234,7 @@
             <l>                A ma chère Fleurie,</l>
             <l>Je ne regrette point les champs Arlésiens :</l>
             <l>                Son cœur est ma Patrie<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>A un ami qui me rappeloit dans mes foyers</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>A un ami qui me rappeloit dans mes foyers</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -1711,7 +1710,7 @@
             <l>Ma main, heureux Enfant, attache ce présage :</l>
             <l>            Comme l’Amour tu seras beau,</l>
             <l>            Et plus que lui tu seras sage<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Vers attachés sur le berceau d’un joli petit enfant</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Vers attachés sur le berceau d’un joli petit enfant</title>.</note>.</l>
           </quote>
           <ab type="ornament"/>
           <quote>
@@ -2124,7 +2123,7 @@
             <l>Vous élevez vos fronts sur la cime des ondes ;</l>
             <l>Mais éveillé soudain par tant d’attraits nouveaux,</l>
             <l>Le dépit vous oblige à rentrer sous les eaux<note place="bottom">[Table des matières, oubli]
-              <author key="anonyme">Anonyme</author>. <title>C’est dans ce mois heureux, etc.</title></note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>C’est dans ce mois heureux, etc.</title></note>.</l>
             <label type="head"><hi rend="i">Gnide</hi>.</label>
             <l>    Vénus à Gnide aime à fixer sa cour ;</l>
             <l>Elle n’a point de plus riant séjour :</l>
@@ -2818,7 +2817,7 @@
             <l>Malgré leurs circuits éternels,</l>
             <l>Pour les Dieux ils sont immobiles,</l>
             <l>Mais ils courent pour les mortels<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Dans ce beau palais du Soleil</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Dans ce beau palais du Soleil</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -3158,7 +3157,7 @@
             <l>               Vous, ont élevé des autels.</l>
             <bibl>
               <author key="Myro de Corinthe">Myro, cit. de Corinthe</author>. — 
-              <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Myro de Corinthe. <title>Fragment</title>.</note>.</bibl>
+              <author key="Anonyme" role="translator">***</author><note place="bottom">[Table des matières] Myro de Corinthe. <title>Fragment</title>.</note>.</bibl>
           </quote>
           <quote>
             <label type="head" rend="sc">Inscription pour une Fontaine.</label>
@@ -3166,7 +3165,7 @@
             <l>La source en se cachant laisse couler ses flots ;</l>
             <l>Qu’ainsi coulent vos dons répandus à propos,</l>
             <l>            Mais que la main reste cachée<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Inscription pour une Fontaine</title>.</note> !</l>
+              <author key="Anonyme">Anonyme</author>. <title>Inscription pour une Fontaine</title>.</note> !</l>
           </quote>
           <ab type="ornament"/>
           <quote>
@@ -3244,7 +3243,7 @@
             <l>Mais ce calme enchanteur que produit la sagesse,</l>
             <l>Qui fuit des passions la turbulante ivresse,</l>
             <l>L’objet de nos désirs, souvent de nos regrets<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>O toi mère des biens, etc.</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>O toi mère des biens, etc.</title>.</note>.</l>
           </quote>
           <ab type="ornament"/>
           <quote>
@@ -3871,7 +3870,7 @@
             </label>
             <l>Ci-gît mon fils !… douleur extrême !…</l>
             <l>Ah ! disons mieux : ci-gît moi-même<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Epitaphe</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Epitaphe</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -3902,7 +3901,7 @@
             <l>Regretta le Nectar et la douce Ambrosie ;</l>
             <l>            Moins que nous il fut malheureux,</l>
             <l>Nous quittons les bosquets et les jeux d’Idalie<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Nos adieux à la plus agréable des Campagnes</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Nos adieux à la plus agréable des Campagnes</title>.</note>.</l>
           </quote>
         </div>
       </div>
@@ -5646,7 +5645,7 @@
             <l>               Les Dieux prennent soin de ton sort :</l>
             <l>Un Dauphin attiré par ta voix et ta lyre,</l>
             <l>Approche, te reçoit, et ce vivant navire</l>
-            <l>               Te mène heureusement au port<note place="bottom">[Table des matières] <author key="anonyme">D ***</author>. <title>Cantate</title>.</note><note place="margin">[<author key="Roy" resp="editor">Roy</author>]</note>.</l>
+            <l>               Te mène heureusement au port<note place="bottom">[Table des matières] <author key="Anonyme">D ***</author>. <title>Cantate</title>.</note><note place="margin" resp="editor"><bibl>[<author key="Roy">Roy</author>]</bibl></note>.</l>
           </quote>
         </div>
         <div>
@@ -6667,7 +6666,7 @@
             <l>            Gardons-nous de pleurer son sort ;</l>
             <l>Ainsi que la Vertu, Delphire est immortelle,</l>
             <l>            Elle n’est point morte… elle dort<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Pour le buste d’une jeune Dame</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Pour le buste d’une jeune Dame</title>.</note>.</l>
           </quote>
           <p><hi rend="i"><hi rend="sc">Young</hi> , les yeux fixés sur trois Mausolées où reposent les cendres de sa Fille, de sa Femme et de son Ami, s’écrie</hi> : </p>
           <l><pb n="195" xml:id="p195"/>    Le jour ne suffit point aux peines que j’endure,</l>
@@ -6908,7 +6907,7 @@
             <l>Près de joindre au tombeau les mânes de ton père,</l>
             <l>Montrons-nous tous les deux ardens à recueillir</l>
             <l>Toi mon dernier baiser, moi ton dernier soupir<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Adieux d’Andromaque à Astianax</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Adieux d’Andromaque à Astianax</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -7919,7 +7918,7 @@
             <l>Une autre année encor fera couler tes pleurs.</l>
             <bibl>Traduction libre de
               <author key="Bion">Bion</author><note place="bottom">[Table des matières]
-              <author key="anonyme" role="translator">Anonyme</author>. <title>Adonis. Traduction libre de Bion</title>.</note>.</bibl>
+              <author key="Anonyme" role="translator">Anonyme</author>. <title>Adonis. Traduction libre de Bion</title>.</note>.</bibl>
           </quote>
         </div>
         <div>
@@ -8163,7 +8162,7 @@
             <l>    Dit Apollon, en sursaut, s’éveillant !</l>
             <l>    C’est Marsyas que j’écorchai vivant !</l>
             <l>Il renaît, le bourreau, pour m’écorcher moi-même<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Epigramme</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Epigramme</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -9015,8 +9014,8 @@
             <l>                Où peut-on trouver des charmes,</l>
             <l>                Quand on perd sa liberté ?</l>
             <bibl>
-              <author key="anonyme"> B. </author>
-              <note place="margin">[<author key="Montéclair" resp="editor">Montéclair</author>]</note>
+              <author key="Anonyme"> B. </author>
+              <note place="margin" resp="editor"><bibl>[<author key="Montéclair">Montéclair</author>]</bibl></note>
               <note place="bottom">[Table des matières] B ***. <title>Cantate</title>.</note>
             </bibl>
           </quote>
@@ -9335,7 +9334,7 @@
             <l>Vos cris ont fatigué les échos du Parnasse.</l>
             <l>Imposteurs ! vous mêlez l’injustice à l’audace ;</l>
             <l>                Vous vous calomniez tous<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>A quelques gens de lettres</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>A quelques gens de lettres</title>.</note>.</l>
           </quote>
           <ab type="ornament"/>
           <quote>
@@ -10160,7 +10159,7 @@
             <l>D’un bras de fer couvre le front des Rois,</l>
             <l>Tient sous ses pieds la Terre assujettie,</l>
             <l>Et dit au Temps : exécute mes lois<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Loin de la sphère, etc.</title></note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Loin de la sphère, etc.</title></note>.</l>
           </quote>
         </div>
         <div>
@@ -10653,7 +10652,7 @@
             <l>O ma fille ! le Ciel à mes vœux t’a ravie !</l>
             <l>Et je n’ai plus, hélas ! d’autre bien dans la vie,</l>
             <l>              Que ton image et ma douleur<note place="bottom">[Table des matières]
-              <author key="anonyme">Anonyme</author>. <title>Vers d’une mère sur la mort de sa fille</title>.</note>.</l>
+              <author key="Anonyme">Anonyme</author>. <title>Vers d’une mère sur la mort de sa fille</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -10772,7 +10771,7 @@
             <l>            Demain va les bénir.</l>
             <bibl>
               <author key="Pindare">Pindare</author>. — 
-              <author key="anonyme" role="translator">***</author><note place="bottom">[Table des matières] Pindare. — ***. <title>Ode à la Fortune</title>.</note>.</bibl>
+              <author key="Anonyme" role="translator">***</author><note place="bottom">[Table des matières] Pindare. — ***. <title>Ode à la Fortune</title>.</note>.</bibl>
           </quote>
           <quote>
             <l>    Déesse d’Antium, ô Déesse fatale !</l>
@@ -12071,7 +12070,7 @@
             <l>La terreur, à l’instant, à ses pieds les renverse.</l>
             <l>      La Fable nue étoit la Vérité.</l>
             <bibl>
-              <author key="anonyme"> P </author>. <note place="bottom">[Table des matières] P. ***. <title>Apologue</title>.</note> </bibl>
+              <author key="Anonyme"> P </author>. <note place="bottom">[Table des matières] P. ***. <title>Apologue</title>.</note> </bibl>
           </quote>
         </div>
         <div>
@@ -12240,7 +12239,7 @@
             <l>Et le trésor de l’Espérance ;</l>
             <l>Je te remercîrai toujours.</l>
             <bibl>
-              <author key="anonyme"> C. *** </author>
+              <author key="Anonyme"> C. *** </author>
               <note place="bottom">[Table des matières]
                 C. ***. <title>Hasard, Providence ou Destin, etc.</title></note>
             </bibl>

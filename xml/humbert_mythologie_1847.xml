@@ -2,7 +2,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T13:12:25+02:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Humbert (1847)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Humbert (1847)">
   <teiHeader>
     <fileDesc>
       <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/humbert_mythologie_1847/</idno>
         <availability status="restricted">
@@ -44,7 +44,7 @@
         <date when="1847">1847</date>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre">fr</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

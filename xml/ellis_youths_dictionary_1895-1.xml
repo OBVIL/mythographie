@@ -2,7 +2,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-05-09T11:27:21+02:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Ellis (1895)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Ellis (1895)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,7 +21,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/ellis_youths_dictionary_1895/</idno>
         <availability status="restricted">
@@ -35,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Ellis, Edward Sylvester (1840-1916), <hi rend="i">The Youth’s Dictionary of Mythology for Boys and Girls; Containing Brief and Accurate Accounts of the Gods and Goddesses of the Ancients; Edited with Introduction by Edward S. Ellis, M.A., author of “The Young People’s Standard History of the United States”; “Common Errors in Writing and Speaking”; “The Youth’s Classical Dictionary”; “The Youth’s Plutarch’s Lives”, etc.</hi>, New York, The Woolfall Company, 1895, 146 p. Source: <ref target="https://archive.org/details/youthsdictionar00elligoog">Internet Archive</ref>. 2<hi rend="sup">e</hi> édition illustrée: <hi rend="i">1000 Mythological Characters Briefly Described, Adapted to Private Schools, High Schools and Academies; Edited with Introduction by Edward S. Ellis, M.A., author of “The Young People’s Standard History of the United States”and “Common Errors in Writing and Speaking</hi>, New York, Philadelphia, Chicago, Hinds, Hayden and Eldredge, 1899, 146 p. + pl. (<ref target="https://archive.org/details/mythologicalcha00elligoog">PDF</ref>; <ref target="http://www.gutenberg.org/files/42474/42474-h/42474-h.htm">html</ref>).</bibl>
+        <bibl><author>Ellis, Edward Sylvester (1840-1916)</author>, <title>The Youth’s Dictionary of Mythology for Boys and Girls; Containing Brief and Accurate Accounts of the Gods and Goddesses of the Ancients; Edited with Introduction by Edward S. Ellis, M.A., author of “The Young People’s Standard History of the United States”; “Common Errors in Writing and Speaking”; “The Youth’s Classical Dictionary”; “The Youth’s Plutarch’s Lives”, etc.</title>, <pubPlace>New York</pubPlace>, <publisher>The Woolfall Company</publisher>, <date>1895</date>, <biblScope>146 p.</biblScope> Source: <ref target="https://archive.org/details/youthsdictionar00elligoog">Internet Archive</ref>. 2<hi rend="sup">e</hi> édition illustrée: <hi rend="i">1000 Mythological Characters Briefly Described, Adapted to Private Schools, High Schools and Academies; Edited with Introduction by Edward S. Ellis, M.A., author of “The Young People’s Standard History of the United States”and “Common Errors in Writing and Speaking</hi>, New York, Philadelphia, Chicago, Hinds, Hayden and Eldredge, 1899, 146 p. + pl. (<ref target="https://archive.org/details/mythologicalcha00elligoog">PDF</ref>; <ref target="http://www.gutenberg.org/files/42474/42474-h/42474-h.htm">html</ref>).</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1895">1895</date>
+        <date when="1895"/>
       </creation>
       <langUsage>
-        <language ident="en">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

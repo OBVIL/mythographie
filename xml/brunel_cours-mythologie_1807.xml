@@ -3,7 +3,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T15:46:48+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Brunel (1807)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Brunel (1807)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,9 +22,9 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/brunel_cours-mythologie_1807/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/brunel_cours-mythologie_1807/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -36,15 +36,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Brunel, Joseph (1746-1820), <hi rend="i">Cours de mythologie, orné de morceaux de Poésie analogues à chaque article, ouvrage qui manquait à l’éducation, par J. Brunel</hi>, seconde édition revue et augmentée, Lyon, Tournachon-Molin, 1807, VIII-398 p. Source : <ref target="https://books.google.fr/books?id=xzw-AAAAcAAJ">Google Livres</ref>.</bibl>
+        <bibl><author>Brunel, Joseph (1746-1820)</author>, <title>Cours de mythologie, orné de morceaux de Poésie analogues à chaque article, ouvrage qui manquait à l’éducation, par J. Brunel</title>, <edition>seconde édition revue et augmentée</edition>, <pubPlace>Lyon</pubPlace>, <publisher>Tournachon-Molin</publisher>, <date>1807</date>, <biblScope>VIII-398 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=xzw-AAAAcAAJ">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1807">1807</date>
+        <date when="1807"/>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

@@ -2,7 +2,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-05-10T16:06:27+02:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" n="Anonyme (1842)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Anonyme (1842)">
   <teiHeader>
     <fileDesc>
       <!-- illustrations non insérées -->
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/anonyme_heathen-mythology_1842/</idno>
         <availability status="restricted">
@@ -36,15 +36,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><hi rend="i">Heathen Mythology, Illustrated by Extracts from the Most Celebrated Writers, Both Ancient and Modern, on the Gods of Greece, Rome, India, Scandinavia, etc., etc.; and Embellished with Near Two Hundred Engravings, after Designs by M. Baron</hi>, London, Willoughby and Co., 1842, VIII-294 p. Source: <ref target="http://www.archive.org/details/heathenmythology00lond">Internet Archive</ref>.</bibl>
+        <bibl><author>Anonyme</author>, <title>Heathen Mythology, Illustrated by Extracts from the Most Celebrated Writers, Both Ancient and Modern, on the Gods of Greece, Rome, India, Scandinavia, etc., etc.; and Embellished with Near Two Hundred Engravings, after Designs by M. Baron</title>, <pubPlace>London</pubPlace>, <publisher>Willoughby and Co.</publisher>, <date>1842</date>, <biblScope>VIII-294 p</biblScope>. Source: <ref target="http://www.archive.org/details/heathenmythology00lond">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1842">1842</date>
+        <date when="1842"/>
       </creation>
       <langUsage>
-        <language ident="en">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

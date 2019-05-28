@@ -2,8 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:00:48+01:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" n="Engrand (1815)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Engrand (1815)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -14,7 +13,11 @@
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi </name>
-          <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -22,7 +25,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/engrand_lecons-elementaires_1815/</idno>
         <availability status="restricted">
@@ -36,15 +39,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Engrand, Henri (1753-1823), <hi rend="i">Leçons élémentaires sur la mythologie, suivies d’un Traité sommaire de l’Apologue ou de la Fable morale à l’usage de la Jeunesse de l’un et de l’autre sexe. Par l’auteur des Leçons élémentaires sur l’« Histoire Ancienne » et l’« Histoire Romaine », des « Principes de la Langue Française », et de l’« Abrégé de l’Histoire de France »</hi>, Reims, impr. de Le Batard, 1815, 178 p. Source : <ref target="https://books.google.fr/books?id=jhZCAAAAcAAJ">Google Livres</ref>. 1<hi rend="sup">re</hi> édition : 1797.</bibl>
+        <bibl><author>Engrand, Henri (1753-1823)</author>, <title>Leçons élémentaires sur la mythologie, suivies d’un Traité sommaire de l’Apologue ou de la Fable morale à l’usage de la Jeunesse de l’un et de l’autre sexe. Par l’auteur des Leçons élémentaires sur l’« Histoire Ancienne » et l’« Histoire Romaine », des « Principes de la Langue Française », et de l’« Abrégé de l’Histoire de France »</title>, <pubPlace>Reims</pubPlace>, <publisher>impr. de Le Batard</publisher>, <date>1815</date>, <biblScope>178 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=jhZCAAAAcAAJ">Google Livres</ref>. <edition>1<hi rend="sup">re</hi> édition : 1797</edition>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1815">1815</date>
+        <date when="1815"/>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

@@ -3,7 +3,7 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-01-11T11:33:55+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI n="Baude (1845)" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI n="Baude (1845)" xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,7 +22,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/baude_mythologie-jeunesse_1845/</idno>
         <availability status="restricted">
@@ -41,10 +41,10 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1845">1845</date>
+        <date when="1845"/>
       </creation>
       <langUsage>
-        <language ident="fr">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -111,7 +111,7 @@
           <head>Le Chaos. — Formation du monde. — Les quatre âges.</head>
           <p>Avant la formation du monde, il n’existait que le <hi rend="i">Chaos</hi>, assemblage confus de tous les éléments. Le soleil et la lune n’éclairaient pas ; la terre n’était point suspendue au milieu de l’espace, et la mer était sans rivages. Le froid et le chaud, le sec et l’humide, les corps pesants et les corps légers se livraient une guerre perpétuelle. Un dieu inconnu mit fin à ce désordre, en marquant à chaque élément la place qu’il devait occuper et en assujettissant la nature aux lois d’une immuable harmonie. Le Chaos cessa d’exister<note place="bottom">La mythologie païenne diffère peu de la tradition mosaïque sur la formation du monde. Suivant le récit de <author key="Bible">Moïse</author>, l’univers ne sortit pas tout d’un coup des mains de Dieu avec sa forme et sa beauté. La création fut l’œuvre de six jours. Les éléments confondus n’offrirent d’abord qu’un chaos ténébreux. <quote>« Au commencement, dit l’ <author key="Bible">écrivain sacré</author>, Dieu créa le ciel et la terre. Mais la terre était informe et stérile ; les ténèbres couvraient la face de l’abîme, et l’esprit de Dieu se mouvait sur les eaux. »</quote> Sur ce point, les païens sont d’accord avec les traditions bibliques : seulement ils croyaient que la matière était éternelle, et que le chaos n’avait point commencé.</note>.</p>
           <p>C’est alors que parurent le soleil, la lune, les étoiles, les animaux de l’air, de la terre et des mers, et enfin l’homme.</p>
-          <p>On vit d’abord fleurir l’innocence et la justice. La terre produisait sans culture, et des fleuves de lait et de miel coulaient de toutes parts. C’était l’<hi rend="i">âge d’or</hi><note place="bottom">L’âge d’or, l’innocence primitive de l’homme, sa dégradation, le déluge universel, sont encore des souvenirs de l’histoire de la <title xml:lang="en">Genèse</title>.</note> [Fig. 7].</p>
+          <p>On vit d’abord fleurir l’innocence et la justice. La terre produisait sans culture, et des fleuves de lait et de miel coulaient de toutes parts. C’était l’<hi rend="i">âge d’or</hi><note place="bottom">L’âge d’or, l’innocence primitive de l’homme, sa dégradation, le déluge universel, sont encore des souvenirs de l’histoire de la <title xml:lang="eng">Genèse</title>.</note> [Fig. 7].</p>
           <figure>
             <graphic url="http://obvil.github.io/mythographie/images/baude_mythologie-jeunesse_1845_014.png"/>
             <label>[Fig. 7]</label>
@@ -1050,7 +1050,7 @@
             <label>[Fig. 112]</label>
           </figure>
           <p>Les Muses recueillirent ses membres dispersés et leur rendirent les honneurs funèbres. Il fut métamorphosé en cygne par son père, et sa lyre fut placée au nombre des constellations.</p>
-          <p> <author key="Virgile">Virgile</author> a raconté la fable d’Orphée et d’Eurydice dans le quatrième livre des <title xml:lang="en">Géorgiques</title>. C’est le chef-d’œuvre de ce poète.</p>
+          <p> <author key="Virgile">Virgile</author> a raconté la fable d’Orphée et d’Eurydice dans le quatrième livre des <title xml:lang="eng">Géorgiques</title>. C’est le chef-d’œuvre de ce poète.</p>
         </div>
         <div>
           <head>Pyrénée et les Muses.</head>
