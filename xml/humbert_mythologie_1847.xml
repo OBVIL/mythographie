@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T13:12:25+02:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Humbert (1847)">
   <teiHeader>
     <fileDesc>
-      <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
       <titleStmt>
         <title>Mythologie grecque et romaine, ou Introduction facile et méthodique à la lecture des poètes (3<hi rend="sup">e</hi> éd.)</title>
-        <author key="Humbert, Jean (1792-1851)">Jean Humbert</author>
+        <author key="Humbert, Jean (1792-1851)" ref="https://data.bnf.fr/fr/12525245/jean_humbert/">Jean Humbert</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi</name>
-          <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -36,15 +39,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Humbert, Jean (1792-1851), <hi rend="i">Mythologie grecque et romaine, ou Introduction facile et méthodique à la lecture des poètes, par Jean Humbert, correspondant de l’Institut, professeur de langue arabe à l’Académie de Genève, membre des Académies de Nancy, Besançon, Marseille, Turin, etc. Ouvrage autorisé par l’Université, approuvé par la Société des Méthodes, et mis au rang des livres classique obligatoires dans les colléges de Genève et de Lausanne</hi>, 3<hi rend="sup">e</hi> édition, revue, corrigée et considérablement augmentée, Paris, Benjamin Duprat, Hachette, 1847, VIII-295 p. Source : <ref target="https://archive.org/details/mythologiegrecqu00humb">Internet Archive</ref>.</bibl>
+        <bibl><author>Humbert, Jean (1792-1851)</author>, <title>Mythologie grecque et romaine, ou Introduction facile et méthodique à la lecture des poètes, par Jean Humbert, correspondant de l’Institut, professeur de langue arabe à l’Académie de Genève, membre des Académies de Nancy, Besançon, Marseille, Turin, etc. Ouvrage autorisé par l’Université, approuvé par la Société des Méthodes, et mis au rang des livres classique obligatoires dans les colléges de Genève et de Lausanne</title>, <edition>3<hi rend="sup">e</hi> édition, revue, corrigée et considérablement augmentée</edition>, <pubPlace>Paris</pubPlace>, <publisher>Benjamin Duprat</publisher>, <publisher>Hachette</publisher>, <date>1847</date>, <biblScope>VIII-295 p.</biblScope> Source : <ref target="https://archive.org/details/mythologiegrecqu00humb">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1847">1847</date>
+        <date when="1847"/>
       </creation>
       <langUsage>
-        <language ident="fre">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -96,9 +99,9 @@
             <l>La vigne offrait partout des grappes toujours pleines,</l>
             <l>Et des ruisseaux de lait serpentaient dans les plaines.</l>
             <bibl>
-              <author key="anonyme"/>
-              <note place="margin">[<author key="Boileau" resp="editor">Boileau</author>]</note>
+              <author key="Anonyme"/>
             </bibl>
+              <note place="margin" resp="editor"><bibl>[<author key="Boileau">Boileau</author>]</bibl></note>
           </quote>
           <p>Cet âge d’or dura peu. L’<hi rend="i">Age d’argent</hi> le remplaça. L’année fut partagée en saisons ; les vents glacés et les brûlantes chaleurs se firent sentir tour à tour ; il fallut cultiver la terre et l’arroser des sueurs de l’ouvrier. A ces deux âges succéda celui d’<hi rend="i">Airain</hi>. Les hommes devenus farouches respirèrent les batailles et recherchèrent le gain, sans s’abandonner pourtant aux excès qui ont caractérisé l’<hi rend="i">Age de fer</hi>. Dans ce dernier âge, la bonne foi, bannie de la terre, fit place à la trahison et à la violence ; on ne vécut que de brigandages. La discorde se glissa entre les plus proches parents ; le fils osa attenter aux jours de son père, la marâtre à ceux de sa belle-fille. La piété fut tournée en dérision ; et Astrée quitta en soupirant un séjour souillé de forfaits<note place="bottom">Voyez même section, § 22.</note>.</p>
           <p>— <hi rend="i">Saturne</hi> est une image ou emblème du temps. C’est pourquoi on le représente comme un vieillard sec et décharné, dont le visage est triste, la tête courbée. Dans sa main est une faux, qui signifie que le temps détruit tout ; il a des ailes et tient une sorte d’horloge, pour indiquer la fuite des ans ; enfin il dévore ses <hi rend="i">enfants</hi>, pour marquer que le temps engloutit les jours, les mois, les siècles, à mesure qu’il les produit.</p>
@@ -238,7 +241,7 @@
           <p><hi rend="i">Hyacinthe</hi>, fils d’Amyclas, était le plus intime ami d’Apollon ; et ce dieu, pour le voir plus souvent, s’était chargé de lui enseigner à tirer de l’arc et à jouer du luth. Zéphyre aimait aussi le jeune Hyacinthe, sans être payé de retour ; la confiance et tous les témoignages d’attachement n’étaient que pour Apollon. Tourmenté, aveuglé par la jalousie, Zéphyre ne recula pas devant un crime. Un jour que son heureux rival jouait avec Hyacinthe, il détourna le palet, et le poussa si violemment contre la tempe du jeune homme, que le coup en fut mortel. Apollon appliqua vainement sur la blessure les plantes qui avaient le plus de vertu ; son ami expira, et fut changé en une fleur qui porte le nom d’<hi rend="i">hyacinthe</hi> ou <hi rend="i">jacinthe</hi>.</p>
           <p>Apollon avait tout pour plaire : aux qualités de l’esprit, il joignait la beauté du corps, la fraîcheur de la jeunesse, une voix touchante, un port majestueux ; et avec tant d’avantages il ne réussit pas toujours à se faire aimer. Coronis, Déiphobe, Cassandre et d’autres femmes, dédaignèrent ses hommages. Son talent même fut méconnu par un satyre nommé Marsyas.</p>
           <p><hi rend="i">Marsyas</hi>, habile musicien de Phrygie, ayant trouvé près d’une fontaine la flûte que Minerve y avait jetée, en tira des accords pleins d’harmonie. Fier des éloges dont il se voyait comblé, il osa faire à Apollon un défi insultant qui fut accepté, mais sous la condition expresse « que le vaincu se mettrait à la discrétion du vainqueur ». Les habitants de Nysa furent pris pour juges du combat : Marsyas parut le premier au milieu d’eux. Sa flûte imita tour à tour le gazouillement des oiseaux, le murmure des fontaines, la voix lointaine des échos, les sifflements de l’orage, le cri joyeux des buveurs. L’assemblée ravie éclata en applaudissements. Apollon, sans se laisser intimider par ces marques bruyantes d’approbation, accorda sa voix avec sa lyre, et commanda le silence par un prélude mélancolique. Se livrant ensuite au délire de son art, il fit passer dans tous les cœurs l’ivresse de la volupté. Il chantait
-            <quote>« Ariane abandonnée dans une île déserte, Ariane plaintive et gémissante, Ariane qui se reprochait d’avoir quitté un père, une sœur, une patrie pour un volage amant ; Ariane qui n’avait pour témoins de sa peine que les rochers insensibles et les vagues mugissantes ; Ariane enfin dont la flamme survivait à la trahison du perfide athénien<author key="anonyme"/><note place="bottom">Voyez l’article <hi rend="i">Thésée</hi>, section III, § 12.</note>. »</quote> Les larmes coulèrent des yeux de tous les assistants et la victoire lui fut décernée. Mais sa cruauté ternit la gloire de son triomphe. Il fit saisir Marsyas, lui lia les mains derrière le dos, l’attacha au tronc d’un sapin, et l’y écorcha tout vif. Sa mort causa un deuil universel. Les Faunes, les Satyres, les Dryades le pleurèrent, et de leurs larmes naquit un fleuve de Phrygie, qui fut nommé Marsyas.</p>
+            <quote>« Ariane abandonnée dans une île déserte, Ariane plaintive et gémissante, Ariane qui se reprochait d’avoir quitté un père, une sœur, une patrie pour un volage amant ; Ariane qui n’avait pour témoins de sa peine que les rochers insensibles et les vagues mugissantes ; Ariane enfin dont la flamme survivait à la trahison du perfide athénien<author key="Anonyme"/><note place="bottom">Voyez l’article <hi rend="i">Thésée</hi>, section III, § 12.</note>. »</quote> Les larmes coulèrent des yeux de tous les assistants et la victoire lui fut décernée. Mais sa cruauté ternit la gloire de son triomphe. Il fit saisir Marsyas, lui lia les mains derrière le dos, l’attacha au tronc d’un sapin, et l’y écorcha tout vif. Sa mort causa un deuil universel. Les Faunes, les Satyres, les Dryades le pleurèrent, et de leurs larmes naquit un fleuve de Phrygie, qui fut nommé Marsyas.</p>
           <p>Après un long exil, Apollon fut rappelé dans l’Olympe, et Jupiter lui rendit son premier emploi.</p>
           <p>De tous les dieux, <hi rend="i">Apollon</hi> est celui dont les poètes ont publié le plus de merveilles. Il était le dieu de la Médecine, l’inventeur de la Poésie et de la Musique, le protecteur des campagnes et des bergers ; il possédait au plus haut degré la connaissance de l’avenir. La Grèce et l’Italie respectaient ses oracles, dont les plus célèbres étaient ceux de Délos, de Ténédos, de Claros, de Patare, et surtout de Delphes. Les habitants de l’île de Rhodes élevèrent à son honneur une statue colossale de bronze, qui passait pour une merveille. En sa qualité de dieu de la poésie, Apollon instruisait les Muses, et habitait avec elles tantôt les sommets du mont Parnasse, de l’Hélicon et du Pinde, tantôt les bords fleuris du Permesse et de la fontaine d’Hippocrène.</p>
           <p>Comme dieu des arts, on le représente sous la figure d’un jeune homme sans barbe, la chevelure flottante, une lyre à la main, et le front ceint de laurier. Comme dieu de la lumière, on le voit, couronné de rayons, parcourir les cieux sur un char attelé de quatre chevaux blancs.</p>

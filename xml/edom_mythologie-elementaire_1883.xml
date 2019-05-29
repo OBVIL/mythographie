@@ -2,13 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-14T16:42:12+01:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Édom (1883)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Mythologie élémentaire (9<hi rend="sup">e</hi> éd.)</title>
-        <author key="Édom, Jacques (1797-1870)">Jacques Édom</author>
+        <author key="Édom, Jacques (1797-1870)" ref="https://data.bnf.fr/fr/15008655/jacques_edom/">Jacques Édom</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -669,7 +668,7 @@
             <quote>
               <l>Mille logis y sont, un seul ne s’ouvre aux dieux.</l>
               <bibl>
-                <author key="anonyme"/>
+                <author key="Anonyme"/>
               </bibl>
               <note place="margin" resp="editor"><bibl>[<author key="La Fontaine">La
                     Fontaine</author>]</bibl></note>
@@ -696,7 +695,7 @@
               furent retirées, les deux vieillards consultèrent l’oracle de Thémis. Il leur fut
               répondu : <quote>« Couvrez-vous la tête d’un voile, et jetez derrière vous les os de
                 votre mère : vous repeuplerez ainsi la terre. »<bibl>
-                  <author key="anonyme"/></bibl>
+                  <author key="Anonyme"/></bibl>
                 <note place="margin" resp="editor"><bibl>[<author key="Ovide"
                   >Ovide</author>]</bibl></note></quote> Interprétant le sens obscur de l’oracle,
               ils comprirent que cette mère était la terre, et ses ossements, les pierres qu’elle
@@ -776,7 +775,7 @@
                   vers :</p>
                 <quote><l>Mausoleum, Ephesus, Labyrinthi aegyptius error,</l><l>Cum Jove Pyramides,
                     et cum Babylone Colossus.</l><bibl>
-                    <author key="anonyme"/></bibl></quote></note>. Quintilien disait que <quote>« le
+                    <author key="Anonyme"/></bibl></quote></note>. Quintilien disait que <quote>« le
                 Jupiter de <author key="Phidias">Phidias</author> avait ajouté à la religion des peuples ».<bibl>
                   <author key="Quintilien"/></bibl></quote></p>
             <p>Mais que devient cette peinture du souverain maître de l’Olympe païen, si on la
@@ -1014,7 +1013,7 @@
               violer sa promesse, fait à l’écart un trou dans la terre, y dépose à voix basse son
               fatal secret, et le renferme soigneusement. Mais de cette terre fraîchement remuée
               sortirent des roseaux qui répétaient au souffle du vent ces paroles du barbier :
-                <quote>« Midas, le roi Midas, a des oreilles d’âne. » <author key="anonyme"
+                <quote>« Midas, le roi Midas, a des oreilles d’âne. » <author key="Anonyme"
                 /></quote> Le satyre Marsyas, fier de son talent sur la flûte, osa défier aussi
               Apollon ; il en fut cruellement puni. Le dieu, l’ayant vaincu, le lia à un arbre et
               l’écorcha tout vif<note place="bottom">Voici comment on explique cette fable : Avant
@@ -1094,7 +1093,7 @@
               <l>        Et, chef de leur troupe immortelle,</l>
               <l>Il rassemble en lui seul tous les talents divers.</l>
               <bibl>
-                <author key="anonyme"/></bibl>
+                <author key="Anonyme"/></bibl>
               <note place="margin" resp="editor"><bibl>[<author key="Danchet"
                   >Danchet</author>]</bibl></note>
             </quote>
@@ -2283,7 +2282,7 @@
                 l’autre bord se présente la porte du palais de Pluton, gardée par Cerbère, qui, nuit
                 et jour, pousse de sa triple gueule d’effroyables aboiements. »<bibl>
                   <author key="Virgile"/>
-                  <author key="anonyme" role="translator"/></bibl></quote> Quatre autres fleuves
+                  <author key="Anonyme" role="translator"/></bibl></quote> Quatre autres fleuves
               traversent le séjour des Enfers : le Cocyte, fleuve des gémissements, formé aussi par
               les larmes des criminels ; le Phlégéthon, roulant des torrents de flammes et de
               bitume ; le Styx, fleuve redoutable, par lequel les dieux craignaient de faire un
@@ -2322,7 +2321,7 @@
                   pousser, parce que ce dieu poussait vers la mort.</p>
                 <quote><l>La foule des humains est un faible troupeau</l>
                   <l>Qu’effroyable pasteur la mort pousse au tombeau.</l><bibl>
-                    <author key="anonyme"/></bibl>
+                    <author key="Anonyme"/></bibl>
                   <note place="margin" resp="editor"><bibl>[<author key="Legouvé"
                       >Legouvé</author>]</bibl></note></quote></note>.</p>
           </div>
@@ -2593,7 +2592,7 @@
               <l>Et par ses désirs et ses craintes</l>
               <l>L’homme aveugle compta ses dieux.</l>
               <bibl>
-                <author key="anonyme"/>
+                <author key="Anonyme"/>
               </bibl>
               <note place="margin" resp="editor"><bibl>[<author key="La Motte">La Motte</author>]</bibl></note>
             </quote>
@@ -2715,7 +2714,7 @@
                     <l>Si les Enfers sont redoutables,</l>
                     <l>C’est que tu n’y pénètres pas.</l>
                     <bibl>
-                      <author key="anonyme"/>
+                      <author key="Anonyme"/>
                     </bibl>
                       <note place="margin" resp="editor"><bibl>[<author key="La Madelaine">La
                           Madelaine</author>]</bibl></note>
@@ -3117,7 +3116,7 @@
                   d’Hercule est résumée dans ces deux vers latins :</p>
                 <quote><l>Sunt Leo ; Lernæus serpens ; sus ; cerva ; volucres ;</l><l xml:lang="eng"
                     >Taurus ; equæ ; Hippolytæ ; sordes ; Iber ; Hesperis ; orcus. <author
-                      key="anonyme"/></l></quote></note>.</p>
+                      key="Anonyme"/></l></quote></note>.</p>
             <p>1° Un lion furieux ravageait la forêt de Némée, dans l’Argolide ; Hercule l’attaque à
               coups de flèches, le fait fuir dans une caverne où il le saisit, l’étreint dans ses
               bras puissants et l’étouffe. Il le dépouille ensuite de sa peau, qu’il porta dès lors
@@ -3655,7 +3654,7 @@
                 <quote>« Quel est l’animal qui marche sur quatre pieds le matin, à midi sur deux, et
                 le soir sur trois<note place="bottom">Cet animal est l’homme. Dans l’enfance il
                   marche sur les pieds et les mains, se tient droit dans la jeunesse et l’âge mûr,
-                  et s’appuie sur un bâton dans la vieillesse.</note> ? » <author key="anonyme"
+                  et s’appuie sur un bâton dans la vieillesse.</note> ? » <author key="Anonyme"
                 /></quote> L’oracle avait annoncé que le monstre cesserait de vivre aussitôt que le
               sens de l’énigme serait découvert. Jocaste, veuve de Laïus, avait proposé son trône et
               sa main à celui qui obtiendrait cette victoire. Œdipe se présente, devine l’énigme,

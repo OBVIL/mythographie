@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>A catechism of mythology</title>
-        <author key="Darlington, William (1782–1863)">William Darlington</author>
+        <author key="Darlington, William (1782–1863)" ref="https://data.bnf.fr/fr/13474508/william_darlington/">William Darlington</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -3636,7 +3636,7 @@
           <p>The portico, more surprisingly grand and beautiful than the temple itself, is composed of sixteen columns of marble. Each of these is of rugged marble. Their height is thirty-seven feet; and their diameter, five feet. Eight columns adorn the front of the portico, and the hollow place is sustained by eight others. The Corinthian order was adopted.</p>
           <p>In the days of Pope Eugene, there was found near this edifice, a part of a head of bronze, representing Agrippa. At the same time were found a horse’s foot and a piece of a wheel, of the same metal. This discovery makes it probable, that this portico formerly sustained the statue of Agrippa, placed on a chariot with four horses.</p>
           <p>The body of the edifice, which remains still entire, is laid on foundations so solid, that nothing can shake them. A manuscript of
-            <author key="anonyme">a celebrated Roman architect</author>, attests that the foundations are stretched greatly beyond the edifice, and seem to form a single mass of stone.</p>
+            <author key="Anonyme">a celebrated Roman architect</author>, attests that the foundations are stretched greatly beyond the edifice, and seem to form a single mass of stone.</p>
           <p>The statues and riches which once adorned it are no longer to be seen. The Emperor Constantine III. carried away the plates of gilt bronze which covered the whole vault, and Pope Urban VIII made use of the beams of the same metal which were there employed, in order to convert them into the canopy of St. Peter’s at Rome, and the gross pieces of artillery which are in the palace of St. Angelo. The statues of the gods, which filled the niches, have been plundered or concealed under ground.</p>
           <p>When the celebrated
             <author key="Michelangelo">Michael Angelo</author> had thoroughly studied the whole of the Pantheon, he was filled with indignation to think that this monument was looked upon as the greatest effort of architecture. He said to those who admired it: “I shall raise upon four pillars a temple, which may well astonish you.” It was at that time he conceived the plan of the famous cupola of St. Peter’s at Rome. It is asserted that this extraordinary man — this great painter, architect, and sculptor, made a will, in which he declared that he had given nothing to the pillars which support that cupola, but that strength which was necessary to support it; at the same time announcing, that, should their strength ever be diminished, the work would be likely to fall into ruins.</p>
@@ -4221,7 +4221,7 @@
       <div>
         <head>Conclusion.</head>
         <p><hi rend="sc">The</hi> author conceives that he cannot close his work more appropriately, than by quoting the words of
-          <author key="anonyme">an eminent Grecian scholar</author>, who has set forth the leading characteristics of the system of ancient mythology with remarkable ability.</p>
+          <author key="Anonyme">an eminent Grecian scholar</author>, who has set forth the leading characteristics of the system of ancient mythology with remarkable ability.</p>
         <quote>
           <p>“It is asserted that vices, diseases, and evil demons, were considered deities by the ancients; and that a multitude of gods, as an object of faith, is preposterous. The first of these assertions, applies only to the corruption of the heathen religion during the decline and fall of the Roman empire; and the second originated in gross ignorance of ancient theology, and particularly that of the Greeks.</p>
           <p>“In the first place, the genuine key to this religion is the philosophy of

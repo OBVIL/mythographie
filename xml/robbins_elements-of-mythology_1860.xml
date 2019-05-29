@@ -55,7 +55,7 @@
         <quote>
           <p>”Thou shall have no other gods before me.”</p>
           <bibl>
-            <author key="anonyme"/>
+            <author key="Anonyme"/>
             <note place="margin">[<author key="Bible" resp="editor">Bible</author>]</note>
           </bibl>
         </quote>
@@ -410,7 +410,7 @@
           <l>Of all the gods that tread the spangled skies,</l>
           <l>Thou most unjust, most hateful in our eyes!</l>
           <bibl>
-            <author key="anonyme"/>
+            <author key="Anonyme"/>
             <note place="margin">[Translator : <author key="Pope" resp="editor">Pope</author>]</note>
           </bibl>
         </quote>
@@ -440,7 +440,7 @@
           <l>While bathed in sweat, from fire to fire he flew;</l>
           <l>And puffing loud the roaring bellows blew.”</l>
           <bibl>
-            <author key="anonyme"/>
+            <author key="Anonyme"/>
             <note place="margin">[Translator : <author key="Pope" resp="editor">Pope</author>]</note>
           </bibl>
         </quote>
@@ -692,7 +692,7 @@
         <p>The Palladium was an image of Pallas, which was supposed to have fallen from heaven.</p>
         <p>The Palladium was preserved with great vigilance in the citadel of Troy, because an Oracle had declared, that, as long as it remained there, the city would be invincible against all the attacks of its enemies. Diomed and Ulysses, two of the Grecian heroes, contrived to convey the Palladium away, and Troy was taken.</p>
         <p>Eneas, the son of Venus, and the great ancestor of the Romans, is said, by
-          <author key="anonyme">some of their writers</author>, to have recovered and brought it with him into Italy. They assert that this celebrated image was deposited in the temple of Vesta, as a pledge of the stability of the empire and dominion of Rome. Hence, the word Palladium is sometimes used figuratively, to signify the preservation or safeguard of any valuable object. As, for example, the palladium of American liberty, or its security, is the virtue of our citizens.</p>
+          <author key="Anonyme">some of their writers</author>, to have recovered and brought it with him into Italy. They assert that this celebrated image was deposited in the temple of Vesta, as a pledge of the stability of the empire and dominion of Rome. Hence, the word Palladium is sometimes used figuratively, to signify the preservation or safeguard of any valuable object. As, for example, the palladium of American liberty, or its security, is the virtue of our citizens.</p>
         <p>The Parthenon, called from one of Minerva’s names Parthenos, was the most splendid and beautiful temple of antiquity, and was erected in honour of this goddess at Athens. On a conspicuous part of this temple was sculptured the different worshippers of Minerva — young and old, bond and free; and by means of these figures, which have been preserved, we are enabled to know the style of dress common to the Athenians.</p>
         <q type="questions">
           <p>Who was the heathen goddess of Wisdom — and what is signified by Wisdom?</p>
@@ -1595,7 +1595,7 @@
           <p>Somnus, or sleep, is called by
             <author key="Homère">Homer</author>,
             <quote>“Death’s half-brother, Sleep.”</quote>
-            <author key="anonyme">One of the ancients</author> called Sleep,
+            <author key="Anonyme">One of the ancients</author> called Sleep,
             <quote>the happy king of gods and men, because he supposed the immortals, except Jupiter, like men, forgot their existence and refreshed their powers in salutary sleep</quote>.</p>
           <p>
             <author key="Ovide">Ovid</author> represents the cave or dwelling of Somnus, to be in the country of Cimmeria. Into this cave the sun never shone, and perfect stillness prevailed, except the soft murmuring of the river Lethe; poppies and somniferous herbs grew at its entrance. Here on a bed of black plumes, Somnus reclined, and hence he despatched true or false dreams, to comfort or disturb mankind as pleased him.</p>
@@ -3114,7 +3114,7 @@
         <p>About this time, the law against foreign deities had fallen into neglect at Athens; for the gods of Thrace and Phrygia had obtained a place among the ancient divinities. The philosophers ridiculed the gods, and at the theatres they were sometimes mentioned with contempt.</p>
         <p>The utmost reverence, however, was shown for the images of the gods. Alcibiades was obliged to fly for his life, because he was only suspected of irreverence to the images of Mercury. A child suffered death because it accidentally picked up a golden olive leaf from the wreath of Minerva, and played with it.</p>
         <p>The Persians, <hi rend="i">not thinking the gods to be of human shape, as did the Greeks</hi>, made no images, and worshipped in the open air, conceiving that God’s house and temple was the whole world. All the ancient nations held high mountains in reverence.
-          <author key="anonyme">An English poet</author> says: —</p>
+          <author key="Anonyme">An English poet</author> says: —</p>
         <quote>
           <l>“High mountains are a feeling —”</l>
         </quote>
@@ -3178,7 +3178,7 @@
           <p>The memorable fact, that
             <quote>“groves were God’s first temples,”</quote> is found in the history of all primitive people.
             <quote>“<hi rend="i">Trees</hi>, in the old time, served for the temples of the gods,”</quote> said a
-            <author key="anonyme">Latin historian</author>. Dodona’s oaks were honoured as the residence of Jupiter; the ancient Syrians seduced God’s people to their mode of worship; the ancient Germans, according to
+            <author key="Anonyme">Latin historian</author>. Dodona’s oaks were honoured as the residence of Jupiter; the ancient Syrians seduced God’s people to their mode of worship; the ancient Germans, according to
             <author key="Tacite">Tacitus</author>, worshipped in sacred groves in the open air; the Druids of Britain observed the same custom; and the Indians of Asia and America acknowledged the divinity in the thick shade. The Romans, after their temples became numerous and magnificent, still kept up this ancient custom; and in many parts of the city might be seen Luci, or groups of trees, consecrated to some god.</p>
           <q type="questions">
             <p>How happened the religion of Italy to be the same as that of the Greeks?</p>
@@ -3357,18 +3357,18 @@
             <author key="Francklin">Francklin</author>’s Sophocles, <title>Œdipus Tyrannus</title>.</note> or the God. Piety is a disposition to bear God in mind, to thank him always for his manifold goodness. This disposition was always cherished by the most virtuous of the ancients.</p>
           <p>
             <quote>“The piety of the ancient Grecians,” says </quote>
-            <author key="anonyme">a writer eminent in the knowledge of their antiquities</author>
+            <author key="Anonyme">a writer eminent in the knowledge of their antiquities</author>
             <quote>, “was in nothing more manifest than in their continued prayers and supplications to the gods; for no man among them who was endued with the smallest prudence, said the philosopher </quote>
             <author key="Platon">Plato</author>
             <quote>, would undertake any thing without having first asked the direction and the assistance of the gods; for this they thought the surest means to have all their enterprises crowned with success.”</quote> This was practised by <hi rend="i">all the people</hi> as well as by the philosophers, says
-            <author key="anonyme">the same authority</author>.</p>
+            <author key="Anonyme">the same authority</author>.</p>
           <p>Every morning and evening supplications were offered.
             <quote>“Both at the rising of the sun and moon, one might everywhere behold the Greeks and barbarians, those in prosperity, as well as those under calamities and afflictions, prostrating themselves, and hear their supplications.”</quote>
-            <author key="anonyme">One of the Roman poets</author> says,
+            <author key="Anonyme">One of the Roman poets</author> says,
             <quote>“<hi rend="i">we pray</hi> for the prosperity of Italy, both in the morning and in the evening.”</quote> The Spartans only prayed that the gods would grant what was honourable and good for them: and they added one petition more, viz. that they might be enabled to suffer injuries with patience. Petitioners, both to gods and men, used to supplicate with green boughs in their hands, and sometimes with garlands on their heads.</p>
           <p><hi rend="i">Imprecation</hi> or cursing, was practised by the ancients: this is sometimes called <hi rend="sc">malediction</hi>. A <hi rend="i">curse</hi> is a supplication to some god, that he would inflict shame and misery upon the <hi rend="i">accursed</hi> person; that is, the person hated by him who entreats the curse. The misfortunes which happen in consequence of our own or other person’s faults, are sometimes called <hi rend="i">curses</hi>. The Greeks had a most superstitious fear of curses. Kings, parents, priests, and prophets, uttered imprecations upon detested persons; and those who heard the <hi rend="i">malediction</hi> believed that all the evils which it threatened would actually overtake the accursed person, and sometimes all his posterity.
             <quote>“All men are afraid of imprecations,”</quote> said
-            <author key="anonyme">one of the Roman writers</author>.</p>
+            <author key="Anonyme">one of the Roman writers</author>.</p>
           <p><hi rend="i">Blessing</hi>, or <hi rend="i">benediction</hi>, was the reverse of cursing. It was a supplication that God would make those blessed, prosperous and happy. A memorable example of <hi rend="i">blessing</hi> and <hi rend="i">cursing</hi> is given in the forty-fourth chapter of <title>Genesis</title>. The patriarch Jacob assembles his children around his death-bed, and upon some, he pronounces blessings, on others curses. The blessing was supposed sometimes to express the will of God, and could not be recalled. When Isaac had blessed Jacob, and given him the inheritance of Esau, he could not withdraw the blessing, and give his property to the first-born, because he had, as it were, promised them in a solemn manner to Jacob who had deceived him.</p>
           <p>An oath is a solemn promise made in the name of God. If a man says, <hi rend="i">I declare in the name of God</hi>, (that is, I declare that I believe God hears me, and that he will punish me if I speak falsely: I declare that I speak the truth at this moment;) such a declaration is an <hi rend="i">oath</hi>. When a man declares he will surely do a certain act, he makes a <hi rend="i">vow</hi>. The Hebrews were permitted to take oaths upon solemn occasions.
             <quote>“Thou shalt fear the Lord thy God, and serve him, and shalt <hi rend="i">swear</hi> by his name.”</quote> — <title>Deuteronomy</title>.</p>

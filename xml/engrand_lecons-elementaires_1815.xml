@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Leçons élémentaires sur la mythologie</title>
-        <author key="Engrand, Henri (1753-1829)">Henri Engrand</author>
+        <author key="Engrand, Henri (1753-1829)" ref="https://data.bnf.fr/fr/10307776/henri_engrand/">Henri Engrand</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -27,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/engrand_lecons-elementaires_1815/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/engrand_lecons-elementaires_1815/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -1816,7 +1816,7 @@
               <l>De tes maris le triste sort ?</l>
               <l>L’un, en mourant, cause ta fuite ;</l>
               <l>L’autre, en fuyant, cause ta mort.</l>
-            <bibl><author key="anonyme" role="translator"/></bibl>
+            <bibl><author key="Anonyme" role="translator"/></bibl>
             </quote>
             <p>D. Quelle fut la fin de ses aventures ?</p>
             <p>R. Enée aborde en Italie, soutient la guerre contre Turnus qu’il tue dans un combat singulier. Il épouse Lavinie, fille de Latinus, roi du pays Latin, fonde l’empire Romain ; et après sa mort, il est enlevé au ciel par Vénus. On l’honoroit à Rome sous le nom de <hi rend="i">Jupiter indigète</hi>.</p>

@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Cours de mythologie (2<hi rend="sup">e</hi> éd.)</title>
-        <author key="Brunel, Joseph (1746-1820)">Joseph Brunel</author>
+        <author key="Brunel, Joseph (1746-1820)" ref="https://data.bnf.fr/fr/10302045/joseph_brunel/">Joseph Brunel</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -101,7 +101,7 @@
           <l>Dans leur faux zèle, iront chasser l’Allégorie<note place="bottom">[Table des matières] Boileau. <title>Art poétique, ch. III</title>.</note>.</l>
         </quote>
         <p>Le
-          <author key="anonyme">Poëte</author> dira enfin à
+          <author key="Anonyme">Poëte</author> dira enfin à
           <author>notre Euclide</author> osant lui dicter des lois :</p>
         <quote>
           <l>   <hi rend="sc">Géomètre</hi> glacé, respecte mon tableau ;</l>
@@ -6412,7 +6412,7 @@
             <l>Approche, te reçoit, et ce vivant navire</l>
             <l>          Te mène heureusement au port.</l>
             <bibl>
-              <author key="anonyme">D.</author>
+              <author key="Anonyme">D.</author>
               <note place="bottom">[Table des matières] Anonyme (D.). <title>Arion</title>.</note>
             </bibl>
           </quote>
@@ -8862,7 +8862,7 @@
             <l>Cesse, tendre Vénus, mets fin à tes douleurs,</l>
             <l>Une autre année encor fera couler tes pleurs.</l>
             <bibl>
-              <author key="anonyme">Traduction libre</author> de
+              <author key="Anonyme">Traduction libre</author> de
               <author key="Bion">Bion</author><note place="bottom">[Table des matières] Anonyme. <title>Traduction libre de Bion</title>.</note>.</bibl>
           </quote>
         </div>
@@ -9978,7 +9978,7 @@
             <l>            Où peut-on trouver des charmes,</l>
             <l>            Quand on perd sa liberté ?</l>
             <bibl>
-              <author key="anonyme">B.</author>
+              <author key="Anonyme">B.</author>
               <note place="bottom">[Table des matières] Anonyme (B.). <title>Sirènes</title>.</note>
             </bibl>
           </quote>
@@ -11086,7 +11086,7 @@
             <l>Ouvre l’abîme où disparaît la vie,</l>
             <l>D’un bras de fer couvre le front des Rois,</l>
             <l>Tient sous ses pieds la Terre assujettie,</l>
-            <l>Et dit au Temps : exécute mes lois<note place="bottom">[Table des matières] <author key="anonyme">Anonyme</author>. <title>Palais du Destin</title>.</note>.</l>
+            <l>Et dit au Temps : exécute mes lois<note place="bottom">[Table des matières] <author key="Anonyme">Anonyme</author>. <title>Palais du Destin</title>.</note>.</l>
           </quote>
         </div>
         <div>
@@ -12981,7 +12981,7 @@
             <l>La terreur, à l’instant, à ses pieds les renverse.</l>
             <l>       La Fable nue était la Vérité.</l>
             <bibl>
-              <author key="anonyme">P.</author>
+              <author key="Anonyme">P.</author>
               <note place="bottom">[Table des matières] Anonyme (P.). <title>La fable un jour voulut courir le monde</title>.</note>
             </bibl>
           </quote>
@@ -13142,7 +13142,7 @@
             <l>Et le trésor de l’Espérance ;</l>
             <l>Je te remercîrai toujours.</l>
             <bibl>
-              <author key="anonyme">C. ***</author>
+              <author key="Anonyme">C. ***</author>
               <note place="bottom">[Table des matières] Anonyme (C. ***). <title>Hasard, providence ou destin, etc.</title></note>
             </bibl>
           </quote>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2017-04-28T12:32:44+02:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<!--Odette: 2017-04-28T12:32:44+02:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Hort (1836)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>The new pantheon; or, an introduction to the mythology of the ancients</title>
-        <author key="Hort, William Jillard (18..-19..)">William Jillard Hort</author>
+        <author key="Hort, William Jillard (18..-19..)" ref="">William Jillard Hort</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -31,7 +31,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Hort, William Jillard,<hi rend="i"> The New Pantheon ; or, An Introduction to the Mythology of the Ancients, in Question and Answer : Compiled for the Use of Young Persons. To which Are Added, an Accentuated Index, Questions for Exercise, and Poetical Illustrations of Grecian Mythology, from Homer and Virgil. By W. Jillard Hort. A New Edition, Considerably Enlarged by the Addition of the Oriental and the Northern Mythology</hi>, London, Longman, Rees, Orme, Brown, Green, and Longman, 1836, VIII-260 p. Source: <ref target="https://archive.org/details/newpantheonoran00hortgoog">Internet Archive</ref>.</bibl>
+        <bibl><author>Hort, William Jillard,</author><title> The New Pantheon ; or, An Introduction to the Mythology of the Ancients, in Question and Answer : Compiled for the Use of Young Persons. To which Are Added, an Accentuated Index, Questions for Exercise, and Poetical Illustrations of Grecian Mythology, from Homer and Virgil. By W. Jillard Hort. A New Edition, Considerably Enlarged by the Addition of the Oriental and the Northern Mythology</title>, <pubPlace>London</pubPlace>, <publisher>Rees, Orme, Brown, Green, and Longman,</publisher> <date>1836</date>, <biblScope>VIII-260 p.</biblScope> Source: <ref target="https://archive.org/details/newpantheonoran00hortgoog">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

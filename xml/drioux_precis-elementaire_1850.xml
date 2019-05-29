@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-14T16:42:12+01:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Drioux (1850)">
   <teiHeader>
     <fileDesc>
-      <!-- modification de la balise <author rend="margin"> pour les auteurs implicites en <note place="margin">[<author key="name" resp="editor">name</author> dans un <bibl>]</note> -->
       <titleStmt>
         <title>Précis élémentaire de mythologie</title>
-        <author key="Drioux, Claude-Joseph (1820-1898)">Claude-Joseph Drioux</author>
+        <author key="Drioux, Claude-Joseph (1820-1898)" ref="https://data.bnf.fr/fr/12381085/claude-joseph_drioux/">Claude-Joseph Drioux</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -37,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Drioux , Claude-Joseph (1820-1898), <hi rend="i">Précis élémentaire de mythologie grecque, romaine, indienne, persane, égyptienne, gauloise et scandinave, à l’usage des institutions, des pensions de demoiselles, et des autres établissements d’instruction publique, par M. l’abbé Drioux, professeur au petit séminaire de Langres, membre de la Société littéraire de l’Université catholique de Louvain, auteur du Cours complet d’Histoire</hi>, Tournai, Typ. de J. Casterman et fils, 1850, 219 p. Source : <ref target="https://archive.org/details/storiesoflongago00kupfrich">Googlehttps://books.google.fr/books?id=6_xAAAAAcAAJ</ref> livres.</bibl>
+        <bibl><author>Drioux, Claude-Joseph (1820-1898)</author>, <title>Précis élémentaire de mythologie grecque, romaine, indienne, persane, égyptienne, gauloise et scandinave, à l’usage des institutions, des pensions de demoiselles, et des autres établissements d’instruction publique, par M. l’abbé Drioux, professeur au petit séminaire de Langres, membre de la Société littéraire de l’Université catholique de Louvain, auteur du Cours complet d’Histoire</title>, <pubPlace>Tournai</pubPlace>, <publisher>Typ. de J. Casterman et fils</publisher>, <date>1850</date>, <biblScope>219 p.</biblScope> Source : <ref target="https://archive.org/details/storiesoflongago00kupfrich">Googlehttps://books.google.fr/books?id=6_xAAAAAcAAJ</ref> livres.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1850">1850</date>
+        <date when="1850"/>
       </creation>
       <langUsage>
-        <language ident="fre">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -483,7 +481,7 @@
               <l>Et surtout gardez-vous d’en faire.</l>
               <l>Parlez peu, mais bien. Ce qu’on dit,</l>
               <l>Quand la raison le dicte, est toujours sûr de plaire.</l>
-                <bibl><note place="margin">[<author key="Demoustier" resp="editor">Demoustier</author>]</note></bibl>
+              <note place="margin"  resp="editor"><bibl>[<author key="Demoustier">Demoustier</author>]</bibl></note>
             </quote>
             <p>L’autre ajoutait :</p>
             <quote>
@@ -491,7 +489,7 @@
               <l>Songez qu’il est cruel d’oser sacrifier</l>
               <l>Un espoir, un bonheur, une peine secrète</l>
               <l>    Que l’on a cru pouvoir nous confier.</l>
-                <bibl><note place="margin">[<author key="Demoustier" resp="editor">Demoustier</author>]</note></bibl>
+                <note place="margin" resp="editor"><bibl>[<author key="Demoustier">Demoustier</author>]</bibl></note>
             </quote>
             <p>Une troisième disait encore :</p>
             <quote>
@@ -505,7 +503,7 @@
               <l>A condamnés à la misère,</l>
               <l>De compatir à leurs malheurs,</l>
               <l>De mêler nos soupirs aux leurs !</l>
-              <bibl><note place="margin">[<author key="Demoustier" resp="editor">Demoustier</author>]</note></bibl>
+              <note place="margin" resp="editor"><bibl>[<author key="Demoustier">Demoustier</author>]</bibl></note>
             </quote>
             <p>2. Lorsque Vénus eut été formée par ces sages leçons, Jupiter, touché des charmes de la déesse, résolut de l’introduire dans le ciel et de la faire paraître devant les immortels. Tous les dieux admirèrent sa beauté, et toutes les déesses en devinrent jalouses. Vénus n’obtint cependant pas pour époux celui qu’elle désirait. Jupiter la donna au difforme et hideux Vulcain, pour le récompenser de ce qu’il avait forgé dans ses ateliers souterrains son trône, son palais et ses foudres.</p>
             <p>3. Les enfants de Vénus furent l’Hymen et Cupidon. L’Hymen était représenté sous la figure d’un jeune homme couronné de fleurs, tenant dans sa main droite un flambeau et dans sa gauche un voile nuptial. Il présidait aux unions conjugales, et les peintres qui le représentaient cherchaient pour ce motif à montrer dans ses traits quelque chose qui annonçait la prudence et la réflexion ou bien encore l’inquiétude et les soucis. Cupidon son frère était un enfant ailé, portant un arc et un carquois rempli de flèches. Il avait un bandeau sur les yeux et quelquefois un doigt sur la bouche en signe de discrétion. Jupiter voulait le faire périr parce qu’il prévoyait tous les maux que cet enfant devait faire aux dieux et aux hommes. Mais sa mère le cacha dans les forêts, où il se nourrit du lait des bêtes sauvages.</p>
@@ -583,15 +581,15 @@
             <quote>
               <l>Les Parques d’une même soie</l>
               <l>Ne dévident pas tous nos jours.</l>
-                <bibl><note place="margin">[<author key="Malherbe" resp="editor">Malherbe</author>]</note></bibl>
+                <note place="margin" resp="editor"><bibl>[<author key="Malherbe">Malherbe</author>]</bibl></note>
             </quote>
             <p>8. Les grands coupables dont la fable a conservé le souvenir et raconté les châtiments sont les Titans, Sisyphe, Phlégyas, Tantale, les Danaïdes et Ixion. Les Titans, qui s’étaient révoltés contre Jupiter, furent ensevelis sous le mont Etna que les anciens considéraient sans doute, à cause de ses fréquentes éruptions, comme un des soupiraux de l’enfer. Sisyphe, fils d’Eole, avait désolé l’Attique par ses brigandages, et il était condamné à rouler jusqu’au sommet d’une montagne une pierre énorme qui retombait sans cesse et qui par là éternisait ses peines. Phlégyas, qui avait mis le feu au temple de Delphes, se sentait tourmenté par l’appréhension continuelle d’être écrasé par un rocher suspendu sur sa tête coupable. Tantale, roi de Phrygie, avait violé les droits de l’hospitalité, en servant sur sa table les membres de Pélops son fils aux dieux qui le visitaient. Jupiter voulut qu’il fût dévoré sans cesse d’une soit ardente et d’une faim insatiable. Pour ajouter à sa peine, il le fit plonger dans l’eau jusqu’au cou, et fit placer sous ses yeux une branche d’arbre chargée des fruits les plus appétissants. Quand ce roi criminel essayait de boire, l’eau se retirait à mesure qu’il faisait effort pour en approcher ses lèvres, et, quand il voulait manger, la branche d’arbre s’éloignait. Les poëtes ont appliqué ce supplice à l’avare qui amasse des trésors sans jamais y toucher.</p>
             <quote>
               <l>Tantale dans un fleuve a soif et ne peut boire.</l>
               <l>Tu ris, change le nom, la fable est ton histoire.</l>
-                <bibl><author key="Anonyme"/>
-                <note place="margin">[<author key="Horace" resp="editor">Horace</author>]</note>
-                <note place="margin">[<author key="Desmarets" role="translator" resp="editor">Desmarets" role="translator</author>]</note></bibl>
+              <bibl><author key="Anonyme"/></bibl>
+                <note place="margin" resp="editor"><bibl>[<author key="Horace">Horace</author>]</bibl></note>
+                <note place="margin" resp="editor"><bibl>[<author key="Desmarets" role="translator">Desmarets" role="translator</author>]</bibl></note>
             </quote>
             <p>Les Danaïdes, filles de Danaüs, roi d’Argos, étaient au nombre de cinquante. Toutes avaient fait périr leurs maris, à l’exception d’Hypermestre qui conserva le sien appelé Lyncée. En punition de leur forfait, ces femmes cruelles furent condamnées à remplir d’eau un tonneau percé aux deux bouts, ce qui rendait leurs fatigues éternelles. Enfin Ixion était attaché à une roue couverte de serpents qui tournait sans relâche.</p>
             <p>9. Les Champs-Elysées étaient, au contraire, un délicieux séjour ou les poëtes supposaient réunies toutes les espèces de jouissances. Là régnait un printemps éternel, un air toujours pur et serein ; une douce clarté illuminait cette région enchantée, et les ombres qui l’habitaient se promenaient à travers des bosquets de myrtes et de roses. Elles avaient bu de l’eau du fleuve Léthé, et, après avoir ainsi oublié toutes les peines qu’elles avaient eues sur la terre, elles se livraient aux occupations qui leur offraient le plus d’attraits. Les philosophes s’entretenaient de la vérité et de sa contemplation ; les poëtes y chantaient des vers harmonieux et faciles ; les guerriers s’y exerçaient à la lutte, sans craindre de se blesser et de répandre leur sang ; enfin tous trouvaient le bonheur dans l’activité et le travail.</p>
@@ -846,8 +844,9 @@
             </quote>
             <p>7. Ovide décrit ainsi le palais de la Renommée :
               <quote>« Au milieu de l’univers, entre l’Océan, les terres et les plaines célestes, aux confins de ces trois mondes, il est un lieu où l’on voit tout ce qui se passe dans les autres lieux, quelle que soit leur distance, et où l’on entend tout ce qui se dit. C’est là qu’habite la Renommée. Elle s’est choisi un palais sur le sommet d’une montagne, elle l’a environné de mille issues et de mille ouvertures, et ses appartements ne sont fermés par aucune porte. Le jour et la nuit, sa demeure est ouverte. Formée tout entière d’un airain retentissant, elle résonne à tout bruit et répète toutes les paroles qu’elle entend. Au dedans point de repos, point de silence ; ce n’est cependant pas du fracas, mais un sourd et continuel murmure, comme le bruit des flots de la mer quand vous les entendez de loin, ou comme les derniers roulements de la foudre que Jupiter promène dans les nues. Là s’agite un peuple léger, là vont et viennent mille vaines rumeurs vraies ou fausses, des paroles confuses qui s’entrechoquent et repaissent les oreilles avides. Ces messagers portent partout les nouvelles ; le mensonge va croissant dans leur bouche, et ceux qui les écoulent ajoutent encore à ce qu’ils ont entendu. Là sont la Crédulité, l’Erreur téméraire, la vaine Joie, les Terreurs, la Sédition et les Bruits incertains. La déesse elle-même voit ce qui se passe dans le ciel, dans l’Océan et sur la terre, et son regard scrutateur interroge tout l’univers. »
-              <bibl><author key="Ovide"/>
-              <note place="margin">[Translator : <author key="Louis Pouget, Th. Guiard, Chevriau, Fouqier" role="translator" resp="editor">Louis Pouget, Th. Guiard, Chevriau, Fouqier</author>]</note></bibl></quote></p>
+              <bibl><author key="Ovide"/></bibl>
+              <note place="margin" resp="editor"><bibl>[Translator : <author key="Louis Pouget, Th. Guiard, Chevriau, Fouqier" role="translator" >Louis Pouget, Th. Guiard, Chevriau, Fouqier</author>]</bibl></note>
+              </quote></p>
             <div>
               <head>Questionnaire.</head>
               <p>1. Quelles sont les autres divinités allégoriques qu’il importe de connaître ? 2. Quelles idées les païens se faisaient de la Fortune ? Comment était-elle représentée ? Ses temples étaient-ils nombreux ? Sous quels noms était-elle vénérée ? 3. Comment comprenait-on la Nécessité ? De quelle manière était-elle représentée ? Où avait-elle un temple ? 4. Qu’est-ce que l’Occasion ? Comment la représente-t-on ? 5. Quels noms donnait-on au Silence ? Où plaçait-on ses statues ? Comment était-il représenté ? 6. Que disait-on de la Renommée ? Quelles fictions imaginèrent les poëtes à son sujet ? 7. Quelle description
@@ -911,8 +910,8 @@
             <p>3. Arrivé à l’âge de dix-huit ans, à l’époque où les jeunes gens décident leur avenir, Hercule s’abandonna à ses réflexions. Un jour qu’il était assis dans un lieu solitaire, l’esprit préoccupé des plus graves pensées, il vit s’avancer à lui deux femmes d’une grande taille. L’une joignait la noblesse à la beauté, et n’avait d’ornements que ceux de la nature. Elle avait les yeux chastes, la figure modeste, son vêtement était d’une blancheur éclatante. Le héros reconnut à tous ces traits la Vertu. L’autre avait un visage fardé, le regard arrogant et superbe, une parure recherchée et un embonpoint qui semblait le fruit de la mollesse. Elle se considérait elle-même, et ses yeux cherchaient partout des admirateurs : c’était la Volupté. Elle s’empressa d’accourir vers le héros, et lui dit :</p>
             <quote>
               <p>« Hercule, je vois que tu ne sais quel chemin tu dois prendre. Si tu t’attaches à moi, je te conduirai par la route la plus riante et la plus facile ; aucun plaisir ne te sera refusé, aucune peine n’affligera ta vie. Tu n’auras à redouter ni la guerre, ni les vains soucis ; ta seule occupation sera de trouver les boissons et les mets qui pourront te plaire et tout ce qui flattera le mieux tes sens ; tu ne songeras qu’au moyen le plus court d’être heureux. Et si tu crains de manquer jamais d’argent pour acheter des plaisirs, rassure-toi, je t’en comblerai sans prescrire à ton corps ni à ton esprit des travaux pénibles. Tout sacrifier au bonheur, voilà le privilège de quiconque suit mes lois. » La Vertu reprit aussitôt : « Et moi aussi, Hercule, je parais devant toi ; c’est que je n’ignore pas de qui tu tiens le jour, c’est que ton éducation m’a révélé ton caractère. Si tu choisis ma route, tu brilleras entre les grands hommes par tes exploits et tes vertus. Je ne t’abuserai pas en le promettant les plaisirs. Ce n’est qu’au prix des soins et des travaux que les dieux répandent le bonheur et l’éclat sur la vie des hommes. Si tu veux que ton corps devienne robuste et vigoureux, souviens-toi de l’accoutumer à l’empire de l’âme et de l’exercer au milieu des fatigues et des sueurs. Je donne le bonheur et la gloire à ceux qui écoulent ma voix ; jeunes, ils ont le plaisir d’entendre les éloges des vieillards ; vieux, ils aiment à recueillir les respects de la jeunesse. Quand le terme fatal arrive, l’oubli du tombeau ne les ensevelit pas tout entiers, mais leur mémoire, toujours florissante, vit dans un long avenir. »
-                <bibl><note place="margin">[<author key="Xénophon" resp="editor">Xénophon</author>]</note>
-                <note place="margin">[Translator : <author key="Leclerc" role="translator" resp="editor">Leclerc"</author>]</note></bibl></p>
+                <note place="margin" resp="editor"><bibl>[<author key="Xénophon">Xénophon</author>]</bibl></note>
+                <note place="margin" resp="editor"><bibl>[Translator : <author key="Leclerc" role="translator">Leclerc"</author>]</bibl></note></p>
             </quote>
             <p>4. Hercule, enflammé par ce discours, se décida pour la Vertu et devint dès lors le vengeur de la justice et le libérateur de ses contemporains. Il débuta dans sa carrière glorieuse par les travaux que lui imposa Eurysthée, fils de Nicippe, femme de Sthénélus, roi d’Argos. Ce tyran, excité par la jalouse Junon, ordonna au jeune héros des entreprises gigantesques qui sont connues dans la table sous le nom des douze travaux d’Hercule.</p>
             <p>1º Il y avait dans la forêt de Némée un lion furieux et terrible qui dévastait ce pays. Hercule fut chargé de l’attaquer. Après de grands efforts le héros le saisit, le déchira de ses mains, et se fit de sa peau une espèce de bouclier et de vêtement.</p>
@@ -1393,8 +1392,8 @@
           <p>6. Les poëtes qui imaginèrent toutes ces fictions, ont conservé quelque chose de ces traditions primitives ; mais ils les ont profondément dénaturées, en les révélant des couleurs de la poésie. Nous avons cru qu’on aimerait à trouver ici leurs paroles sur la création.
             <quote>« Dans l’aurore des siècles, dit l’un d’eux, il n’y avait ni mer, ni rivage, ni zéphyrs rafraîchissants. On ne voyait point de terre en bas, ni de ciel en haut ; tout n’était qu’un vaste abime, sans herbe et sans semence : le soleil n’avait point de palais ; les étoiles ne connaissaient point leurs demeures ; la lune ignorait son pouvoir : alors il y avait un monde lumineux, brûlant, enflammé du côté du midi, et de ce monde s’écoulaient sans cesse dans l’abîme, qui était au septentrion, des torrents de feu étincelant, qui, s’éloignant de leurs sources, se congelaient en tombant dans l’abîme, et le remplissaient de scories et de glaçons. Ainsi l’abime se combla peu à peu ; mais il restait au dedans un air léger et immobile, et des vapeurs glacées s’en exhalaient sans cesse, jusqu’à ce qu’un souffle de chaleur, étant venu du midi, fondit ces vapeurs, et en forma des gouttes vivantes, d’où naquit le géant Ymer. On raconte que, pendant qu’il dormait, il se forma de sa sueur un homme et une femme, desquels est descendue la race des géants, race mauvaise et corrompue, aussi bien qu’Ymer, son auteur. Il en naquit une meilleure, qui s’allia avec celle du géant Ymer. On appelait celle-ci la famille de <hi rend="i">Bor</hi>, du nom du premier de cette famille, qui était père d’Odin. Les fils de Bor tuèrent le géant Ymer, et le sang coula de ses blessures en si grande abondance qu’il causa une inondation générale, où périrent tous les géants, à la réserve d’un seul qui, s’étant sauvé sur une barque, échappa avec toute sa famille. Alors un nouveau monde se forma. Les fils de <hi rend="i">Bor</hi>, ou les dieux, traînèrent le corps du géant dans l’abime, et en fabriquèrent le globe ; de son sang ils formèrent la mer et les fleuves ; la terre, de sa chair ; les grandes montagnes, de ses os ; les rochers, de ses dents et des fragments de ses os brisés. Ils firent de son crâne la voûte du ciel, qui est soutenue par quatre nains nommés Sud, Nord, Est et Ouest. Ils
             y placèrent des flambeaux pour l’éclairer, et fournirent à d’autres feux l’espace qu’ils devaient parcourir, les uns dans le ciel, les autres sous le ciel. Les jours furent distingués, et les années eurent leur nombre. Ils firent la terre ronde, et la ceignirent du profond Océan, sur les rivages duquel ils placèrent des géants. Un jour que les fils de Bor ou des dieux s’y promenaient, ils trouvèrent deux morceaux de bois flottants, qu’ils prirent, et dont ils formèrent l’homme et la femme. L’aîné des fils leur donna l’âme et la vie ; le second, le mouvement et la science ; le troisième leur fit présent de la parole, de l’ouïe et de la vue, à quoi il ajouta la beauté et des habillements. C’est de cet homme, nommé <hi rend="i">Askus</hi>, et de cette femme, nommée <hi rend="i">Embla</hi>, qu’est descendue la race des hommes qui a eu la permission d’habiter la terre. »
-            <note place="margin">[Translator : <author key="Mennechet" role="translator" resp="editor">Mennechet</author>]</note>
-            <note place="margin">[<author key="Sturluson" resp="editor">Sturluson</author>]</note> </quote></p>
+            <note place="margin" resp="editor"><bibl>[Translator : <author key="Mennechet" role="translator">Mennechet</author>]</bibl></note>
+            <note place="margin" resp="editor"><bibl>[<author key="Sturluson">Sturluson</author>]</bibl></note> </quote></p>
           <p>7. Au milieu de toutes ces descriptions poétiques, on reconnaît des vestiges de l’histoire de la création telle que la raconte
             <author key="Bible">Moïse</author>. Les Scandinaves paraissent encore avoir mieux connu l’existence d’une autre vie et le dogme de la ruine du monde. Leur paradis est le <hi rend="i">Valhalla</hi>. C’est un lieu de délices où Odin reçoit tous les braves morts sur les champs de bataille. Il leur donne pour compagnes des vierges d’une ravissante beauté, les <hi rend="i">Valkiries</hi>, qui n’ont pas d’autre emploi que de prévenir tous les désirs de ces héros morts au champ de l’honneur. Leur enfer s’appelait <hi rend="i">Niflheim</hi>. Tous ceux qui n’étaient pas morts de la mort du soldat allaient dans ce dernier séjour, où régnait la <hi rend="i">Mort</hi> ayant pour palais l’<hi rend="i">Angoisse</hi>, pour table la <hi rend="i">Famine</hi>, pour serviteurs l’<hi rend="i">Attente</hi> et la <hi rend="i">Lenteur</hi>, et pour lit la <hi rend="i">Maigreur</hi>. On conçoit qu’une pareille doctrine devait terriblement exciter le courage de ces peuples superstitieux.</p>
           <p>8. La mythologie des Scandinaves suppose, comme celle de tous les autres peuples, la chute et la dégradation du monde actuel. Mais elle croit que les mauvais génies qui règnent actuellement sur la création seront détruits après la ruine de l’univers. Ainsi <hi rend="i">Loke</hi>, le génie du mal que ses vices ont fait déchoir de l’état de perfection dans lequel les dieux l’avaient créé, sera anéanti avec ses enfants qui sont : la Mort, <hi rend="i">Héla</hi>, le Loup, <hi rend="i">Fenris</hi>, et le Serpent, <hi rend="i">Migdard</hi>, dont les anneaux enveloppent la terre. Tous ces génies malfaisants, dit l’<title xml:lang="eng">Edda</title>, seront lâchés contre le monde pour le dévorer. Puis, après de grands efforts, ils seront anéantis avec la nature entière et la plupart des dieux.

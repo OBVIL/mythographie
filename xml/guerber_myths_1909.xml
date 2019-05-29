@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-04-28T12:27:37+02:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Guerber (1909)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>The myths of Greece and Rome</title>
-        <author key="Guerber, Hélène Adeline (1869-1929)">H. A. Guerber</author>
+        <author key="Guerber, Hélène Adeline (1859-1929)" ref="https://data.bnf.fr/fr/15548368/helene_adeline_guerber/">H. A. Guerber</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -39,7 +39,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Guerber, Hélène Adeline (1869-1929), <hi rend="i">The Myths of Greece and Rome : Their Stories, Signification and Origin, by H. A. Guerber, Author of “Contes et Légendes”, “Märchen und Erzählungen”, etc.</hi>, London, George G. Harrap and Company, 1909, XIV-394 p. Source: <ref target="https://archive.org/details/mythsofgreecerom00gueuoftr">Internet Archive</ref>.</bibl>
+        <bibl><author>Guerber, Hélène Adeline (1869-1929)</author>, <title>The Myths of Greece and Rome : Their Stories, Signification and Origin, by H. A. Guerber, Author of “Contes et Légendes”, “Märchen und Erzählungen”, etc.</title>, <pubPlace>London</pubPlace>, <publisher>George G. Harrap and Company</publisher>, <date>1909</date>, <biblScope>XIV-394 p.</biblScope> Source: <ref target="https://archive.org/details/mythsofgreecerom00gueuoftr">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

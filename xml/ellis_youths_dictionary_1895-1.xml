@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-05-09T11:27:21+02:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Ellis (1895)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>The youth’s dictionary of mythology for boys and girls</title>
-        <author key="Ellis, Edward Sylvester (1840-1916)">Edward S. Ellis</author>
+        <author key="Ellis, Edward Sylvester (1840-1916)" ref="https://data.bnf.fr/fr/12751107/edward_sylvester_ellis/">Edward S. Ellis</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

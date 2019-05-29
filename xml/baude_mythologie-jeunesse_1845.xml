@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Mythologie de la jeunesse</title>
-        <author key="Baude, Louis (18..?-18..?)">Louis Baude</author>
+        <author key="Baudet, Louis (1804-1862)" ref="https://data.bnf.fr/fr/10261948/louis_baudet/">Louis Baude</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Baude, Louis (1804-1862), <hi rend="i">Mythologie de la jeunesse, par M. Louis Baude, auteur des cahiers d’une élève de Saint-Denis</hi> ; [dessins par Gérard Seguin], Paris, J. Hetzel, Collection Hetzel, s. d. [1845], 160 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k65668725">Gallica</ref>.</bibl>
+        <bibl><author>Baude, Louis (1804-1862)</author>, <title>Mythologie de la jeunesse, par M. Louis Baude, auteur des cahiers d’une élève de Saint-Denis</title> ; [dessins par Gérard Seguin], <pubPlace>Paris</pubPlace>, <publisher>J. Hetzel</publisher>, Collection Hetzel, s. d. [<date>1845</date>], <biblScope>160 p.</biblScope> Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k65668725">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -559,7 +559,7 @@
             <p><hi rend="i">Euterpe</hi> présidait à la musique ; elle tenait à la main une flûte.</p>
             <p><hi rend="i">Uranie</hi>, muse de l’astronomie et des mathématiques, était vêtue d’une robe d’azur, et mesurait un globe avec un compas ; une couronne d’étoiles brillait sur sa tête.</p>
             <p>Les Muses se plaisaient dans la solitude et sur les lieux élevés. Le Parnasse, l’Hélicon, le Pinde, étaient leur demeure ordinaire. Le cheval Pégase<note place="bottom">Pégase, cheval ailé, naquit du sang de Méduse, une des Gorgones, à qui Persée coupa la tête. Ses ailes sont le symbole du génie et de l’inspiration.</note> paissait ordinairement sur ces montagnes et aux environs. Parmi les fontaines et les fleuves, l’Hippocrène, Castalie et le Permesse leur étaient consacrés ; et, parmi les arbres, le laurier et le palmier. On les représentait jeunes, belles, modestes, simplement vêtues, ayant à leur tête Apollon. On les appelait quelquefois <hi rend="i">Piérides</hi>, à cause de leur victoire sur les filles de <hi rend="i">Piérus</hi>. (V. <hi rend="i">Métamorphoses</hi>.)</p>
-            <p>Quoique la Fable leur ait donné à chacune des fonctions particulières, les poètes les invoquaient, sans distinction, pour tous les genres de poésie. C’est que les Muses étaient sœurs, et que les arts relèvent tous des mêmes principes, qui sont la vérité et la beauté. Suivant <author key="anonyme">un auteur latin</author>, le mot <hi rend="i">muses</hi> dérive d’un mot grec, qui signifie <hi rend="i">égales, pareilles</hi>.</p>
+            <p>Quoique la Fable leur ait donné à chacune des fonctions particulières, les poètes les invoquaient, sans distinction, pour tous les genres de poésie. C’est que les Muses étaient sœurs, et que les arts relèvent tous des mêmes principes, qui sont la vérité et la beauté. Suivant <author key="Anonyme">un auteur latin</author>, le mot <hi rend="i">muses</hi> dérive d’un mot grec, qui signifie <hi rend="i">égales, pareilles</hi>.</p>
           </div>
           <div>
             <head>Pénates et Lares.</head>
@@ -599,7 +599,7 @@
               <label>[Fig. 72]</label>
             </figure>
             <p>Le culte de Pan fut porté dans l’Italie par Évandre, qui était originaire de l’Arcadie, et les Romains honoraient ce dieu d’un culte particulier, en mémoire de Romulus et de Rémus allaités par une louve. De là le nom de <hi rend="i">Lupercales</hi> donné à ses fêtes, qui se célébraient dans le mois de février. On le représentait avec un visage enflammé, des cornes sur la tête, l’estomac couvert d’étoiles, et la partie inférieure du corps semblable à celle d’un bouc.</p>
-            <p><hi rend="i">Pan</hi> est un mot grec qui signifie <hi rend="i">tout</hi> ; de sorte que, sous ce nom, c’était, selon <author key="anonyme">quelques auteurs</author>, toute la nature qu’on adorait.</p>
+            <p><hi rend="i">Pan</hi> est un mot grec qui signifie <hi rend="i">tout</hi> ; de sorte que, sous ce nom, c’était, selon <author key="Anonyme">quelques auteurs</author>, toute la nature qu’on adorait.</p>
           </div>
           <div>
             <head>Flore.</head>
@@ -745,7 +745,7 @@
           </div>
           <div>
             <head>La Vérité.</head>
-            <p>La <hi rend="i">Vérité</hi> était représentée sous les traits d’une vierge, vêtue de blanc, ayant une contenance modeste, tenant de la main gauche un livre ouvert, et de la droite un miroir [Fig. 88]. Suivant Démocrite, <quote> elle est nue et habite toujours au fond d’un puits. <author key="Democrite"/> <author key="anonyme" role="translator"/></quote></p>
+            <p>La <hi rend="i">Vérité</hi> était représentée sous les traits d’une vierge, vêtue de blanc, ayant une contenance modeste, tenant de la main gauche un livre ouvert, et de la droite un miroir [Fig. 88]. Suivant Démocrite, <quote> elle est nue et habite toujours au fond d’un puits. <author key="Democrite"/> <author key="Anonyme" role="translator"/></quote></p>
           </div>
           <div>
             <head>La Pudeur.</head>
@@ -935,7 +935,7 @@
         </div>
         <div>
           <head>Phaéton. — Sœurs de Phaéton, et Cycmes, son ami.</head>
-          <p><hi rend="i">Phaéton</hi> était fils du Soleil et de l’Océanide Clymène. Dans une querelle qu’il eut avec Épaphus, fils de Jupiter et d’Io, celui-ci lui soutint qu’il n’était pas fils du Soleil, comme il s’en vantait. Phaéton, irrité, alla se plaindre à Clymène, qui le renvoya vers son père, pour apprendre de la propre bouche du Soleil la vérité sur sa naissance. Il se rendit donc auprès du Soleil, et le supplia de lui accorder un gage qui prouvât incontestablement qu’il était son fils. Le Soleil l’embrasse, le console, et jure par le Styx de ne lui rien refuser. Alors le jeune téméraire lui demande la permission de conduire son char pendant un jour seulement. Le Soleil se repentit aussitôt de son serment ; il veut en vain détourner son fils d’un si funeste dessein, en lui représentant que Jupiter lui-même succomberait dans une pareille entreprise. Phaéton persiste dans sa demande, et son père le conduit où était le char. L’Aurore, vêtue de pourpre, ouvre son palais semé de roses ; les étoiles disparaissent, et le Soleil commande aux heures d’atteler ses coursiers. Il couronne de rayons la tête de son fils, et lui donne des instructions dont une partie a été ainsi exprimée par <author key="anonyme">un poëte ancien</author> :</p>
+          <p><hi rend="i">Phaéton</hi> était fils du Soleil et de l’Océanide Clymène. Dans une querelle qu’il eut avec Épaphus, fils de Jupiter et d’Io, celui-ci lui soutint qu’il n’était pas fils du Soleil, comme il s’en vantait. Phaéton, irrité, alla se plaindre à Clymène, qui le renvoya vers son père, pour apprendre de la propre bouche du Soleil la vérité sur sa naissance. Il se rendit donc auprès du Soleil, et le supplia de lui accorder un gage qui prouvât incontestablement qu’il était son fils. Le Soleil l’embrasse, le console, et jure par le Styx de ne lui rien refuser. Alors le jeune téméraire lui demande la permission de conduire son char pendant un jour seulement. Le Soleil se repentit aussitôt de son serment ; il veut en vain détourner son fils d’un si funeste dessein, en lui représentant que Jupiter lui-même succomberait dans une pareille entreprise. Phaéton persiste dans sa demande, et son père le conduit où était le char. L’Aurore, vêtue de pourpre, ouvre son palais semé de roses ; les étoiles disparaissent, et le Soleil commande aux heures d’atteler ses coursiers. Il couronne de rayons la tête de son fils, et lui donne des instructions dont une partie a été ainsi exprimée par <author key="Anonyme">un poëte ancien</author> :</p>
           <quote>
             <l>Prends garde qu’une ardeur, trop funeste à ta vie,</l>
             <l>Ne t’emporte au-dessus de l’aride Libye.</l>

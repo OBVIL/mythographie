@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Mythologie des dames</title>
-        <author key="Brès, Jean-Pierre (1782 – 1832)">Jean-Pierre Brès</author>
+        <author key="Brès, Jean-Pierre (1782 – 1832)" ref="https://data.bnf.fr/fr/12518241/jean-pierre_bres/">Jean-Pierre Brès</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Brès, Jean-Pierre (1782-1832)</author>, <title>Mythologie des dames, par M. Brès</title>, <pubPlace>Paris</pubPlace>, <publisher>Louis Janet</publisher>, s.d. [<date>1823</date> selon Quérard, I, 502], 228 p. Source : <ref target="https://books.google.fr/books?id=sRRBAAAAcAAJ">Google Livres</ref>.</bibl>
+        <bibl><author>Brès, Jean-Pierre (1782-1832)</author>, <title>Mythologie des dames, par M. Brès</title>, <pubPlace>Paris</pubPlace>, <publisher>Louis Janet</publisher>, s.d. [<date>1823</date> selon Quérard, I, 502], <biblScope>228 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=sRRBAAAAcAAJ">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1150,7 +1150,7 @@
             <p>Il est aveugle, parcequ’il distribue les richesses sans discernement ; boiteux, parcequ’il arrive lentement ; ailé, parcequ’il s’en retourne fort vite. Lorsqu’on se plaint du peu de discernement avec lequel il répand ses faveurs, il répond :
               <quote>« Que voulez-vous ? Jupiter est jaloux des gens de bien. Je le menaçai dans ma jeunesse de n’aller qu’avec la Science et la Vertu ; pour m’en empêcher, il m’aveugla<note place="bottom">
               <author key="Aristophane">Aristophane</author>,
-              <author key="anonyme" role="translator"/><title>Plutus</title>, comédie…</note>. »</quote></p>
+              <author key="Anonyme" role="translator"/><title>Plutus</title>, comédie…</note>. »</quote></p>
             <p>Il y avait une autre divinité dont les attributions étaient les mêmes que celles de Plutus, et dont le culte eut encore plus de célébrité ; c’était la Fortune.</p>
           </div>
           <div>
@@ -2013,7 +2013,7 @@
           <l>Dieu que Lampsaque adore ; et, couvert de guirlandes,</l>
           <l>Ton buste va sourire à l’aspect des offrandes.</l>
           <bibl>
-            <author key="anonyme"/>
+            <author key="Anonyme"/>
           </bibl>
             <note place="margin"><bibl>[<author key="Brès" resp="editor">Brès</author>]</bibl></note>
         </quote>

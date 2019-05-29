@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Cours de mythologie</title>
-        <author key="Brunel, Joseph (1746-1820)">Joseph Brunel</author>
+        <author key="Brunel, Joseph (1746-1820)" ref="https://data.bnf.fr/fr/10302045/joseph_brunel/">Joseph Brunel</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

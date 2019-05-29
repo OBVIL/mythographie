@@ -2,13 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:04:41+01:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Genlis (1810)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Arabesques mythologiques, ou les Attributs de toutes les divinités de la fable. Tome I</title>
-        <author key="Genlis, Stéphanie-Félicité Du Crest (1746-1830 ; comtesse de)">Madame de Genlis</author>
+        <author key="Genlis, Stéphanie-Félicité Du Crest (1746-1830 ; comtesse de)" ref="https://data.bnf.fr/fr/11904585/stephanie-felicite_du_crest_genlis/">Madame de Genlis</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -28,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/genlis_arabesques-mythologiques-01_1810/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/genlis_arabesques-mythologiques-01_1810/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
