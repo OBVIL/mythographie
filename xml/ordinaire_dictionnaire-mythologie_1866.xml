@@ -2,19 +2,22 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:11:48+01:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Ordinaire (1866)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Dictionnaire de mythologie</title>
-        <author key="Ordinaire, Dionys (1826-1896)">Dionys Ordinaire</author>
+        <author key="Ordinaire, Dionys (1826-1896)" ref="https://data.bnf.fr/fr/10676597/dionys_ordinaire/">Dionys Ordinaire</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi </name>
-          <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -24,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/ordinaire_dictionnaire-mythologie_1866/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/ordinaire_dictionnaire-mythologie_1866/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -36,7 +39,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Ordinaire, Dionys (1826-1896), <hi rend="i">Dictionnaire de mythologie, par D. Ordinaire, professeur de l’Université</hi>, Paris, Bibliothèque d’éducation et de récréation, J. Hetzel, 1866, 318 p. Source : <ref target="https://books.google.fr/books?id=tSg-AAAAcAAJ">Google Livres</ref>.</bibl>
+        <bibl><author>Ordinaire, Dionys (1826-1896)</author>, <title>Dictionnaire de mythologie, par D. Ordinaire, professeur de l’Université</title>, <pubPlace>Paris</pubPlace>, Bibliothèque d’éducation et de récréation, <publisher>J. Hetzel</publisher>, <date>1866</date>, <biblScope>318 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=tSg-AAAAcAAJ">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -44,7 +47,7 @@
         <date when="1866">1866</date>
       </creation>
       <langUsage>
-        <language ident="fre">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

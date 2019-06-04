@@ -2,19 +2,22 @@
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-06-07T09:37:52+02:00-->
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it" n="Niccolini (1880)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita" n="Niccolini (1880)">
   <teiHeader>
     <fileDesc>
-      <!-- problème <author> et <title> non autorisés dans <label> et <byline> ; modifié provisoirement les occurrences en term type="author" et <byline> en <signed> -->
       <titleStmt>
         <title>Lezioni di mitologia</title>
-        <author key="Niccolini, Giovan Battista (1782-1861)">Giovan Battista Niccolini</author>
+        <author key="Niccolini, Giovanni Battista (1782-1861)" ref="https://data.bnf.fr/fr/12361898/giovanni_battista_niccolini/">Giovan Battista Niccolini</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nejla Midassi </name>
-          <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -36,12 +39,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl> LEZIONI DI MITOLOGIA DI G. B.
-          <author key="Niccolini">NICCOLINI</author>; RACCOLTE E PUBBLICATE DA CORRADO GARGIOLLI ; MITOLOGIA TEOLOGICA CON TRADUZIONI DA
-          <author key="Théocrite">TEOCRITO</author>,
-          <author key="Horace">ORAZIO</author>,
-          <author key="Ovide">OVIDIO</author>,
-          <author key="Claudien">CLAUDIANO</author>. Volume Unico MITOLOGIA TEOLOGICA. </bibl>
+        <bibl><title>Lezioni di mitologia di G. B. Niccolini; Racolte e pubblicate da corrado Gargiolli; mitologia teologica con traduzioni da Teocrito, Orazio, Ovidio, Claudiano</title>. Volume unico Mitologica Teologica, <pubPlace>Milan</pubPlace>, <publisher>Guigoni</publisher>, <date>1880</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -49,7 +47,7 @@
         <date when="1880">1880</date>
       </creation>
       <langUsage>
-        <language ident="it">it</language>
+        <language ident="ita"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -2387,7 +2385,7 @@
         </quote>
         <quote>
           <label type="head">Ode di
-            <term type="author" key="Horace">Orazio</term> sopra Mercurio. <lb/>Parafrasata</label>
+            <author key="Horace">Orazio</author> sopra Mercurio. <lb/>Parafrasata</label>
           <l>Cillenio dio, gloria dell’avo Atlante,</l>
           <l>Che il fero culto del recente mondo</l>
           <l>Colla palestra ornasti, e col sonante</l>
@@ -2873,7 +2871,7 @@
             <author>Mengs</author>) che non contento di aver rapita la meraviglia del secolo colle sue sorprendenti pitture, ha meritato ancora la fama di autore, mercè l’amicizia di persona distinta per impieghi e per letteratura, che si è compiaciuta fare al pubblico un dono postumo dei suoi scrìtti. Mi conviene, dissi, dissentire in ciò che riguarda il marmo, non solo di questa statua, ma in ciò che ne deduce; cioè che questa, e gli altri capi d’opera dell’arte antica non sieno che copie d’alti perfetti originali, o almeno originali di second’ordine, impareggiabili, se si confrontino con ciò che l’arte rediviva fra le nazioni moderne ha saputo produrre, ma molto al di sotto dell’opere ammirate dalla Grecia. Questa opinione, comecché faccia onore a chi l’ha proposta, perchè nasce da un’idea di perfezione assai superiore alla comune capacità che quel grande uomo si era fissata in mente, e che era l’archetipo che si sforzava ritrarre nelle sue pitture, formata sull’astrazione di ciò, che vi ha di più sorprendente nei pezzi dei più insigni della greca scultura, non è però confermata dalla verità, ed è appoggiata di vacillanti argomenti, quando si voglia estendere a tutto indistintamente ciò che ci è pervenuto dalle antiche scuole dell’arte. I dubbi sull’originalità dell’Apollo si riducevano alla qualità del marmo, all’essersi trovata in Anzo, e ad alcuni apparenti difetti osservati nella figura, riconosciuta d’altra parte per ciò che di più bello esista nell’arte.</p>
           <p>« L’opinione falsa che fosse marmo di Carrara, era la ragion più forte, come quello ch’era ignoto nel secolo dei grandi artefici. La non originalità dell’Apollo era poi un argomento da estendere i dubbi sopra qualunque altra scultura.</p>
           <p>« Verificato pertanto che sia marmo delle cave di Grecia e del più bello, cade il fondamento di di tutto il discorso. L’essere stato collocato piuttosto ad Anzo che a Roma non è da badarsi da chi ò versato nella storia romana e degl’imperatori, e sa a quanto giungesse il lusso dei Cesari e la non curanza del pubblico di Roma per le arti del disegno. E poi, una villa che onoravano tanto spesso del loro soggiorno i signori del mondo allor conosciuto, potea ben meritare l’ornamento dei capi d’opera della scultura che si vedeano tal volta ornare come l’Ercole di Mirone e il Giove di
-            <author key="Praxitèle">Prassitele</author>, i portici e i giardini privati. I difetti che voglionsi riconoscere nell’Apollo sono la perfetta eguaglianza dei piedi nella lunghezza, e la situazione della clavicola non precisamente equidistante dagli omeri. Questa terza difficoltà può incontrar più d’una risposta. E per lasciare la generale che nulla vi ha di veramente perfetto, e che perciò si trovano degli errori nei capi d’opera, non solo dell’arti del disegno, ma delle lettere ancora e delle scienze, e che ciò che distingue l’autore eccellente non è tanto l’assenza dei difetti, quanto l’esistenza di certe bellezze e di certi pregi, che non possono esser il prodotto che di talenti non comuni: può dirsi ancora che è stato consiglio dell’artefice di allentanarsi in ciò dal rigido vero per servire alla destinazione del simulacro, che, veduto nel sito dove dovea collocarsi, avrebbe non solamente celate queste scorrezioni, ma ne avrebbe ritratto qualche maggior grado di bellezza e di effetto. Che se s’insistesse ancora, e si opponesse, perchè di una statua così eccellente non abbiano parlato gli antichi, non mi curerei di rispondere, che poche memorie ci sou restate nelli scritti a noi pervenuti, e soltanto di quelle che o per la situazione in luoghi assai frequentati, per la religion de’ popoli, o per altre curiose avventure si rendevano più interessanti. Si è fatta commem<name type="author">orazio</name>ne assai inesattamente da
+            <author key="Praxitèle">Prassitele</author>, i portici e i giardini privati. I difetti che voglionsi riconoscere nell’Apollo sono la perfetta eguaglianza dei piedi nella lunghezza, e la situazione della clavicola non precisamente equidistante dagli omeri. Questa terza difficoltà può incontrar più d’una risposta. E per lasciare la generale che nulla vi ha di veramente perfetto, e che perciò si trovano degli errori nei capi d’opera, non solo dell’arti del disegno, ma delle lettere ancora e delle scienze, e che ciò che distingue l’autore eccellente non è tanto l’assenza dei difetti, quanto l’esistenza di certe bellezze e di certi pregi, che non possono esser il prodotto che di talenti non comuni: può dirsi ancora che è stato consiglio dell’artefice di allentanarsi in ciò dal rigido vero per servire alla destinazione del simulacro, che, veduto nel sito dove dovea collocarsi, avrebbe non solamente celate queste scorrezioni, ma ne avrebbe ritratto qualche maggior grado di bellezza e di effetto. Che se s’insistesse ancora, e si opponesse, perchè di una statua così eccellente non abbiano parlato gli antichi, non mi curerei di rispondere, che poche memorie ci sou restate nelli scritti a noi pervenuti, e soltanto di quelle che o per la situazione in luoghi assai frequentati, per la religion de’ popoli, o per altre curiose avventure si rendevano più interessanti. Si è fatta commem <author key="Horace">orazio</author>ne assai inesattamente da
             <author key="Pline l'Ancien">Plinio</author> e
             <author key="Pausanias">Pausania</author>, e casualmente da alcuni altri; e perciò sono restate ignote quasi 1500 statue del solo Lisippo, ognuna delle quali, secondo
             <author key="Pline l'Ancien">Plinio</author>, poteva render l’autore illustre; non mi curerei, dico, di questa risposta, ma sosterrei piuttosto, che veramente è questo uno dei quattro celebri Apollini in marmo rammentati da
@@ -9593,7 +9591,7 @@
         <p>Vogliono che Bacco e i suoi seguaci si servissero delle aste armate, come si vede, fra gli altri, aver il nume in una medaglia dei Nisei: ordinariamente però in memoria dello stratagemma usato cogl’ Indiani, portavano la punta coperta di ellera, al che allude San Giustino dicendo: Come le Baccanti con abito pacifico portano sotto i tirsi coperte le punte: — i quali luoghi fanno al Buonarroti congetturare che quella pannocchia che si suol vedere in cima all’aste di Bacco rappresenti l’istesso ferro coperto di ellera, tessuto insieme a scaglie di pesce, la quale forse per la similitudine fu chiamata e creduta esser veramente una pina, con de nominarne anche il medesimo tirso; sicché il Bochart trova che in Fenicia il tirso significasse il pino. Poteva ancora nella Fenicia aver preso quel nome dalla similitudine che ne rappresentava la cima.</p>
         <p>È noto per altro che il pino era consacrato anche a Bacco per l’amicizia eh’ egli ebbe con Cibele, come vi ho già esposto; ed in un Baccanale osservato dal Buonarroti vi era un Centauro che ne portava un ramo. Poteva inoltre la pina essere adoprata in altro modo, come sarebbe per uno dei segni sacri della cesta mistica, senza che noi siamo costretti a dire che la portassero sui tirsi: quando per altro le scaglie di quella pannocchia nei marmi sono basse assai senza risalto conveniente ad una pina, e sovente di proporzione maggiore di quelle che sieno le cortecce di fuori di quel frutto, come si potrà osservare nel bel cammeo riportato dal mentovato Buonarroti. Tanto più che come si cava dall’ osservare alcuni passi d’ autori, propriamente chiamavano <hi rend="i">tirso</hi> quel capo in cima dell’ asta: e facendosi dagli scrittori infinite volte menzione dell’ellera del tirso, onde sovente con figura lo chiamavano <hi rend="i">ellera</hi>: se noi vogliamo che la sia quella in cima, di rado e forse non mai potremo ritrovare in tanti antichi monumenti i tirsi, non osservandosi in loro l’ellera in altra forma che in questa, eccetto che alcune volte si vede un’asta circondata di tralci e di foglie bensì, ma che sono piuttosto di vite, secondo quello d’
           <author key="Ovide">Ovidio</author>: Agita l’asta velata di fronde di pampano. — Le quali aste erano co mimemente dai pittori dei tempi del Buonarroti fatte per tirso nei Baccanali: quando ne’ veri le foglie dovevano esser cucite ad una per una, non attaccate ai rami. Poiché per lo più, senza che vi fosse altro ferro di sotto e dentro, dovevano fare quelle pannocchie tutte di foglie d’ellera cucite insieme per semplice e sola mostra per non far male: siccome scrive
-          <author>Diodoro</author> che per il medesimo fine Bacco levò alla sua gente l’asta, dando loro in quella vece la ferula assai leggiera e debole: su queste, come prima facevano sull’aste, ci mettevano quel tirso, onde <name type="author">Euripide</name> chiama la ferula <hi rend="i">bene ornata di tirso</hi>.</p>
+          <author>Diodoro</author> che per il medesimo fine Bacco levò alla sua gente l’asta, dando loro in quella vece la ferula assai leggiera e debole: su queste, come prima facevano sull’aste, ci mettevano quel tirso, onde <author key="Euripide">Euripide</author> chiama la ferula <hi rend="i">bene ornata di tirso</hi>.</p>
         <p>Che poi quest’aste, le quali si veggono nei marmi, e in altre anticaglie con quel capo grosso e pannocchia in cima, fossero veramente i tirsi sacri a Bacco, par che si cavi dagli autori botanici, i quali assomigliano ai tirsi molte erbe, che chiamano capitate, fatte nel loro fusto in quella maniera, e dalla benda con la quale, come istrumenti sacri, si sogliono vedere adornati: onde nella Pompa di Bacco di Tolomeo, da citarsi sovente, vi era la statua che rappresentava la città di Nisa, la quale aveva nella sinistra un tirso circondato di mitre.</p>
         <p>Ma siccome dall’ aste col ferro coperto di ellera ebbero origine i tirsi, così è molto probabile che alcune aste col ferro in cima tondo e grosso fossero, per la similitudine che avevano coi tirsi, chiamate <hi rend="i">aste tirssi</hi>; e forse furono di tal sorte quelle dette da Appiano di capo largo, ch’erano adoprate anche dai cacciatori, e si veggono in mano del centauro celeste fatto in forma di cacciatore.</p>
         <p>A questa necessaria digressione sul tirso aggiungo la descrizione d’una mezza figura di Bacco datane da
