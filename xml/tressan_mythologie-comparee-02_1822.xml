@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>La mythologie comparée avec l’histoire. Tome II (7<hi rend="sup">e</hi> éd.)</title>
-        <author key="Tressan, Maurice-Élisabeth de Lavergne de (1749-1809)">Maurice-Élisabeth de Lavergne, abbé de Tressan</author>
+        <author key="Tressan, Maurice-Élisabeth de Lavergne de (1749-1809)" ref="https://data.bnf.fr/fr/10063013/abbe_de_tressan/">Maurice-Élisabeth de Lavergne, abbé de Tressan</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -24,7 +24,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/tressan_mythologie-comparee-02_1822/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/tressan_mythologie-comparee-02_1822/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -36,15 +36,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Tressan, Maurice-Élisabeth de Lavergne de (1749-1809), <hi rend="i">La Mythologie comparée avec l’histoire ; par M. l’abbé de Tressan. Ouvrage adopté par le Conseil de l’Université Royale pour servir ç l’Enseignement dans les Colléges et dans les Écoles secondaires. Septième édition, revue et augmentée par l’Auteur, qui a ajouté des Recherches sur l’ancienne Religion des Habitans du Nord. Ornée de seize Planches en taille-douce, dans le goût antique, représentant 75 sujets</hi>, tome II, Paris, G. Dufour et E. Docagne ; Amsterdam, G. Dufour et Comp<hi rend="sup">e</hi>, 1822, 303 p. Source : <ref target="https://archive.org/details/lamythologiecomp01tres">Internet</ref><ref target="https://archive.org/details/lamythologiecomp02tres">Archive</ref>. 1<hi rend="sup">re</hi> éd. : 1796.</bibl>
+        <bibl><author>Tressan, Maurice-Élisabeth de Lavergne de (1749-1809)</author>, <title>La Mythologie comparée avec l’histoire</title> ; par M. l’abbé de Tressan. Ouvrage adopté par le Conseil de l’Université Royale pour servir ç l’Enseignement dans les Colléges et dans les Écoles secondaires. <edition>Septième édition, revue et augmentée par l’Auteur</edition>, qui a ajouté des Recherches sur l’ancienne Religion des Habitans du Nord. Ornée de seize Planches en taille-douce, dans le goût antique, représentant 75 sujets, tome II, <pubPlace>Paris</pubPlace>, <publisher>G. Dufour et E. Docagne</publisher> ; <pubPlace>Amsterdam</pubPlace>, <publisher>G. Dufour et Compe</publisher>, <date>1822</date>, <biblScope>303 p.</biblScope> Source : <ref target="https://archive.org/details/lamythologiecomp01tres">Internet</ref><ref target="https://archive.org/details/lamythologiecomp02tres">Archive</ref>. 1<hi rend="sup">re</hi> éd. : 1796.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1822">1822</date>
+        <date when="1822"/>
       </creation>
       <langUsage>
-        <language ident="fre">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

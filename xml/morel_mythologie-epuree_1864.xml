@@ -2,7 +2,6 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2016-11-12T18:17:44+01:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Morel 1864">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/morel_mythologie-epuree/</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/morel_mythologie-epuree_1864/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -36,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><hi rend="i">Mythologie épurée à l’usage des maisons d’éducation pour les deux sexes, augmentée d’un questionnaire, de notes géographiques, et d’une explication de la Mythologie par l’histoire, par Mme Emma Morel, maîtresse de pension</hi>, nouvelle édition, Tours, Alfred Mame et fils, éditeurs, 1864, 178 p. Source : <ref target="https://books.google.fr/books?id=4rcM2coPa6YC">Google livres</ref>.</bibl>
+        <bibl><title>Mythologie épurée à l’usage des maisons d’éducation pour les deux sexes, augmentée d’un questionnaire, de notes géographiques, et d’une explication de la Mythologie par l’histoire</title>, par Mme <author>Emma Morel</author>, maîtresse de pension, <edition>nouvelle édition</edition>, <pubPlace>Tours</pubPlace>, <publisher>Alfred Mame et fils</publisher>, éditeurs, <date>1864</date>, <biblScope>178 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=4rcM2coPa6YC">Google livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1864">1864</date>
+        <date when="1864"/>
       </creation>
       <langUsage>
-        <language ident="fre">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

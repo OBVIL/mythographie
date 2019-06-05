@@ -2,7 +2,6 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-02-15T18:02:47+01:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Robbins (1860)">
   <teiHeader>
     <fileDesc>
@@ -36,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Robbins, Eliza (1786-1853), <hi rend="i">Elements of Mythology, or, Classical Fables of the Greeks and the Romans : To Which Are Added, Some Notices of Syrian, Hindu, and Scandinavian Superstitions, Together with Those of the American Nations : The Whole Comparing Polytheism with True Religion. For the Use of Schools, by the Author “American Popular Lessons”</hi>, twenty-first edition, improved, Philadelphia, Moss, Brother &amp; Co., 1860, 279 p. Source : <ref target="https://books.google.fr/books?id=OE5EAQAAMAAJ">Internet</ref> <ref target="https://archive.org/details/elementsofmythol00robb">Archive</ref>.</bibl>
+        <bibl><author>Robbins, Eliza (1786-1853)</author>, <title>Elements of Mythology, or, Classical Fables of the Greeks and the Romans : To Which Are Added, Some Notices of Syrian, Hindu, and Scandinavian Superstitions, Together with Those of the American Nations : The Whole Comparing Polytheism with True Religion.</title> For the Use of Schools, by the Author “American Popular Lessons”, <edition>twenty-first edition, improved</edition>, <pubPlace>Philadelphia</pubPlace>, <publisher>Moss, Brother &amp; Co.</publisher>, <date>1860</date>, <biblScope>279 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=OE5EAQAAMAAJ">Internet</ref> <ref target="https://archive.org/details/elementsofmythol00robb">Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1860">1860</date>
+        <date when="1860"/>
       </creation>
       <langUsage>
-        <language ident="eng">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -55,9 +54,8 @@
         <quote>
           <p>”Thou shall have no other gods before me.”</p>
           <bibl>
-            <author key="Anonyme"/>
-            <note place="margin">[<author key="Bible" resp="editor">Bible</author>]</note>
-          </bibl>
+            <author key="Anonyme"/></bibl>
+            <note place="margin" resp="editor"><bibl>[<author key="Bible">Bible</author>]</bibl></note>
         </quote>
       </div>
       <div>
@@ -255,8 +253,8 @@
           <l>High heaven, with trembling, the dread signal took,</l>
           <l>And all Olympus to the centre shook.</l>
           <bibl><title>Iliad</title>, Book 1.
-            <author key="Homère"/>
-            <note place="margin">[<author key="Pope" role="translator" resp="editor">Pope" role="translator</author>]</note></bibl>
+            <author key="Homère"/></bibl>
+            <note place="margin" resp="editor"><bibl>[<author key="Pope" role="translator">Pope</author>]</bibl></note>
         </quote>
         <p> Virgil, the Roman poet, represents Jove’s power over nature, with great efiect, thus;</p>
         <quote>
@@ -410,9 +408,8 @@
           <l>Of all the gods that tread the spangled skies,</l>
           <l>Thou most unjust, most hateful in our eyes!</l>
           <bibl>
-            <author key="Anonyme"/>
-            <note place="margin">[Translator : <author key="Pope" resp="editor">Pope</author>]</note>
-          </bibl>
+            <author key="Anonyme"/></bibl>
+            <note place="margin" resp="editor"><bibl>[Translator : <author key="Pope" role="translator">Pope</author>]</bibl></note>
         </quote>
         <p>The Romans were a more warlike people than the Greeks; they held Mars in higher reverence than the former people. The priests of Mars at Rome were called Salii, — hey had the care of Ancilia, or sacred shields. These shields were sacred to Mars, and were held in superstitious reverence by the Romans.</p>
         <p>In the early ages of Rome, a shield was found, of a shape which was not known among the Romans. An oracle was consulted by the person who found the shield, in order to learn its origin. The oracle declared that the shield had fallen from heaven, and that Mars would favour the people who should preserve it, and that they should overcome their enemies and conquer the world; that is, all the civilized world, which then included the countries round the Mediterranean, and which the Romans several centuries after completely subdued.</p>
@@ -440,9 +437,8 @@
           <l>While bathed in sweat, from fire to fire he flew;</l>
           <l>And puffing loud the roaring bellows blew.”</l>
           <bibl>
-            <author key="Anonyme"/>
-            <note place="margin">[Translator : <author key="Pope" resp="editor">Pope</author>]</note>
-          </bibl>
+            <author key="Anonyme"/></bibl>
+            <note place="margin" resp="editor"><bibl>[Translator : <author key="Pope" ref="translator">Pope</author>]</bibl></note>
         </quote>
         <p>In the book of <title>Genesis</title> it is said that Tubalcain, one of the first men, was
           <quote>“an instructer of every artificer in brass and iron.”</quote> This Tubalcain might have been the same man whom the Greeks described either as Prometheus, or as Vulcan, but the fable says, Vulcan was the son of Jupiter and Juno. Vulcan is sometimes called Mulciber, and Lemnius.</p>

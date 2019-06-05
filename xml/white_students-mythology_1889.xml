@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-05-10T16:25:26+02:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="White (1889)">
   <teiHeader>
     <fileDesc>
@@ -35,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>White, Catherine Ann (1825-1878), <hi rend="i">The Student’s Mythology: A Compendium of Greek, Roman, Egyptian, Assyrian, Persian, Hindoo, Chinese, Thibetian, Scandinavian, Celtic, Aztec, and Peruvian Mythologies; in Accordance with Standard Authorities; Arranged for the Use of Schools and Academies by C. A. White</hi>; New Edition, Revised and Corrected, New York, A. C. Armstrong and Son, 1889, 315 p. [1<hi rend="sup">re</hi> edition: 1882]. Source: <ref target="http://www.archive.org/details/studentsmytholog00whit">Internet Archive</ref>.</bibl>
+        <bibl><author>White, Catherine Ann (1825-1878)</author>, <title>The Student’s Mythology: A Compendium of Greek, Roman, Egyptian, Assyrian, Persian, Hindoo, Chinese, Thibetian, Scandinavian, Celtic, Aztec, and Peruvian Mythologies; in Accordance with Standard Authorities; Arranged for the Use of Schools and Academies by C. A. White</title>; <edition>New Edition, Revised and Corrected</edition>, <pubPlace>New York</pubPlace>, <publisher>A. C. Armstrong and Son</publisher>, <date>1889</date>, <biblScope>315 p.</biblScope> [1<hi rend="sup">re</hi> edition: 1882]. Source: <ref target="http://www.archive.org/details/studentsmytholog00whit">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1889">1889</date>
+        <date when="1889"/>
       </creation>
       <langUsage>
-        <language ident="eng">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

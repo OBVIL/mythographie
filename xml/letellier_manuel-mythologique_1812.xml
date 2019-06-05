@@ -2,13 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-03-23T16:07:21+01:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" n="Le Tellier (1812)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Manuel mythologique de la jeunesse</title>
-        <author key="Le Tellier, Constant (1768-1846)">Charles-Constant Letellier</author>
+        <author key="Le Tellier, Constant (1768-1846)" ref="https://data.bnf.fr/fr/13005487/constant_le_tellier/">Charles-Constant Letellier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -24,7 +23,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/letellier_manuel-mythologique_1812/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/letellier_manuel-mythologique_1812/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -36,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Le Tellier, Constant (1768-1846), <title>Manuel mythologique de la jeunesse, ou Instruction sur la mythologie, par demandes et par réponses, suivi d’un exercice sur l’apologue ; par Charles-Constant Letellier, Professeur de Belles-Lettres, Paris, chez Le Prieur, Belin, l’auteur, 1812, 404 p.</title> Source : <ref target="https://books.google.fr/books?id=RdPidrtfXq8C">Google Livres</ref>.</bibl>
+        <bibl><author>Le Tellier, Constant (1768-1846)</author>, <title>Manuel mythologique de la jeunesse, ou Instruction sur la mythologie, par demandes et par réponses, suivi d’un exercice sur l’apologue</title> ; par Charles-Constant Letellier, Professeur de Belles-Lettres, <pubPlace>Paris</pubPlace>, chez <publisher>Le Prieur</publisher>, <publisher>Belin</publisher>, l’auteur, <date>1812</date>, <biblScope>404 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=RdPidrtfXq8C">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1812">1812</date>
+        <date when="1812"/>
       </creation>
       <langUsage>
-        <language ident="fre">fr</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

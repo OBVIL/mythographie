@@ -2,7 +2,6 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-01-11T11:39:35+01:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng" n="Robbins (1833)">
   <teiHeader>
     <fileDesc>
@@ -13,8 +12,12 @@
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
-          <name>Nejla Midassi </name>
-          <resp>OCR, Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <name>Nejla Midassi</name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Diego Pellizzari</name>
@@ -24,7 +27,7 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http ://obvil.paris-sorbonne.fr/corpus/mythographie/robbins_classic-tales_1833/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/mythographie/robbins_classic-tales_1833/</idno>
         <availability status="restricted">
           <licence target="http:// creativecommons.org/licenses/ by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -36,15 +39,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Robbins, Eliza (1786-1853), <hi rend="i">Classic Tales : Designed for the Instruction and Amusement of Young Persons. By the Author of “American Popular Lessons,” “Tales from American History,”, etc. etc. Embellished with Original and Appropriate Engravings</hi>, New York, Peabody &amp; Co. Publishers, 1833, 163 p. Source : <ref target="https://books.google.fr/books?id=CwtaAAAAMAAJ">Google Livres</ref>.</bibl>
+        <bibl><author>Robbins, Eliza (1786-1853)</author>, <title>Classic Tales : Designed for the Instruction and Amusement of Young Persons. By the Author of “American Popular Lessons,” “Tales from American History,”, etc. etc. Embellished with Original and Appropriate Engravings</title>, <pubPlace>New York</pubPlace>, <publisher>Peabody &amp; Co. Publishers</publisher>, <date>1833</date>, <biblScope>163 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=CwtaAAAAMAAJ">Google Livres</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1833">1833</date>
+        <date when="1833"/>
       </creation>
       <langUsage>
-        <language ident="eng">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

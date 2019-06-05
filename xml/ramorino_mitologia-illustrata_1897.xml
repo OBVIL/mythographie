@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-06-07T11:26:32+02:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it" n="Ramorino (1897)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita" n="Ramorino (1897)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -35,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Ramorino, Felice (1852-1929), <hi rend="i">Mitologia classica illustrata, con 91 incisioni</hi>, Milano, Ulrico Hoepli, 1897, X-454 p. Source: <ref target="https://books.google.fr/books?id=ik9CAQAAMAAJ">Google Books</ref>.</bibl>
+        <bibl><author>Ramorino, Felice (1852-1929)</author>, <title>Mitologia classica illustrata, con 91 incisioni</title>, <pubPlace>Milano</pubPlace>, <publisher>Ulrico Hoepli</publisher>, <date>1897</date>, <biblScope>X-454 p.</biblScope> Source: <ref target="https://books.google.fr/books?id=ik9CAQAAMAAJ">Google Books</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1897">1897</date>
+        <date when="1897"/>
       </creation>
       <langUsage>
-        <language ident="it">it</language>
+        <language ident="ita"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

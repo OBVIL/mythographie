@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-06-07T12:13:42+02:00-->
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it" n="Soave (1836)">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita" n="Soave (1836)">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Mitologia o Esposizione delle favole</title>
-        <author key="Soave, Francesco (1743-1806)">Francesco Soave</author>
+        <author key="Soave, Francesco (1743-1806)" ref="https://data.bnf.fr/fr/12456511/francesco_soave/">Francesco Soave</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -35,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Soave, Francesco (1743-1806), <hi rend="i">Mitologia o Esposizione delle favole e Descrizione dei riti religiosi dei Gentili, delle loro feste, e dei loro giuochi; opera postuma di Francesco Soave</hi>, Napoli, Raffaello di Napoli, 1836, 217 p. Source: <ref target="https://archive.org/details/mitologiaoesposi00soav">Internet Archive</ref>.</bibl>
+        <bibl><author>Soave, Francesco (1743-1806)</author>, <title>Mitologia o Esposizione delle favole e Descrizione dei riti religiosi dei Gentili, delle loro feste, e dei loro giuochi; opera postuma di Francesco Soave</title>, <pubPlace>Napoli</pubPlace>, <publisher>Raffaello di Napoli</publisher>, <date>1836</date>, <biblScope>217 p.</biblScope> Source: <ref target="https://archive.org/details/mitologiaoesposi00soav">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1836">1836</date>
+        <date when="1836"/>
       </creation>
       <langUsage>
-        <language ident="it">it</language>
+        <language ident="ita"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

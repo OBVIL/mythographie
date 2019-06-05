@@ -35,15 +35,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Kupfer, Grace Harriet (1873-19..), <hi rend="i">Stories of Long Ago in a New Dress, by Grace H. Kupfer, A.M.</hi>, Boston, New York, Chicago, D. C. Heath &amp; Co., 1897, 177 p. Source : <ref target="https://archive.org/details/storiesoflongago00kupfrich">Internet Archive</ref>.</bibl>
+        <bibl><author>Kupfer, Grace Harriet (1873-19..)</author>, <title>Stories of Long Ago in a New Dress</title>, by Grace H. Kupfer, A.M., <pubPlace>Boston</pubPlace>, <pubPlace>New York</pubPlace>, <pubPlace>Chicago</pubPlace>, <publisher>D. C. Heath &amp; Co.</publisher>, <date>1897</date>, <biblScope>177 p.</biblScope> Source : <ref target="https://archive.org/details/storiesoflongago00kupfrich">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1897">1897</date>
+        <date when="1897"/>
       </creation>
       <langUsage>
-        <language ident="eng">en</language>
+        <language ident="eng"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
