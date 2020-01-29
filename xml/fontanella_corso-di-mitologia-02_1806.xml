@@ -50,9 +50,9 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Francesco Fontanella, <hi rend="i">Corso di mitologia, utilissimo agli amatori
+                <bibl><author>Francesco Fontanella</author>, <title><hi rend="i">Corso di mitologia, utilissimo agli amatori
                         della poesia, pittura, scultura, etc. ridotto da D. Francesco
-                        Fontanella</hi>, tomo II, <pubPlace>Venezia</pubPlace>, <publisher>Appresso
+                        Fontanella</hi></title>, tomo II, <pubPlace>Venezia</pubPlace>, <publisher>Appresso
                         Simone Occhi</publisher>, <date>1806</date>, in-8, 387-[1] p. PDF : <ref
                         target="https://books.google.fr/books?id=2x4681GQJzMC">Google</ref>.</bibl>
             </sourceDesc>

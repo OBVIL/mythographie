@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2019-06-13T17:18:49+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ita">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,27 +26,29 @@
         <idno>http://obvil.sorbonne-universite.fr/corpus/mythographie/pescatori_mitologia-greca-e-romana-01_1874</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
-              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+            <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+              Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle
+              sur les bases de données (L341-1) est mise à disposition de la communauté
+              scientifique internationale par l’OBVIL, selon les termes de la licence Creative
+              Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification
+              3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication
+              dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout
+              l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique,
+              toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
               électronique, notamment en intégrant toutes les contributions extérieures, la
               diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Costantino Pescatori, <hi rend="i">La mitologia greca e romana: Dichiarazione non solo
+        <bibl><author>Costantino Pescatori</author>, <title><hi rend="i">La mitologia greca e romana: Dichiarazione non solo
             de’ greci e de’ latini poeti ma degl’italiani e d’altre nazioni e di molte locuzioni
             viventi tuttavia nel comune linguaggio; esposta dal D.r Costantino Pescatori in uso
-            delle scuole e di ogni colta persona</hi>, <biblScope>volume I</biblScope>,
+            delle scuole e di ogni colta persona</hi></title>, <biblScope>volume I</biblScope>,
             <pubPlace>Firenze</pubPlace>, <publisher>Tipografia della Gazetta d’Italia</publisher>,
             <date>1874</date>, <biblScope>in-12, p. 1-256</biblScope>. PDF : <ref
             target="https://books.google.fr/books?id=tzCwMDtvOVAC">Google</ref>.</bibl>
@@ -57,7 +59,7 @@
         <date when="1874"/>
       </creation>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="ita"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

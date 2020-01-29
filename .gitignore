@@ -5,3 +5,7 @@ kindle/
 toc/
 *.sqlite
 conf.php
+iramuteq/
+html/
+markdown/
+kindle/
