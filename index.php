@@ -35,11 +35,11 @@ echo 'Mythographie, OBVIL';
       <header id="header">
         <h1>
           <?php
-if ( !$path ) echo '<a href="//obvil.paris-sorbonne.fr/projets/autorites-en-partage">Projet : Autorités en partage</a>';
+if ( !$path ) echo '<a href="//132.227.201.10:8086/projets/autorites-en-partage">Projet : Autorités en partage</a>';
 else echo '<a href="'.$basehref.'">Corpus : Mythographie</a>';
           ?>
         </h1>
-        <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
+        <a class="logo" href="http://132.227.201.10:8086/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
       </header>
       <div id="contenu">
         <aside id="aside">
@@ -49,6 +49,7 @@ if ( $doc ) {
   // formats alternatifs à télécharger
   echo '
 <nav id="download"><small>Télécharger :</small>
+  <a target="_blank" href="http://obvil.github.io/mythographie/xml/'.$doc['code'].'.xml" title="Source XML/TEI">tei</a>,
   <a type="application/epub+zip" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>,
   <a type="application/x-mobipocket-ebook" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>,
   <a target="_blank" href="markdown/'.$doc['code'].'.md" title="Markdown">texte brut</a>,
