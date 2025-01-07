@@ -1,10 +1,49 @@
-# mythographie
-OBVIL, autorités en partage, mythographie.
-Mise à jour du site en ligne voir pull.php.
-Le programme délivrera deux séquences de messages.
+# Mythographie, corpus
 
-* les messages de la mise à jour distante : un git pull.
-* la liste des fichiers qui seront transformés, avec si nécessaires les messages d’erreurs, souvent, fichier XML mal formé, ou message très verbeux de transformation kindle (exigeante : pas de lien mort, langue &lt;TEI xml:lang="fr">.
-
-
-Pour une explication de l’installation, voir https://github.com/oeuvres/Teinte
+* [adams_myths-old-greece_1900](xml/adams_myths-old-greece_1900.xml)
+* [anonyme_heathen-mythology_1842](xml/anonyme_heathen-mythology_1842.xml)
+* [baude_mythologie-jeunesse_1845](xml/baude_mythologie-jeunesse_1845.xml)
+* [benucci_ristretto-analitico-01_1874](xml/benucci_ristretto-analitico-01_1874.xml)
+* [bertoux_histoire-poetique_1806](xml/bertoux_histoire-poetique_1806.xml)
+* [bres_mythologie-dames_1823](xml/bres_mythologie-dames_1823.xml)
+* [brunel_cours-mythologie_1800](xml/brunel_cours-mythologie_1800.xml)
+* [brunel_cours-mythologie_1807](xml/brunel_cours-mythologie_1807.xml)
+* [bulfinch_age-of-fable_1855](xml/bulfinch_age-of-fable_1855.xml)
+* [darlington_catechism-mythology_1832](xml/darlington_catechism-mythology_1832.xml)
+* [drioux_precis-elementaire_1850](xml/drioux_precis-elementaire_1850.xml)
+* [durante_compendio-della-mitologia-01_1855](xml/durante_compendio-della-mitologia-01_1855.xml)
+* [edom_mythologie-elementaire_1883](xml/edom_mythologie-elementaire_1883.xml)
+* [edwards_hand-book-mythology_1883](xml/edwards_hand-book-mythology_1883.xml)
+* [ellis_youths_dictionary_1895-1](xml/ellis_youths_dictionary_1895-1.xml)
+* [engrand_lecons-elementaires_1815](xml/engrand_lecons-elementaires_1815.xml)
+* [fontanella_corso-di-mitologia-01_1806](xml/fontanella_corso-di-mitologia-01_1806.xml)
+* [fontanella_corso-di-mitologia-02_1806](xml/fontanella_corso-di-mitologia-02_1806.xml)
+* [gayley_classic-myths_1898](xml/gayley_classic-myths_1898.xml)
+* [genlis_arabesques-mythologiques-01_1810](xml/genlis_arabesques-mythologiques-01_1810.xml)
+* [genlis_arabesques-mythologiques-02_1810](xml/genlis_arabesques-mythologiques-02_1810.xml)
+* [geruzez_petit-cours-mythologie_1869](xml/geruzez_petit-cours-mythologie_1869.xml)
+* [guerber_myths_1909](xml/guerber_myths_1909.xml)
+* [hort_new-pantheon_1836](xml/hort_new-pantheon_1836.xml)
+* [humbert_mythologie_1847](xml/humbert_mythologie_1847.xml)
+* [keightley_mythology-of-ancient-greece-and-italy-ed-02](xml/keightley_mythology-of-ancient-greece-and-italy-ed-02.xml)
+* [kupfer_stories-of-long-ago_1897](xml/kupfer_stories-of-long-ago_1897.xml)
+* [leoni_interpretazione-de-miti_1855](xml/leoni_interpretazione-de-miti_1855.xml)
+* [letellier_manuel-mythologique_1812](xml/letellier_manuel-mythologique_1812.xml)
+* [morel_mythologie-epuree_1864](xml/morel_mythologie-epuree_1864.xml)
+* [niccolini_lezioni_1880](xml/niccolini_lezioni_1880.xml)
+* [noel-chapsal-thouar_corso-di-mitologia-ed-03_1861](xml/noel-chapsal-thouar_corso-di-mitologia-ed-03_1861.xml)
+* [odolant-desnos_mythologie-pittoresque-ed-05_1855](xml/odolant-desnos_mythologie-pittoresque-ed-05_1855.xml)
+* [ordinaire_dictionnaire-mythologie_1866](xml/ordinaire_dictionnaire-mythologie_1866.xml)
+* [pescatori_mitologia-greca-e-romana-01_1874](xml/pescatori_mitologia-greca-e-romana-01_1874.xml)
+* [pescatori_mitologia-greca-e-romana-02_1874](xml/pescatori_mitologia-greca-e-romana-02_1874.xml)
+* [ramorino_mitologia-illustrata_1897](xml/ramorino_mitologia-illustrata_1897.xml)
+* [renneville_nouvelle-mythologie_1847](xml/renneville_nouvelle-mythologie_1847.xml)
+* [robbins_classic-tales_1833](xml/robbins_classic-tales_1833.xml)
+* [robbins_elements-of-mythology_1860](xml/robbins_elements-of-mythology_1860.xml)
+* [salomone_mitologia-iconologica_1841](xml/salomone_mitologia-iconologica_1841.xml)
+* [soave_mitologia_1836-1](xml/soave_mitologia_1836-1.xml)
+* [testi_mitologia-gioventu_1831](xml/testi_mitologia-gioventu_1831.xml)
+* [tomeo_breve-corso_1824](xml/tomeo_breve-corso_1824.xml)
+* [tressan_mythologie-comparee-01_1822](xml/tressan_mythologie-comparee-01_1822.xml)
+* [tressan_mythologie-comparee-02_1822](xml/tressan_mythologie-comparee-02_1822.xml)
+* [white_students-mythology_1889](xml/white_students-mythology_1889.xml)
